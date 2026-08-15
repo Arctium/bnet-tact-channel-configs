@@ -319,7 +319,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "The Outer Worlds 2 — артбук",
+              "display_name": "The Outer Worlds 2\u00A0— артбук",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
               "locale": "%locale%",
@@ -340,7 +340,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "หนังสือรวมงานภาพ The Outer Worlds 2",
+              "display_name": "หนังสือรวมงานภาพ\u00A0The Outer Worlds 2",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
               "locale": "%locale%",

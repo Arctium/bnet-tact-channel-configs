@@ -722,7 +722,7 @@
           {
             "program_associations":
             {
-              "application_description": "L’éditeur StarCraft II est un outil de développement complet qui permet aux utilisateurs de créer des cartes, des parties et des mods grâce au moteur de jeu de StarCraft II. Le contenu créé à l’aide de l’éditeur peut être librement utilisé et distribué aux autres joueurs via l’Arcade intégrée à StarCraft II.",
+              "application_description": "L’éditeur StarCraft\u00A0II est un outil de développement complet qui permet aux utilisateurs de créer des cartes, des parties et des mods grâce au moteur de jeu de StarCraft\u00A0II. Le contenu créé à l’aide de l’éditeur peut être librement utilisé et distribué aux autres joueurs via l’Arcade intégrée à StarCraft\u00A0II.",
               "application_display_name": "StarCraft II Editor",
               "executable_icon_index": 0.0,
               "executable_icon_path": "%editor_binarypath%",

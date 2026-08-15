@@ -239,7 +239,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=wow_anniversary",
-              "link": "%commonstartmenu%Anniversaire de Burning Crusade/Anniversaire de Burning Crusade.lnk",
+              "link": "%commonstartmenu%Anniversaire de Burning\u00A0Crusade/Anniversaire de Burning\u00A0Crusade.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -248,7 +248,7 @@
             "desktop_shortcut":
             {
               "args": "--productcode=wow_anniversary",
-              "link": "%desktoppreference%Anniversaire de Burning Crusade.lnk",
+              "link": "%desktoppreference%Anniversaire de Burning\u00A0Crusade.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -257,7 +257,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "Anniversaire de Burning Crusade",
+              "display_name": "Anniversaire de Burning\u00A0Crusade",
               "helplink": "http://eu.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
