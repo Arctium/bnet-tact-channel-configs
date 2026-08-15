@@ -1,0 +1,1616 @@
+{
+  "eu":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_supports_1023_archives": true,
+        "component_dependencies":
+        [
+          "randgridsageaqa2"
+        ],
+        "data_dir": "Data/",
+        "decryption_key_name": "sagevendor",
+        "enable_block_copy_patch": true,
+        "form":
+        {
+          "game_dir":
+          {
+            "dirname": "Sage Vendor"
+          }
+        },
+        "opaque_complex_data":
+        {
+          "tags_config_uri":
+          {
+            "install_packages":
+            [
+              {
+                "package_id": "sage-base",
+                "required": true,
+                "title_string":
+                {
+                  "arSA": "\u0627\u0644\u0644\u0639\u0628\u0629 \u0627\u0644\u0623\u0633\u0627\u0633\u064A\u0629",
+                  "deDE": "Grundspiel (erforderlich)",
+                  "default": "Base Game (required)",
+                  "esES": "Juego b\u00E1sico (necesario)",
+                  "esMX": "Juego b\u00E1sico (necesario)",
+                  "frFR": "Jeu de base (requis)",
+                  "itIT": "Gioco base (necessario)",
+                  "jaJP": "\u30B2\u30FC\u30E0\u672C\u7DE8\uFF08\u5FC5\u9808\uFF09",
+                  "koKR": "\uAE30\uBCF8 \uAC8C\uC784(\uD544\uC218)",
+                  "plPL": "Podstawowa wersja gry (wymagana)",
+                  "ptBR": "Jogo Base (necess\u00E1rio)",
+                  "ruRU": "\u0411\u0430\u0437\u043E\u0432\u0430\u044F \u0432\u0435\u0440\u0441\u0438\u044F \u0438\u0433\u0440\u044B (\u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F)",
+                  "thTH": "\u0E15\u0E31\u0E27\u0E40\u0E01\u0E21\u0E2B\u0E25\u0E31\u0E01 (\u0E08\u0E33\u0E40\u0E1B\u0E47\u0E19)",
+                  "zhTW": "\u904A\u6232\u4E3B\u9AD4\uFF08\u5FC5\u9808\uFF09"
+                }
+              },
+              {
+                "install_packages":
+                [
+                  {
+                    "default_checked": true,
+                    "package_id": "sage_04_03",
+                    "tags":
+                    [
+                      "dlc04_03"
+                    ],
+                    "title_string": "COD_COOP_CAMPAIGN"
+                  },
+                  {
+                    "default_checked": true,
+                    "package_id": "sage_04_02",
+                    "tags":
+                    [
+                      "dlc04_02"
+                    ],
+                    "title_string": "COD_MULTIPLAYER"
+                  },
+                  {
+                    "default_checked": true,
+                    "package_id": "sage_04_04",
+                    "tags":
+                    [
+                      "dlc04_04"
+                    ],
+                    "title_string": "COD_ZOMBIES"
+                  },
+                  {
+                    "default_checked": true,
+                    "package_id": "sage_04_05",
+                    "tags":
+                    [
+                      "dlc04_05"
+                    ],
+                    "title_string": "COD_FREE_TRIAL"
+                  },
+                  {
+                    "default_checked": true,
+                    "package_id": "sage_04_01",
+                    "tags":
+                    [
+                      "dlc04_01"
+                    ],
+                    "title_string":
+                    {
+                      "default": "dlc04_01"
+                    }
+                  }
+                ],
+                "package_id": "sage-bo7",
+                "title_string":
+                {
+                  "default": "Black Ops 7",
+                  "koKR": "\uBE14\uB799 \uC635\uC2A4 7",
+                  "zhCN": "\u300A\u9ED1\u8272\u884C\u52A87\u300B",
+                  "zhTW": "\u300A\u9ED1\u8272\u884C\u52D5 7\u300B"
+                }
+              },
+              {
+                "install_packages":
+                [
+                  {
+                    "default_checked": true,
+                    "package_id": "sage_03_01",
+                    "tags":
+                    [
+                      "dlc03_01"
+                    ],
+                    "title_string": "COD_CAMPAIGN"
+                  },
+                  {
+                    "default_checked": true,
+                    "package_id": "sage_03_02",
+                    "tags":
+                    [
+                      "dlc03_02"
+                    ],
+                    "title_string": "COD_MULTIPLAYER"
+                  },
+                  {
+                    "default_checked": true,
+                    "package_id": "sage_03_03",
+                    "tags":
+                    [
+                      "dlc03_03"
+                    ],
+                    "title_string":
+                    {
+                      "default": "dlc03_03"
+                    }
+                  },
+                  {
+                    "default_checked": true,
+                    "package_id": "sage_03_04",
+                    "tags":
+                    [
+                      "dlc03_04"
+                    ],
+                    "title_string":
+                    {
+                      "default": "dlc03_04"
+                    }
+                  },
+                  {
+                    "default_checked": true,
+                    "package_id": "sage_03_05",
+                    "tags":
+                    [
+                      "dlc03_05"
+                    ],
+                    "title_string":
+                    {
+                      "default": "dlc03_05"
+                    }
+                  }
+                ],
+                "package_id": "sage-bo6",
+                "title_string":
+                {
+                  "default": "Black Ops 6",
+                  "koKR": "\uBE14\uB799 \uC635\uC2A4 6",
+                  "zhCN": "\u9ED1\u8272\u884C\u52A8 6",
+                  "zhTW": "\u300A\u9ED1\u8272\u884C\u52D5 6\u300B"
+                }
+              },
+              {
+                "default_checked": true,
+                "package_id": "sage_02_03",
+                "tags":
+                [
+                  "dlc02_03"
+                ],
+                "title_string": "COD_WARZONE"
+              }
+            ],
+            "string_table":
+            {
+              "COD_CAMPAIGN":
+              {
+                "arSA": "\u0637\u0648\u0631 \u0627\u0644\u0642\u0635\u0629",
+                "deDE": "Kampagne",
+                "default": "Campaign",
+                "esES": "Campa\u00F1a",
+                "esMX": "Campa\u00F1a",
+                "frFR": "Campagne",
+                "itIT": "Campagna",
+                "jaJP": "\u30AD\u30E3\u30F3\u30DA\u30FC\u30F3",
+                "koKR": "\uCEA0\uD398\uC778",
+                "plPL": "Kampania",
+                "ptBR": "Campanha",
+                "ruRU": "\u041A\u0430\u043C\u043F\u0430\u043D\u0438\u044F",
+                "thTH": "\u0E41\u0E04\u0E21\u0E40\u0E1B\u0E0D",
+                "zhCN": "\u5267\u60C5\u6218\u5F79",
+                "zhTW": "\u5287\u60C5\u6230\u5F79"
+              },
+              "COD_COOP_CAMPAIGN":
+              {
+                "arSA": "\u0627\u0644\u062A\u062C\u0631\u0628\u0629 \u0627\u0644\u0645\u062C\u0627\u0646\u064A\u0629",
+                "deDE": "Koop-Kampagne: (Endspiel)",
+                "default": "Co-Op Campaign (Endgame)",
+                "esES": "Campa\u00F1a cooperativa (Objetivo final)",
+                "esMX": "Campa\u00F1a cooperativa (Endgame)",
+                "frFR": "Campagne en coop (Phase finale)",
+                "itIT": "Campagna cooperativa (Endgame)",
+                "jaJP": "CO-OP\u30AD\u30E3\u30F3\u30DA\u30FC\u30F3\uFF08\u30A8\u30F3\u30C9\u30B2\u30FC\u30E0\uFF09",
+                "koKR": "\uCF54\uC635 \uCEA0\uD398\uC778(\uC885\uBC18\uC804)",
+                "plPL": "Kampania kooperacyjna (Etap ko\u0144cowy)",
+                "ptBR": "Campanha Cooperativa (Fim da Jornada)",
+                "ruRU": "\u0421\u043E\u0432\u043C\u0435\u0441\u0442\u043D\u0430\u044F \u043A\u0430\u043C\u043F\u0430\u043D\u0438\u044F (\u0444\u0438\u043D\u0430\u043B)",
+                "thTH": "\u0E41\u0E04\u0E21\u0E40\u0E1B\u0E0D Co-Op (Endgame)",
+                "zhCN": "\u5267\u60C5\u6218\u5F79\u5408\u4F5C\uFF08\u4E27\u5C38\u6A21\u5F0F\uFF09",
+                "zhTW": "\u5408\u4F5C\u5287\u60C5\u6230\u5F79\uFF08\u7D42\u6975\u4E4B\u6230\uFF09"
+              },
+              "COD_FREE_TRIAL":
+              {
+                "arSA": "\u0627\u0644\u062A\u062C\u0631\u0628\u0629 \u0627\u0644\u0645\u062C\u0627\u0646\u064A\u0629",
+                "deDE": "Testversion ",
+                "default": "Free Trial",
+                "esES": "Prueba gratuita",
+                "esMX": "Prueba gratuita",
+                "frFR": "Essai gratuit ",
+                "itIT": "Prova gratuita",
+                "jaJP": "\u7121\u6599\u30C8\u30E9\u30A4\u30A2\u30EB",
+                "koKR": "\uBB34\uB8CC \uD2B8\uB77C\uC774\uC5BC",
+                "plPL": "Darmowa wersja pr\u00F3bna",
+                "ptBR": "Teste Gr\u00E1tis",
+                "ruRU": "\u0411\u0435\u0441\u043F\u043B\u0430\u0442\u043D\u0430\u044F \u0432\u0435\u0440\u0441\u0438\u044F",
+                "thTH": "\u0E17\u0E14\u0E25\u0E2D\u0E07\u0E40\u0E25\u0E48\u0E19\u0E1F\u0E23\u0E35",
+                "zhCN": "\u514D\u8CBB\u8A66\u73A9",
+                "zhTW": "\u514D\u8D39\u8BD5\u73A9"
+              },
+              "COD_MULTIPLAYER":
+              {
+                "arSA": "\u0637\u0648\u0631 \u0627\u0644\u0644\u0639\u0628 \u0627\u0644\u062C\u0645\u0627\u0639\u064A",
+                "deDE": "Mehrspieler",
+                "default": "Multiplayer",
+                "esES": "Multijugador",
+                "esMX": "Multijugador",
+                "frFR": "Multijoueur",
+                "itIT": "Multigiocatore",
+                "jaJP": "\u30DE\u30EB\u30C1\u30D7\u30EC\u30A4\u30E4\u30FC",
+                "koKR": "\uBA40\uD2F0\uD50C\uB808\uC774",
+                "plPL": "Tryb wieloosobowy",
+                "ptBR": "Multijogador",
+                "ruRU": "\u0421\u0435\u0442\u0435\u0432\u0430\u044F \u0438\u0433\u0440\u0430",
+                "thTH": "\u0E1C\u0E39\u0E49\u0E40\u0E25\u0E48\u0E19\u0E2B\u0E25\u0E32\u0E22\u0E04\u0E19",
+                "zhCN": "\u591A\u4EBA\u6E38\u620F",
+                "zhTW": "\u591A\u4EBA\u5C0D\u6230"
+              },
+              "COD_WARZONE":
+              {
+                "deDE": "Warzone",
+                "default": "Warzone",
+                "esES": "Warzone",
+                "esMX": "Warzone",
+                "frFR": "Warzone",
+                "itIT": "Warzone",
+                "jaJP": "\u30A6\u30A9\u30FC\u30BE\u30FC\u30F3",
+                "koKR": "\uC6CC\uC874",
+                "plPL": "Warzone",
+                "ptBR": "Warzone",
+                "ruRU": "Warzone",
+                "zhCN": "\u6218\u4E89\u5730\u5E26",
+                "zhTW": "\u300A\u73FE\u4EE3\u6230\u57DF\u300B"
+              },
+              "COD_ZOMBIES":
+              {
+                "default": "Zombies",
+                "esES": "Zombis",
+                "esMX": "Zombis",
+                "itIT": "Zombi",
+                "jaJP": "\u30BE\u30F3\u30D3",
+                "koKR": "\uC880\uBE44",
+                "plPL": "Zombie",
+                "ruRU": "\u0411\u043E\u0438 \u0441 \u0437\u043E\u043C\u0431\u0438",
+                "zhTW": "\u6BAD\u5C4D"
+              }
+            }
+          }
+        },
+        "product": "sagev17",
+        "shared_container_default_subfolder": "_vendor17_",
+        "supported_locales":
+        [
+          "deDE",
+          "enUS",
+          "esMX",
+          "esES",
+          "frFR",
+          "itIT",
+          "jaJP",
+          "plPL",
+          "ptBR",
+          "ruRU",
+          "thTH",
+          "koKR",
+          "zhTW",
+          "zhCN",
+          "arSA"
+        ],
+        "supports_multibox": false,
+        "supports_offline": false,
+        "switcher": false,
+        "title_info":
+        {
+          "title_id": "sage"
+        },
+        "update_method": "ngdp"
+      }
+    },
+    "enus":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Sage Vendor 17",
+              "helplink": "http://us.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Sage Vendor 17",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "platform":
+    {
+      "win":
+      {
+        "config":
+        {
+          "binaries":
+          {
+            "game":
+            {
+              "launch_arguments":
+              [
+                "cod.exe"
+              ],
+              "regex": "cod.exe|bootstrapper.exe",
+              "relative_path": "bootstrapper.exe",
+              "switcher": false
+            }
+          },
+          "binary_launch_path": "bootstrapper.exe",
+          "binary_version_path": "cod.exe",
+          "form":
+          {
+            "game_dir":
+            {
+              "default": "Program Files",
+              "required_space": 6000000000
+            }
+          },
+          "min_spec":
+          {
+            "allow_arm_emulation": false,
+            "default_requires_64_bit": true,
+            "required_osspecs":
+            {
+              "10.0":
+              {
+                "required_subversion": 0
+              }
+            }
+          },
+          "shared_container_delete_list": [],
+          "shared_container_move_list": [],
+          "tags": [],
+          "uninstall":
+          [
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_BOTH",
+                "key_type": "HKEY_LOCAL_MACHINE",
+                "root": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
+                "subkeys":
+                [
+                  "Sage Vendor 17"
+                ]
+              }
+            },
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_BOTH",
+                "key_type": "HKEY_CURRENT_USER",
+                "root": "SOFTWARE\\Blizzard Entertainment",
+                "subkeys":
+                [
+                  "Sage Vendor 17"
+                ]
+              }
+            },
+            {
+              "delete_folder":
+              {
+                "relative_paths":
+                [
+                  "Data"
+                ],
+                "root": "%titlepath%"
+              }
+            },
+            {
+              "delete_folder":
+              {
+                "relative_paths":
+                [
+                  "ABRT",
+                  "BlizzardBrowser",
+                  "cod24",
+                  "cod25",
+                  "D3D12",
+                  "DevLauncher_Data",
+                  "GPUCache",
+                  "main",
+                  "mp",
+                  "shadercache",
+                  "sp22",
+                  "sp24",
+                  "telescopeCache",
+                  "telescopeStorage",
+                  "xpak_cache"
+                ],
+                "root": "%game%"
+              }
+            },
+            {
+              "delete_file":
+              {
+                "relative_paths":
+                [
+                  "*.dll",
+                  "*.xpak",
+                  "*.xsub",
+                  "1-game_replay_test.exe",
+                  "1-game_test.exe",
+                  "3-game_demo.exe",
+                  "3-game_replay_demo.exe",
+                  "4-game_profile.exe",
+                  "amd_ags_x64.dll",
+                  "api-ms-win-core-file-l1-2-0.dll",
+                  "API-MS-Win-core-file-l2-1-0.dll",
+                  "api-ms-win-core-localization-l1-2-0.dll",
+                  "api-ms-win-core-processthreads-l1-1-1.dll",
+                  "api-ms-win-core-synch-l1-2-0.dll",
+                  "api-ms-win-core-timezone-l1-1-0.dll",
+                  "api-ms-win-core-winrt-l1-1-0.dll",
+                  "api-ms-win-core-winrt-string-l1-1-0.dll",
+                  "api-ms-win-crt-convert-l1-1-0.dll",
+                  "api-ms-win-crt-environment-l1-1-0.dll",
+                  "api-ms-win-crt-filesystem-l1-1-0.dll",
+                  "api-ms-win-crt-heap-l1-1-0.dll",
+                  "api-ms-win-crt-locale-l1-1-0.dll",
+                  "api-ms-win-crt-math-l1-1-0.dll",
+                  "api-ms-win-crt-private-l1-1-0.dll",
+                  "api-ms-win-crt-runtime-l1-1-0.dll",
+                  "api-ms-win-crt-stdio-l1-1-0.dll",
+                  "api-ms-win-crt-string-l1-1-0.dll",
+                  "api-ms-win-crt-time-l1-1-0.dll",
+                  "api-ms-win-crt-utility-l1-1-0.dll",
+                  "bink2w64.dll",
+                  "bootstrap.data.bin",
+                  "bootstrap_profile_secured.data.bin",
+                  "bootstrapper.exe",
+                  "bootstrapper.log",
+                  "bootstrapper_original.exe",
+                  "bootstrapperCrashHandler.exe",
+                  "Browser-20*.log",
+                  "CEF-20*.log",
+                  "CgSDK.x64_2019.dll",
+                  "cod.exe",
+                  "cod25.txt",
+                  "cod_bnet.exe",
+                  "codCrashHandler.exe",
+                  "concrt140.dll",
+                  "CrashLogsGenerator.exe",
+                  "D3D12/D3D12Core.dll",
+                  "dbghelp.dll",
+                  "discord_game_sdk.dll",
+                  "dlc_manifest.csv",
+                  "dxcompiler.dll",
+                  "dxil.dll",
+                  "enrollaik.exe",
+                  "game.icn",
+                  "game_ship_unsecured.exe",
+                  "GfeSDK.dll",
+                  "GFSDK_Aftermath_Lib.x64.dll",
+                  "IEShims.dll",
+                  "igxess.dll",
+                  "launcher.exe",
+                  "libxess.dll",
+                  "msvcp140.dll",
+                  "nvngx_dlss.dll",
+                  "oo2core_7_win64.dll",
+                  "oo2core_8_win64.dll",
+                  "ortp_x64.dll",
+                  "pc_generate_dump_at_runtime.bat",
+                  "ReportCodBug.exe",
+                  "tbb.dll",
+                  "techsets_manifest.cs",
+                  "techsets_manifest.csv",
+                  "telescope.dll",
+                  "ucrtbase.dll",
+                  "usd_ms.dll",
+                  "vcruntime140.dll",
+                  "vcruntime140_1.dll",
+                  "XeFX.dll",
+                  "XeFX_Loader.dll"
+                ],
+                "root": "%game%"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "kr":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_supports_1023_archives": true,
+        "component_dependencies":
+        [
+          "randgridsageaqa"
+        ],
+        "data_dir": "Data/",
+        "decryption_key_name": "sagevendor",
+        "enable_block_copy_patch": true,
+        "form":
+        {
+          "game_dir":
+          {
+            "dirname": "Sage Vendor"
+          }
+        },
+        "opaque_complex_data":
+        {
+          "tags_config_uri":
+          {
+            "install_packages":
+            [
+              {
+                "package_id": "sage-base",
+                "required": true,
+                "title_string":
+                {
+                  "arSA": "\u0627\u0644\u0644\u0639\u0628\u0629 \u0627\u0644\u0623\u0633\u0627\u0633\u064A\u0629",
+                  "deDE": "Grundspiel (erforderlich)",
+                  "default": "Base Game (required)",
+                  "esES": "Juego b\u00E1sico (necesario)",
+                  "esMX": "Juego b\u00E1sico (necesario)",
+                  "frFR": "Jeu de base (requis)",
+                  "itIT": "Gioco base (necessario)",
+                  "jaJP": "\u30B2\u30FC\u30E0\u672C\u7DE8\uFF08\u5FC5\u9808\uFF09",
+                  "koKR": "\uAE30\uBCF8 \uAC8C\uC784(\uD544\uC218)",
+                  "plPL": "Podstawowa wersja gry (wymagana)",
+                  "ptBR": "Jogo Base (necess\u00E1rio)",
+                  "ruRU": "\u0411\u0430\u0437\u043E\u0432\u0430\u044F \u0432\u0435\u0440\u0441\u0438\u044F \u0438\u0433\u0440\u044B (\u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F)",
+                  "thTH": "\u0E15\u0E31\u0E27\u0E40\u0E01\u0E21\u0E2B\u0E25\u0E31\u0E01 (\u0E08\u0E33\u0E40\u0E1B\u0E47\u0E19)",
+                  "zhTW": "\u904A\u6232\u4E3B\u9AD4\uFF08\u5FC5\u9808\uFF09"
+                }
+              },
+              {
+                "install_packages":
+                [
+                  {
+                    "default_checked": true,
+                    "package_id": "sage_04_03",
+                    "tags":
+                    [
+                      "dlc04_03"
+                    ],
+                    "title_string": "COD_COOP_CAMPAIGN"
+                  },
+                  {
+                    "default_checked": true,
+                    "package_id": "sage_04_02",
+                    "tags":
+                    [
+                      "dlc04_02"
+                    ],
+                    "title_string": "COD_MULTIPLAYER"
+                  },
+                  {
+                    "default_checked": true,
+                    "package_id": "sage_04_04",
+                    "tags":
+                    [
+                      "dlc04_04"
+                    ],
+                    "title_string": "COD_ZOMBIES"
+                  },
+                  {
+                    "default_checked": true,
+                    "package_id": "sage_04_05",
+                    "tags":
+                    [
+                      "dlc04_05"
+                    ],
+                    "title_string": "COD_FREE_TRIAL"
+                  },
+                  {
+                    "default_checked": true,
+                    "package_id": "sage_04_01",
+                    "tags":
+                    [
+                      "dlc04_01"
+                    ],
+                    "title_string":
+                    {
+                      "default": "dlc04_01"
+                    }
+                  }
+                ],
+                "package_id": "sage-bo7",
+                "title_string":
+                {
+                  "default": "Black Ops 7",
+                  "koKR": "\uBE14\uB799 \uC635\uC2A4 7",
+                  "zhCN": "\u300A\u9ED1\u8272\u884C\u52A87\u300B",
+                  "zhTW": "\u300A\u9ED1\u8272\u884C\u52D5 7\u300B"
+                }
+              },
+              {
+                "install_packages":
+                [
+                  {
+                    "default_checked": true,
+                    "package_id": "sage_03_01",
+                    "tags":
+                    [
+                      "dlc03_01"
+                    ],
+                    "title_string": "COD_CAMPAIGN"
+                  },
+                  {
+                    "default_checked": true,
+                    "package_id": "sage_03_02",
+                    "tags":
+                    [
+                      "dlc03_02"
+                    ],
+                    "title_string": "COD_MULTIPLAYER"
+                  },
+                  {
+                    "default_checked": true,
+                    "package_id": "sage_03_03",
+                    "tags":
+                    [
+                      "dlc03_03"
+                    ],
+                    "title_string":
+                    {
+                      "default": "dlc03_03"
+                    }
+                  },
+                  {
+                    "default_checked": true,
+                    "package_id": "sage_03_04",
+                    "tags":
+                    [
+                      "dlc03_04"
+                    ],
+                    "title_string":
+                    {
+                      "default": "dlc03_04"
+                    }
+                  },
+                  {
+                    "default_checked": true,
+                    "package_id": "sage_03_05",
+                    "tags":
+                    [
+                      "dlc03_05"
+                    ],
+                    "title_string":
+                    {
+                      "default": "dlc03_05"
+                    }
+                  }
+                ],
+                "package_id": "sage-bo6",
+                "title_string":
+                {
+                  "default": "Black Ops 6",
+                  "koKR": "\uBE14\uB799 \uC635\uC2A4 6",
+                  "zhCN": "\u9ED1\u8272\u884C\u52A8 6",
+                  "zhTW": "\u300A\u9ED1\u8272\u884C\u52D5 6\u300B"
+                }
+              },
+              {
+                "default_checked": true,
+                "package_id": "sage_02_03",
+                "tags":
+                [
+                  "dlc02_03"
+                ],
+                "title_string": "COD_WARZONE"
+              }
+            ],
+            "string_table":
+            {
+              "COD_CAMPAIGN":
+              {
+                "arSA": "\u0637\u0648\u0631 \u0627\u0644\u0642\u0635\u0629",
+                "deDE": "Kampagne",
+                "default": "Campaign",
+                "esES": "Campa\u00F1a",
+                "esMX": "Campa\u00F1a",
+                "frFR": "Campagne",
+                "itIT": "Campagna",
+                "jaJP": "\u30AD\u30E3\u30F3\u30DA\u30FC\u30F3",
+                "koKR": "\uCEA0\uD398\uC778",
+                "plPL": "Kampania",
+                "ptBR": "Campanha",
+                "ruRU": "\u041A\u0430\u043C\u043F\u0430\u043D\u0438\u044F",
+                "thTH": "\u0E41\u0E04\u0E21\u0E40\u0E1B\u0E0D",
+                "zhCN": "\u5267\u60C5\u6218\u5F79",
+                "zhTW": "\u5287\u60C5\u6230\u5F79"
+              },
+              "COD_COOP_CAMPAIGN":
+              {
+                "arSA": "\u0627\u0644\u062A\u062C\u0631\u0628\u0629 \u0627\u0644\u0645\u062C\u0627\u0646\u064A\u0629",
+                "deDE": "Koop-Kampagne: (Endspiel)",
+                "default": "Co-Op Campaign (Endgame)",
+                "esES": "Campa\u00F1a cooperativa (Objetivo final)",
+                "esMX": "Campa\u00F1a cooperativa (Endgame)",
+                "frFR": "Campagne en coop (Phase finale)",
+                "itIT": "Campagna cooperativa (Endgame)",
+                "jaJP": "CO-OP\u30AD\u30E3\u30F3\u30DA\u30FC\u30F3\uFF08\u30A8\u30F3\u30C9\u30B2\u30FC\u30E0\uFF09",
+                "koKR": "\uCF54\uC635 \uCEA0\uD398\uC778(\uC885\uBC18\uC804)",
+                "plPL": "Kampania kooperacyjna (Etap ko\u0144cowy)",
+                "ptBR": "Campanha Cooperativa (Fim da Jornada)",
+                "ruRU": "\u0421\u043E\u0432\u043C\u0435\u0441\u0442\u043D\u0430\u044F \u043A\u0430\u043C\u043F\u0430\u043D\u0438\u044F (\u0444\u0438\u043D\u0430\u043B)",
+                "thTH": "\u0E41\u0E04\u0E21\u0E40\u0E1B\u0E0D Co-Op (Endgame)",
+                "zhCN": "\u5267\u60C5\u6218\u5F79\u5408\u4F5C\uFF08\u4E27\u5C38\u6A21\u5F0F\uFF09",
+                "zhTW": "\u5408\u4F5C\u5287\u60C5\u6230\u5F79\uFF08\u7D42\u6975\u4E4B\u6230\uFF09"
+              },
+              "COD_FREE_TRIAL":
+              {
+                "arSA": "\u0627\u0644\u062A\u062C\u0631\u0628\u0629 \u0627\u0644\u0645\u062C\u0627\u0646\u064A\u0629",
+                "deDE": "Testversion ",
+                "default": "Free Trial",
+                "esES": "Prueba gratuita",
+                "esMX": "Prueba gratuita",
+                "frFR": "Essai gratuit ",
+                "itIT": "Prova gratuita",
+                "jaJP": "\u7121\u6599\u30C8\u30E9\u30A4\u30A2\u30EB",
+                "koKR": "\uBB34\uB8CC \uD2B8\uB77C\uC774\uC5BC",
+                "plPL": "Darmowa wersja pr\u00F3bna",
+                "ptBR": "Teste Gr\u00E1tis",
+                "ruRU": "\u0411\u0435\u0441\u043F\u043B\u0430\u0442\u043D\u0430\u044F \u0432\u0435\u0440\u0441\u0438\u044F",
+                "thTH": "\u0E17\u0E14\u0E25\u0E2D\u0E07\u0E40\u0E25\u0E48\u0E19\u0E1F\u0E23\u0E35",
+                "zhCN": "\u514D\u8CBB\u8A66\u73A9",
+                "zhTW": "\u514D\u8D39\u8BD5\u73A9"
+              },
+              "COD_MULTIPLAYER":
+              {
+                "arSA": "\u0637\u0648\u0631 \u0627\u0644\u0644\u0639\u0628 \u0627\u0644\u062C\u0645\u0627\u0639\u064A",
+                "deDE": "Mehrspieler",
+                "default": "Multiplayer",
+                "esES": "Multijugador",
+                "esMX": "Multijugador",
+                "frFR": "Multijoueur",
+                "itIT": "Multigiocatore",
+                "jaJP": "\u30DE\u30EB\u30C1\u30D7\u30EC\u30A4\u30E4\u30FC",
+                "koKR": "\uBA40\uD2F0\uD50C\uB808\uC774",
+                "plPL": "Tryb wieloosobowy",
+                "ptBR": "Multijogador",
+                "ruRU": "\u0421\u0435\u0442\u0435\u0432\u0430\u044F \u0438\u0433\u0440\u0430",
+                "thTH": "\u0E1C\u0E39\u0E49\u0E40\u0E25\u0E48\u0E19\u0E2B\u0E25\u0E32\u0E22\u0E04\u0E19",
+                "zhCN": "\u591A\u4EBA\u6E38\u620F",
+                "zhTW": "\u591A\u4EBA\u5C0D\u6230"
+              },
+              "COD_WARZONE":
+              {
+                "deDE": "Warzone",
+                "default": "Warzone",
+                "esES": "Warzone",
+                "esMX": "Warzone",
+                "frFR": "Warzone",
+                "itIT": "Warzone",
+                "jaJP": "\u30A6\u30A9\u30FC\u30BE\u30FC\u30F3",
+                "koKR": "\uC6CC\uC874",
+                "plPL": "Warzone",
+                "ptBR": "Warzone",
+                "ruRU": "Warzone",
+                "zhCN": "\u6218\u4E89\u5730\u5E26",
+                "zhTW": "\u300A\u73FE\u4EE3\u6230\u57DF\u300B"
+              },
+              "COD_ZOMBIES":
+              {
+                "default": "Zombies",
+                "esES": "Zombis",
+                "esMX": "Zombis",
+                "itIT": "Zombi",
+                "jaJP": "\u30BE\u30F3\u30D3",
+                "koKR": "\uC880\uBE44",
+                "plPL": "Zombie",
+                "ruRU": "\u0411\u043E\u0438 \u0441 \u0437\u043E\u043C\u0431\u0438",
+                "zhTW": "\u6BAD\u5C4D"
+              }
+            }
+          }
+        },
+        "product": "sagev17",
+        "shared_container_default_subfolder": "_vendor17_",
+        "supported_locales":
+        [
+          "deDE",
+          "enUS",
+          "esMX",
+          "esES",
+          "frFR",
+          "itIT",
+          "jaJP",
+          "plPL",
+          "ptBR",
+          "ruRU",
+          "thTH",
+          "koKR",
+          "zhTW",
+          "zhCN",
+          "arSA"
+        ],
+        "supports_multibox": false,
+        "supports_offline": false,
+        "switcher": false,
+        "title_info":
+        {
+          "title_id": "sage"
+        },
+        "update_method": "ngdp"
+      }
+    },
+    "enus":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Sage Vendor 17",
+              "helplink": "http://us.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Sage Vendor 17",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "platform":
+    {
+      "win":
+      {
+        "config":
+        {
+          "binaries":
+          {
+            "game":
+            {
+              "launch_arguments":
+              [
+                "cod.exe"
+              ],
+              "regex": "cod.exe|bootstrapper.exe",
+              "relative_path": "bootstrapper.exe",
+              "switcher": false
+            }
+          },
+          "binary_launch_path": "bootstrapper.exe",
+          "binary_version_path": "cod.exe",
+          "form":
+          {
+            "game_dir":
+            {
+              "default": "Program Files",
+              "required_space": 6000000000
+            }
+          },
+          "min_spec":
+          {
+            "allow_arm_emulation": false,
+            "default_requires_64_bit": true,
+            "required_osspecs":
+            {
+              "10.0":
+              {
+                "required_subversion": 0
+              }
+            }
+          },
+          "shared_container_delete_list": [],
+          "shared_container_move_list": [],
+          "tags": [],
+          "uninstall":
+          [
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_BOTH",
+                "key_type": "HKEY_LOCAL_MACHINE",
+                "root": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
+                "subkeys":
+                [
+                  "Sage Vendor 17"
+                ]
+              }
+            },
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_BOTH",
+                "key_type": "HKEY_CURRENT_USER",
+                "root": "SOFTWARE\\Blizzard Entertainment",
+                "subkeys":
+                [
+                  "Sage Vendor 17"
+                ]
+              }
+            },
+            {
+              "delete_folder":
+              {
+                "relative_paths":
+                [
+                  "Data"
+                ],
+                "root": "%titlepath%"
+              }
+            },
+            {
+              "delete_folder":
+              {
+                "relative_paths":
+                [
+                  "ABRT",
+                  "BlizzardBrowser",
+                  "cod24",
+                  "cod25",
+                  "D3D12",
+                  "DevLauncher_Data",
+                  "GPUCache",
+                  "main",
+                  "mp",
+                  "shadercache",
+                  "sp22",
+                  "sp24",
+                  "telescopeCache",
+                  "telescopeStorage",
+                  "xpak_cache"
+                ],
+                "root": "%game%"
+              }
+            },
+            {
+              "delete_file":
+              {
+                "relative_paths":
+                [
+                  "*.dll",
+                  "*.xpak",
+                  "*.xsub",
+                  "1-game_replay_test.exe",
+                  "1-game_test.exe",
+                  "3-game_demo.exe",
+                  "3-game_replay_demo.exe",
+                  "4-game_profile.exe",
+                  "amd_ags_x64.dll",
+                  "api-ms-win-core-file-l1-2-0.dll",
+                  "API-MS-Win-core-file-l2-1-0.dll",
+                  "api-ms-win-core-localization-l1-2-0.dll",
+                  "api-ms-win-core-processthreads-l1-1-1.dll",
+                  "api-ms-win-core-synch-l1-2-0.dll",
+                  "api-ms-win-core-timezone-l1-1-0.dll",
+                  "api-ms-win-core-winrt-l1-1-0.dll",
+                  "api-ms-win-core-winrt-string-l1-1-0.dll",
+                  "api-ms-win-crt-convert-l1-1-0.dll",
+                  "api-ms-win-crt-environment-l1-1-0.dll",
+                  "api-ms-win-crt-filesystem-l1-1-0.dll",
+                  "api-ms-win-crt-heap-l1-1-0.dll",
+                  "api-ms-win-crt-locale-l1-1-0.dll",
+                  "api-ms-win-crt-math-l1-1-0.dll",
+                  "api-ms-win-crt-private-l1-1-0.dll",
+                  "api-ms-win-crt-runtime-l1-1-0.dll",
+                  "api-ms-win-crt-stdio-l1-1-0.dll",
+                  "api-ms-win-crt-string-l1-1-0.dll",
+                  "api-ms-win-crt-time-l1-1-0.dll",
+                  "api-ms-win-crt-utility-l1-1-0.dll",
+                  "bink2w64.dll",
+                  "bootstrap.data.bin",
+                  "bootstrap_profile_secured.data.bin",
+                  "bootstrapper.exe",
+                  "bootstrapper.log",
+                  "bootstrapper_original.exe",
+                  "bootstrapperCrashHandler.exe",
+                  "Browser-20*.log",
+                  "CEF-20*.log",
+                  "CgSDK.x64_2019.dll",
+                  "cod.exe",
+                  "cod25.txt",
+                  "cod_bnet.exe",
+                  "codCrashHandler.exe",
+                  "concrt140.dll",
+                  "CrashLogsGenerator.exe",
+                  "D3D12/D3D12Core.dll",
+                  "dbghelp.dll",
+                  "discord_game_sdk.dll",
+                  "dlc_manifest.csv",
+                  "dxcompiler.dll",
+                  "dxil.dll",
+                  "enrollaik.exe",
+                  "game.icn",
+                  "game_ship_unsecured.exe",
+                  "GfeSDK.dll",
+                  "GFSDK_Aftermath_Lib.x64.dll",
+                  "IEShims.dll",
+                  "igxess.dll",
+                  "launcher.exe",
+                  "libxess.dll",
+                  "msvcp140.dll",
+                  "nvngx_dlss.dll",
+                  "oo2core_7_win64.dll",
+                  "oo2core_8_win64.dll",
+                  "ortp_x64.dll",
+                  "pc_generate_dump_at_runtime.bat",
+                  "ReportCodBug.exe",
+                  "tbb.dll",
+                  "techsets_manifest.cs",
+                  "techsets_manifest.csv",
+                  "telescope.dll",
+                  "ucrtbase.dll",
+                  "usd_ms.dll",
+                  "vcruntime140.dll",
+                  "vcruntime140_1.dll",
+                  "XeFX.dll",
+                  "XeFX_Loader.dll"
+                ],
+                "root": "%game%"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "us":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_supports_1023_archives": true,
+        "component_dependencies":
+        [
+          "randgridsageaqa2"
+        ],
+        "data_dir": "Data/",
+        "decryption_key_name": "sagevendor",
+        "enable_block_copy_patch": true,
+        "form":
+        {
+          "game_dir":
+          {
+            "dirname": "Sage Vendor"
+          }
+        },
+        "opaque_complex_data":
+        {
+          "tags_config_uri":
+          {
+            "install_packages":
+            [
+              {
+                "package_id": "sage-base",
+                "required": true,
+                "title_string":
+                {
+                  "arSA": "\u0627\u0644\u0644\u0639\u0628\u0629 \u0627\u0644\u0623\u0633\u0627\u0633\u064A\u0629",
+                  "deDE": "Grundspiel (erforderlich)",
+                  "default": "Base Game (required)",
+                  "esES": "Juego b\u00E1sico (necesario)",
+                  "esMX": "Juego b\u00E1sico (necesario)",
+                  "frFR": "Jeu de base (requis)",
+                  "itIT": "Gioco base (necessario)",
+                  "jaJP": "\u30B2\u30FC\u30E0\u672C\u7DE8\uFF08\u5FC5\u9808\uFF09",
+                  "koKR": "\uAE30\uBCF8 \uAC8C\uC784(\uD544\uC218)",
+                  "plPL": "Podstawowa wersja gry (wymagana)",
+                  "ptBR": "Jogo Base (necess\u00E1rio)",
+                  "ruRU": "\u0411\u0430\u0437\u043E\u0432\u0430\u044F \u0432\u0435\u0440\u0441\u0438\u044F \u0438\u0433\u0440\u044B (\u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F)",
+                  "thTH": "\u0E15\u0E31\u0E27\u0E40\u0E01\u0E21\u0E2B\u0E25\u0E31\u0E01 (\u0E08\u0E33\u0E40\u0E1B\u0E47\u0E19)",
+                  "zhTW": "\u904A\u6232\u4E3B\u9AD4\uFF08\u5FC5\u9808\uFF09"
+                }
+              },
+              {
+                "install_packages":
+                [
+                  {
+                    "default_checked": true,
+                    "package_id": "sage_04_03",
+                    "tags":
+                    [
+                      "dlc04_03"
+                    ],
+                    "title_string": "COD_COOP_CAMPAIGN"
+                  },
+                  {
+                    "default_checked": true,
+                    "package_id": "sage_04_02",
+                    "tags":
+                    [
+                      "dlc04_02"
+                    ],
+                    "title_string": "COD_MULTIPLAYER"
+                  },
+                  {
+                    "default_checked": true,
+                    "package_id": "sage_04_04",
+                    "tags":
+                    [
+                      "dlc04_04"
+                    ],
+                    "title_string": "COD_ZOMBIES"
+                  },
+                  {
+                    "default_checked": true,
+                    "package_id": "sage_04_05",
+                    "tags":
+                    [
+                      "dlc04_05"
+                    ],
+                    "title_string": "COD_FREE_TRIAL"
+                  },
+                  {
+                    "default_checked": true,
+                    "package_id": "sage_04_01",
+                    "tags":
+                    [
+                      "dlc04_01"
+                    ],
+                    "title_string":
+                    {
+                      "default": "dlc04_01"
+                    }
+                  }
+                ],
+                "package_id": "sage-bo7",
+                "title_string":
+                {
+                  "default": "Black Ops 7",
+                  "koKR": "\uBE14\uB799 \uC635\uC2A4 7",
+                  "zhCN": "\u300A\u9ED1\u8272\u884C\u52A87\u300B",
+                  "zhTW": "\u300A\u9ED1\u8272\u884C\u52D5 7\u300B"
+                }
+              },
+              {
+                "install_packages":
+                [
+                  {
+                    "default_checked": true,
+                    "package_id": "sage_03_01",
+                    "tags":
+                    [
+                      "dlc03_01"
+                    ],
+                    "title_string": "COD_CAMPAIGN"
+                  },
+                  {
+                    "default_checked": true,
+                    "package_id": "sage_03_02",
+                    "tags":
+                    [
+                      "dlc03_02"
+                    ],
+                    "title_string": "COD_MULTIPLAYER"
+                  },
+                  {
+                    "default_checked": true,
+                    "package_id": "sage_03_03",
+                    "tags":
+                    [
+                      "dlc03_03"
+                    ],
+                    "title_string":
+                    {
+                      "default": "dlc03_03"
+                    }
+                  },
+                  {
+                    "default_checked": true,
+                    "package_id": "sage_03_04",
+                    "tags":
+                    [
+                      "dlc03_04"
+                    ],
+                    "title_string":
+                    {
+                      "default": "dlc03_04"
+                    }
+                  },
+                  {
+                    "default_checked": true,
+                    "package_id": "sage_03_05",
+                    "tags":
+                    [
+                      "dlc03_05"
+                    ],
+                    "title_string":
+                    {
+                      "default": "dlc03_05"
+                    }
+                  }
+                ],
+                "package_id": "sage-bo6",
+                "title_string":
+                {
+                  "default": "Black Ops 6",
+                  "koKR": "\uBE14\uB799 \uC635\uC2A4 6",
+                  "zhCN": "\u9ED1\u8272\u884C\u52A8 6",
+                  "zhTW": "\u300A\u9ED1\u8272\u884C\u52D5 6\u300B"
+                }
+              },
+              {
+                "default_checked": true,
+                "package_id": "sage_02_03",
+                "tags":
+                [
+                  "dlc02_03"
+                ],
+                "title_string": "COD_WARZONE"
+              }
+            ],
+            "string_table":
+            {
+              "COD_CAMPAIGN":
+              {
+                "arSA": "\u0637\u0648\u0631 \u0627\u0644\u0642\u0635\u0629",
+                "deDE": "Kampagne",
+                "default": "Campaign",
+                "esES": "Campa\u00F1a",
+                "esMX": "Campa\u00F1a",
+                "frFR": "Campagne",
+                "itIT": "Campagna",
+                "jaJP": "\u30AD\u30E3\u30F3\u30DA\u30FC\u30F3",
+                "koKR": "\uCEA0\uD398\uC778",
+                "plPL": "Kampania",
+                "ptBR": "Campanha",
+                "ruRU": "\u041A\u0430\u043C\u043F\u0430\u043D\u0438\u044F",
+                "thTH": "\u0E41\u0E04\u0E21\u0E40\u0E1B\u0E0D",
+                "zhCN": "\u5267\u60C5\u6218\u5F79",
+                "zhTW": "\u5287\u60C5\u6230\u5F79"
+              },
+              "COD_COOP_CAMPAIGN":
+              {
+                "arSA": "\u0627\u0644\u062A\u062C\u0631\u0628\u0629 \u0627\u0644\u0645\u062C\u0627\u0646\u064A\u0629",
+                "deDE": "Koop-Kampagne: (Endspiel)",
+                "default": "Co-Op Campaign (Endgame)",
+                "esES": "Campa\u00F1a cooperativa (Objetivo final)",
+                "esMX": "Campa\u00F1a cooperativa (Endgame)",
+                "frFR": "Campagne en coop (Phase finale)",
+                "itIT": "Campagna cooperativa (Endgame)",
+                "jaJP": "CO-OP\u30AD\u30E3\u30F3\u30DA\u30FC\u30F3\uFF08\u30A8\u30F3\u30C9\u30B2\u30FC\u30E0\uFF09",
+                "koKR": "\uCF54\uC635 \uCEA0\uD398\uC778(\uC885\uBC18\uC804)",
+                "plPL": "Kampania kooperacyjna (Etap ko\u0144cowy)",
+                "ptBR": "Campanha Cooperativa (Fim da Jornada)",
+                "ruRU": "\u0421\u043E\u0432\u043C\u0435\u0441\u0442\u043D\u0430\u044F \u043A\u0430\u043C\u043F\u0430\u043D\u0438\u044F (\u0444\u0438\u043D\u0430\u043B)",
+                "thTH": "\u0E41\u0E04\u0E21\u0E40\u0E1B\u0E0D Co-Op (Endgame)",
+                "zhCN": "\u5267\u60C5\u6218\u5F79\u5408\u4F5C\uFF08\u4E27\u5C38\u6A21\u5F0F\uFF09",
+                "zhTW": "\u5408\u4F5C\u5287\u60C5\u6230\u5F79\uFF08\u7D42\u6975\u4E4B\u6230\uFF09"
+              },
+              "COD_FREE_TRIAL":
+              {
+                "arSA": "\u0627\u0644\u062A\u062C\u0631\u0628\u0629 \u0627\u0644\u0645\u062C\u0627\u0646\u064A\u0629",
+                "deDE": "Testversion ",
+                "default": "Free Trial",
+                "esES": "Prueba gratuita",
+                "esMX": "Prueba gratuita",
+                "frFR": "Essai gratuit ",
+                "itIT": "Prova gratuita",
+                "jaJP": "\u7121\u6599\u30C8\u30E9\u30A4\u30A2\u30EB",
+                "koKR": "\uBB34\uB8CC \uD2B8\uB77C\uC774\uC5BC",
+                "plPL": "Darmowa wersja pr\u00F3bna",
+                "ptBR": "Teste Gr\u00E1tis",
+                "ruRU": "\u0411\u0435\u0441\u043F\u043B\u0430\u0442\u043D\u0430\u044F \u0432\u0435\u0440\u0441\u0438\u044F",
+                "thTH": "\u0E17\u0E14\u0E25\u0E2D\u0E07\u0E40\u0E25\u0E48\u0E19\u0E1F\u0E23\u0E35",
+                "zhCN": "\u514D\u8CBB\u8A66\u73A9",
+                "zhTW": "\u514D\u8D39\u8BD5\u73A9"
+              },
+              "COD_MULTIPLAYER":
+              {
+                "arSA": "\u0637\u0648\u0631 \u0627\u0644\u0644\u0639\u0628 \u0627\u0644\u062C\u0645\u0627\u0639\u064A",
+                "deDE": "Mehrspieler",
+                "default": "Multiplayer",
+                "esES": "Multijugador",
+                "esMX": "Multijugador",
+                "frFR": "Multijoueur",
+                "itIT": "Multigiocatore",
+                "jaJP": "\u30DE\u30EB\u30C1\u30D7\u30EC\u30A4\u30E4\u30FC",
+                "koKR": "\uBA40\uD2F0\uD50C\uB808\uC774",
+                "plPL": "Tryb wieloosobowy",
+                "ptBR": "Multijogador",
+                "ruRU": "\u0421\u0435\u0442\u0435\u0432\u0430\u044F \u0438\u0433\u0440\u0430",
+                "thTH": "\u0E1C\u0E39\u0E49\u0E40\u0E25\u0E48\u0E19\u0E2B\u0E25\u0E32\u0E22\u0E04\u0E19",
+                "zhCN": "\u591A\u4EBA\u6E38\u620F",
+                "zhTW": "\u591A\u4EBA\u5C0D\u6230"
+              },
+              "COD_WARZONE":
+              {
+                "deDE": "Warzone",
+                "default": "Warzone",
+                "esES": "Warzone",
+                "esMX": "Warzone",
+                "frFR": "Warzone",
+                "itIT": "Warzone",
+                "jaJP": "\u30A6\u30A9\u30FC\u30BE\u30FC\u30F3",
+                "koKR": "\uC6CC\uC874",
+                "plPL": "Warzone",
+                "ptBR": "Warzone",
+                "ruRU": "Warzone",
+                "zhCN": "\u6218\u4E89\u5730\u5E26",
+                "zhTW": "\u300A\u73FE\u4EE3\u6230\u57DF\u300B"
+              },
+              "COD_ZOMBIES":
+              {
+                "default": "Zombies",
+                "esES": "Zombis",
+                "esMX": "Zombis",
+                "itIT": "Zombi",
+                "jaJP": "\u30BE\u30F3\u30D3",
+                "koKR": "\uC880\uBE44",
+                "plPL": "Zombie",
+                "ruRU": "\u0411\u043E\u0438 \u0441 \u0437\u043E\u043C\u0431\u0438",
+                "zhTW": "\u6BAD\u5C4D"
+              }
+            }
+          }
+        },
+        "product": "sagev17",
+        "shared_container_default_subfolder": "_vendor17_",
+        "supported_locales":
+        [
+          "deDE",
+          "enUS",
+          "esMX",
+          "esES",
+          "frFR",
+          "itIT",
+          "jaJP",
+          "plPL",
+          "ptBR",
+          "ruRU",
+          "thTH",
+          "koKR",
+          "zhTW",
+          "zhCN",
+          "arSA"
+        ],
+        "supports_multibox": false,
+        "supports_offline": false,
+        "switcher": false,
+        "title_info":
+        {
+          "title_id": "sage"
+        },
+        "update_method": "ngdp"
+      }
+    },
+    "enus":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Sage Vendor 17",
+              "helplink": "http://us.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Sage Vendor 17",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "platform":
+    {
+      "win":
+      {
+        "config":
+        {
+          "binaries":
+          {
+            "game":
+            {
+              "launch_arguments":
+              [
+                "cod.exe"
+              ],
+              "regex": "cod.exe|bootstrapper.exe",
+              "relative_path": "bootstrapper.exe",
+              "switcher": false
+            }
+          },
+          "binary_launch_path": "bootstrapper.exe",
+          "binary_version_path": "cod.exe",
+          "form":
+          {
+            "game_dir":
+            {
+              "default": "Program Files",
+              "required_space": 6000000000
+            }
+          },
+          "min_spec":
+          {
+            "allow_arm_emulation": false,
+            "default_requires_64_bit": true,
+            "required_osspecs":
+            {
+              "10.0":
+              {
+                "required_subversion": 0
+              }
+            }
+          },
+          "shared_container_delete_list": [],
+          "shared_container_move_list": [],
+          "tags": [],
+          "uninstall":
+          [
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_BOTH",
+                "key_type": "HKEY_LOCAL_MACHINE",
+                "root": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
+                "subkeys":
+                [
+                  "Sage Vendor 17"
+                ]
+              }
+            },
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_BOTH",
+                "key_type": "HKEY_CURRENT_USER",
+                "root": "SOFTWARE\\Blizzard Entertainment",
+                "subkeys":
+                [
+                  "Sage Vendor 17"
+                ]
+              }
+            },
+            {
+              "delete_folder":
+              {
+                "relative_paths":
+                [
+                  "Data"
+                ],
+                "root": "%titlepath%"
+              }
+            },
+            {
+              "delete_folder":
+              {
+                "relative_paths":
+                [
+                  "ABRT",
+                  "BlizzardBrowser",
+                  "cod24",
+                  "cod25",
+                  "D3D12",
+                  "DevLauncher_Data",
+                  "GPUCache",
+                  "main",
+                  "mp",
+                  "shadercache",
+                  "sp22",
+                  "sp24",
+                  "telescopeCache",
+                  "telescopeStorage",
+                  "xpak_cache"
+                ],
+                "root": "%game%"
+              }
+            },
+            {
+              "delete_file":
+              {
+                "relative_paths":
+                [
+                  "*.dll",
+                  "*.xpak",
+                  "*.xsub",
+                  "1-game_replay_test.exe",
+                  "1-game_test.exe",
+                  "3-game_demo.exe",
+                  "3-game_replay_demo.exe",
+                  "4-game_profile.exe",
+                  "amd_ags_x64.dll",
+                  "api-ms-win-core-file-l1-2-0.dll",
+                  "API-MS-Win-core-file-l2-1-0.dll",
+                  "api-ms-win-core-localization-l1-2-0.dll",
+                  "api-ms-win-core-processthreads-l1-1-1.dll",
+                  "api-ms-win-core-synch-l1-2-0.dll",
+                  "api-ms-win-core-timezone-l1-1-0.dll",
+                  "api-ms-win-core-winrt-l1-1-0.dll",
+                  "api-ms-win-core-winrt-string-l1-1-0.dll",
+                  "api-ms-win-crt-convert-l1-1-0.dll",
+                  "api-ms-win-crt-environment-l1-1-0.dll",
+                  "api-ms-win-crt-filesystem-l1-1-0.dll",
+                  "api-ms-win-crt-heap-l1-1-0.dll",
+                  "api-ms-win-crt-locale-l1-1-0.dll",
+                  "api-ms-win-crt-math-l1-1-0.dll",
+                  "api-ms-win-crt-private-l1-1-0.dll",
+                  "api-ms-win-crt-runtime-l1-1-0.dll",
+                  "api-ms-win-crt-stdio-l1-1-0.dll",
+                  "api-ms-win-crt-string-l1-1-0.dll",
+                  "api-ms-win-crt-time-l1-1-0.dll",
+                  "api-ms-win-crt-utility-l1-1-0.dll",
+                  "bink2w64.dll",
+                  "bootstrap.data.bin",
+                  "bootstrap_profile_secured.data.bin",
+                  "bootstrapper.exe",
+                  "bootstrapper.log",
+                  "bootstrapper_original.exe",
+                  "bootstrapperCrashHandler.exe",
+                  "Browser-20*.log",
+                  "CEF-20*.log",
+                  "CgSDK.x64_2019.dll",
+                  "cod.exe",
+                  "cod25.txt",
+                  "cod_bnet.exe",
+                  "codCrashHandler.exe",
+                  "concrt140.dll",
+                  "CrashLogsGenerator.exe",
+                  "D3D12/D3D12Core.dll",
+                  "dbghelp.dll",
+                  "discord_game_sdk.dll",
+                  "dlc_manifest.csv",
+                  "dxcompiler.dll",
+                  "dxil.dll",
+                  "enrollaik.exe",
+                  "game.icn",
+                  "game_ship_unsecured.exe",
+                  "GfeSDK.dll",
+                  "GFSDK_Aftermath_Lib.x64.dll",
+                  "IEShims.dll",
+                  "igxess.dll",
+                  "launcher.exe",
+                  "libxess.dll",
+                  "msvcp140.dll",
+                  "nvngx_dlss.dll",
+                  "oo2core_7_win64.dll",
+                  "oo2core_8_win64.dll",
+                  "ortp_x64.dll",
+                  "pc_generate_dump_at_runtime.bat",
+                  "ReportCodBug.exe",
+                  "tbb.dll",
+                  "techsets_manifest.cs",
+                  "techsets_manifest.csv",
+                  "telescope.dll",
+                  "ucrtbase.dll",
+                  "usd_ms.dll",
+                  "vcruntime140.dll",
+                  "vcruntime140_1.dll",
+                  "XeFX.dll",
+                  "XeFX_Loader.dll"
+                ],
+                "root": "%game%"
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

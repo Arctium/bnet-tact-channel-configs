@@ -1,0 +1,26 @@
+{
+  "eu\u002Bus":
+  {
+    "hosts":
+    [
+      {
+        "host": "http://level3.blizzard.com?maxhosts=10"
+      },
+      {
+        "host": "https://level3.ssl.blizzard.com?maxhosts=4\u0026fallback=1"
+      }
+    ]
+  },
+  "kr":
+  {
+    "hosts":
+    [
+      {
+        "host": "http://level3.blizzard.com?maxhosts=5"
+      },
+      {
+        "host": "https://level3.ssl.blizzard.com?maxhosts=4\u0026fallback=1"
+      }
+    ]
+  }
+}

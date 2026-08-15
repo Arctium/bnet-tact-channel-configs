@@ -1,0 +1,44 @@
+{
+  "eu":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "release_19004231_cod23_tus5_replay1_v11_dev",
+      "token": "39b1f10b-108e-4234-a3e0-ee4c022fa5ab"
+    },
+    "buildKey": "c38ac99c8219060412965029b9ef514e",
+    "cdnKey": "e69606f51f0c251d5bee06d520f0738c",
+    "keyRing": "",
+    "path": "tpr/auksv",
+    "pipelineId": 236,
+    "productConfig":
+    {
+      "hash": "256e6e9fbe3afbc622fc2c9c84ddeb14",
+      "id": 7809
+    },
+    "versionNumber": 19004231,
+    "versionString": "1.12.7.19004231d"
+  },
+  "us":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "main_14844103_autobuild_mp_iw9_dropmip_v11_dev",
+      "token": "c3bcaee6-f6e3-4dfd-8cde-9d7ef8998f9a"
+    },
+    "buildKey": "43842db39c4b2eaf9749bfc572921355",
+    "cdnKey": "14a9d214e569fd868a447977cffe5540",
+    "keyRing": "",
+    "path": "tpr/auksv",
+    "pipelineId": 236,
+    "productConfig":
+    {
+      "hash": "256e6e9fbe3afbc622fc2c9c84ddeb14",
+      "id": 7809
+    },
+    "versionNumber": 14844103,
+    "versionString": "0.0.1.14844103d"
+  }
+}

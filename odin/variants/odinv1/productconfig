@@ -1,0 +1,1326 @@
+{
+  "eu\u002Bkr":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_supports_1023_archives": true,
+        "data_dir": "Data/",
+        "decryption_key_name": "odinvendor",
+        "display_locales":
+        [
+          "enUS",
+          "frFR",
+          "deDE",
+          "itIT",
+          "esES",
+          "jaJP",
+          "ruRU",
+          "koKR",
+          "ptBR",
+          "esMX",
+          "zhTW",
+          "plPL",
+          "arSA"
+        ],
+        "enable_block_copy_patch": true,
+        "form":
+        {
+          "eula":
+          {
+            "eula": false
+          },
+          "game_dir":
+          {
+            "dirname": "Call of Duty Modern Warfare Vendor 1"
+          }
+        },
+        "launcher_install_info":
+        {
+          "bootstrapper_branch": "launcher",
+          "bootstrapper_migration_version": "1.16.1.0",
+          "bootstrapper_product": "bts",
+          "product_tag": "odin"
+        },
+        "opaque_complex_data":
+        {
+          "tags_config_uri":
+          {
+            "install_packages":
+            [
+              {
+                "package_id": "odin-base",
+                "required": true,
+                "title_string":
+                {
+                  "deDE": "Warzone (erforderlich)",
+                  "default": "Warzone (required)",
+                  "esES": "Warzone (necesario)",
+                  "esMX": "Warzone (requerido)",
+                  "frFR": "Warzone (requis)",
+                  "itIT": "Warzone (richiesto)",
+                  "jaJP": "\u30A6\u30A9\u30FC\u30BE\u30FC\u30F3\uFF08\u5FC5\u9808\uFF09",
+                  "koKR": "\uC6CC\uC874(\uD544\uC218)",
+                  "plPL": "Warzone (wymagane)",
+                  "ptBR": "Warzone (necess\u00E1rio)",
+                  "ruRU": "Warzone (\u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F)",
+                  "zhTW": "\u300A\u73FE\u4EE3\u6230\u57DF\u300B\uFF08\u5FC5\u9808\uFF09"
+                }
+              },
+              {
+                "igr_auto_grants_tags": true,
+                "licenses":
+                [
+                  43336
+                ],
+                "more_info_blurb_string":
+                {
+                  "deDE": "Erforderlich, um die Kampagne zu spielen",
+                  "default": "Required to play Campaign",
+                  "esES": "Se necesita para jugar la campa\u00F1a",
+                  "esMX": "Se requiere para jugar la campa\u00F1a",
+                  "frFR": "Requis pour jouer \u00E0 la campagne",
+                  "itIT": "Richiesto per giocare la campagna",
+                  "jaJP": "\u30AD\u30E3\u30F3\u30DA\u30FC\u30F3\u3092\u30D7\u30EC\u30A4\u3059\u308B\u306E\u306B\u5FC5\u8981\u3067\u3059",
+                  "koKR": "\uCEA0\uD398\uC778 \uD50C\uB808\uC774\uC5D0 \uD544\uC694\uD569\uB2C8\uB2E4",
+                  "plPL": "Wymagane do gry w kampani\u0119",
+                  "ptBR": "Necess\u00E1rio para jogar a Campanha",
+                  "ruRU": "\u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F \u0434\u043B\u044F \u0438\u0433\u0440\u044B \u0432 \u043A\u0430\u043C\u043F\u0430\u043D\u0438\u0438",
+                  "zhTW": "\u9700\u8981\u64C1\u6709\u624D\u80FD\u904A\u73A9\u5287\u60C5\u6230\u5F79"
+                },
+                "more_info_blurb_unlicensed_string": "COD_UNLICENSED",
+                "package_id": "odin-campaign",
+                "tags":
+                [
+                  "sp"
+                ],
+                "title_string":
+                {
+                  "deDE": "Kampagne",
+                  "default": "Campaign",
+                  "esES": "Campa\u00F1a",
+                  "esMX": "Campa\u00F1a",
+                  "frFR": "Campagne",
+                  "itIT": "Campagna",
+                  "jaJP": "\u30AD\u30E3\u30F3\u30DA\u30FC\u30F3",
+                  "koKR": "\uCEA0\uD398\uC778",
+                  "plPL": "Kampania",
+                  "ptBR": "Campanha",
+                  "ruRU": "\u041A\u0430\u043C\u043F\u0430\u043D\u0438\u044F",
+                  "zhTW": "\u5287\u60C5\u6230\u5F79"
+                }
+              },
+              {
+                "igr_auto_grants_tags": true,
+                "licenses":
+                [
+                  43356
+                ],
+                "more_info_blurb_string":
+                {
+                  "deDE": "Erforderlich, um den Mehrspielermodus zu spielen",
+                  "default": "Required to play Multiplayer",
+                  "esES": "Se necesita para jugar al multijugador",
+                  "esMX": "Se requiere para jugar el modo multijugador",
+                  "frFR": "Requis pour jouer en multijoueur",
+                  "itIT": "Richiesto per giocare in modalit\u00E0 multigiocatore",
+                  "jaJP": "\u30DE\u30EB\u30C1\u30D7\u30EC\u30A4\u30E4\u30FC\u3092\u30D7\u30EC\u30A4\u3059\u308B\u306E\u306B\u5FC5\u8981\u3067\u3059",
+                  "koKR": "\uBA40\uD2F0\uD50C\uB808\uC774\uC5D0 \uD544\uC694\uD569\uB2C8\uB2E4",
+                  "plPL": "Wymagane do gry w tryb wieloosobowy",
+                  "ptBR": "Necess\u00E1rio para jogar o Multijogador",
+                  "ruRU": "\u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F \u0434\u043B\u044F \u0441\u0435\u0442\u0435\u0432\u043E\u0439 \u0438\u0433\u0440\u044B",
+                  "zhTW": "\u9700\u8981\u64C1\u6709\u624D\u80FD\u904A\u73A9\u591A\u4EBA\u904A\u6232"
+                },
+                "more_info_blurb_unlicensed_string": "COD_UNLICENSED",
+                "package_id": "odin-multiplayer",
+                "tags":
+                [
+                  "mp"
+                ],
+                "title_string":
+                {
+                  "deDE": "Mehrspieler",
+                  "default": "Multiplayer",
+                  "esES": "Multijugador",
+                  "esMX": "Multijugador",
+                  "frFR": "Multijoueur",
+                  "itIT": "Multigiocatore",
+                  "jaJP": "\u30DE\u30EB\u30C1\u30D7\u30EC\u30A4\u30E4\u30FC",
+                  "koKR": "\uBA40\uD2F0\uD50C\uB808\uC774",
+                  "plPL": "Tryb wieloosobowy",
+                  "ptBR": "Multijogador",
+                  "ruRU": "\u0421\u0435\u0442\u0435\u0432\u0430\u044F \u0438\u0433\u0440\u0430",
+                  "zhTW": "\u591A\u4EBA\u5C0D\u6230"
+                }
+              },
+              {
+                "igr_auto_grants_tags": true,
+                "licenses":
+                [
+                  43337
+                ],
+                "more_info_blurb_string":
+                {
+                  "deDE": "Erforderlich, um den Modus Spezialeinheit zu spielen",
+                  "default": "Required to play Special Ops",
+                  "esES": "Se necesita para jugar a Operaciones especiales",
+                  "esMX": "Se requiere para jugar Operaciones especiales",
+                  "frFR": "Requis pour jouer \u00E0 Op\u00E9rations sp\u00E9ciales",
+                  "itIT": "Richiesto per giocare a Operazioni speciali",
+                  "jaJP": "\u30B9\u30DA\u30B7\u30E3\u30EB\u30AA\u30D7\u30B9\u3092\u30D7\u30EC\u30A4\u3059\u308B\u306E\u306B\u5FC5\u8981\u3067\u3059",
+                  "koKR": "\uC2A4\uD399 \uC635\uC2A4 \uD50C\uB808\uC774\uC5D0 \uD544\uC694\uD569\uB2C8\uB2E4",
+                  "plPL": "Wymagane do gry w Operacje Specjalne",
+                  "ptBR": "Necess\u00E1rio para jogar as Opera\u00E7\u00F5es Especiais",
+                  "ruRU": "\u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F \u0434\u043B\u044F \u0438\u0433\u0440\u044B \u0432 \u0440\u0435\u0436\u0438\u043C\u0435 \u00AB\u0421\u043F\u0435\u0446\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\u00BB",
+                  "zhTW": "\u9700\u8981\u64C1\u6709\u624D\u80FD\u904A\u73A9\u7279\u7A2E\u884C\u52D5"
+                },
+                "more_info_blurb_unlicensed_string": "COD_UNLICENSED",
+                "package_id": "odin-coop",
+                "tags":
+                [
+                  "cp"
+                ],
+                "title_string":
+                {
+                  "deDE": "Spezialeinheit",
+                  "default": "Special Ops",
+                  "esES": "Operaciones especiales",
+                  "esMX": "Operaciones especiales",
+                  "frFR": "Op\u00E9rations sp\u00E9ciales",
+                  "itIT": "Operazioni speciali",
+                  "jaJP": "\u30B9\u30DA\u30B7\u30E3\u30EB\u30AA\u30D7\u30B9",
+                  "koKR": "\uC2A4\uD399 \uC635\uC2A4",
+                  "plPL": "Operacje Specjalne",
+                  "ptBR": "Opera\u00E7\u00F5es Especiais",
+                  "ruRU": "\u0421\u043F\u0435\u0446\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438",
+                  "zhTW": "\u7279\u7A2E\u884C\u52D5"
+                }
+              },
+              {
+                "igr_auto_grants_tags": true,
+                "licenses":
+                [
+                  43337
+                ],
+                "more_info_blurb_string":
+                {
+                  "default": "Required to play Survival. Also requires Special Ops installed"
+                },
+                "more_info_blurb_unlicensed_string": "COD_UNLICENSED",
+                "package_id": "odin-survival",
+                "tags":
+                [
+                  "survival"
+                ],
+                "title_string":
+                {
+                  "default": "Survival"
+                }
+              }
+            ],
+            "string_table":
+            {
+              "COD_UNLICENSED":
+              {
+                "deDE": "F\u00FCr diese Inhalte ist der Kauf von Call of Duty: Modern Warfare n\u00F6tig.",
+                "default": "This content requires purchase of Call of Duty: Modern Warfare",
+                "esES": "Se necesita Call of Duty: Modern Warfare para este contenido",
+                "esMX": "Este contenido requiere la compra de Call of Duty: Modern Warfare",
+                "frFR": "L\u2019achat de Call of Duty: Modern Warfare est requis pour profiter de ce contenu",
+                "itIT": "Questo contenuto richiede l\u0027acquisto di Call of Duty: Modern Warfare",
+                "jaJP": "\u300C\u30B3\u30FC\u30EB \u30AA\u30D6 \u30C7\u30E5\u30FC\u30C6\u30A3 \u30E2\u30C0\u30F3\u30FB\u30A6\u30A9\u30FC\u30D5\u30A7\u30A2\u300D\u306E\u8CFC\u5165\u304C\u5FC5\u8981\u3067\u3059",
+                "koKR": "\uD574\uB2F9 \uCF58\uD150\uCE20\uB97C \uC774\uC6A9\uD558\uB824\uBA74 \uCF5C \uC624\uBE0C \uB4C0\uD2F0: \uBAA8\uB358 \uC6CC\uD398\uC5B4\uB97C \uAD6C\uB9E4\uD574\uC57C \uD569\uB2C8\uB2E4",
+                "plPL": "Ta zawarto\u015B\u0107 wymaga posiadania gry Call of Duty: Modern Warfare",
+                "ptBR": "Este conte\u00FAdo requer a compra de Call of Duty: Modern Warfare",
+                "ruRU": "\u0414\u0430\u043D\u043D\u044B\u0439 \u043A\u043E\u043D\u0442\u0435\u043D\u0442 \u0442\u0440\u0435\u0431\u0443\u0435\u0442 \u043D\u0430\u043B\u0438\u0447\u0438\u044F Call of Duty: Modern Warfare",
+                "zhTW": "\u6B64\u5167\u5BB9\u9808\u8CFC\u8CB7\u300A\u6C7A\u52DD\u6642\u523B\uFF1A\u73FE\u4EE3\u6230\u722D\u300B\u624D\u53EF\u4F7F\u7528"
+              }
+            }
+          }
+        },
+        "product": "odinv1",
+        "supported_locales":
+        [
+          "enUS",
+          "frFR",
+          "deDE",
+          "itIT",
+          "esES",
+          "jaJP",
+          "ruRU",
+          "koKR",
+          "ptBR",
+          "esMX",
+          "zhTW",
+          "plPL",
+          "arSA"
+        ],
+        "supports_multibox": false,
+        "supports_offline": false,
+        "tact_has_account_country_tags": true,
+        "title_info":
+        {
+          "products_in_title":
+          [
+            "odin",
+            "odindev",
+            "odinv1",
+            "odinv2",
+            "odinv3",
+            "odinv4"
+          ],
+          "title_id": "odin"
+        },
+        "update_method": "ngdp"
+      }
+    },
+    "dede":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Modern Warfare Vendor 1",
+              "helplink": "https://eu.battle.net/support/de/games/",
+              "icon_path": "%installpath%/ModernWarfare.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Modern Warfare Vendor 1",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "enus":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Modern Warfare Vendor 1",
+              "helplink": "https://us.battle.net/support/en/games/",
+              "icon_path": "%installpath%/ModernWarfare.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Modern Warfare Vendor 1",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "eses":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Modern Warfare Vendor 1",
+              "helplink": "https://eu.battle.net/support/es/games/",
+              "icon_path": "%installpath%/ModernWarfare.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Modern Warfare Vendor 1",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "esmx":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Modern Warfare Vendor 1",
+              "helplink": "https://us.battle.net/support/es/games/",
+              "icon_path": "%installpath%/ModernWarfare.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Modern Warfare Vendor 1",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "frfr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Modern Warfare Vendor 1",
+              "helplink": "https://eu.battle.net/support/fr/games/",
+              "icon_path": "%installpath%/ModernWarfare.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Modern Warfare Vendor 1",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "itit":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Modern Warfare Vendor 1",
+              "helplink": "https://eu.battle.net/support/de/games/",
+              "icon_path": "%installpath%/ModernWarfare.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Modern Warfare Vendor 1",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "jajp":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Modern Warfare Vendor 1",
+              "helplink": "https://us.battle.net/support/ja/games/",
+              "icon_path": "%installpath%/ModernWarfare.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Modern Warfare Vendor 1",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "kokr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Modern Warfare Vendor 1",
+              "helplink": "https://kr.battle.net/support/ko/games/",
+              "icon_path": "%installpath%/ModernWarfare.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Modern Warfare Vendor 1",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "platform":
+    {
+      "win":
+      {
+        "config":
+        {
+          "binaries":
+          {
+            "game":
+            {
+              "launch_arguments": [],
+              "regex": "ModernWarfare.exe",
+              "relative_path": "ModernWarfare.exe",
+              "switcher": true
+            }
+          },
+          "binary_launch_path": "ModernWarfare.exe",
+          "binary_version_path": "ModernWarfare.exe",
+          "form":
+          {
+            "game_dir":
+            {
+              "default": "Program Files",
+              "required_space": 60000000000
+            }
+          },
+          "min_spec":
+          {
+            "allow_arm_emulation": false,
+            "default_requires_64_bit": true,
+            "required_osspecs":
+            {
+              "10.0":
+              {
+                "required_subversion": 0
+              }
+            }
+          },
+          "shortcut_target_path": "Call of Duty Modern Warfare Launcher.exe",
+          "tags": [],
+          "uninstall":
+          [
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_BOTH",
+                "key_type": "HKEY_LOCAL_MACHINE",
+                "root": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
+                "subkeys":
+                [
+                  "Odin Vendor 1",
+                  "Call of Duty Modern Warfare Vendor 1"
+                ]
+              }
+            },
+            {
+              "delete_folder":
+              {
+                "relative_paths":
+                [
+                  "BlizzardBrowser",
+                  "Data",
+                  "main",
+                  "players2"
+                ],
+                "root": "%game%"
+              }
+            },
+            {
+              "delete_file":
+              {
+                "relative_paths":
+                [
+                  "amd_ags_x64.dll",
+                  "bink2w64.dll",
+                  "d3dcompiler_47.dll",
+                  "d3d12.dll",
+                  "dxilconv7.dll",
+                  "game_ship.exe",
+                  "GFSDK_Aftermath_Lib.x64.dll",
+                  "ModernWarfare.exe",
+                  "oo2core_7_win64.dll",
+                  "ortp_x64.dll",
+                  "rail_api64.dll",
+                  "rail_sdk_wegame_platform64.dll",
+                  "vivoxsdk_x64.dll",
+                  "WinPixEventRuntime.dll"
+                ],
+                "root": "%game%"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "plpl":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Modern Warfare Vendor 1",
+              "helplink": "https://eu.battle.net/support/pl/games/",
+              "icon_path": "%installpath%/ModernWarfare.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Modern Warfare Vendor 1",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "ptbr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Modern Warfare Vendor 1",
+              "helplink": "https://us.battle.net/support/pt/games/",
+              "icon_path": "%installpath%/ModernWarfare.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Modern Warfare Vendor 1",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "ruru":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Modern Warfare Vendor 1",
+              "helplink": "https://eu.battle.net/support/ru/games/",
+              "icon_path": "%installpath%/ModernWarfare.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Modern Warfare Vendor 1",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "zhcn":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Modern Warfare Vendor 1",
+              "helplink": "https://www.battlenet.com.cn/support/zh/",
+              "icon_path": "%installpath%/ModernWarfare.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Modern Warfare Vendor 1",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "zhtw":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Modern Warfare Vendor 1",
+              "helplink": "https://tw.battle.net/support/zh/games/",
+              "icon_path": "%installpath%/ModernWarfare.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Modern Warfare Vendor 1",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "us":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_supports_1023_archives": true,
+        "component_dependencies":
+        [
+          "brynhildr_odin_qa"
+        ],
+        "data_dir": "Data/",
+        "decryption_key_name": "odinvendor",
+        "display_locales":
+        [
+          "enUS",
+          "frFR",
+          "deDE",
+          "itIT",
+          "esES",
+          "jaJP",
+          "ruRU",
+          "koKR",
+          "ptBR",
+          "esMX",
+          "zhTW",
+          "plPL",
+          "arSA"
+        ],
+        "enable_block_copy_patch": true,
+        "form":
+        {
+          "eula":
+          {
+            "eula": false
+          },
+          "game_dir":
+          {
+            "dirname": "Call of Duty Modern Warfare Vendor 1"
+          }
+        },
+        "launcher_install_info":
+        {
+          "bootstrapper_branch": "launcher",
+          "bootstrapper_migration_version": "1.16.1.0",
+          "bootstrapper_product": "bts",
+          "product_tag": "odin"
+        },
+        "opaque_complex_data":
+        {
+          "tags_config_uri":
+          {
+            "install_packages":
+            [
+              {
+                "package_id": "odin-base",
+                "required": true,
+                "title_string":
+                {
+                  "deDE": "Warzone (erforderlich)",
+                  "default": "Warzone (required)",
+                  "esES": "Warzone (necesario)",
+                  "esMX": "Warzone (requerido)",
+                  "frFR": "Warzone (requis)",
+                  "itIT": "Warzone (richiesto)",
+                  "jaJP": "\u30A6\u30A9\u30FC\u30BE\u30FC\u30F3\uFF08\u5FC5\u9808\uFF09",
+                  "koKR": "\uC6CC\uC874(\uD544\uC218)",
+                  "plPL": "Warzone (wymagane)",
+                  "ptBR": "Warzone (necess\u00E1rio)",
+                  "ruRU": "Warzone (\u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F)",
+                  "zhTW": "\u300A\u73FE\u4EE3\u6230\u57DF\u300B\uFF08\u5FC5\u9808\uFF09"
+                }
+              },
+              {
+                "igr_auto_grants_tags": true,
+                "licenses":
+                [
+                  43336
+                ],
+                "more_info_blurb_string":
+                {
+                  "deDE": "Erforderlich, um die Kampagne zu spielen",
+                  "default": "Required to play Campaign",
+                  "esES": "Se necesita para jugar la campa\u00F1a",
+                  "esMX": "Se requiere para jugar la campa\u00F1a",
+                  "frFR": "Requis pour jouer \u00E0 la campagne",
+                  "itIT": "Richiesto per giocare la campagna",
+                  "jaJP": "\u30AD\u30E3\u30F3\u30DA\u30FC\u30F3\u3092\u30D7\u30EC\u30A4\u3059\u308B\u306E\u306B\u5FC5\u8981\u3067\u3059",
+                  "koKR": "\uCEA0\uD398\uC778 \uD50C\uB808\uC774\uC5D0 \uD544\uC694\uD569\uB2C8\uB2E4",
+                  "plPL": "Wymagane do gry w kampani\u0119",
+                  "ptBR": "Necess\u00E1rio para jogar a Campanha",
+                  "ruRU": "\u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F \u0434\u043B\u044F \u0438\u0433\u0440\u044B \u0432 \u043A\u0430\u043C\u043F\u0430\u043D\u0438\u0438",
+                  "zhTW": "\u9700\u8981\u64C1\u6709\u624D\u80FD\u904A\u73A9\u5287\u60C5\u6230\u5F79"
+                },
+                "more_info_blurb_unlicensed_string": "COD_UNLICENSED",
+                "package_id": "odin-campaign",
+                "tags":
+                [
+                  "sp"
+                ],
+                "title_string":
+                {
+                  "deDE": "Kampagne",
+                  "default": "Campaign",
+                  "esES": "Campa\u00F1a",
+                  "esMX": "Campa\u00F1a",
+                  "frFR": "Campagne",
+                  "itIT": "Campagna",
+                  "jaJP": "\u30AD\u30E3\u30F3\u30DA\u30FC\u30F3",
+                  "koKR": "\uCEA0\uD398\uC778",
+                  "plPL": "Kampania",
+                  "ptBR": "Campanha",
+                  "ruRU": "\u041A\u0430\u043C\u043F\u0430\u043D\u0438\u044F",
+                  "zhTW": "\u5287\u60C5\u6230\u5F79"
+                }
+              },
+              {
+                "igr_auto_grants_tags": true,
+                "licenses":
+                [
+                  43356
+                ],
+                "more_info_blurb_string":
+                {
+                  "deDE": "Erforderlich, um den Mehrspielermodus zu spielen",
+                  "default": "Required to play Multiplayer",
+                  "esES": "Se necesita para jugar al multijugador",
+                  "esMX": "Se requiere para jugar el modo multijugador",
+                  "frFR": "Requis pour jouer en multijoueur",
+                  "itIT": "Richiesto per giocare in modalit\u00E0 multigiocatore",
+                  "jaJP": "\u30DE\u30EB\u30C1\u30D7\u30EC\u30A4\u30E4\u30FC\u3092\u30D7\u30EC\u30A4\u3059\u308B\u306E\u306B\u5FC5\u8981\u3067\u3059",
+                  "koKR": "\uBA40\uD2F0\uD50C\uB808\uC774\uC5D0 \uD544\uC694\uD569\uB2C8\uB2E4",
+                  "plPL": "Wymagane do gry w tryb wieloosobowy",
+                  "ptBR": "Necess\u00E1rio para jogar o Multijogador",
+                  "ruRU": "\u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F \u0434\u043B\u044F \u0441\u0435\u0442\u0435\u0432\u043E\u0439 \u0438\u0433\u0440\u044B",
+                  "zhTW": "\u9700\u8981\u64C1\u6709\u624D\u80FD\u904A\u73A9\u591A\u4EBA\u904A\u6232"
+                },
+                "more_info_blurb_unlicensed_string": "COD_UNLICENSED",
+                "package_id": "odin-multiplayer",
+                "tags":
+                [
+                  "mp"
+                ],
+                "title_string":
+                {
+                  "deDE": "Mehrspieler",
+                  "default": "Multiplayer",
+                  "esES": "Multijugador",
+                  "esMX": "Multijugador",
+                  "frFR": "Multijoueur",
+                  "itIT": "Multigiocatore",
+                  "jaJP": "\u30DE\u30EB\u30C1\u30D7\u30EC\u30A4\u30E4\u30FC",
+                  "koKR": "\uBA40\uD2F0\uD50C\uB808\uC774",
+                  "plPL": "Tryb wieloosobowy",
+                  "ptBR": "Multijogador",
+                  "ruRU": "\u0421\u0435\u0442\u0435\u0432\u0430\u044F \u0438\u0433\u0440\u0430",
+                  "zhTW": "\u591A\u4EBA\u5C0D\u6230"
+                }
+              },
+              {
+                "igr_auto_grants_tags": true,
+                "licenses":
+                [
+                  43337
+                ],
+                "more_info_blurb_string":
+                {
+                  "deDE": "Erforderlich, um den Modus Spezialeinheit zu spielen",
+                  "default": "Required to play Special Ops",
+                  "esES": "Se necesita para jugar a Operaciones especiales",
+                  "esMX": "Se requiere para jugar Operaciones especiales",
+                  "frFR": "Requis pour jouer \u00E0 Op\u00E9rations sp\u00E9ciales",
+                  "itIT": "Richiesto per giocare a Operazioni speciali",
+                  "jaJP": "\u30B9\u30DA\u30B7\u30E3\u30EB\u30AA\u30D7\u30B9\u3092\u30D7\u30EC\u30A4\u3059\u308B\u306E\u306B\u5FC5\u8981\u3067\u3059",
+                  "koKR": "\uC2A4\uD399 \uC635\uC2A4 \uD50C\uB808\uC774\uC5D0 \uD544\uC694\uD569\uB2C8\uB2E4",
+                  "plPL": "Wymagane do gry w Operacje Specjalne",
+                  "ptBR": "Necess\u00E1rio para jogar as Opera\u00E7\u00F5es Especiais",
+                  "ruRU": "\u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F \u0434\u043B\u044F \u0438\u0433\u0440\u044B \u0432 \u0440\u0435\u0436\u0438\u043C\u0435 \u00AB\u0421\u043F\u0435\u0446\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\u00BB",
+                  "zhTW": "\u9700\u8981\u64C1\u6709\u624D\u80FD\u904A\u73A9\u7279\u7A2E\u884C\u52D5"
+                },
+                "more_info_blurb_unlicensed_string": "COD_UNLICENSED",
+                "package_id": "odin-coop",
+                "tags":
+                [
+                  "cp"
+                ],
+                "title_string":
+                {
+                  "deDE": "Spezialeinheit",
+                  "default": "Special Ops",
+                  "esES": "Operaciones especiales",
+                  "esMX": "Operaciones especiales",
+                  "frFR": "Op\u00E9rations sp\u00E9ciales",
+                  "itIT": "Operazioni speciali",
+                  "jaJP": "\u30B9\u30DA\u30B7\u30E3\u30EB\u30AA\u30D7\u30B9",
+                  "koKR": "\uC2A4\uD399 \uC635\uC2A4",
+                  "plPL": "Operacje Specjalne",
+                  "ptBR": "Opera\u00E7\u00F5es Especiais",
+                  "ruRU": "\u0421\u043F\u0435\u0446\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438",
+                  "zhTW": "\u7279\u7A2E\u884C\u52D5"
+                }
+              },
+              {
+                "igr_auto_grants_tags": true,
+                "licenses":
+                [
+                  43337
+                ],
+                "more_info_blurb_string":
+                {
+                  "default": "Required to play Survival. Also requires Special Ops installed"
+                },
+                "more_info_blurb_unlicensed_string": "COD_UNLICENSED",
+                "package_id": "odin-survival",
+                "tags":
+                [
+                  "survival"
+                ],
+                "title_string":
+                {
+                  "default": "Survival"
+                }
+              }
+            ],
+            "string_table":
+            {
+              "COD_UNLICENSED":
+              {
+                "deDE": "F\u00FCr diese Inhalte ist der Kauf von Call of Duty: Modern Warfare n\u00F6tig.",
+                "default": "This content requires purchase of Call of Duty: Modern Warfare",
+                "esES": "Se necesita Call of Duty: Modern Warfare para este contenido",
+                "esMX": "Este contenido requiere la compra de Call of Duty: Modern Warfare",
+                "frFR": "L\u2019achat de Call of Duty: Modern Warfare est requis pour profiter de ce contenu",
+                "itIT": "Questo contenuto richiede l\u0027acquisto di Call of Duty: Modern Warfare",
+                "jaJP": "\u300C\u30B3\u30FC\u30EB \u30AA\u30D6 \u30C7\u30E5\u30FC\u30C6\u30A3 \u30E2\u30C0\u30F3\u30FB\u30A6\u30A9\u30FC\u30D5\u30A7\u30A2\u300D\u306E\u8CFC\u5165\u304C\u5FC5\u8981\u3067\u3059",
+                "koKR": "\uD574\uB2F9 \uCF58\uD150\uCE20\uB97C \uC774\uC6A9\uD558\uB824\uBA74 \uCF5C \uC624\uBE0C \uB4C0\uD2F0: \uBAA8\uB358 \uC6CC\uD398\uC5B4\uB97C \uAD6C\uB9E4\uD574\uC57C \uD569\uB2C8\uB2E4",
+                "plPL": "Ta zawarto\u015B\u0107 wymaga posiadania gry Call of Duty: Modern Warfare",
+                "ptBR": "Este conte\u00FAdo requer a compra de Call of Duty: Modern Warfare",
+                "ruRU": "\u0414\u0430\u043D\u043D\u044B\u0439 \u043A\u043E\u043D\u0442\u0435\u043D\u0442 \u0442\u0440\u0435\u0431\u0443\u0435\u0442 \u043D\u0430\u043B\u0438\u0447\u0438\u044F Call of Duty: Modern Warfare",
+                "zhTW": "\u6B64\u5167\u5BB9\u9808\u8CFC\u8CB7\u300A\u6C7A\u52DD\u6642\u523B\uFF1A\u73FE\u4EE3\u6230\u722D\u300B\u624D\u53EF\u4F7F\u7528"
+              }
+            }
+          }
+        },
+        "product": "odinv1",
+        "supported_locales":
+        [
+          "enUS",
+          "frFR",
+          "deDE",
+          "itIT",
+          "esES",
+          "jaJP",
+          "ruRU",
+          "koKR",
+          "ptBR",
+          "esMX",
+          "zhTW",
+          "plPL",
+          "arSA"
+        ],
+        "supports_multibox": false,
+        "supports_offline": false,
+        "tact_has_account_country_tags": true,
+        "title_info":
+        {
+          "products_in_title":
+          [
+            "odin",
+            "odindev",
+            "odinv1",
+            "odinv2",
+            "odinv3",
+            "odinv4"
+          ],
+          "title_id": "odin"
+        },
+        "update_method": "ngdp"
+      }
+    },
+    "dede":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Modern Warfare Vendor 1",
+              "helplink": "https://eu.battle.net/support/de/games/",
+              "icon_path": "%installpath%/ModernWarfare.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Modern Warfare Vendor 1",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "enus":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Modern Warfare Vendor 1",
+              "helplink": "https://us.battle.net/support/en/games/",
+              "icon_path": "%installpath%/ModernWarfare.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Modern Warfare Vendor 1",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "eses":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Modern Warfare Vendor 1",
+              "helplink": "https://eu.battle.net/support/es/games/",
+              "icon_path": "%installpath%/ModernWarfare.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Modern Warfare Vendor 1",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "esmx":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Modern Warfare Vendor 1",
+              "helplink": "https://us.battle.net/support/es/games/",
+              "icon_path": "%installpath%/ModernWarfare.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Modern Warfare Vendor 1",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "frfr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Modern Warfare Vendor 1",
+              "helplink": "https://eu.battle.net/support/fr/games/",
+              "icon_path": "%installpath%/ModernWarfare.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Modern Warfare Vendor 1",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "itit":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Modern Warfare Vendor 1",
+              "helplink": "https://eu.battle.net/support/de/games/",
+              "icon_path": "%installpath%/ModernWarfare.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Modern Warfare Vendor 1",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "jajp":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Modern Warfare Vendor 1",
+              "helplink": "https://us.battle.net/support/ja/games/",
+              "icon_path": "%installpath%/ModernWarfare.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Modern Warfare Vendor 1",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "kokr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Modern Warfare Vendor 1",
+              "helplink": "https://kr.battle.net/support/ko/games/",
+              "icon_path": "%installpath%/ModernWarfare.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Modern Warfare Vendor 1",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "platform":
+    {
+      "win":
+      {
+        "config":
+        {
+          "binaries":
+          {
+            "game":
+            {
+              "launch_arguments":
+              [
+                "ModernWarfare.exe"
+              ],
+              "regex": "ModernWarfare.exe|bootstrapper.exe",
+              "relative_path": "bootstrapper.exe",
+              "switcher": true
+            }
+          },
+          "binary_launch_path": "bootstrapper.exe",
+          "binary_version_path": "ModernWarfare.exe",
+          "form":
+          {
+            "game_dir":
+            {
+              "default": "Program Files",
+              "required_space": 60000000000
+            }
+          },
+          "min_spec":
+          {
+            "allow_arm_emulation": false,
+            "default_requires_64_bit": true,
+            "required_osspecs":
+            {
+              "10.0":
+              {
+                "required_subversion": 0
+              }
+            }
+          },
+          "shortcut_target_path": "Modern Warfare Launcher.exe",
+          "tags": [],
+          "uninstall":
+          [
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_BOTH",
+                "key_type": "HKEY_LOCAL_MACHINE",
+                "root": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
+                "subkeys":
+                [
+                  "Odin Vendor 1",
+                  "Call of Duty Modern Warfare Vendor 1"
+                ]
+              }
+            },
+            {
+              "delete_folder":
+              {
+                "relative_paths":
+                [
+                  "BlizzardBrowser",
+                  "Data",
+                  "main",
+                  "players2"
+                ],
+                "root": "%game%"
+              }
+            },
+            {
+              "delete_file":
+              {
+                "relative_paths":
+                [
+                  "amd_ags_x64.dll",
+                  "bink2w64.dll",
+                  "d3dcompiler_47.dll",
+                  "d3d12.dll",
+                  "dxilconv7.dll",
+                  "game_ship.exe",
+                  "GFSDK_Aftermath_Lib.x64.dll",
+                  "ModernWarfare.exe",
+                  "oo2core_7_win64.dll",
+                  "ortp_x64.dll",
+                  "rail_api64.dll",
+                  "rail_sdk_wegame_platform64.dll",
+                  "vivoxsdk_x64.dll",
+                  "WinPixEventRuntime.dll",
+                  "bootstrapper.exe"
+                ],
+                "root": "%game%"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "plpl":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Modern Warfare Vendor 1",
+              "helplink": "https://eu.battle.net/support/pl/games/",
+              "icon_path": "%installpath%/ModernWarfare.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Modern Warfare Vendor 1",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "ptbr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Modern Warfare Vendor 1",
+              "helplink": "https://us.battle.net/support/pt/games/",
+              "icon_path": "%installpath%/ModernWarfare.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Modern Warfare Vendor 1",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "ruru":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Modern Warfare Vendor 1",
+              "helplink": "https://eu.battle.net/support/ru/games/",
+              "icon_path": "%installpath%/ModernWarfare.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Modern Warfare Vendor 1",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "zhcn":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Modern Warfare Vendor 1",
+              "helplink": "https://www.battlenet.com.cn/support/zh/",
+              "icon_path": "%installpath%/ModernWarfare.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Modern Warfare Vendor 1",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "zhtw":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Modern Warfare Vendor 1",
+              "helplink": "https://tw.battle.net/support/zh/games/",
+              "icon_path": "%installpath%/ModernWarfare.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Modern Warfare Vendor 1",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

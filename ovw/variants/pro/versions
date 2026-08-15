@@ -1,0 +1,65 @@
+{
+  "cn":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "prometheus-2_24_0_0-152690-CN-NEAC",
+      "token": "1d1039e5-ef00-45c4-9d06-9c31e9896d03"
+    },
+    "buildKey": "a1175be404bb8e9c989eb500de147187",
+    "cdnKey": "9bc00c256850094c37efe1809cd5979a",
+    "keyRing": "3dabb1bf65a3a797ccc6eff63c51b509",
+    "path": "tpr/ovw",
+    "pipelineId": 43,
+    "productConfig":
+    {
+      "hash": "14d469785b47c23da0592db533b757ec",
+      "id": 15372
+    },
+    "versionNumber": 152690,
+    "versionString": "2.24.0.0.152690N"
+  },
+  "eu\u002Bkr\u002Bus":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "prometheus-2_24_0_0-152690",
+      "token": "24bc34f9-4dc3-4018-a832-d4ca75e4a16e"
+    },
+    "buildKey": "6198b7ec997c29f16ba5daaf4380bf37",
+    "cdnKey": "adeb02dbd594917bcb4c1b072e3684f6",
+    "keyRing": "3dabb1bf65a3a797ccc6eff63c51b509",
+    "path": "tpr/ovw",
+    "pipelineId": 43,
+    "productConfig":
+    {
+      "hash": "3ac04cec5bcdf18c4a37e0bdc3c2a6a3",
+      "id": 15364
+    },
+    "versionNumber": 152690,
+    "versionString": "2.24.0.0.152690"
+  },
+  "nexon":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "prometheus-2_24_0_1-152688-KR-NGSX",
+      "token": "fee4378d-3c3e-45c7-9171-083163d08e0a"
+    },
+    "buildKey": "15265d7e98b9fb9b8872baee99c4587f",
+    "cdnKey": "265280aac13bc5cfc8d78a1de94e8109",
+    "keyRing": "3dabb1bf65a3a797ccc6eff63c51b509",
+    "path": "tpr/ovw",
+    "pipelineId": 43,
+    "productConfig":
+    {
+      "hash": "46035974354aca0e79028f98fe0a6ae4",
+      "id": 17662
+    },
+    "versionNumber": 152688,
+    "versionString": "2.24.0.1.152688"
+  }
+}

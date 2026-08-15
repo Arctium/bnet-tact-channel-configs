@@ -1,0 +1,591 @@
+{
+  "eu\u002Bkr\u002Bus":
+  {
+    "all":
+    {
+      "config":
+      {
+        "data_dir": "Data/",
+        "form":
+        {
+          "game_dir":
+          {
+            "dirname": "Diablo II Resurrected"
+          }
+        },
+        "launcher_install_info":
+        {
+          "bootstrapper_branch": "launcher",
+          "bootstrapper_product": "bts",
+          "product_tag": "osi"
+        },
+        "product": "osi",
+        "supported_locales":
+        [
+          "enUS",
+          "esMX",
+          "ptBR",
+          "frFR",
+          "deDE",
+          "esES",
+          "itIT",
+          "ruRU",
+          "plPL",
+          "koKR",
+          "jaJP",
+          "zhTW"
+        ],
+        "supports_multibox": false,
+        "supports_offline": true,
+        "switcher": false,
+        "title_info":
+        {
+          "title_id": "osi"
+        },
+        "update_method": "ngdp"
+      }
+    },
+    "dede":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Diablo II Resurrected/Diablo II Resurrected.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "link": "%desktoppreference%Diablo II Resurrected.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Diablo II Resurrected",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Diablo II Resurrected",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "enus":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Diablo II Resurrected/Diablo II Resurrected.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "link": "%desktoppreference%Diablo II Resurrected.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Diablo II Resurrected",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Diablo II Resurrected",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "eses":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Diablo II Resurrected/Diablo II Resurrected.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "link": "%desktoppreference%Diablo II Resurrected.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Diablo II Resurrected",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Diablo II Resurrected",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "esmx":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Diablo II Resurrected/Diablo II Resurrected.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "link": "%desktoppreference%Diablo II Resurrected.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Diablo II Resurrected",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Diablo II Resurrected",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "frfr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Diablo II Resurrected/Diablo II Resurrected.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "link": "%desktoppreference%Diablo II Resurrected.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Diablo II Resurrected",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Diablo II Resurrected",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "itit":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Diablo II Resurrected/Diablo II Resurrected.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "link": "%desktoppreference%Diablo II Resurrected.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Diablo II Resurrected",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Diablo II Resurrected",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "jajp":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%\u300C\u30C7\u30A3\u30A2\u30D6\u30ED II \u30EA\u30B6\u30EC\u30AF\u30C6\u30C3\u30C9\u300D/\u300C\u30C7\u30A3\u30A2\u30D6\u30ED II \u30EA\u30B6\u30EC\u30AF\u30C6\u30C3\u30C9\u300D.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "link": "%desktoppreference%\u300C\u30C7\u30A3\u30A2\u30D6\u30ED II \u30EA\u30B6\u30EC\u30AF\u30C6\u30C3\u30C9\u300D.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "\u300C\u30C7\u30A3\u30A2\u30D6\u30ED II \u30EA\u30B6\u30EC\u30AF\u30C6\u30C3\u30C9\u300D",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Diablo II Resurrected",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "kokr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%\uB514\uC544\uBE14\uB85C II \uB808\uC800\uB809\uC158/\uB514\uC544\uBE14\uB85C II \uB808\uC800\uB809\uC158.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "link": "%desktoppreference%\uB514\uC544\uBE14\uB85C II \uB808\uC800\uB809\uC158.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "\uB514\uC544\uBE14\uB85C II \uB808\uC800\uB809\uC158",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Diablo II Resurrected",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "platform":
+    {
+      "win":
+      {
+        "config":
+        {
+          "binaries":
+          {
+            "game":
+            {
+              "launch_arguments": [],
+              "regex": "D2R.exe",
+              "relative_path": "D2R.exe",
+              "switcher": false
+            }
+          },
+          "binary_version_path": "D2R.exe",
+          "form":
+          {
+            "game_dir":
+            {
+              "default": "Program Files",
+              "required_space": 20000000000
+            }
+          },
+          "min_spec":
+          {
+            "default_requires_64_bit": true,
+            "required_osspecs":
+            {
+              "6.1":
+              {
+                "required_subversion": 0
+              }
+            }
+          },
+          "shortcut_target_path": "Diablo II Resurrected Launcher.exe",
+          "tags":
+          [
+            "Windows"
+          ],
+          "uninstall":
+          [
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_BOTH",
+                "key_type": "HKEY_LOCAL_MACHINE",
+                "root": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
+                "subkeys":
+                [
+                  "Diablo II Resurrected"
+                ]
+              }
+            },
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_BOTH",
+                "key_type": "HKEY_CURRENT_USER",
+                "root": "SOFTWARE\\Blizzard Entertainment",
+                "subkeys":
+                [
+                  "Diablo II Resurrected"
+                ]
+              }
+            },
+            {
+              "delete_folder":
+              {
+                "relative_paths":
+                [
+                  "Data"
+                ],
+                "root": "%game%"
+              }
+            },
+            {
+              "delete_file":
+              {
+                "relative_paths":
+                [
+                  "BlizzardError.exe",
+                  "Diablo II Resurrected Launcher.exe",
+                  "D2R.exe",
+                  "BlizzardError.log",
+                  "blz-log.txt",
+                  "d3d12.dll",
+                  "dxilconv7.dll",
+                  "nvngx_dlss.dll"
+                ],
+                "root": "%game%"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "plpl":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Diablo II Resurrected/Diablo II Resurrected.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "link": "%desktoppreference%Diablo II Resurrected.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Diablo II Resurrected",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Diablo II Resurrected",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "ptbr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Diablo II Resurrected/Diablo II Resurrected.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "link": "%desktoppreference%Diablo II Resurrected.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Diablo II Resurrected",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Diablo II Resurrected",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "ruru":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Diablo II Resurrected/Diablo II Resurrected.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "link": "%desktoppreference%Diablo II Resurrected.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Diablo II Resurrected",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Diablo II Resurrected",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "zhtw":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%\u300A\u6697\u9ED1\u7834\u58DE\u795E\u00AEII\uFF1A\u7344\u706B\u91CD\u751F\u300B/\u300A\u6697\u9ED1\u7834\u58DE\u795E\u00AEII\uFF1A\u7344\u706B\u91CD\u751F\u300B.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "link": "%desktoppreference%\u300A\u6697\u9ED1\u7834\u58DE\u795E\u00AEII\uFF1A\u7344\u706B\u91CD\u751F\u300B.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "\u300A\u6697\u9ED1\u7834\u58DE\u795E\u00AEII\uFF1A\u7344\u706B\u91CD\u751F\u300B",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Diablo II Resurrected",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

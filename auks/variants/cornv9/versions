@@ -1,0 +1,65 @@
+{
+  "eu":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "trunk_28043308_zul_sp_bnet_v9_dev",
+      "token": "7cfb660f-cf5b-48d2-893f-d0ca0817ef98"
+    },
+    "buildKey": "a69e84838afd6d396650aed20ef2ac83",
+    "cdnKey": "82bc2c200465ed93c7e37a15aea479c9",
+    "keyRing": "",
+    "path": "tpr/cornv",
+    "pipelineId": 376,
+    "productConfig":
+    {
+      "hash": "dd79bba13d6fe85220a1ad73b43d29b2",
+      "id": 11932
+    },
+    "versionNumber": 28043308,
+    "versionString": "0.0.0.28043308d"
+  },
+  "kr":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "trunk_27965532_zul_full_bnet_v9_dev",
+      "token": "1d2e2c4d-8af6-4fd5-835e-401bf3bfec66"
+    },
+    "buildKey": "ff4b100e07d196c38b4121891a918092",
+    "cdnKey": "3f5f45a75bf65069b3f02d22ca7d7e3e",
+    "keyRing": "",
+    "path": "tpr/cornv",
+    "pipelineId": 376,
+    "productConfig":
+    {
+      "hash": "dd79bba13d6fe85220a1ad73b43d29b2",
+      "id": 11932
+    },
+    "versionNumber": 27965532,
+    "versionString": "0.0.0.27965532d"
+  },
+  "us":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "trunk_27984860_zul_full_bnet_v9_dev",
+      "token": "c48066db-586a-4515-8fed-79aa0e6e8a95"
+    },
+    "buildKey": "8110fb04b0ab5f14ccf7196aa719bc6d",
+    "cdnKey": "f8efedab9c6bb33b7a55289ca69d934c",
+    "keyRing": "",
+    "path": "tpr/cornv",
+    "pipelineId": 376,
+    "productConfig":
+    {
+      "hash": "dd79bba13d6fe85220a1ad73b43d29b2",
+      "id": 11932
+    },
+    "versionNumber": 27984861,
+    "versionString": "0.0.0.27984860d"
+  }
+}

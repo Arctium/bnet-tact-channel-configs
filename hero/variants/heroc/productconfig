@@ -1,0 +1,788 @@
+{
+  "cn\u002Beu\u002Bkr\u002Bsg\u002Btw\u002Bus":
+  {
+    "all":
+    {
+      "config":
+      {
+        "beta": true,
+        "data_dir": "HeroesData/",
+        "display_locales":
+        [
+          "enUS",
+          "deDE",
+          "esES",
+          "frFR",
+          "ruRU",
+          "plPL",
+          "itIT",
+          "ptBR",
+          "esMX",
+          "koKR",
+          "zhTW",
+          "zhCN"
+        ],
+        "form":
+        {
+          "eula":
+          {
+            "eula": false
+          },
+          "game_dir":
+          {
+            "dirname": "Heroes of the Storm Tournament"
+          }
+        },
+        "install_media":
+        {
+          "Heroes of the Storm 1.0":
+          {
+            "discs":
+            [
+              {
+                "disc_number": 1,
+                "display_name": "Heroes of the Storm 1.0 Disc 1",
+                "osx_volume_label": "Heroes of the Storm 1.0",
+                "windows_volume_label": "Heroes of the Storm 1.0"
+              }
+            ],
+            "format": "tact"
+          }
+        },
+        "launch_arguments":
+        [
+          "-launch"
+        ],
+        "opaque_product_specific":
+        {
+          "sso_launch_argument": "-sso=1",
+          "uri_launch_argument": "-link"
+        },
+        "product": "heroc",
+        "ptr": false,
+        "replacement_locales":
+        {
+          "enGB": "enUS"
+        },
+        "supported_locales":
+        [
+          "enUS",
+          "deDE",
+          "esES",
+          "frFR",
+          "ruRU",
+          "plPL",
+          "itIT",
+          "ptBR",
+          "esMX",
+          "koKR",
+          "zhTW",
+          "zhCN"
+        ],
+        "supports_multibox": false,
+        "supports_offline": false,
+        "title_info":
+        {
+          "products_in_title":
+          [
+            "heroc",
+            "herot",
+            "hero"
+          ],
+          "title_id": "hero"
+        },
+        "update_method": "ngdp"
+      }
+    },
+    "cn":
+    {
+      "config":
+      {
+        "display_locales":
+        [
+          "zhCN"
+        ]
+      }
+    },
+    "dede":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Turniere von Heroes of the Storm/Turniere von Heroes of the Storm.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Heroes of the Storm spielen",
+              "link": "%desktoppreference%Turniere von Heroes of the Storm.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "Blizzard-Kundendienst",
+              "display_name": "Turniere von Heroes of the Storm",
+              "helplink": "https://eu.battle.net/support/de/games/heroes",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Heroes of the Storm Tournament",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "enus":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Heroes of the Storm Tournament/Heroes of the Storm Tournament.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Play Heroes of the Storm",
+              "link": "%desktoppreference%Heroes of the Storm Tournament.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "Blizzard Support",
+              "display_name": "Heroes of the Storm Tournament",
+              "helplink": "https://us.battle.net/support/en/games/heroes",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Heroes of the Storm Tournament",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "eses":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Torneo de Heroes of the Storm/Torneo de Heroes of the Storm.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Jugar a Heroes of the Storm",
+              "link": "%desktoppreference%Torneo de Heroes of the Storm.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "Asistencia de Blizzard",
+              "display_name": "Torneo de Heroes of the Storm",
+              "helplink": "https://eu.battle.net/support/es/games/heroes",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Heroes of the Storm Tournament",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "esmx":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Torneo Heroes of the Storm/Torneo Heroes of the Storm.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Jugar Heroes of the Storm",
+              "link": "%desktoppreference%Torneo Heroes of the Storm.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "Soporte t\u00E9cnico de Blizzard",
+              "display_name": "Torneo Heroes of the Storm",
+              "helplink": "https://us.battle.net/support/es/games/heroes",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Heroes of the Storm Tournament",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "frfr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Tournoi Heroes of the Storm/Tournoi Heroes of the Storm.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Jouer \u00E0 Heroes of the Storm",
+              "link": "%desktoppreference%Tournoi Heroes of the Storm.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "Assistance client\u00E8le de Blizzard",
+              "display_name": "Tournoi Heroes of the Storm",
+              "helplink": "https://eu.battle.net/support/fr/games/heroes",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Heroes of the Storm Tournament",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "itit":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Torneo di Heroes of the Storm/Torneo di Heroes of the Storm.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Gioca a Heroes of the Storm",
+              "link": "%desktoppreference%Torneo di Heroes of the Storm.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "Assistenza Blizzard",
+              "display_name": "Torneo di Heroes of the Storm",
+              "helplink": "https://eu.battle.net/support/it/games/heroes",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Heroes of the Storm Tournament",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "kokr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%\uD788\uC5B4\uB85C\uC988 \uC624\uBE0C \uB354 \uC2A4\uD1B0 \uD1A0\uB108\uBA3C\uD2B8/\uD788\uC5B4\uB85C\uC988 \uC624\uBE0C \uB354 \uC2A4\uD1B0 \uD1A0\uB108\uBA3C\uD2B8.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "\uD788\uC5B4\uB85C\uC988 \uC624\uBE0C \uB354 \uC2A4\uD1B0\uB97C \uC2E4\uD589\uD569\uB2C8\uB2E4",
+              "link": "%desktoppreference%\uD788\uC5B4\uB85C\uC988 \uC624\uBE0C \uB354 \uC2A4\uD1B0 \uD1A0\uB108\uBA3C\uD2B8.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "\uBE14\uB9AC\uC790\uB4DC \uACE0\uAC1D\uC9C0\uC6D0",
+              "display_name": "\uD788\uC5B4\uB85C\uC988 \uC624\uBE0C \uB354 \uC2A4\uD1B0 \uD1A0\uB108\uBA3C\uD2B8",
+              "helplink": "https://kr.battle.net/support/kr/games/heroes",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Heroes of the Storm Tournament",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "additional_permission_paths":
+          [
+            "%userlibraryappsupport%Blizzard/Heroes of the Storm"
+          ],
+          "binaries":
+          {
+            "game":
+            {
+              "launch_arguments":
+              [
+                "-launch"
+              ],
+              "regex": "Versions/Base\\d\u002B/Heroes\\.app",
+              "relative_path": "Support/HeroesSwitcher.app",
+              "switcher": true
+            }
+          },
+          "binary_launch_path": "Support/HeroesSwitcher.app",
+          "binary_version_path": "Support/HeroesSwitcher.app",
+          "form":
+          {
+            "game_dir":
+            {
+              "default": "Applications",
+              "required_space": 14000000000,
+              "space_per_extra_language": 1000000000
+            }
+          },
+          "min_spec":
+          {
+            "required_osspecs":
+            {
+              "10.7":
+              {
+                "required_subversion": 5
+              }
+            }
+          },
+          "shortcut_target_path": "Heroes of the Storm.app",
+          "tags":
+          [
+            "OSX",
+            "code"
+          ],
+          "uninstall":
+          [
+            {
+              "delete_folder":
+              {
+                "relative_paths":
+                [
+                  "HeroesData",
+                  "Mods",
+                  "Support",
+                  "Versions",
+                  "Heroes of the Storm.app",
+                  "Blizzard All-Stars.app",
+                  "Blizzard All-Stars Editor.app"
+                ],
+                "root": "%game%"
+              }
+            },
+            {
+              "delete_file":
+              {
+                "relative_paths":
+                [
+                  ".agent.db",
+                  ".patch.result",
+                  ".build.db",
+                  ".build.info",
+                  "Launcher.db",
+                  "maps/Heroes/(10)TryMeMode.StormMap",
+                  "ShaderCache_gl2.bin",
+                  "SetupOSX.mpq"
+                ],
+                "root": "%game%"
+              }
+            }
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "additional_permission_paths":
+          [
+            "%mydocuments%Heroes of the Storm"
+          ],
+          "binaries":
+          {
+            "game":
+            {
+              "launch_arguments":
+              [
+                "-launch"
+              ],
+              "regex": "Versions/Base\\d\u002B/(HeroesOfTheStorm|HeroesOfTheStorm_x64)\\.exe",
+              "relative_path": "Support64/HeroesSwitcher_x64.exe",
+              "switcher": true
+            }
+          },
+          "binary_launch_path": "Support64/HeroesSwitcher_x64.exe",
+          "binary_version_path": "Support64/HeroesSwitcher_x64.exe",
+          "form":
+          {
+            "game_dir":
+            {
+              "default": "Program Files",
+              "required_space": 14000000000,
+              "space_per_extra_language": 1000000000
+            }
+          },
+          "min_spec":
+          {
+            "default_requires_64_bit": true,
+            "required_osspecs":
+            {
+              "6.1":
+              {
+                "required_subversion": 0
+              }
+            }
+          },
+          "shortcut_target_path": "Heroes of the Storm.exe",
+          "tags":
+          [
+            "Windows",
+            "code"
+          ],
+          "uninstall":
+          [
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_32BIT",
+                "key_type": "HKEY_LOCAL_MACHINE",
+                "root": "SOFTWARE\\Blizzard Entertainment",
+                "subkeys":
+                [
+                  "Heroes of the Storm Tournament"
+                ]
+              }
+            },
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_BOTH",
+                "key_type": "HKEY_LOCAL_MACHINE",
+                "root": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
+                "subkeys":
+                [
+                  "Heroes of the Storm Tournament"
+                ]
+              }
+            },
+            {
+              "delete_folder":
+              {
+                "relative_paths":
+                [
+                  "HeroesData",
+                  "Mods",
+                  "Support",
+                  "Support64",
+                  "Versions"
+                ],
+                "root": "%game%"
+              }
+            },
+            {
+              "delete_file":
+              {
+                "relative_paths":
+                [
+                  ".agent.db",
+                  ".patch.result",
+                  ".build.db",
+                  ".build.info",
+                  "Heroes of the Storm.exe",
+                  "Blizzard All-Stars.exe",
+                  "Blizzard All-Stars Editor.exe",
+                  "Launcher.db",
+                  "maps/Heroes/(10)TryMeMode.StormMap",
+                  "SetupWin.mpq"
+                ],
+                "root": "%game%"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "plpl":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Turniej Heroes of the Storm/Turniej Heroes of the Storm.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Zagraj w gr\u0119 Heroes of the Storm.",
+              "link": "%desktoppreference%Turniej Heroes of the Storm.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "Pomoc Blizzarda",
+              "display_name": "Turniej Heroes of the Storm",
+              "helplink": "https://eu.battle.net/support/pl/games/heroes",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Heroes of the Storm Tournament",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "ptbr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Torneio de Heroes of the Storm/Torneio de Heroes of the Storm.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Jogar Heroes of the Storm",
+              "link": "%desktoppreference%Torneio de Heroes of the Storm.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "Suporte Blizzard",
+              "display_name": "Torneio de Heroes of the Storm",
+              "helplink": "https://us.battle.net/support/pt/games/heroes",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Heroes of the Storm Tournament",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "ruru":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%\u0422\u0443\u0440\u043D\u0438\u0440 Heroes of the Storm/\u0422\u0443\u0440\u043D\u0438\u0440 Heroes of the Storm.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "\u0417\u0430\u043F\u0443\u0441\u043A Heroes of the Storm",
+              "link": "%desktoppreference%\u0422\u0443\u0440\u043D\u0438\u0440 Heroes of the Storm.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "\u0421\u043B\u0443\u0436\u0431\u0430 \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0438 Blizzard",
+              "display_name": "\u0422\u0443\u0440\u043D\u0438\u0440 Heroes of the Storm",
+              "helplink": "https://eu.battle.net/support/ru/games/heroes",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Heroes of the Storm Tournament",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "zhcn":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%\u98CE\u66B4\u82F1\u96C4\u804C\u4E1A\u6BD4\u8D5B/\u98CE\u66B4\u82F1\u96C4\u804C\u4E1A\u6BD4\u8D5B.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "\u542F\u52A8\u98CE\u66B4\u82F1\u96C4",
+              "link": "%desktoppreference%\u98CE\u66B4\u82F1\u96C4\u804C\u4E1A\u6BD4\u8D5B.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "\u66B4\u96EA\u652F\u6301",
+              "display_name": "\u98CE\u66B4\u82F1\u96C4\u804C\u4E1A\u6BD4\u8D5B",
+              "helplink": "https://www.battlenet.com.cn/support/zh/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Heroes of the Storm Tournament",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "zhtw":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%\u300A\u66B4\u96EA\u82F1\u9738\u300B\u9326\u6A19\u8CFD/\u300A\u66B4\u96EA\u82F1\u9738\u300B\u9326\u6A19\u8CFD.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "\u57F7\u884C\u66B4\u96EA\u82F1\u9738",
+              "link": "%desktoppreference%\u300A\u66B4\u96EA\u82F1\u9738\u300B\u9326\u6A19\u8CFD.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "Blizzard\u652F\u63F4",
+              "display_name": "\u300A\u66B4\u96EA\u82F1\u9738\u300B\u9326\u6A19\u8CFD",
+              "helplink": "https://tw.battle.net/support/zh/games/heroes",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Heroes of the Storm Tournament",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,753 @@
+{
+  "eu\u002Bkr\u002Bus":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_supports_1023_archives": true,
+        "component_dependencies":
+        [
+          "geirdrifulfore"
+        ],
+        "data_dir": "Data/",
+        "enable_block_copy_patch": true,
+        "form":
+        {
+          "game_dir":
+          {
+            "dirname": "Call of Duty Vanguard"
+          }
+        },
+        "launcher_install_info":
+        {
+          "bootstrapper_branch": "launcher",
+          "bootstrapper_product": "bts",
+          "product_tag": "fore"
+        },
+        "opaque_complex_data":
+        {
+          "tags_config_uri":
+          {
+            "install_packages":
+            [
+              {
+                "package_id": "fore-base",
+                "required": true,
+                "title_string":
+                {
+                  "deDE": "Grundspiel (erforderlich)",
+                  "default": "Base Game (required)",
+                  "esES": "Juego b\u00E1sico (necesario)",
+                  "esMX": "Juego b\u00E1sico (necesario)",
+                  "frFR": "Jeu de base (requis)",
+                  "itIT": "Gioco base (necessario)",
+                  "jaJP": "\u30B2\u30FC\u30E0\u672C\u7DE8\uFF08\u5FC5\u9808\uFF09",
+                  "koKR": "\uAE30\uBCF8 \uAC8C\uC784(\uD544\uC218)",
+                  "plPL": "Podstawowa wersja gry (wymagana)",
+                  "ptBR": "Jogo Base (necess\u00E1rio)",
+                  "ruRU": "\u0411\u0430\u0437\u043E\u0432\u0430\u044F \u0432\u0435\u0440\u0441\u0438\u044F \u0438\u0433\u0440\u044B (\u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F)",
+                  "zhTW": "\u904A\u6232\u4E3B\u9AD4\uFF08\u5FC5\u9808\uFF09"
+                }
+              },
+              {
+                "default_checked": true,
+                "licenses":
+                [
+                  107621
+                ],
+                "more_info_blurb_string":
+                {
+                  "deDE": "Erforderlich, um die Kampagne zu spielen",
+                  "default": "Required to play Campaign",
+                  "esES": "Se necesita para jugar la campa\u00F1a",
+                  "esMX": "Se requiere para jugar la campa\u00F1a",
+                  "frFR": "Requis pour jouer \u00E0 la campagne",
+                  "itIT": "Richiesto per giocare la campagna",
+                  "jaJP": "\u30AD\u30E3\u30F3\u30DA\u30FC\u30F3\u3092\u30D7\u30EC\u30A4\u3059\u308B\u306E\u306B\u5FC5\u8981\u3067\u3059",
+                  "koKR": "\uCEA0\uD398\uC778 \uD50C\uB808\uC774\uC5D0 \uD544\uC694\uD569\uB2C8\uB2E4",
+                  "plPL": "Wymagane do gry w kampani\u0119",
+                  "ptBR": "Necess\u00E1rio para jogar a Campanha",
+                  "ruRU": "\u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F \u0434\u043B\u044F \u0438\u0433\u0440\u044B \u0432 \u043A\u0430\u043C\u043F\u0430\u043D\u0438\u0438",
+                  "zhTW": "\u9700\u8981\u64C1\u6709\u624D\u80FD\u904A\u73A9\u5287\u60C5\u6230\u5F79"
+                },
+                "more_info_blurb_unlicensed_string": "FORE_UNLICENSED",
+                "package_id": "fore-campaign",
+                "tags":
+                [
+                  "sp"
+                ],
+                "title_string":
+                {
+                  "default": "Campaign"
+                }
+              }
+            ],
+            "string_table":
+            {
+              "FORE_UNLICENSED":
+              {
+                "deDE": "F\u00FCr diese Inhalte ist der Kauf von Call of Duty: Vanguard n\u00F6tig.",
+                "default": "This content requires purchase of Call of Duty: Vanguard",
+                "esES": "Se necesita Call of Duty: Vanguard para este contenido",
+                "esMX": "Este contenido requiere la compra de Call of Duty: Vanguard",
+                "frFR": "Ce contenu n\u00E9cessite l\u2019achat de Call of Duty: Vanguard",
+                "itIT": "Questo contenuto richiede l\u0027acquisto di Call of Duty: Vanguard",
+                "jaJP": "\u3053\u306E\u30B3\u30F3\u30C6\u30F3\u30C4\u3092\u3054\u5229\u7528\u3044\u305F\u3060\u304F\u306B\u306F\u300C\u30B3\u30FC\u30EB \u30AA\u30D6 \u30C7\u30E5\u30FC\u30C6\u30A3 \u30F4\u30A1\u30F3\u30AC\u30FC\u30C9\u300D\u306E\u8CFC\u5165\u304C\u5FC5\u8981\u3067\u3059",
+                "koKR": "\uBCF8 \uCF58\uD150\uCE20\uB97C \uC774\uC6A9\uD558\uB824\uBA74 \uCF5C \uC624\uBE0C \uB4C0\uD2F0: \uBC45\uAC00\uB4DC\uB97C \uAD6C\uB9E4\uD574\uC57C \uD569\uB2C8\uB2E4",
+                "plPL": "Ta zawarto\u015B\u0107 wymaga zakupu Call of Duty: Vanguard",
+                "ptBR": "Este conte\u00FAdo requer a compra de Call of Duty: Vanguard",
+                "ruRU": "\u0414\u043B\u044F \u0434\u0430\u043D\u043D\u043E\u0433\u043E \u043A\u043E\u043D\u0442\u0435\u043D\u0442\u0430 \u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F \u043F\u0440\u0438\u043E\u0431\u0440\u0435\u0441\u0442\u0438 Call of Duty: Vanguard",
+                "zhTW": "\u6B64\u5167\u5BB9\u9700\u8981\u8CFC\u8CB7\u300A\u6C7A\u52DD\u6642\u523B\uFF1A\u5148\u92D2\u300B"
+              }
+            }
+          }
+        },
+        "product": "fore",
+        "supported_locales":
+        [
+          "enUS",
+          "frFR",
+          "itIT",
+          "deDE",
+          "esES",
+          "esMX",
+          "ptBR",
+          "ruRU",
+          "plPL",
+          "jaJP",
+          "koKR",
+          "arSA",
+          "zhTW"
+        ],
+        "supports_multibox": false,
+        "supports_offline": false,
+        "switcher": false,
+        "title_info":
+        {
+          "title_id": "fore"
+        },
+        "update_method": "ngdp"
+      }
+    },
+    "arsa":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Call of Duty Vanguard/Call of Duty Vanguard.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "link": "%desktoppreference%Call of Duty Vanguard.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Vanguard",
+              "icon_path": "%installpath%/Vanguard.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Vanguard",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "dede":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Call of Duty Vanguard/Call of Duty Vanguard.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "link": "%desktoppreference%Call of Duty Vanguard.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Vanguard",
+              "icon_path": "%installpath%/Vanguard.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Vanguard",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "enus":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Call of Duty Vanguard/Call of Duty Vanguard.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "link": "%desktoppreference%Call of Duty Vanguard.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Vanguard",
+              "icon_path": "%installpath%/Vanguard.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Vanguard",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "eses":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Call of Duty Vanguard/Call of Duty Vanguard.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "link": "%desktoppreference%Call of Duty Vanguard.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Vanguard",
+              "icon_path": "%installpath%/Vanguard.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Vanguard",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "esmx":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Call of Duty Vanguard/Call of Duty Vanguard.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "link": "%desktoppreference%Call of Duty Vanguard.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Vanguard",
+              "icon_path": "%installpath%/Vanguard.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Vanguard",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "frfr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Call of Duty Vanguard/Call of Duty Vanguard.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "link": "%desktoppreference%Call of Duty Vanguard.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Vanguard",
+              "icon_path": "%installpath%/Vanguard.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Vanguard",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "itit":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Call of Duty Vanguard/Call of Duty Vanguard.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "link": "%desktoppreference%Call of Duty Vanguard.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Vanguard",
+              "icon_path": "%installpath%/Vanguard.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Vanguard",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "jajp":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Call of Duty Vanguard/Call of Duty Vanguard.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "link": "%desktoppreference%Call of Duty Vanguard.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Vanguard",
+              "icon_path": "%installpath%/Vanguard.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Vanguard",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "kokr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBC45\uAC00\uB4DC/\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBC45\uAC00\uB4DC.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "link": "%desktoppreference%\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBC45\uAC00\uB4DC.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBC45\uAC00\uB4DC",
+              "icon_path": "%installpath%/Vanguard.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Vanguard",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "platform":
+    {
+      "win":
+      {
+        "config":
+        {
+          "binaries":
+          {
+            "game":
+            {
+              "launch_arguments":
+              [
+                "Vanguard.exe"
+              ],
+              "regex": "Vanguard.exe|bootstrapper.exe",
+              "relative_path": "bootstrapper.exe",
+              "switcher": false
+            }
+          },
+          "binary_launch_path": "bootstrapper.exe",
+          "binary_version_path": "Vanguard.exe",
+          "form":
+          {
+            "game_dir":
+            {
+              "default": "Program Files",
+              "required_space": 6000000000
+            }
+          },
+          "min_spec":
+          {
+            "allow_arm_emulation": false,
+            "default_required_cpu_cores": 2,
+            "default_required_ram": 8192,
+            "default_requires_64_bit": true,
+            "required_osspecs":
+            {
+              "10.0":
+              {
+                "required_subversion": 0
+              }
+            }
+          },
+          "shortcut_target_path": "Vanguard Launcher.exe",
+          "tags": [],
+          "uninstall":
+          [
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_BOTH",
+                "key_type": "HKEY_LOCAL_MACHINE",
+                "root": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
+                "subkeys":
+                [
+                  "Call of Duty Vanguard"
+                ]
+              }
+            },
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_BOTH",
+                "key_type": "HKEY_CURRENT_USER",
+                "root": "SOFTWARE\\Blizzard Entertainment",
+                "subkeys":
+                [
+                  "Call of Duty Vanguard"
+                ]
+              }
+            },
+            {
+              "delete_folder":
+              {
+                "relative_paths":
+                [
+                  "12On7",
+                  "BlizzardBrowser",
+                  "Data",
+                  "main",
+                  "shadercache",
+                  "telescopeCache",
+                  "xpak_cache"
+                ],
+                "root": "%game%"
+              }
+            },
+            {
+              "delete_file":
+              {
+                "relative_paths":
+                [
+                  "amd_ags_x64.dll",
+                  "api-ms-win-core-file-l1-2-0.dll",
+                  "API-MS-Win-core-file-l2-1-0.dll",
+                  "api-ms-win-core-localization-l1-2-0.dll",
+                  "api-ms-win-core-processthreads-l1-1-1.dll",
+                  "api-ms-win-core-synch-l1-2-0.dll",
+                  "api-ms-win-core-timezone-l1-1-0.dll",
+                  "api-ms-win-core-winrt-l1-1-0.dll",
+                  "api-ms-win-core-winrt-string-l1-1-0.dll",
+                  "api-ms-win-crt-convert-l1-1-0.dll",
+                  "api-ms-win-crt-environment-l1-1-0.dll",
+                  "api-ms-win-crt-filesystem-l1-1-0.dll",
+                  "api-ms-win-crt-heap-l1-1-0.dll",
+                  "api-ms-win-crt-locale-l1-1-0.dll",
+                  "api-ms-win-crt-math-l1-1-0.dll",
+                  "api-ms-win-crt-multibyte-l1-1-0.dll",
+                  "api-ms-win-crt-private-l1-1-0.dll",
+                  "api-ms-win-crt-runtime-l1-1-0.dll",
+                  "api-ms-win-crt-stdio-l1-1-0.dll",
+                  "api-ms-win-crt-string-l1-1-0.dll",
+                  "api-ms-win-crt-time-l1-1-0.dll",
+                  "api-ms-win-crt-utility-l1-1-0.dll",
+                  "bink2w64.dll",
+                  "concrt140.dll",
+                  "dbghelp.dll",
+                  "discord_game_sdk.dll",
+                  "game.icn",
+                  "GFSDK_Aftermath_Lib.x64.dll",
+                  "msvcp140.dll",
+                  "nvngx_dlss.dll",
+                  "oo2core_8_win64.dll",
+                  "ReportCodBug.exe",
+                  "telescope.dll",
+                  "Vanguard Launcher.exe",
+                  "Vanguard.exe",
+                  "VanguardCrashHandler.exe",
+                  "vcruntime140.dll",
+                  "vcruntime140_1.dll"
+                ],
+                "root": "%game%"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "plpl":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Call of Duty Vanguard/Call of Duty Vanguard.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "link": "%desktoppreference%Call of Duty Vanguard.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Vanguard",
+              "icon_path": "%installpath%/Vanguard.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Vanguard",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "ptbr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Call of Duty Vanguard/Call of Duty Vanguard.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "link": "%desktoppreference%Call of Duty Vanguard.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Vanguard",
+              "icon_path": "%installpath%/Vanguard.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Vanguard",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "ruru":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Call of Duty Vanguard/Call of Duty Vanguard.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "link": "%desktoppreference%Call of Duty Vanguard.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty Vanguard",
+              "icon_path": "%installpath%/Vanguard.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Vanguard",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "zhtw":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%\u300A\u6C7A\u52DD\u6642\u523B\uFF1A\u5148\u92D2\u300B/\u300A\u6C7A\u52DD\u6642\u523B\uFF1A\u5148\u92D2\u300B.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "link": "%desktoppreference%\u300A\u6C7A\u52DD\u6642\u523B\uFF1A\u5148\u92D2\u300B.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "\u300A\u6C7A\u52DD\u6642\u523B\uFF1A\u5148\u92D2\u300B",
+              "icon_path": "%installpath%/Vanguard.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty Vanguard",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "cn":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "1.23.10.11269-retail",
+      "token": "cd01051e-b97e-47ba-885e-ba64ca3c8447"
+    },
+    "buildKey": "4f29e696409f060a27d9bb716a87ab2b",
+    "cdnKey": "02145b9c853e2967e9046d838c3c733e",
+    "keyRing": "",
+    "path": "tpr/sc1live",
+    "pipelineId": 110,
+    "productConfig":
+    {
+      "hash": "c61fc45c039ea8dfd98febbc5b6e73b8",
+      "id": 1341
+    },
+    "versionNumber": 11269,
+    "versionString": "1.23.10.11269"
+  },
+  "eu\u002Bkr\u002Bsg\u002Btw\u002Bus":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "1.23.10.13515-retail",
+      "token": "bf68dc71-9598-41ef-9fe7-e8906dc838b4"
+    },
+    "buildKey": "864772b9ff94f6d372aa4ee90ee2f8ab",
+    "cdnKey": "bd4a0f876fdbf39666f0fae661e54974",
+    "keyRing": "",
+    "path": "tpr/sc1live",
+    "pipelineId": 110,
+    "productConfig":
+    {
+      "hash": "c61fc45c039ea8dfd98febbc5b6e73b8",
+      "id": 1341
+    },
+    "versionNumber": 13515,
+    "versionString": "1.23.10.13515"
+  }
+}

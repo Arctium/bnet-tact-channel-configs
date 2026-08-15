@@ -1,0 +1,258 @@
+{
+  "us":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_supports_1023_archives": true,
+        "component_dependencies":
+        [
+          "hristninaqa2"
+        ],
+        "data_dir": "Data/",
+        "decryption_key_name": "ninavendor",
+        "enable_block_copy_patch": true,
+        "form":
+        {
+          "game_dir":
+          {
+            "dirname": "Nina Vendor"
+          }
+        },
+        "opaque_complex_data":
+        {
+          "tags_config_uri":
+          {
+            "install_packages":
+            [
+              {
+                "package_id": "nina-base",
+                "required": true,
+                "title_string":
+                {
+                  "arSA": "\u0627\u0644\u0644\u0639\u0628\u0629 \u0627\u0644\u0623\u0633\u0627\u0633\u064A\u0629",
+                  "deDE": "Grundspiel (erforderlich)",
+                  "default": "Base Game (required)",
+                  "esES": "Juego b\u00E1sico (necesario)",
+                  "esMX": "Juego b\u00E1sico (necesario)",
+                  "frFR": "Jeu de base (requis)",
+                  "itIT": "Gioco base (necessario)",
+                  "jaJP": "\u30B2\u30FC\u30E0\u672C\u7DE8\uFF08\u5FC5\u9808\uFF09",
+                  "koKR": "\uAE30\uBCF8 \uAC8C\uC784(\uD544\uC218)",
+                  "plPL": "Podstawowa wersja gry (wymagana)",
+                  "ptBR": "Jogo Base (necess\u00E1rio)",
+                  "ruRU": "\u0411\u0430\u0437\u043E\u0432\u0430\u044F \u0432\u0435\u0440\u0441\u0438\u044F \u0438\u0433\u0440\u044B (\u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F)",
+                  "thTH": "\u0E15\u0E31\u0E27\u0E40\u0E01\u0E21\u0E2B\u0E25\u0E31\u0E01 (\u0E08\u0E33\u0E40\u0E1B\u0E47\u0E19)",
+                  "zhTW": "\u904A\u6232\u4E3B\u9AD4\uFF08\u5FC5\u9808\uFF09"
+                }
+              },
+              {
+                "default_checked": true,
+                "package_id": "nina_01_01",
+                "tags":
+                [
+                  "dlc01_01"
+                ],
+                "title_string":
+                {
+                  "default": "dlc01_01"
+                }
+              },
+              {
+                "default_checked": true,
+                "package_id": "nina_01_02",
+                "tags":
+                [
+                  "dlc01_02"
+                ],
+                "title_string":
+                {
+                  "default": "dlc01_02"
+                }
+              },
+              {
+                "default_checked": true,
+                "package_id": "nina_01_03",
+                "tags":
+                [
+                  "dlc01_03"
+                ],
+                "title_string":
+                {
+                  "default": "dlc01_03"
+                }
+              },
+              {
+                "default_checked": true,
+                "package_id": "nina_01_04",
+                "tags":
+                [
+                  "dlc01_04"
+                ],
+                "title_string":
+                {
+                  "default": "dlc01_04"
+                }
+              }
+            ]
+          }
+        },
+        "product": "ninav5",
+        "shared_container_default_subfolder": "_vendor05_",
+        "supported_locales":
+        [
+          "deDE",
+          "enUS",
+          "esMX",
+          "esES",
+          "frFR",
+          "itIT",
+          "jaJP",
+          "plPL",
+          "ptBR",
+          "ruRU",
+          "thTH",
+          "koKR",
+          "zhTW",
+          "zhCN",
+          "arSA"
+        ],
+        "supports_multibox": false,
+        "supports_offline": false,
+        "switcher": false,
+        "title_info":
+        {
+          "title_id": "nina"
+        },
+        "update_method": "ngdp"
+      }
+    },
+    "enus":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Nina Vendor 5",
+              "helplink": "http://us.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Nina Vendor 5",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "platform":
+    {
+      "win":
+      {
+        "config":
+        {
+          "binaries":
+          {
+            "game":
+            {
+              "launch_arguments":
+              [
+                "cod22-cod.exe"
+              ],
+              "regex": "cod22-cod.exe|bootstrapper.exe",
+              "relative_path": "bootstrapper.exe",
+              "switcher": false
+            }
+          },
+          "binary_launch_path": "bootstrapper.exe",
+          "binary_version_path": "cod22-cod.exe",
+          "form":
+          {
+            "game_dir":
+            {
+              "default": "Program Files",
+              "required_space": 6000000000
+            }
+          },
+          "min_spec":
+          {
+            "allow_arm_emulation": false,
+            "default_requires_64_bit": true,
+            "required_osspecs":
+            {
+              "10.0":
+              {
+                "required_subversion": 0
+              }
+            }
+          },
+          "shared_container_delete_list": [],
+          "shared_container_move_list": [],
+          "tags": [],
+          "uninstall":
+          [
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_BOTH",
+                "key_type": "HKEY_LOCAL_MACHINE",
+                "root": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
+                "subkeys":
+                [
+                  "Nina Vendor 5"
+                ]
+              }
+            },
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_BOTH",
+                "key_type": "HKEY_CURRENT_USER",
+                "root": "SOFTWARE\\Blizzard Entertainment",
+                "subkeys":
+                [
+                  "Nina Vendor 5"
+                ]
+              }
+            },
+            {
+              "delete_folder":
+              {
+                "relative_paths":
+                [
+                  "Data"
+                ],
+                "root": "%titlepath%"
+              }
+            },
+            {
+              "delete_folder":
+              {
+                "relative_paths":
+                [
+                  "BlizzardBrowser"
+                ],
+                "root": "%game%"
+              }
+            },
+            {
+              "delete_file":
+              {
+                "relative_paths":
+                [
+                  "launcher.exe"
+                ],
+                "root": "%game%"
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

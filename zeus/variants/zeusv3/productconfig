@@ -1,0 +1,1794 @@
+{
+  "eu\u002Bus":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_supports_1023_archives": true,
+        "data_dir": "Data/",
+        "decryption_key_name": "zeusvendor3",
+        "enable_block_copy_patch": true,
+        "form":
+        {
+          "game_dir":
+          {
+            "dirname": "Zeus Vendor 3"
+          }
+        },
+        "launcher_install_info":
+        {
+          "bootstrapper_branch": "launcher",
+          "bootstrapper_product": "bts",
+          "product_tag": "zeus"
+        },
+        "opaque_complex_data":
+        {
+          "tags_config_uri":
+          {
+            "install_packages":
+            [
+              {
+                "package_id": "zeus-base",
+                "required": true,
+                "title_string":
+                {
+                  "deDE": "Grundspiel (erforderlich)",
+                  "default": "Base Game (required)",
+                  "esES": "Juego b\u00E1sico (necesario)",
+                  "esMX": "Juego b\u00E1sico (necesario)",
+                  "frFR": "Jeu de base (requis)",
+                  "itIT": "Gioco base (necessario)",
+                  "jaJP": "\u30B2\u30FC\u30E0\u672C\u7DE8\uFF08\u5FC5\u9808\uFF09",
+                  "koKR": "\uAE30\uBCF8 \uAC8C\uC784(\uD544\uC218)",
+                  "plPL": "Podstawowa wersja gry (wymagana)",
+                  "ptBR": "Jogo Base (necess\u00E1rio)",
+                  "ruRU": "\u0411\u0430\u0437\u043E\u0432\u0430\u044F \u0432\u0435\u0440\u0441\u0438\u044F \u0438\u0433\u0440\u044B (\u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F)",
+                  "zhTW": "\u904A\u6232\u4E3B\u9AD4\uFF08\u5FC5\u9808\uFF09"
+                }
+              },
+              {
+                "licenses":
+                [
+                  53036,
+                  52736
+                ],
+                "more_info_blurb_string":
+                {
+                  "deDE": "Erforderlich, um die Kampagne zu spielen",
+                  "default": "Required to play Campaign",
+                  "esES": "Se necesita para jugar la campa\u00F1a",
+                  "esMX": "Se requiere para jugar la campa\u00F1a",
+                  "frFR": "Requis pour jouer \u00E0 la campagne",
+                  "itIT": "Richiesto per giocare la campagna",
+                  "jaJP": "\u30AD\u30E3\u30F3\u30DA\u30FC\u30F3\u3092\u30D7\u30EC\u30A4\u3059\u308B\u306E\u306B\u5FC5\u8981\u3067\u3059",
+                  "koKR": "\uCEA0\uD398\uC778 \uD50C\uB808\uC774\uC5D0 \uD544\uC694\uD569\uB2C8\uB2E4",
+                  "plPL": "Wymagane do gry w kampani\u0119",
+                  "ptBR": "Necess\u00E1rio para jogar a Campanha",
+                  "ruRU": "\u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F \u0434\u043B\u044F \u0438\u0433\u0440\u044B \u0432 \u043A\u0430\u043C\u043F\u0430\u043D\u0438\u0438",
+                  "zhTW": "\u9700\u8981\u64C1\u6709\u624D\u80FD\u904A\u73A9\u5287\u60C5\u6230\u5F79"
+                },
+                "more_info_blurb_unlicensed_string": "COD_UNLICENSED",
+                "package_id": "zeus-campaign",
+                "tags":
+                [
+                  "cp"
+                ],
+                "title_string":
+                {
+                  "deDE": "Kampagne",
+                  "default": "Campaign",
+                  "esES": "Campa\u00F1a",
+                  "esMX": "Campa\u00F1a",
+                  "frFR": "Campagne",
+                  "itIT": "Campagna",
+                  "jaJP": "\u30AD\u30E3\u30F3\u30DA\u30FC\u30F3",
+                  "koKR": "\uCEA0\uD398\uC778",
+                  "plPL": "Kampania",
+                  "ptBR": "Campanha",
+                  "ruRU": "\u041A\u0430\u043C\u043F\u0430\u043D\u0438\u044F",
+                  "zhTW": "\u5287\u60C5\u6230\u5F79"
+                }
+              },
+              {
+                "licenses":
+                [
+                  53037,
+                  52736
+                ],
+                "more_info_blurb_string":
+                {
+                  "deDE": "Erforderlich, um den Mehrspielermodus zu spielen",
+                  "default": "Required to play Multiplayer",
+                  "esES": "Se necesita para jugar al multijugador",
+                  "esMX": "Se requiere para jugar el modo multijugador",
+                  "frFR": "Requis pour jouer en multijoueur",
+                  "itIT": "Richiesto per giocare in modalit\u00E0 multigiocatore",
+                  "jaJP": "\u30DE\u30EB\u30C1\u30D7\u30EC\u30A4\u30E4\u30FC\u3092\u30D7\u30EC\u30A4\u3059\u308B\u306E\u306B\u5FC5\u8981\u3067\u3059",
+                  "koKR": "\uBA40\uD2F0\uD50C\uB808\uC774\uC5D0 \uD544\uC694\uD569\uB2C8\uB2E4",
+                  "plPL": "Wymagane do gry w tryb wieloosobowy",
+                  "ptBR": "Necess\u00E1rio para jogar o Multijogador",
+                  "ruRU": "\u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F \u0434\u043B\u044F \u0441\u0435\u0442\u0435\u0432\u043E\u0439 \u0438\u0433\u0440\u044B",
+                  "zhTW": "\u9700\u8981\u64C1\u6709\u624D\u80FD\u904A\u73A9\u591A\u4EBA\u904A\u6232"
+                },
+                "more_info_blurb_unlicensed_string": "COD_UNLICENSED",
+                "package_id": "zeus-multiplayer",
+                "tags":
+                [
+                  "mp"
+                ],
+                "title_string":
+                {
+                  "deDE": "Mehrspieler",
+                  "default": "Multiplayer",
+                  "esES": "Multijugador",
+                  "esMX": "Multijugador",
+                  "frFR": "Multijoueur",
+                  "itIT": "Multigiocatore",
+                  "jaJP": "\u30DE\u30EB\u30C1\u30D7\u30EC\u30A4\u30E4\u30FC",
+                  "koKR": "\uBA40\uD2F0\uD50C\uB808\uC774",
+                  "plPL": "Tryb wieloosobowy",
+                  "ptBR": "Multijogador",
+                  "ruRU": "\u0421\u0435\u0442\u0435\u0432\u0430\u044F \u0438\u0433\u0440\u0430",
+                  "zhTW": "\u591A\u4EBA\u5C0D\u6230"
+                }
+              },
+              {
+                "licenses":
+                [
+                  53038,
+                  52736
+                ],
+                "more_info_blurb_string":
+                {
+                  "deDE": "Erforderlich, um den Modus Zombies zu spielen.",
+                  "default": "Required to play Zombies",
+                  "esES": "Se necesita para jugar a Zombis",
+                  "esMX": "Se requiere para jugar el modo Zombis",
+                  "frFR": "Requis pour jouer au mode Zombies",
+                  "itIT": "Necessario per giocare a Zombi",
+                  "jaJP": "\u30BE\u30F3\u30D3\u306E\u30D7\u30EC\u30A4\u306B\u5FC5\u8981\u3067\u3059",
+                  "koKR": "\uC880\uBE44 \uD50C\uB808\uC774\uC5D0 \uD544\uC694\uD569\uB2C8\uB2E4",
+                  "plPL": "Wymagane do gry w tryb Zombie",
+                  "ptBR": "Necess\u00E1rio para jogar Zombies",
+                  "ruRU": "\u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F \u0434\u043B\u044F \u0431\u043E\u0435\u0432 \u0441 \u0437\u043E\u043C\u0431\u0438",
+                  "zhTW": "\u9700\u8981\u64C1\u6709\u624D\u80FD\u904A\u73A9\u6BAD\u5C4D\u6A21\u5F0F"
+                },
+                "more_info_blurb_unlicensed_string": "COD_UNLICENSED",
+                "package_id": "zeus-zombies",
+                "tags":
+                [
+                  "zm"
+                ],
+                "title_string":
+                {
+                  "default": "Zombies",
+                  "esES": "Zombis",
+                  "esMX": "Zombis",
+                  "itIT": "Zombi",
+                  "jaJP": "\u30BE\u30F3\u30D3",
+                  "koKR": "\uC880\uBE44",
+                  "plPL": "Zombie",
+                  "ruRU": "\u0411\u043E\u0438 \u0441 \u0437\u043E\u043C\u0431\u0438",
+                  "zhTW": "\u6BAD\u5C4D"
+                }
+              },
+              {
+                "licenses":
+                [
+                  53039,
+                  52736
+                ],
+                "more_info_blurb_string":
+                {
+                  "deDE": "Erforderlich, um Dead Ops Arcade 3 zu spielen.",
+                  "default": "Required to play Dead Ops Arcade 3",
+                  "esES": "Se necesita para jugar a Dead Ops Arcade 3",
+                  "esMX": "Se requiere para jugar el modo Dead Ops Arcade 3",
+                  "frFR": "Requis pour jouer au mode Dead Ops Arcade 3",
+                  "itIT": "Necessario per giocare a Dead Ops Arcade 3",
+                  "jaJP": "DEAD OPS ARCADE 3\u306E\u30D7\u30EC\u30A4\u306B\u5FC5\u8981\u3067\u3059",
+                  "koKR": "\uB370\uB4DC \uC635\uC2A4 \uC544\uCF00\uC774\uB4DC 3 \uD50C\uB808\uC774\uC5D0 \uD544\uC694\uD569\uB2C8\uB2E4",
+                  "plPL": "Wymagane do gry w tryb Operacja Sztywniak 3",
+                  "ptBR": "Necess\u00E1rio para jogar Dead Ops Arcade 3",
+                  "ruRU": "\u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F \u0434\u043B\u044F \u0440\u0435\u0436\u0438\u043C\u0430 \u00AB\u041C\u0435\u0440\u0442\u0432\u0435\u0446\u043A\u0438\u0435 \u0437\u0430\u0431\u0430\u0432\u044B\u00BB",
+                  "zhTW": "\u9700\u8981\u64C1\u6709\u624D\u80FD\u904A\u73A9\u300A\u6B7B\u4EA1\u884C\u52D5\u8857\u6A5FIII\u300B"
+                },
+                "more_info_blurb_unlicensed_string": "COD_UNLICENSED",
+                "package_id": "zeus-arcade",
+                "tags":
+                [
+                  "zm2"
+                ],
+                "title_string":
+                {
+                  "default": "Dead Ops Arcade 3",
+                  "jaJP": "DEAD OPS ARCADE 3",
+                  "koKR": "\uB370\uB4DC \uC635\uC2A4 \uC544\uCF00\uC774\uB4DC 3",
+                  "plPL": "Operacja Sztywniak 3",
+                  "ruRU": "\u041C\u0435\u0440\u0442\u0432\u0435\u0446\u043A\u0438\u0435 \u0437\u0430\u0431\u0430\u0432\u044B",
+                  "zhTW": "\u300A\u6B7B\u4EA1\u884C\u52D5\u8857\u6A5FIII\u300B"
+                }
+              },
+              {
+                "default_checked": false,
+                "more_info_blurb_string":
+                {
+                  "deDE": "Erforderlich, um hochaufl\u00F6sende Inhalte darzustellen. Spieler, die mit 4K-Monitoren und den h\u00F6chsten Grafikeinstellungen spielen, profitieren am meisten von diesem Installationspaket.",
+                  "default": "Required for High-Resolution Assets. Players who play on 4K monitors and play with Ultra settings will benefit the most from this pack.",
+                  "esES": "Se necesita para utilizar recursos de alta resoluci\u00F3n. Este paquete ofrece la mejor experiencia con monitores 4K y los ajustes configurados en Ultra.",
+                  "esMX": "Se requiere para acceder a los modelos de alta resoluci\u00F3n. Los jugadores que usan monitores 4K con la configuraci\u00F3n Ultra obtendr\u00E1n el m\u00E1ximo rendimiento con este paquete.",
+                  "frFR": "Requis pour les \u00E9l\u00E9ments en haute d\u00E9finition. Les joueurs poss\u00E9dant des \u00E9crans\u00A04K et ayant d\u00E9fini les param\u00E8tres sur Ultra tireront le meilleur parti de ce pack.",
+                  "itIT": "Necessario per gli asset ad alta risoluzione. I giocatori che utilizzano monitor a 4K e impostazioni \u0022Ultra\u0022 trarranno il massimo beneficio da questo pacchetto.",
+                  "jaJP": "\u9AD8\u89E3\u50CF\u5EA6\u30A2\u30BB\u30C3\u30C8\u306E\u4F7F\u7528\u306B\u5FC5\u8981\u3067\u3059\u30024K\u30E2\u30CB\u30BF\u30FC\u3084\u30A6\u30EB\u30C8\u30E9\u8A2D\u5B9A\u3067\u30D7\u30EC\u30A4\u3055\u308C\u308B\u65B9\u306F\u672C\u30D1\u30C3\u30AF\u3092\u9069\u7528\u3059\u308B\u3053\u3068\u3067\u3001\u3088\u308A\u30EA\u30A2\u30EB\u306A\u6620\u50CF\u3092\u6700\u5927\u9650\u306B\u304A\u697D\u3057\u307F\u3044\u305F\u3060\u3051\u307E\u3059\u3002",
+                  "koKR": "\uACE0\uD574\uC0C1\uB3C4 \uC560\uC14B\uC5D0 \uD544\uC694\uD569\uB2C8\uB2E4. 4K \uBAA8\uB2C8\uD130\uC5D0\uC11C \uC6B8\uD2B8\uB77C \uC124\uC815\uC73C\uB85C \uD50C\uB808\uC774\uD558\uC2E0\uB2E4\uBA74 \uC774 \uD329\uC73C\uB85C \uAC00\uC7A5 \uB9CE\uC740 \uD61C\uD0DD\uC744 \uBCF4\uC2E4 \uC218 \uC788\uC2B5\uB2C8\uB2E4.",
+                  "plPL": "Wymagane do korzystania z zasob\u00F3w w wysokiej rozdzielczo\u015Bci. Pakiet szczeg\u00F3lnie polecany graczom korzystaj\u0105cym z monitor\u00F3w 4K w ustawieniach Ultra.",
+                  "ptBR": "Necess\u00E1rio para Elementos em Alta Resolu\u00E7\u00E3o. Jogadores com monitores 4K e configura\u00E7\u00F5es Ultra obter\u00E3o os melhores benef\u00EDcios deste pacote.",
+                  "ruRU": "\u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F \u0434\u043B\u044F \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u043E\u0432 \u0432 \u0432\u044B\u0441\u043E\u043A\u043E\u043C \u0440\u0430\u0437\u0440\u0435\u0448\u0435\u043D\u0438\u0438 \u0414\u0430\u043D\u043D\u044B\u0439 \u043D\u0430\u0431\u043E\u0440 \u043D\u0430\u0438\u0431\u043E\u043B\u0435\u0435 \u043F\u043E\u043B\u0435\u0437\u0435\u043D \u0434\u043B\u044F \u0438\u0433\u0440\u043E\u043A\u043E\u0432, \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u044E\u0449\u0438\u0445 \u043C\u043E\u043D\u0438\u0442\u043E\u0440\u044B \u0441 \u0440\u0430\u0437\u0440\u0435\u0448\u0435\u043D\u0438\u0435\u043C 4K \u0438 \u0443\u0440\u043E\u0432\u0435\u043D\u044C \u043D\u0430\u0441\u0442\u0440\u043E\u0435\u043A \u00AB\u0423\u043B\u044C\u0442\u0440\u0430\u00BB.",
+                  "zhTW": "\u9700\u8981\u64C1\u6709\u624D\u80FD\u4F7F\u7528\u9AD8\u756B\u8CEA\u7D20\u6750\u6B64\u7D20\u6750\u5305\u53EF\u70BA\u4F7F\u75284K\u9AD8\u756B\u8CEA\u87A2\u5E55\u4EE5\u53CA\u8D85\u9AD8\u8A2D\u5B9A\u7684\u73A9\u5BB6\u5E36\u4F86\u6700\u5927\u6548\u76CA\u3002"
+                },
+                "package_id": "zeus-hd",
+                "tags":
+                [
+                  "hd"
+                ],
+                "title_string":
+                {
+                  "deDE": "Hochaufl\u00F6sende Inhalte",
+                  "default": "High-Resolution Assets",
+                  "esES": "Recursos de alta resoluci\u00F3n",
+                  "esMX": "Modelos de alta resoluci\u00F3n",
+                  "frFR": "\u00C9l\u00E9ments en haute d\u00E9finition",
+                  "itIT": "Asset ad alta risoluzione",
+                  "jaJP": "\u9AD8\u89E3\u50CF\u5EA6\u30A2\u30BB\u30C3\u30C8",
+                  "koKR": "\uACE0\uD574\uC0C1\uB3C4 \uC560\uC14B",
+                  "plPL": "Zasoby w wysokiej rozdzielczo\u015Bci",
+                  "ptBR": "Elementos em Alta Resolu\u00E7\u00E3o",
+                  "ruRU": "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u0432 \u0432\u044B\u0441\u043E\u043A\u043E\u043C \u0440\u0430\u0437\u0440\u0435\u0448\u0435\u043D\u0438\u0438",
+                  "zhTW": "\u9AD8\u756B\u8CEA\u7D20\u6750"
+                }
+              }
+            ],
+            "string_table":
+            {
+              "COD_UNLICENSED":
+              {
+                "deDE": "This content requires purchase of Call of Duty: Black Ops Cold War",
+                "default": "This content requires purchase of Call of Duty: Black Ops Cold War",
+                "esES": "Se necesita Call of Duty: Black Ops Cold War para este contenido",
+                "esMX": "Este contenido requiere la compra de Call of Duty: Black Ops Cold War",
+                "frFR": "Pour acc\u00E9der \u00E0 ce contenu, vous devez poss\u00E9der Call of Duty: Black Ops Cold War",
+                "itIT": "Questo contenuto richiede l\u0027acquisto di Call of Duty: Black Ops Cold War",
+                "jaJP": "\u300C\u30B3\u30FC\u30EB \u30AA\u30D6 \u30C7\u30E5\u30FC\u30C6\u30A3 \u30D6\u30E9\u30C3\u30AF\u30AA\u30D7\u30B9 \u30B3\u30FC\u30EB\u30C9\u30A6\u30A9\u30FC\u300D\u306E\u8CFC\u5165\u304C\u5FC5\u8981\u3067\u3059",
+                "koKR": "\uD574\uB2F9 \uCF58\uD150\uCE20\uB97C \uC774\uC6A9\uD558\uB824\uBA74 \uCF5C \uC624\uBE0C \uB4C0\uD2F0: \uBE14\uB799 \uC635\uC2A4 \uCF5C\uB4DC \uC6CC\uB97C \uAD6C\uB9E4\uD558\uC154\uC57C \uD569\uB2C8\uB2E4.",
+                "plPL": "Ta zawarto\u015B\u0107 wymaga zakupu gry Call of Duty: Black Ops Cold War",
+                "ptBR": "Este conte\u00FAdo requer a compra de Call of Duty: Black Ops Cold War",
+                "ruRU": "\u0414\u043B\u044F \u0434\u0430\u043D\u043D\u043E\u0433\u043E \u043A\u043E\u043D\u0442\u0435\u043D\u0442\u0430 \u043D\u0435\u043E\u0431\u0445\u043E\u0434\u0438\u043C\u043E \u043F\u0440\u0438\u043E\u0431\u0440\u0435\u0441\u0442\u0438 Call of Duty: Black Ops Cold War",
+                "zhTW": "\u6B64\u5167\u5BB9\u9700\u8CFC\u8CB7\u300A\u6C7A\u52DD\u6642\u523B\uFF1A\u9ED1\u8272\u884C\u52D5\u51B7\u6230\u300B\u624D\u53EF\u4F7F\u7528"
+              }
+            }
+          }
+        },
+        "product": "zeusv3",
+        "supported_locales":
+        [
+          "enUS",
+          "frFR",
+          "itIT",
+          "deDE",
+          "esES",
+          "esMX",
+          "ptBR",
+          "ruRU",
+          "plPL",
+          "jaJP",
+          "koKR",
+          "arSA",
+          "zhTW",
+          "zhCN"
+        ],
+        "supports_multibox": false,
+        "supports_offline": false,
+        "switcher": false,
+        "title_info":
+        {
+          "products_in_title":
+          [
+            "zeusdev",
+            "zeusv1",
+            "zeusv2",
+            "zeusv3",
+            "zeusv4",
+            "zeusv5",
+            "zeusv6"
+          ],
+          "title_id": "zeus"
+        },
+        "update_method": "ngdp"
+      }
+    },
+    "arsa":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Zeus Vendor 3/Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Zeus Vendor 3 Shortcut Description",
+              "link": "%desktoppreference%Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Zeus Vendor 3",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Zeus Vendor 3",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "dede":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Zeus Vendor 3/Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Zeus Vendor 3 Shortcut Description",
+              "link": "%desktoppreference%Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Zeus Vendor 3",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Zeus Vendor 3",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "enus":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Zeus Vendor 3/Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Zeus Vendor 3 Shortcut Description",
+              "link": "%desktoppreference%Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Zeus Vendor 3",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Zeus Vendor 3",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "eses":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Zeus Vendor 3/Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Zeus Vendor 3 Shortcut Description",
+              "link": "%desktoppreference%Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Zeus Vendor 3",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Zeus Vendor 3",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "esmx":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Zeus Vendor 3/Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Zeus Vendor 3 Shortcut Description",
+              "link": "%desktoppreference%Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Zeus Vendor 3",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Zeus Vendor 3",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "frfr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Zeus Vendor 3/Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Zeus Vendor 3 Shortcut Description",
+              "link": "%desktoppreference%Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Zeus Vendor 3",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Zeus Vendor 3",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "itit":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Zeus Vendor 3/Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Zeus Vendor 3 Shortcut Description",
+              "link": "%desktoppreference%Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Zeus Vendor 3",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Zeus Vendor 3",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "jajp":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%\u30B3\u30FC\u30EB \u30AA\u30D6 \u30C7\u30E5\u30FC\u30C6\u30A3 \u30D6\u30E9\u30C3\u30AF\u30AA\u30D7\u30B9 \u30B3\u30FC\u30EB\u30C9\u30A6\u30A9\u30FC V3/\u30B3\u30FC\u30EB \u30AA\u30D6 \u30C7\u30E5\u30FC\u30C6\u30A3 \u30D6\u30E9\u30C3\u30AF\u30AA\u30D7\u30B9 \u30B3\u30FC\u30EB\u30C9\u30A6\u30A9\u30FC V3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Zeus Vendor 3 Shortcut Description",
+              "link": "%desktoppreference%\u30B3\u30FC\u30EB \u30AA\u30D6 \u30C7\u30E5\u30FC\u30C6\u30A3 \u30D6\u30E9\u30C3\u30AF\u30AA\u30D7\u30B9 \u30B3\u30FC\u30EB\u30C9\u30A6\u30A9\u30FC V3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "\u30B3\u30FC\u30EB \u30AA\u30D6 \u30C7\u30E5\u30FC\u30C6\u30A3 \u30D6\u30E9\u30C3\u30AF\u30AA\u30D7\u30B9 \u30B3\u30FC\u30EB\u30C9\u30A6\u30A9\u30FC V3",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Zeus Vendor 3",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "kokr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBE14\uB799 \uC635\uC2A4 \uCF5C\uB4DC \uC6CC V3/\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBE14\uB799 \uC635\uC2A4 \uCF5C\uB4DC \uC6CC V3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Zeus Vendor 3 Shortcut Description",
+              "link": "%desktoppreference%\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBE14\uB799 \uC635\uC2A4 \uCF5C\uB4DC \uC6CC V3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBE14\uB799 \uC635\uC2A4 \uCF5C\uB4DC \uC6CC V3",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Zeus Vendor 3",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "platform":
+    {
+      "win":
+      {
+        "config":
+        {
+          "binaries":
+          {
+            "game":
+            {
+              "launch_arguments": [],
+              "regex": "BlackOpsColdWar.exe",
+              "relative_path": "BlackOpsColdWar.exe",
+              "switcher": false
+            }
+          },
+          "binary_version_path": "BlackOpsColdWar.exe",
+          "form":
+          {
+            "game_dir":
+            {
+              "default": "Program Files",
+              "required_space": 50000000000
+            }
+          },
+          "min_spec":
+          {
+            "allow_arm_emulation": false,
+            "default_requires_64_bit": true,
+            "required_osspecs":
+            {
+              "10.0":
+              {
+                "required_subversion": 0
+              }
+            }
+          },
+          "shortcut_target_path": "Black Ops Cold War Launcher.exe",
+          "tags": [],
+          "uninstall":
+          [
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_BOTH",
+                "key_type": "HKEY_LOCAL_MACHINE",
+                "root": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
+                "subkeys":
+                [
+                  "Zeus Vendor 3"
+                ]
+              }
+            },
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_BOTH",
+                "key_type": "HKEY_CURRENT_USER",
+                "root": "SOFTWARE\\Blizzard Entertainment",
+                "subkeys":
+                [
+                  "Zeus Vendor 3"
+                ]
+              }
+            },
+            {
+              "delete_folder":
+              {
+                "relative_paths":
+                [
+                  "12On7",
+                  "BlizzardBrowser",
+                  "Data"
+                ],
+                "root": "%game%"
+              }
+            },
+            {
+              "delete_file":
+              {
+                "relative_paths":
+                [
+                  "BlackOps4_boot.exe",
+                  "BlackOpsColdWar.exe",
+                  "COD2020.exe",
+                  "amd_ags_x64.dll",
+                  "AnselSDK64.dll",
+                  "Beenox.Net.dll",
+                  "bink2w64.dll",
+                  "BlackOps4_boot.exe.config",
+                  "codCrashHandler.exe",
+                  "cod_Debug.exe",
+                  "cod_Profile.exe",
+                  "cod_Release.exe",
+                  "cod_Ship_Protected.exe",
+                  "cod_Ship_Unsecured.exe",
+                  "cod_Ship_UnsecuredQQ.exe",
+                  "d3dcompiler_46.dll",
+                  "dbghelp.dll",
+                  "dxilconv7.dll",
+                  "game.icn",
+                  "GfeSDK.dll",
+                  "GFSDK_Aftermath_Lib.x64.dll",
+                  "libdb60.dll",
+                  "lzopro64r.dll",
+                  "msvcp140.dll",
+                  "nvngx_dlss.dll",
+                  "oo2core_6_win64.dll",
+                  "oo2core_8_win64.dll",
+                  "ortp_x64.dll",
+                  "p4api.net.dll",
+                  "p4bridge.dll",
+                  "product.info",
+                  "REV.Runtime.dll",
+                  "Telescope.dll",
+                  "tier0_s.dll",
+                  "tier0_s64.dll",
+                  "token_fetcher.exe",
+                  "vcruntime140.dll",
+                  "vcruntime140_1.dll",
+                  "vstdlib_s.dll",
+                  "vstdlib_s64.dll",
+                  "WinPixEventRuntime.dll"
+                ],
+                "root": "%game%"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "plpl":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Zeus Vendor 3/Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Zeus Vendor 3 Shortcut Description",
+              "link": "%desktoppreference%Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Zeus Vendor 3",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Zeus Vendor 3",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "ruru":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Zeus Vendor 3/Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Zeus Vendor 3 Shortcut Description",
+              "link": "%desktoppreference%Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Zeus Vendor 3",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Zeus Vendor 3",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "zhtw":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%\u300A\u6C7A\u52DD\u6642\u523B \u9ED1\u8272\u884C\u52D5\u51B7\u6230\u300B V3/\u300A\u6C7A\u52DD\u6642\u523B \u9ED1\u8272\u884C\u52D5\u51B7\u6230\u300B V3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Zeus Vendor 3 Shortcut Description",
+              "link": "%desktoppreference%\u300A\u6C7A\u52DD\u6642\u523B \u9ED1\u8272\u884C\u52D5\u51B7\u6230\u300B V3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "\u300A\u6C7A\u52DD\u6642\u523B \u9ED1\u8272\u884C\u52D5\u51B7\u6230\u300B V3",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Zeus Vendor 3",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "kr":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_supports_1023_archives": true,
+        "data_dir": "Data/",
+        "decryption_key_name": "zeusvendor3",
+        "enable_block_copy_patch": true,
+        "form":
+        {
+          "game_dir":
+          {
+            "dirname": "Zeus Vendor 3"
+          }
+        },
+        "launcher_install_info":
+        {
+          "bootstrapper_branch": "launcher",
+          "bootstrapper_product": "bts",
+          "product_tag": "zeus"
+        },
+        "opaque_complex_data":
+        {
+          "tags_config_uri":
+          {
+            "install_packages":
+            [
+              {
+                "package_id": "zeus-base",
+                "required": true,
+                "title_string":
+                {
+                  "deDE": "Grundspiel (erforderlich)",
+                  "default": "Base Game (required)",
+                  "esES": "Juego b\u00E1sico (necesario)",
+                  "esMX": "Juego b\u00E1sico (necesario)",
+                  "frFR": "Jeu de base (requis)",
+                  "itIT": "Gioco base (necessario)",
+                  "jaJP": "\u30B2\u30FC\u30E0\u672C\u7DE8\uFF08\u5FC5\u9808\uFF09",
+                  "koKR": "\uAE30\uBCF8 \uAC8C\uC784(\uD544\uC218)",
+                  "plPL": "Podstawowa wersja gry (wymagana)",
+                  "ptBR": "Jogo Base (necess\u00E1rio)",
+                  "ruRU": "\u0411\u0430\u0437\u043E\u0432\u0430\u044F \u0432\u0435\u0440\u0441\u0438\u044F \u0438\u0433\u0440\u044B (\u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F)",
+                  "zhTW": "\u904A\u6232\u4E3B\u9AD4\uFF08\u5FC5\u9808\uFF09"
+                }
+              },
+              {
+                "licenses":
+                [
+                  53036,
+                  52736
+                ],
+                "more_info_blurb_string":
+                {
+                  "deDE": "Erforderlich, um die Kampagne zu spielen",
+                  "default": "Required to play Campaign",
+                  "esES": "Se necesita para jugar la campa\u00F1a",
+                  "esMX": "Se requiere para jugar la campa\u00F1a",
+                  "frFR": "Requis pour jouer \u00E0 la campagne",
+                  "itIT": "Richiesto per giocare la campagna",
+                  "jaJP": "\u30AD\u30E3\u30F3\u30DA\u30FC\u30F3\u3092\u30D7\u30EC\u30A4\u3059\u308B\u306E\u306B\u5FC5\u8981\u3067\u3059",
+                  "koKR": "\uCEA0\uD398\uC778 \uD50C\uB808\uC774\uC5D0 \uD544\uC694\uD569\uB2C8\uB2E4",
+                  "plPL": "Wymagane do gry w kampani\u0119",
+                  "ptBR": "Necess\u00E1rio para jogar a Campanha",
+                  "ruRU": "\u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F \u0434\u043B\u044F \u0438\u0433\u0440\u044B \u0432 \u043A\u0430\u043C\u043F\u0430\u043D\u0438\u0438",
+                  "zhTW": "\u9700\u8981\u64C1\u6709\u624D\u80FD\u904A\u73A9\u5287\u60C5\u6230\u5F79"
+                },
+                "more_info_blurb_unlicensed_string": "COD_UNLICENSED",
+                "package_id": "zeus-campaign",
+                "tags":
+                [
+                  "cp"
+                ],
+                "title_string":
+                {
+                  "deDE": "Kampagne",
+                  "default": "Campaign",
+                  "esES": "Campa\u00F1a",
+                  "esMX": "Campa\u00F1a",
+                  "frFR": "Campagne",
+                  "itIT": "Campagna",
+                  "jaJP": "\u30AD\u30E3\u30F3\u30DA\u30FC\u30F3",
+                  "koKR": "\uCEA0\uD398\uC778",
+                  "plPL": "Kampania",
+                  "ptBR": "Campanha",
+                  "ruRU": "\u041A\u0430\u043C\u043F\u0430\u043D\u0438\u044F",
+                  "zhTW": "\u5287\u60C5\u6230\u5F79"
+                }
+              },
+              {
+                "licenses":
+                [
+                  53037,
+                  52736
+                ],
+                "more_info_blurb_string":
+                {
+                  "deDE": "Erforderlich, um den Mehrspielermodus zu spielen",
+                  "default": "Required to play Multiplayer",
+                  "esES": "Se necesita para jugar al multijugador",
+                  "esMX": "Se requiere para jugar el modo multijugador",
+                  "frFR": "Requis pour jouer en multijoueur",
+                  "itIT": "Richiesto per giocare in modalit\u00E0 multigiocatore",
+                  "jaJP": "\u30DE\u30EB\u30C1\u30D7\u30EC\u30A4\u30E4\u30FC\u3092\u30D7\u30EC\u30A4\u3059\u308B\u306E\u306B\u5FC5\u8981\u3067\u3059",
+                  "koKR": "\uBA40\uD2F0\uD50C\uB808\uC774\uC5D0 \uD544\uC694\uD569\uB2C8\uB2E4",
+                  "plPL": "Wymagane do gry w tryb wieloosobowy",
+                  "ptBR": "Necess\u00E1rio para jogar o Multijogador",
+                  "ruRU": "\u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F \u0434\u043B\u044F \u0441\u0435\u0442\u0435\u0432\u043E\u0439 \u0438\u0433\u0440\u044B",
+                  "zhTW": "\u9700\u8981\u64C1\u6709\u624D\u80FD\u904A\u73A9\u591A\u4EBA\u904A\u6232"
+                },
+                "more_info_blurb_unlicensed_string": "COD_UNLICENSED",
+                "package_id": "zeus-multiplayer",
+                "tags":
+                [
+                  "mp"
+                ],
+                "title_string":
+                {
+                  "deDE": "Mehrspieler",
+                  "default": "Multiplayer",
+                  "esES": "Multijugador",
+                  "esMX": "Multijugador",
+                  "frFR": "Multijoueur",
+                  "itIT": "Multigiocatore",
+                  "jaJP": "\u30DE\u30EB\u30C1\u30D7\u30EC\u30A4\u30E4\u30FC",
+                  "koKR": "\uBA40\uD2F0\uD50C\uB808\uC774",
+                  "plPL": "Tryb wieloosobowy",
+                  "ptBR": "Multijogador",
+                  "ruRU": "\u0421\u0435\u0442\u0435\u0432\u0430\u044F \u0438\u0433\u0440\u0430",
+                  "zhTW": "\u591A\u4EBA\u5C0D\u6230"
+                }
+              },
+              {
+                "licenses":
+                [
+                  53038,
+                  52736
+                ],
+                "more_info_blurb_string":
+                {
+                  "deDE": "Erforderlich, um den Modus Zombies zu spielen.",
+                  "default": "Required to play Zombies",
+                  "esES": "Se necesita para jugar a Zombis",
+                  "esMX": "Se requiere para jugar el modo Zombis",
+                  "frFR": "Requis pour jouer au mode Zombies",
+                  "itIT": "Necessario per giocare a Zombi",
+                  "jaJP": "\u30BE\u30F3\u30D3\u306E\u30D7\u30EC\u30A4\u306B\u5FC5\u8981\u3067\u3059",
+                  "koKR": "\uC880\uBE44 \uD50C\uB808\uC774\uC5D0 \uD544\uC694\uD569\uB2C8\uB2E4",
+                  "plPL": "Wymagane do gry w tryb Zombie",
+                  "ptBR": "Necess\u00E1rio para jogar Zombies",
+                  "ruRU": "\u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F \u0434\u043B\u044F \u0431\u043E\u0435\u0432 \u0441 \u0437\u043E\u043C\u0431\u0438",
+                  "zhTW": "\u9700\u8981\u64C1\u6709\u624D\u80FD\u904A\u73A9\u6BAD\u5C4D\u6A21\u5F0F"
+                },
+                "more_info_blurb_unlicensed_string": "COD_UNLICENSED",
+                "package_id": "zeus-zombies",
+                "tags":
+                [
+                  "zm"
+                ],
+                "title_string":
+                {
+                  "default": "Zombies",
+                  "esES": "Zombis",
+                  "esMX": "Zombis",
+                  "itIT": "Zombi",
+                  "jaJP": "\u30BE\u30F3\u30D3",
+                  "koKR": "\uC880\uBE44",
+                  "plPL": "Zombie",
+                  "ruRU": "\u0411\u043E\u0438 \u0441 \u0437\u043E\u043C\u0431\u0438",
+                  "zhTW": "\u6BAD\u5C4D"
+                }
+              },
+              {
+                "licenses":
+                [
+                  53039,
+                  52736
+                ],
+                "more_info_blurb_string":
+                {
+                  "deDE": "Erforderlich, um Dead Ops Arcade 3 zu spielen.",
+                  "default": "Required to play Dead Ops Arcade 3",
+                  "esES": "Se necesita para jugar a Dead Ops Arcade 3",
+                  "esMX": "Se requiere para jugar el modo Dead Ops Arcade 3",
+                  "frFR": "Requis pour jouer au mode Dead Ops Arcade 3",
+                  "itIT": "Necessario per giocare a Dead Ops Arcade 3",
+                  "jaJP": "DEAD OPS ARCADE 3\u306E\u30D7\u30EC\u30A4\u306B\u5FC5\u8981\u3067\u3059",
+                  "koKR": "\uB370\uB4DC \uC635\uC2A4 \uC544\uCF00\uC774\uB4DC 3 \uD50C\uB808\uC774\uC5D0 \uD544\uC694\uD569\uB2C8\uB2E4",
+                  "plPL": "Wymagane do gry w tryb Operacja Sztywniak 3",
+                  "ptBR": "Necess\u00E1rio para jogar Dead Ops Arcade 3",
+                  "ruRU": "\u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F \u0434\u043B\u044F \u0440\u0435\u0436\u0438\u043C\u0430 \u00AB\u041C\u0435\u0440\u0442\u0432\u0435\u0446\u043A\u0438\u0435 \u0437\u0430\u0431\u0430\u0432\u044B\u00BB",
+                  "zhTW": "\u9700\u8981\u64C1\u6709\u624D\u80FD\u904A\u73A9\u300A\u6B7B\u4EA1\u884C\u52D5\u8857\u6A5FIII\u300B"
+                },
+                "more_info_blurb_unlicensed_string": "COD_UNLICENSED",
+                "package_id": "zeus-arcade",
+                "tags":
+                [
+                  "zm2"
+                ],
+                "title_string":
+                {
+                  "default": "Dead Ops Arcade 3",
+                  "jaJP": "DEAD OPS ARCADE 3",
+                  "koKR": "\uB370\uB4DC \uC635\uC2A4 \uC544\uCF00\uC774\uB4DC 3",
+                  "plPL": "Operacja Sztywniak 3",
+                  "ruRU": "\u041C\u0435\u0440\u0442\u0432\u0435\u0446\u043A\u0438\u0435 \u0437\u0430\u0431\u0430\u0432\u044B",
+                  "zhTW": "\u300A\u6B7B\u4EA1\u884C\u52D5\u8857\u6A5FIII\u300B"
+                }
+              },
+              {
+                "default_checked": false,
+                "more_info_blurb_string":
+                {
+                  "deDE": "Erforderlich, um hochaufl\u00F6sende Inhalte darzustellen. Spieler, die mit 4K-Monitoren und den h\u00F6chsten Grafikeinstellungen spielen, profitieren am meisten von diesem Installationspaket.",
+                  "default": "Required for High-Resolution Assets. Players who play on 4K monitors and play with Ultra settings will benefit the most from this pack.",
+                  "esES": "Se necesita para utilizar recursos de alta resoluci\u00F3n. Este paquete ofrece la mejor experiencia con monitores 4K y los ajustes configurados en Ultra.",
+                  "esMX": "Se requiere para acceder a los modelos de alta resoluci\u00F3n. Los jugadores que usan monitores 4K con la configuraci\u00F3n Ultra obtendr\u00E1n el m\u00E1ximo rendimiento con este paquete.",
+                  "frFR": "Requis pour les \u00E9l\u00E9ments en haute d\u00E9finition. Les joueurs poss\u00E9dant des \u00E9crans\u00A04K et ayant d\u00E9fini les param\u00E8tres sur Ultra tireront le meilleur parti de ce pack.",
+                  "itIT": "Necessario per gli asset ad alta risoluzione. I giocatori che utilizzano monitor a 4K e impostazioni \u0022Ultra\u0022 trarranno il massimo beneficio da questo pacchetto.",
+                  "jaJP": "\u9AD8\u89E3\u50CF\u5EA6\u30A2\u30BB\u30C3\u30C8\u306E\u4F7F\u7528\u306B\u5FC5\u8981\u3067\u3059\u30024K\u30E2\u30CB\u30BF\u30FC\u3084\u30A6\u30EB\u30C8\u30E9\u8A2D\u5B9A\u3067\u30D7\u30EC\u30A4\u3055\u308C\u308B\u65B9\u306F\u672C\u30D1\u30C3\u30AF\u3092\u9069\u7528\u3059\u308B\u3053\u3068\u3067\u3001\u3088\u308A\u30EA\u30A2\u30EB\u306A\u6620\u50CF\u3092\u6700\u5927\u9650\u306B\u304A\u697D\u3057\u307F\u3044\u305F\u3060\u3051\u307E\u3059\u3002",
+                  "koKR": "\uACE0\uD574\uC0C1\uB3C4 \uC560\uC14B\uC5D0 \uD544\uC694\uD569\uB2C8\uB2E4. 4K \uBAA8\uB2C8\uD130\uC5D0\uC11C \uC6B8\uD2B8\uB77C \uC124\uC815\uC73C\uB85C \uD50C\uB808\uC774\uD558\uC2E0\uB2E4\uBA74 \uC774 \uD329\uC73C\uB85C \uAC00\uC7A5 \uB9CE\uC740 \uD61C\uD0DD\uC744 \uBCF4\uC2E4 \uC218 \uC788\uC2B5\uB2C8\uB2E4.",
+                  "plPL": "Wymagane do korzystania z zasob\u00F3w w wysokiej rozdzielczo\u015Bci. Pakiet szczeg\u00F3lnie polecany graczom korzystaj\u0105cym z monitor\u00F3w 4K w ustawieniach Ultra.",
+                  "ptBR": "Necess\u00E1rio para Elementos em Alta Resolu\u00E7\u00E3o. Jogadores com monitores 4K e configura\u00E7\u00F5es Ultra obter\u00E3o os melhores benef\u00EDcios deste pacote.",
+                  "ruRU": "\u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F \u0434\u043B\u044F \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u043E\u0432 \u0432 \u0432\u044B\u0441\u043E\u043A\u043E\u043C \u0440\u0430\u0437\u0440\u0435\u0448\u0435\u043D\u0438\u0438 \u0414\u0430\u043D\u043D\u044B\u0439 \u043D\u0430\u0431\u043E\u0440 \u043D\u0430\u0438\u0431\u043E\u043B\u0435\u0435 \u043F\u043E\u043B\u0435\u0437\u0435\u043D \u0434\u043B\u044F \u0438\u0433\u0440\u043E\u043A\u043E\u0432, \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u044E\u0449\u0438\u0445 \u043C\u043E\u043D\u0438\u0442\u043E\u0440\u044B \u0441 \u0440\u0430\u0437\u0440\u0435\u0448\u0435\u043D\u0438\u0435\u043C 4K \u0438 \u0443\u0440\u043E\u0432\u0435\u043D\u044C \u043D\u0430\u0441\u0442\u0440\u043E\u0435\u043A \u00AB\u0423\u043B\u044C\u0442\u0440\u0430\u00BB.",
+                  "zhTW": "\u9700\u8981\u64C1\u6709\u624D\u80FD\u4F7F\u7528\u9AD8\u756B\u8CEA\u7D20\u6750\u6B64\u7D20\u6750\u5305\u53EF\u70BA\u4F7F\u75284K\u9AD8\u756B\u8CEA\u87A2\u5E55\u4EE5\u53CA\u8D85\u9AD8\u8A2D\u5B9A\u7684\u73A9\u5BB6\u5E36\u4F86\u6700\u5927\u6548\u76CA\u3002"
+                },
+                "package_id": "zeus-hd",
+                "tags":
+                [
+                  "hd"
+                ],
+                "title_string":
+                {
+                  "deDE": "Hochaufl\u00F6sende Inhalte",
+                  "default": "High-Resolution Assets",
+                  "esES": "Recursos de alta resoluci\u00F3n",
+                  "esMX": "Modelos de alta resoluci\u00F3n",
+                  "frFR": "\u00C9l\u00E9ments en haute d\u00E9finition",
+                  "itIT": "Asset ad alta risoluzione",
+                  "jaJP": "\u9AD8\u89E3\u50CF\u5EA6\u30A2\u30BB\u30C3\u30C8",
+                  "koKR": "\uACE0\uD574\uC0C1\uB3C4 \uC560\uC14B",
+                  "plPL": "Zasoby w wysokiej rozdzielczo\u015Bci",
+                  "ptBR": "Elementos em Alta Resolu\u00E7\u00E3o",
+                  "ruRU": "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u0432 \u0432\u044B\u0441\u043E\u043A\u043E\u043C \u0440\u0430\u0437\u0440\u0435\u0448\u0435\u043D\u0438\u0438",
+                  "zhTW": "\u9AD8\u756B\u8CEA\u7D20\u6750"
+                }
+              }
+            ],
+            "string_table":
+            {
+              "COD_UNLICENSED":
+              {
+                "deDE": "This content requires purchase of Call of Duty: Black Ops Cold War",
+                "default": "This content requires purchase of Call of Duty: Black Ops Cold War",
+                "esES": "Se necesita Call of Duty: Black Ops Cold War para este contenido",
+                "esMX": "Este contenido requiere la compra de Call of Duty: Black Ops Cold War",
+                "frFR": "Pour acc\u00E9der \u00E0 ce contenu, vous devez poss\u00E9der Call of Duty: Black Ops Cold War",
+                "itIT": "Questo contenuto richiede l\u0027acquisto di Call of Duty: Black Ops Cold War",
+                "jaJP": "\u300C\u30B3\u30FC\u30EB \u30AA\u30D6 \u30C7\u30E5\u30FC\u30C6\u30A3 \u30D6\u30E9\u30C3\u30AF\u30AA\u30D7\u30B9 \u30B3\u30FC\u30EB\u30C9\u30A6\u30A9\u30FC\u300D\u306E\u8CFC\u5165\u304C\u5FC5\u8981\u3067\u3059",
+                "koKR": "\uD574\uB2F9 \uCF58\uD150\uCE20\uB97C \uC774\uC6A9\uD558\uB824\uBA74 \uCF5C \uC624\uBE0C \uB4C0\uD2F0: \uBE14\uB799 \uC635\uC2A4 \uCF5C\uB4DC \uC6CC\uB97C \uAD6C\uB9E4\uD558\uC154\uC57C \uD569\uB2C8\uB2E4.",
+                "plPL": "Ta zawarto\u015B\u0107 wymaga zakupu gry Call of Duty: Black Ops Cold War",
+                "ptBR": "Este conte\u00FAdo requer a compra de Call of Duty: Black Ops Cold War",
+                "ruRU": "\u0414\u043B\u044F \u0434\u0430\u043D\u043D\u043E\u0433\u043E \u043A\u043E\u043D\u0442\u0435\u043D\u0442\u0430 \u043D\u0435\u043E\u0431\u0445\u043E\u0434\u0438\u043C\u043E \u043F\u0440\u0438\u043E\u0431\u0440\u0435\u0441\u0442\u0438 Call of Duty: Black Ops Cold War",
+                "zhTW": "\u6B64\u5167\u5BB9\u9700\u8CFC\u8CB7\u300A\u6C7A\u52DD\u6642\u523B\uFF1A\u9ED1\u8272\u884C\u52D5\u51B7\u6230\u300B\u624D\u53EF\u4F7F\u7528"
+              }
+            }
+          }
+        },
+        "product": "zeusv3",
+        "supported_locales":
+        [
+          "enUS",
+          "frFR",
+          "itIT",
+          "deDE",
+          "esES",
+          "esMX",
+          "ptBR",
+          "ruRU",
+          "plPL",
+          "jaJP",
+          "koKR",
+          "arSA",
+          "zhTW",
+          "zhCN"
+        ],
+        "supports_multibox": false,
+        "supports_offline": false,
+        "switcher": false,
+        "title_info":
+        {
+          "products_in_title":
+          [
+            "zeusdev",
+            "zeusv1",
+            "zeusv2",
+            "zeusv3",
+            "zeusv4",
+            "zeusv5",
+            "zeusv6"
+          ],
+          "title_id": "zeus"
+        },
+        "update_method": "ngdp"
+      }
+    },
+    "arsa":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Zeus Vendor 3/Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Zeus Vendor 3 Shortcut Description",
+              "link": "%desktoppreference%Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Zeus Vendor 3",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Zeus Vendor 3",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "dede":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Zeus Vendor 3/Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Zeus Vendor 3 Shortcut Description",
+              "link": "%desktoppreference%Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Zeus Vendor 3",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Zeus Vendor 3",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "enus":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Zeus Vendor 3/Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Zeus Vendor 3 Shortcut Description",
+              "link": "%desktoppreference%Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Zeus Vendor 3",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Zeus Vendor 3",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "eses":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Zeus Vendor 3/Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Zeus Vendor 3 Shortcut Description",
+              "link": "%desktoppreference%Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Zeus Vendor 3",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Zeus Vendor 3",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "esmx":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Zeus Vendor 3/Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Zeus Vendor 3 Shortcut Description",
+              "link": "%desktoppreference%Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Zeus Vendor 3",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Zeus Vendor 3",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "frfr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Zeus Vendor 3/Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Zeus Vendor 3 Shortcut Description",
+              "link": "%desktoppreference%Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Zeus Vendor 3",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Zeus Vendor 3",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "itit":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Zeus Vendor 3/Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Zeus Vendor 3 Shortcut Description",
+              "link": "%desktoppreference%Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Zeus Vendor 3",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Zeus Vendor 3",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "jajp":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%\u30B3\u30FC\u30EB \u30AA\u30D6 \u30C7\u30E5\u30FC\u30C6\u30A3 \u30D6\u30E9\u30C3\u30AF\u30AA\u30D7\u30B9 \u30B3\u30FC\u30EB\u30C9\u30A6\u30A9\u30FC V3/\u30B3\u30FC\u30EB \u30AA\u30D6 \u30C7\u30E5\u30FC\u30C6\u30A3 \u30D6\u30E9\u30C3\u30AF\u30AA\u30D7\u30B9 \u30B3\u30FC\u30EB\u30C9\u30A6\u30A9\u30FC V3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Zeus Vendor 3 Shortcut Description",
+              "link": "%desktoppreference%\u30B3\u30FC\u30EB \u30AA\u30D6 \u30C7\u30E5\u30FC\u30C6\u30A3 \u30D6\u30E9\u30C3\u30AF\u30AA\u30D7\u30B9 \u30B3\u30FC\u30EB\u30C9\u30A6\u30A9\u30FC V3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "\u30B3\u30FC\u30EB \u30AA\u30D6 \u30C7\u30E5\u30FC\u30C6\u30A3 \u30D6\u30E9\u30C3\u30AF\u30AA\u30D7\u30B9 \u30B3\u30FC\u30EB\u30C9\u30A6\u30A9\u30FC V3",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Zeus Vendor 3",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "kokr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBE14\uB799 \uC635\uC2A4 \uCF5C\uB4DC \uC6CC V3/\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBE14\uB799 \uC635\uC2A4 \uCF5C\uB4DC \uC6CC V3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Zeus Vendor 3 Shortcut Description",
+              "link": "%desktoppreference%\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBE14\uB799 \uC635\uC2A4 \uCF5C\uB4DC \uC6CC V3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBE14\uB799 \uC635\uC2A4 \uCF5C\uB4DC \uC6CC V3",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Zeus Vendor 3",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "platform":
+    {
+      "win":
+      {
+        "config":
+        {
+          "binaries":
+          {
+            "game":
+            {
+              "launch_arguments": [],
+              "regex": "BlackOpsColdWar.exe",
+              "relative_path": "BlackOpsColdWar.exe",
+              "switcher": false
+            }
+          },
+          "binary_version_path": "BlackOpsColdWar.exe",
+          "form":
+          {
+            "game_dir":
+            {
+              "default": "Program Files",
+              "required_space": 50000000000
+            }
+          },
+          "min_spec":
+          {
+            "allow_arm_emulation": false,
+            "default_requires_64_bit": true,
+            "required_osspecs":
+            {
+              "10.0":
+              {
+                "required_subversion": 0
+              }
+            }
+          },
+          "shortcut_target_path": "Black Ops Cold War Launcher.exe",
+          "tags": [],
+          "uninstall":
+          [
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_BOTH",
+                "key_type": "HKEY_LOCAL_MACHINE",
+                "root": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
+                "subkeys":
+                [
+                  "Zeus Vendor 3"
+                ]
+              }
+            },
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_BOTH",
+                "key_type": "HKEY_CURRENT_USER",
+                "root": "SOFTWARE\\Blizzard Entertainment",
+                "subkeys":
+                [
+                  "Zeus Vendor 3"
+                ]
+              }
+            },
+            {
+              "delete_folder":
+              {
+                "relative_paths":
+                [
+                  "12On7",
+                  "BlizzardBrowser",
+                  "Data"
+                ],
+                "root": "%game%"
+              }
+            },
+            {
+              "delete_file":
+              {
+                "relative_paths":
+                [
+                  "BlackOps4_boot.exe",
+                  "BlackOpsColdWar.exe",
+                  "COD2020.exe",
+                  "amd_ags_x64.dll",
+                  "AnselSDK64.dll",
+                  "Beenox.Net.dll",
+                  "bink2w64.dll",
+                  "BlackOps4_boot.exe.config",
+                  "codCrashHandler.exe",
+                  "cod_Debug.exe",
+                  "cod_Profile.exe",
+                  "cod_Release.exe",
+                  "cod_Ship_Protected.exe",
+                  "cod_Ship_Unsecured.exe",
+                  "cod_Ship_UnsecuredQQ.exe",
+                  "d3dcompiler_46.dll",
+                  "dbghelp.dll",
+                  "dxilconv7.dll",
+                  "game.icn",
+                  "GfeSDK.dll",
+                  "GFSDK_Aftermath_Lib.x64.dll",
+                  "libdb60.dll",
+                  "lzopro64r.dll",
+                  "msvcp140.dll",
+                  "nvngx_dlss.dll",
+                  "oo2core_6_win64.dll",
+                  "oo2core_8_win64.dll",
+                  "ortp_x64.dll",
+                  "p4api.net.dll",
+                  "p4bridge.dll",
+                  "product.info",
+                  "REV.Runtime.dll",
+                  "Telescope.dll",
+                  "tier0_s.dll",
+                  "tier0_s64.dll",
+                  "token_fetcher.exe",
+                  "vcruntime140.dll",
+                  "vcruntime140_1.dll",
+                  "vstdlib_s.dll",
+                  "vstdlib_s64.dll",
+                  "WinPixEventRuntime.dll"
+                ],
+                "root": "%game%"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "plpl":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Zeus Vendor 3/Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Zeus Vendor 3 Shortcut Description",
+              "link": "%desktoppreference%Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Zeus Vendor 3",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Zeus Vendor 3",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "ruru":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Zeus Vendor 3/Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Zeus Vendor 3 Shortcut Description",
+              "link": "%desktoppreference%Zeus Vendor 3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Zeus Vendor 3",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Zeus Vendor 3",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "zhtw":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%\u300A\u6C7A\u52DD\u6642\u523B \u9ED1\u8272\u884C\u52D5\u51B7\u6230\u300B V3/\u300A\u6C7A\u52DD\u6642\u523B \u9ED1\u8272\u884C\u52D5\u51B7\u6230\u300B V3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Zeus Vendor 3 Shortcut Description",
+              "link": "%desktoppreference%\u300A\u6C7A\u52DD\u6642\u523B \u9ED1\u8272\u884C\u52D5\u51B7\u6230\u300B V3.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "\u300A\u6C7A\u52DD\u6642\u523B \u9ED1\u8272\u884C\u52D5\u51B7\u6230\u300B V3",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Zeus Vendor 3",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

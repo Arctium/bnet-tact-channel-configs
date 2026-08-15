@@ -1,0 +1,398 @@
+{
+  "eu\u002Bkr\u002Bus":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "data_dir": "Data/",
+        "form":
+        {
+          "game_dir":
+          {
+            "dirname": "The Outer Worlds 2 Artbook"
+          }
+        },
+        "product": "ark-artbook",
+        "supported_locales":
+        [
+          "enUS",
+          "frFR",
+          "deDE",
+          "itIT",
+          "jaJP",
+          "koKR",
+          "plPL",
+          "ptBR",
+          "ruRU",
+          "esMX",
+          "esES",
+          "zhCN"
+        ],
+        "supports_multibox": false,
+        "supports_offline": true,
+        "title_info":
+        {
+          "title_id": "ark"
+        },
+        "update_method": "ngdp"
+      }
+    },
+    "dede":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "The Outer Worlds 2 \u2013 Artbook",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "The Outer Worlds 2 Artbook",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "enus":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "The Outer Worlds 2 Artbook",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "The Outer Worlds 2 Artbook",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "eses":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Libro de arte de The Outer Worlds 2",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "The Outer Worlds 2 Artbook",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "esmx":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Libro de arte de The Outer Worlds 2",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "The Outer Worlds 2 Artbook",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "frfr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Artbook The Outer Worlds 2",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "The Outer Worlds 2 Artbook",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "itit":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Artbook di The Outer Worlds 2",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "The Outer Worlds 2 Artbook",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "jajp":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "\u300EThe Outer Worlds 2\u300F\u30A2\u30FC\u30C8\u30D6\u30C3\u30AF",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "The Outer Worlds 2 Artbook",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "kokr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "The Outer Worlds 2 \uC544\uD2B8\uBD81",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "The Outer Worlds 2 Artbook",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "platform":
+    {
+      "win":
+      {
+        "config":
+        {
+          "binaries":
+          {
+            "game":
+            {
+              "launch_arguments": [],
+              "relative_path": "TOW2Artbook.exe",
+              "switcher": true
+            }
+          },
+          "binary_launch_path": "TOW2Artbook.exe",
+          "binary_version_path": "TOW2Artbook.exe",
+          "form":
+          {
+            "game_dir":
+            {
+              "default": "Program Files",
+              "required_space": 8000000000
+            }
+          },
+          "min_spec":
+          {
+            "default_required_cpu_cores": 6,
+            "default_required_cpu_speed": 2800,
+            "default_required_ram": 16384,
+            "default_requires_64_bit": true,
+            "required_osspecs":
+            {
+              "10.0":
+              {
+                "required_subversion": 0
+              }
+            }
+          },
+          "tags":
+          [
+            "Win64"
+          ],
+          "uninstall":
+          [
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_BOTH",
+                "key_type": "HKEY_LOCAL_MACHINE",
+                "root": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
+                "subkeys":
+                [
+                  "The Outer Worlds 2 Artbook"
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    "plpl":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Artbook The Outer Worlds 2",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "The Outer Worlds 2 Artbook",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "ptbr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Livro de Arte Digital de The Outer Worlds 2",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "The Outer Worlds 2 Artbook",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "ruru":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "The Outer Worlds 2\u00A0\u2014 \u0430\u0440\u0442\u0431\u0443\u043A",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "The Outer Worlds 2 Artbook",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "thth":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "\u0E2B\u0E19\u0E31\u0E07\u0E2A\u0E37\u0E2D\u0E23\u0E27\u0E21\u0E07\u0E32\u0E19\u0E20\u0E32\u0E1E\u00A0The Outer Worlds 2",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "The Outer Worlds 2 Artbook",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "zhcn":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "\u300AThe Outer Worlds 2\u300B\u827A\u672F\u8BBE\u5B9A\u96C6",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "The Outer Worlds 2 Artbook",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "zhtw":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "\u300A\u5929\u5916\u4E16\u754C 2\u300B\u7F8E\u8853\u5716\u518A",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "The Outer Worlds 2 Artbook",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

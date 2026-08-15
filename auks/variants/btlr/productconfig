@@ -1,0 +1,1067 @@
+{
+  "eu\u002Bkr\u002Bus":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_supports_1023_archives": true,
+        "component_dependencies":
+        [
+          "herjabtlr"
+        ],
+        "data_dir": "Data/",
+        "enable_block_copy_patch": true,
+        "form":
+        {
+          "game_dir":
+          {
+            "dirname": "Call of Duty Black Ops 6"
+          }
+        },
+        "opaque_complex_data":
+        {
+          "tags_config_uri":
+          {
+            "install_packages":
+            [
+              {
+                "package_id": "btlr-base",
+                "required": true,
+                "title_string":
+                {
+                  "arSA": "\u0627\u0644\u0644\u0639\u0628\u0629 \u0627\u0644\u0623\u0633\u0627\u0633\u064A\u0629",
+                  "deDE": "Grundspiel (erforderlich)",
+                  "default": "Base Game (required)",
+                  "esES": "Juego b\u00E1sico (necesario)",
+                  "esMX": "Juego b\u00E1sico (necesario)",
+                  "frFR": "Jeu de base (requis)",
+                  "itIT": "Gioco base (necessario)",
+                  "jaJP": "\u30B2\u30FC\u30E0\u672C\u7DE8\uFF08\u5FC5\u9808\uFF09",
+                  "koKR": "\uAE30\uBCF8 \uAC8C\uC784(\uD544\uC218)",
+                  "plPL": "Podstawowa wersja gry (wymagana)",
+                  "ptBR": "Jogo Base (necess\u00E1rio)",
+                  "ruRU": "\u0411\u0430\u0437\u043E\u0432\u0430\u044F \u0432\u0435\u0440\u0441\u0438\u044F \u0438\u0433\u0440\u044B (\u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F)",
+                  "thTH": "\u0E15\u0E31\u0E27\u0E40\u0E01\u0E21\u0E2B\u0E25\u0E31\u0E01 (\u0E08\u0E33\u0E40\u0E1B\u0E47\u0E19)",
+                  "zhTW": "\u904A\u6232\u4E3B\u9AD4\uFF08\u5FC5\u9808\uFF09"
+                }
+              },
+              {
+                "install_packages":
+                [
+                  {
+                    "default_checked": "licensed",
+                    "licenses":
+                    [
+                      274545
+                    ],
+                    "package_id": "btlr-bo6-campaign",
+                    "tags":
+                    [
+                      "dlc03_01"
+                    ],
+                    "title_string": "COD_CAMPAIGN"
+                  },
+                  {
+                    "default_checked": "licensed",
+                    "licenses":
+                    [
+                      274545
+                    ],
+                    "package_id": "btlr-bo6-multiplayer",
+                    "tags":
+                    [
+                      "dlc03_02"
+                    ],
+                    "title_string": "COD_MULTIPLAYER"
+                  }
+                ],
+                "package_id": "btlr-bo6",
+                "title_string":
+                {
+                  "default": "Black Ops 6",
+                  "koKR": "\uBE14\uB799 \uC635\uC2A4 6",
+                  "zhCN": "\u9ED1\u8272\u884C\u52A8 6",
+                  "zhTW": "\u300A\u9ED1\u8272\u884C\u52D5 6\u300B"
+                }
+              }
+            ],
+            "string_table":
+            {
+              "COD_CAMPAIGN":
+              {
+                "arSA": "\u0637\u0648\u0631 \u0627\u0644\u0642\u0635\u0629",
+                "deDE": "Kampagne",
+                "default": "Campaign",
+                "esES": "Campa\u00F1a",
+                "esMX": "Campa\u00F1a",
+                "frFR": "Campagne",
+                "itIT": "Campagna",
+                "jaJP": "\u30AD\u30E3\u30F3\u30DA\u30FC\u30F3",
+                "koKR": "\uCEA0\uD398\uC778",
+                "plPL": "Kampania",
+                "ptBR": "Campanha",
+                "ruRU": "\u041A\u0430\u043C\u043F\u0430\u043D\u0438\u044F",
+                "thTH": "\u0E41\u0E04\u0E21\u0E40\u0E1B\u0E0D",
+                "zhCN": "\u5267\u60C5\u6218\u5F79",
+                "zhTW": "\u5287\u60C5\u6230\u5F79"
+              },
+              "COD_FREE_TRIAL":
+              {
+                "arSA": "\u0627\u0644\u062A\u062C\u0631\u0628\u0629 \u0627\u0644\u0645\u062C\u0627\u0646\u064A\u0629",
+                "deDE": "Testversion ",
+                "default": "Free Trial",
+                "esES": "Prueba gratuita",
+                "esMX": "Prueba gratuita",
+                "frFR": "Essai gratuit ",
+                "itIT": "Prova gratuita",
+                "jaJP": "\u7121\u6599\u30C8\u30E9\u30A4\u30A2\u30EB",
+                "koKR": "\uBB34\uB8CC \uD2B8\uB77C\uC774\uC5BC",
+                "plPL": "Darmowa wersja pr\u00F3bna",
+                "ptBR": "Teste Gr\u00E1tis",
+                "ruRU": "\u0411\u0435\u0441\u043F\u043B\u0430\u0442\u043D\u0430\u044F \u0432\u0435\u0440\u0441\u0438\u044F",
+                "thTH": "\u0E17\u0E14\u0E25\u0E2D\u0E07\u0E40\u0E25\u0E48\u0E19\u0E1F\u0E23\u0E35",
+                "zhCN": "\u514D\u8CBB\u8A66\u73A9",
+                "zhTW": "\u514D\u8D39\u8BD5\u73A9"
+              },
+              "COD_MULTIPLAYER":
+              {
+                "arSA": "\u0637\u0648\u0631 \u0627\u0644\u0644\u0639\u0628 \u0627\u0644\u062C\u0645\u0627\u0639\u064A",
+                "deDE": "Mehrspieler",
+                "default": "Multiplayer",
+                "esES": "Multijugador",
+                "esMX": "Multijugador",
+                "frFR": "Multijoueur",
+                "itIT": "Multigiocatore ",
+                "jaJP": "\u30DE\u30EB\u30C1\u30D7\u30EC\u30A4\u30E4\u30FC",
+                "koKR": "\uBA40\uD2F0\uD50C\uB808\uC774",
+                "plPL": "Tryb wieloosobowy",
+                "ptBR": "Multijogador",
+                "ruRU": "\u0421\u0435\u0442\u0435\u0432\u0430\u044F \u0438\u0433\u0440\u0430",
+                "thTH": "\u0E1C\u0E39\u0E49\u0E40\u0E25\u0E48\u0E19\u0E2B\u0E25\u0E32\u0E22\u0E04\u0E19",
+                "zhCN": "\u591A\u4EBA\u6E38\u620F",
+                "zhTW": "\u591A\u4EBA\u5C0D\u6230"
+              },
+              "COD_ZOMBIES":
+              {
+                "default": "Zombies",
+                "esES": "Zombis",
+                "esMX": "Zombis",
+                "itIT": "Zombi",
+                "jaJP": "\u30BE\u30F3\u30D3",
+                "koKR": "\uC880\uBE44",
+                "plPL": "Zombie",
+                "ruRU": "\u0411\u043E\u0438 \u0441 \u0437\u043E\u043C\u0431\u0438",
+                "zhTW": "\u6BAD\u5C4D"
+              },
+              "DLC_04_03_TITLE":
+              {
+                "arSA": "\u0627\u0644\u0645\u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062D\u0627\u0633\u0645\u0629",
+                "deDE": "Endspiel",
+                "default": "Endgame",
+                "esES": "Objetivo final",
+                "esMX": "Endgame",
+                "frFR": "Phase finale",
+                "itIT": "Endgame",
+                "jaJP": "\u30A8\u30F3\u30C9\u30B2\u30FC\u30E0",
+                "koKR": "\uC885\uBC18\uC804",
+                "plPL": "Etap ko\u0144cowy",
+                "ptBR": "Fim da Jornada",
+                "ruRU": "\u0424\u0438\u043D\u0430\u043B",
+                "zhCN": "\u6700\u7EC8\u4EFB\u52A1",
+                "zhTW": "\u7D42\u6975\u4E4B\u6230"
+              }
+            }
+          }
+        },
+        "product": "btlr",
+        "shared_container_default_subfolder": "_retail_",
+        "supported_locales":
+        [
+          "deDE",
+          "enUS",
+          "esMX",
+          "esES",
+          "frFR",
+          "itIT",
+          "jaJP",
+          "plPL",
+          "ptBR",
+          "ruRU",
+          "thTH",
+          "koKR",
+          "zhTW",
+          "zhCN",
+          "arSA"
+        ],
+        "supports_multibox": false,
+        "supports_offline": false,
+        "switcher": false,
+        "title_info":
+        {
+          "title_id": "btlr"
+        },
+        "update_method": "ngdp"
+      }
+    },
+    "arsa":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "icon_path": "%game%/cod24-cod.exe",
+              "link": "%commonstartmenu%Call of Duty: Black Ops 6/Call of Duty: Black Ops 6.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "icon_path": "%game%/cod24-cod.exe",
+              "link": "%desktoppreference%Call of Duty: Black Ops 6.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty: Black Ops 6",
+              "icon_path": "%game%/cod24-cod.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "dede":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "icon_path": "%game%/cod24-cod.exe",
+              "link": "%commonstartmenu%Call of Duty: Black Ops 6/Call of Duty: Black Ops 6.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "icon_path": "%game%/cod24-cod.exe",
+              "link": "%desktoppreference%Call of Duty: Black Ops 6.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty: Black Ops 6",
+              "icon_path": "%game%/cod24-cod.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "enus":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "icon_path": "%game%/cod24-cod.exe",
+              "link": "%commonstartmenu%Call of Duty: Black Ops 6/Call of Duty: Black Ops 6.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "icon_path": "%game%/cod24-cod.exe",
+              "link": "%desktoppreference%Call of Duty: Black Ops 6.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty: Black Ops 6",
+              "icon_path": "%game%/cod24-cod.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "eses":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "icon_path": "%game%/cod24-cod.exe",
+              "link": "%commonstartmenu%Call of Duty: Black Ops 6/Call of Duty: Black Ops 6.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "icon_path": "%game%/cod24-cod.exe",
+              "link": "%desktoppreference%Call of Duty: Black Ops 6.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty: Black Ops 6",
+              "icon_path": "%game%/cod24-cod.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "esmx":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "icon_path": "%game%/cod24-cod.exe",
+              "link": "%commonstartmenu%Call of Duty: Black Ops 6/Call of Duty: Black Ops 6.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "icon_path": "%game%/cod24-cod.exe",
+              "link": "%desktoppreference%Call of Duty: Black Ops 6.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty: Black Ops 6",
+              "icon_path": "%game%/cod24-cod.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "frfr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "icon_path": "%game%/cod24-cod.exe",
+              "link": "%commonstartmenu%Call of Duty: Black Ops 6/Call of Duty: Black Ops 6.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "icon_path": "%game%/cod24-cod.exe",
+              "link": "%desktoppreference%Call of Duty: Black Ops 6.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty: Black Ops 6",
+              "icon_path": "%game%/cod24-cod.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "itit":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "icon_path": "%game%/cod24-cod.exe",
+              "link": "%commonstartmenu%Call of Duty: Black Ops 6/Call of Duty: Black Ops 6.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "icon_path": "%game%/cod24-cod.exe",
+              "link": "%desktoppreference%Call of Duty: Black Ops 6.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty: Black Ops 6",
+              "icon_path": "%game%/cod24-cod.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "jajp":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "icon_path": "%game%/cod24-cod.exe",
+              "link": "%commonstartmenu%Call of Duty: Black Ops 6/Call of Duty: Black Ops 6.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "icon_path": "%game%/cod24-cod.exe",
+              "link": "%desktoppreference%Call of Duty: Black Ops 6.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty: Black Ops 6",
+              "icon_path": "%game%/cod24-cod.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "kokr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "icon_path": "%game%/cod24-cod.exe",
+              "link": "%commonstartmenu%\uCF5C \uC624\uBE0C \uB4C0\uD2F0: \uBE14\uB799 \uC635\uC2A4 6/\uCF5C \uC624\uBE0C \uB4C0\uD2F0: \uBE14\uB799 \uC635\uC2A4 6.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "icon_path": "%game%/cod24-cod.exe",
+              "link": "%desktoppreference%\uCF5C \uC624\uBE0C \uB4C0\uD2F0: \uBE14\uB799 \uC635\uC2A4 6.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "\uCF5C \uC624\uBE0C \uB4C0\uD2F0: \uBE14\uB799 \uC635\uC2A4 6",
+              "icon_path": "%game%/cod24-cod.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "platform":
+    {
+      "win":
+      {
+        "config":
+        {
+          "binaries":
+          {
+            "game":
+            {
+              "launch_arguments":
+              [
+                "cod24-cod.exe"
+              ],
+              "regex": "cod24-cod.exe|bootstrapper.exe",
+              "relative_path": "bootstrapper.exe",
+              "switcher": false
+            }
+          },
+          "binary_launch_path": "bootstrapper.exe",
+          "binary_version_path": "cod24-cod.exe",
+          "form":
+          {
+            "game_dir":
+            {
+              "default": "Program Files",
+              "required_space": 102000000000
+            }
+          },
+          "install":
+          [
+            {
+              "add_firewall_rule":
+              {
+                "group_name": "Call of Duty",
+                "name": "Call of Duty: Black Ops 6 Campaign",
+                "org_name": "Activision Publishing Inc",
+                "path": "%game%/sp24/sp24-cod.exe"
+              }
+            },
+            {
+              "add_firewall_rule":
+              {
+                "group_name": "Call of Duty",
+                "name": "Call of Duty: Black Ops 6 Campaign Crash Handler",
+                "org_name": "Activision Publishing Inc",
+                "path": "%game%/sp24/codCrashHandler.exe"
+              }
+            },
+            {
+              "add_firewall_rule":
+              {
+                "group_name": "Call of Duty",
+                "name": "Call of Duty: Black Ops 6 Bootstrapper",
+                "org_name": "Activision Publishing Inc",
+                "path": "%game%/bootstrapper.exe"
+              }
+            },
+            {
+              "add_firewall_rule":
+              {
+                "group_name": "Call of Duty",
+                "name": "Call of Duty: Black Ops 6 Bootstrapper Crash Handler",
+                "org_name": "Activision Publishing Inc",
+                "path": "%game%/bootstrapperCrashHandler.exe"
+              }
+            },
+            {
+              "add_firewall_rule":
+              {
+                "group_name": "Call of Duty",
+                "name": "Call of Duty: Black Ops 6 Crash Handler",
+                "org_name": "Activision Publishing Inc",
+                "path": "%game%/codCrashHandler.exe"
+              }
+            },
+            {
+              "add_firewall_rule":
+              {
+                "group_name": "Call of Duty",
+                "name": "Call of Duty: Black Ops 6 Crash Log Generator",
+                "org_name": "Activision Publishing Inc",
+                "path": "%game%/crashLogGenerator.exe"
+              }
+            },
+            {
+              "add_firewall_rule":
+              {
+                "group_name": "Call of Duty",
+                "name": "Call of Duty: Black Ops 6",
+                "org_name": "Activision Publishing Inc",
+                "path": "%game%/cod24-cod.exe"
+              }
+            }
+          ],
+          "min_spec":
+          {
+            "allow_arm_emulation": false,
+            "default_required_cpu_cores": 2,
+            "default_required_ram": 8192,
+            "default_requires_64_bit": true,
+            "required_osspecs":
+            {
+              "10.0":
+              {
+                "required_subversion": 0
+              }
+            }
+          },
+          "shared_container_delete_list": [],
+          "shared_container_move_list": [],
+          "shortcut_target_path": "Call of Duty Launcher.exe",
+          "tags": [],
+          "uninstall":
+          [
+            {
+              "remove_firewall_rule":
+              {
+                "name": "Call of Duty: Black Ops 6 Campaign"
+              }
+            },
+            {
+              "remove_firewall_rule":
+              {
+                "name": "Call of Duty: Black Ops 6 Campaign Crash Handler"
+              }
+            },
+            {
+              "remove_firewall_rule":
+              {
+                "name": "Call of Duty: Black Ops 6 Bootstrapper"
+              }
+            },
+            {
+              "remove_firewall_rule":
+              {
+                "name": "Call of Duty: Black Ops 6 Bootstrapper Crash Handler"
+              }
+            },
+            {
+              "remove_firewall_rule":
+              {
+                "name": "Call of Duty: Black Ops 6 Crash Handler"
+              }
+            },
+            {
+              "remove_firewall_rule":
+              {
+                "name": "Call of Duty: Black Ops 6 Crash Log Generator"
+              }
+            },
+            {
+              "remove_firewall_rule":
+              {
+                "name": "Call of Duty: Black Ops 6"
+              }
+            },
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_BOTH",
+                "key_type": "HKEY_LOCAL_MACHINE",
+                "root": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
+                "subkeys":
+                [
+                  "Call of Duty Black Ops 6"
+                ]
+              }
+            },
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_BOTH",
+                "key_type": "HKEY_CURRENT_USER",
+                "root": "SOFTWARE\\Blizzard Entertainment",
+                "subkeys":
+                [
+                  "Call of Duty Black Ops 6"
+                ]
+              }
+            },
+            {
+              "delete_folder":
+              {
+                "relative_paths":
+                [
+                  "Data"
+                ],
+                "root": "%titlepath%"
+              }
+            },
+            {
+              "delete_folder":
+              {
+                "relative_paths":
+                [
+                  "BlizzardBrowser",
+                  "D3D12",
+                  "cod24",
+                  "ImmerseData",
+                  "shadercache",
+                  "sp24",
+                  "telescopeCache",
+                  "telescopeStorage",
+                  "telescopeVideoCache",
+                  "xpak_cache"
+                ],
+                "root": "%game%"
+              }
+            },
+            {
+              "delete_file":
+              {
+                "relative_paths":
+                [
+                  "Call of Duty Launcher.exe"
+                ],
+                "root": "%titlepath%"
+              }
+            },
+            {
+              "delete_file":
+              {
+                "relative_paths":
+                [
+                  ".flavor.info",
+                  "amd_ags_x64.dll",
+                  "amd_fidelityfx_dx12.dll",
+                  "api-ms-win-core-file-l1-2-0.dll",
+                  "API-MS-Win-core-file-l2-1-0.dll",
+                  "api-ms-win-core-localization-l1-2-0.dll",
+                  "api-ms-win-core-processthreads-l1-1-1.dll",
+                  "api-ms-win-core-synch-l1-2-0.dll",
+                  "api-ms-win-core-timezone-l1-1-0.dll",
+                  "api-ms-win-core-winrt-l1-1-0.dll",
+                  "api-ms-win-core-winrt-string-l1-1-0.dll",
+                  "api-ms-win-crt-convert-l1-1-0.dll",
+                  "api-ms-win-crt-environment-l1-1-0.dll",
+                  "api-ms-win-crt-filesystem-l1-1-0.dll",
+                  "api-ms-win-crt-heap-l1-1-0.dll",
+                  "api-ms-win-crt-locale-l1-1-0.dll",
+                  "api-ms-win-crt-math-l1-1-0.dll",
+                  "api-ms-win-crt-private-l1-1-0.dll",
+                  "api-ms-win-crt-runtime-l1-1-0.dll",
+                  "api-ms-win-crt-stdio-l1-1-0.dll",
+                  "api-ms-win-crt-string-l1-1-0.dll",
+                  "api-ms-win-crt-time-l1-1-0.dll",
+                  "api-ms-win-crt-utility-l1-1-0.dll",
+                  "azure-attest-manager.dll",
+                  "AzureAttestManager.dll",
+                  "AzureAttestNormal.dll",
+                  "bink2w64.dll",
+                  "bootstrap.data.bin",
+                  "bootstrapper.exe",
+                  "bootstrapper.log",
+                  "bootstrapperCrashHandler.exe",
+                  "CgSDK.x64_2019.dll",
+                  "cod24-cod.exe",
+                  "cod24.txt",
+                  "codCrashHandler.exe",
+                  "codhq24_shared-00000.xsub",
+                  "codhq24_shared-00001.xsub",
+                  "codhq24_shared-00002.xsub",
+                  "codhq24_shared.xpak",
+                  "concrt140.dll",
+                  "CrashLogsGenerator.exe",
+                  "dbghelp.dll",
+                  "discord_game_sdk.dll",
+                  "dlc_manifest.csv",
+                  "eng_codhq24_shared-00000.xsub",
+                  "eng_codhq24_shared.xpak",
+                  "enrollaik.exe",
+                  "ens_codhq24_shared-00000.xsub",
+                  "ens_codhq24_shared.xpak",
+                  "FileList.txt",
+                  "game.icn",
+                  "GFSDK_Aftermath_Lib.x64.dll",
+                  "ImmerseApi.dll",
+                  "ImmerseAudioAPI.dll",
+                  "ImmerseCommerceAPI.dll",
+                  "ImmerseEngine.dll",
+                  "jp_codhq24_shared-00000.xsub",
+                  "jp_codhq24_shared.xpak",
+                  "libxess.dll",
+                  "msvcp140.dll",
+                  "nvngx_dlss.dll",
+                  "nvngx_dlssd.dll",
+                  "nvngx_dlssg.dll",
+                  "oo2core_8_win64.dll",
+                  "sa_codhq24_shared-00000.xsub",
+                  "sa_codhq24_shared.xpak",
+                  "sl.common.dll",
+                  "sl.dlss.dll",
+                  "sl.dlss_d.dll",
+                  "sl.dlss_g.dll",
+                  "sl.interposer.dll",
+                  "sl.pcl.dll",
+                  "sl.reflex.dll",
+                  "techsets_manifest.csv",
+                  "telescope24.dll",
+                  "ucrtbase.dll",
+                  "vcruntime140.dll",
+                  "vcruntime140_1.dll",
+                  "ww_codhq24_shared-00000.xsub",
+                  "ww_codhq24_shared.xpak"
+                ],
+                "root": "%game%"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "plpl":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "icon_path": "%game%/cod24-cod.exe",
+              "link": "%commonstartmenu%Call of Duty: Black Ops 6/Call of Duty: Black Ops 6.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "icon_path": "%game%/cod24-cod.exe",
+              "link": "%desktoppreference%Call of Duty: Black Ops 6.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty: Black Ops 6",
+              "icon_path": "%game%/cod24-cod.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "ptbr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "icon_path": "%game%/cod24-cod.exe",
+              "link": "%commonstartmenu%Call of Duty: Black Ops 6/Call of Duty: Black Ops 6.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "icon_path": "%game%/cod24-cod.exe",
+              "link": "%desktoppreference%Call of Duty: Black Ops 6.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty: Black Ops 6",
+              "icon_path": "%game%/cod24-cod.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "ruru":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "icon_path": "%game%/cod24-cod.exe",
+              "link": "%commonstartmenu%Call of Duty: Black Ops 6/Call of Duty: Black Ops 6.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "icon_path": "%game%/cod24-cod.exe",
+              "link": "%desktoppreference%Call of Duty: Black Ops 6.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Call of Duty: Black Ops 6",
+              "icon_path": "%game%/cod24-cod.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "zhcn":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "icon_path": "%game%/cod24-cod.exe",
+              "link": "%commonstartmenu%\u6C7A\u52DD\u6642\u523B\uFF1A\u9ED1\u8272\u884C\u52D56/\u6C7A\u52DD\u6642\u523B\uFF1A\u9ED1\u8272\u884C\u52D56.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "icon_path": "%game%/cod24-cod.exe",
+              "link": "%desktoppreference%\u6C7A\u52DD\u6642\u523B\uFF1A\u9ED1\u8272\u884C\u52D56.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "\u6C7A\u52DD\u6642\u523B\uFF1A\u9ED1\u8272\u884C\u52D56",
+              "icon_path": "%game%/cod24-cod.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "zhtw":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "icon_path": "%game%/cod24-cod.exe",
+              "link": "%commonstartmenu%\u4F7F\u547D\u53EC\u5524\uFF1A\u9ED1\u8272\u884C\u52A86/\u4F7F\u547D\u53EC\u5524\uFF1A\u9ED1\u8272\u884C\u52A86.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "icon_path": "%game%/cod24-cod.exe",
+              "link": "%desktoppreference%\u4F7F\u547D\u53EC\u5524\uFF1A\u9ED1\u8272\u884C\u52A86.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "\u4F7F\u547D\u53EC\u5524\uFF1A\u9ED1\u8272\u884C\u52A86",
+              "icon_path": "%game%/cod24-cod.exe",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Call of Duty",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

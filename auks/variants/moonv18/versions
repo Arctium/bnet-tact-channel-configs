@@ -1,0 +1,65 @@
+{
+  "eu":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "main_19476194_jup_full_bnet_v18_dev",
+      "token": "5d99a6a0-b4ba-4aef-aa08-8de045b5b168"
+    },
+    "buildKey": "a7df2f1ff5b2f9c598802d54c80d385c",
+    "cdnKey": "f9ccb4c3ef11abe9c0452c544b38362e",
+    "keyRing": "",
+    "path": "moon/moonv",
+    "pipelineId": 276,
+    "productConfig":
+    {
+      "hash": "ed659589a9e30de043a20db18b19ff59",
+      "id": 7840
+    },
+    "versionNumber": 19476194,
+    "versionString": "0.0.0.19476194d"
+  },
+  "kr":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "main_19379281_jup_full_bnet_v18_dev_r1",
+      "token": "1803b679-647e-475d-b63e-b391d044f5e2"
+    },
+    "buildKey": "7d45f528e97e938f0c55992872d1ec47",
+    "cdnKey": "f23aa0d57a7c3a83020b5632068b98bf",
+    "keyRing": "",
+    "path": "moon/moonv",
+    "pipelineId": 276,
+    "productConfig":
+    {
+      "hash": "ed659589a9e30de043a20db18b19ff59",
+      "id": 7840
+    },
+    "versionNumber": 19379281,
+    "versionString": "0.0.0.19379281d"
+  },
+  "us":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "main_19534970_jup_full_bnet_v18_dev",
+      "token": "0e9ea3dc-b5e1-487b-b120-8cac2cfcdeb9"
+    },
+    "buildKey": "231a495f536f97995ff3628bdd9d957d",
+    "cdnKey": "249d07d0ad56b0fb7755f3f276599680",
+    "keyRing": "",
+    "path": "moon/moonv",
+    "pipelineId": 276,
+    "productConfig":
+    {
+      "hash": "ed659589a9e30de043a20db18b19ff59",
+      "id": 7840
+    },
+    "versionNumber": 19534970,
+    "versionString": "0.0.0.19534970d"
+  }
+}

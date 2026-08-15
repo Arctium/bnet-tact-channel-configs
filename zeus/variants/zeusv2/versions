@@ -1,0 +1,65 @@
+{
+  "eu":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "bo5_raw_15931218_v2_dev",
+      "token": "16fa0e37-3364-4cd8-92dd-e37b9a024c4c"
+    },
+    "buildKey": "a84937a00a0b1542993ac5ada0e2d232",
+    "cdnKey": "b4fb6a0697df7f61741fae7aa4ead304",
+    "keyRing": "",
+    "path": "tpr/zeusv",
+    "pipelineId": 208,
+    "productConfig":
+    {
+      "hash": "eb4e56e10d6b7fb31bf1959485fe140f",
+      "id": 3095
+    },
+    "versionNumber": 15931218,
+    "versionString": "1.39.0.15931218d"
+  },
+  "kr":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "bo5_2_raw_13871677_v2_ship",
+      "token": "8f24df6e-f1d0-49a7-99eb-7757369ee8c3"
+    },
+    "buildKey": "53fcbe416236b785060ea81a19e0d650",
+    "cdnKey": "b7434c9edfad818982870e9b39a136a0",
+    "keyRing": "",
+    "path": "tpr/zeusv",
+    "pipelineId": 208,
+    "productConfig":
+    {
+      "hash": "eb4e56e10d6b7fb31bf1959485fe140f",
+      "id": 3095
+    },
+    "versionNumber": 13871677,
+    "versionString": "1.39.0.13871677s"
+  },
+  "us":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "2026_05_13__TU35__v27007542_Bnet_r2_signed_v2_ship",
+      "token": "c94fd8c6-131e-4f7b-8056-755b0620b783"
+    },
+    "buildKey": "bdb879091b794dd7bb990df5ad634f47",
+    "cdnKey": "7fa8e53126e6e1049159603fa3ac9b89",
+    "keyRing": "",
+    "path": "tpr/zeusv",
+    "pipelineId": 208,
+    "productConfig":
+    {
+      "hash": "eb4e56e10d6b7fb31bf1959485fe140f",
+      "id": 3095
+    },
+    "versionNumber": 27007543,
+    "versionString": "0.0.0.27007542s"
+  }
+}

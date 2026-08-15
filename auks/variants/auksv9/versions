@@ -1,0 +1,65 @@
+{
+  "eu":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "etu_17284883_cod23_tus2_etu1_v9_dev",
+      "token": "61dcb733-3096-4b76-8eb1-c74a27b6a234"
+    },
+    "buildKey": "d5c0981b44ff720e73f0ccd9bbd8c2e6",
+    "cdnKey": "b84bd1164bbffa65efb86f72fdd3f95b",
+    "keyRing": "",
+    "path": "tpr/auksv",
+    "pipelineId": 236,
+    "productConfig":
+    {
+      "hash": "cf974733fcd8d9b2e7e996ff96db1d2b",
+      "id": 7829
+    },
+    "versionNumber": 17284883,
+    "versionString": "1.0.1.17284883d"
+  },
+  "kr":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "release_17351068_cod23_tus2_5_fix_security_v9_dev",
+      "token": "b66207ea-e0f3-429c-a90f-4b9f3b9d08a6"
+    },
+    "buildKey": "31c9713ee9a283132f3476de853c2bf6",
+    "cdnKey": "bd2e6bd20454d6bc2609a1a6f89acaf5",
+    "keyRing": "",
+    "path": "tpr/auksv",
+    "pipelineId": 236,
+    "productConfig":
+    {
+      "hash": "cf974733fcd8d9b2e7e996ff96db1d2b",
+      "id": 7829
+    },
+    "versionNumber": 17351068,
+    "versionString": "1.0.1.17351068d"
+  },
+  "us":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "release_16675708_cod23_tus1_test_fix_trial_v9_dev",
+      "token": "9a682f11-c5a5-44df-b5f8-e3920099f5df"
+    },
+    "buildKey": "be1810fd0502176f0d23fb285ecbe396",
+    "cdnKey": "77164f1d880f8a1cc9093eed43632dc1",
+    "keyRing": "",
+    "path": "tpr/auksv",
+    "pipelineId": 236,
+    "productConfig":
+    {
+      "hash": "cf974733fcd8d9b2e7e996ff96db1d2b",
+      "id": 7829
+    },
+    "versionNumber": 16675708,
+    "versionString": "1.0.1.16675708d"
+  }
+}

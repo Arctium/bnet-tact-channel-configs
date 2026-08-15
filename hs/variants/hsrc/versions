@@ -1,0 +1,44 @@
+{
+  "android_amazon\u002Bandroid_google\u002Bandroid_onestore\u002Beu\u002Bios\u002Bkr\u002Bus":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "207856_30.4.3",
+      "token": "cf6db301-b40c-28f7-a567-aa68f5e9e076"
+    },
+    "buildKey": "c8c690f655513b037c0e8881075539c1",
+    "cdnKey": "9b0ed3003100561ded48ecf89ecb7337",
+    "keyRing": "",
+    "path": "tpr/hslrc",
+    "pipelineId": 315,
+    "productConfig":
+    {
+      "hash": "c419af0eae899276a6bf19a1cefd5d6d",
+      "id": 9263
+    },
+    "versionNumber": 207856,
+    "versionString": "30.4.3.207856"
+  },
+  "android_cn\u002Bandroid_cn_dashen\u002Bandroid_cn_huawei\u002Bcn\u002Bios_cn":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "207468_30.4.2",
+      "token": "30abfaf5-0f8a-6f2a-d931-dd8f10ac8571"
+    },
+    "buildKey": "de7576afd8cc2501336469b410be7478",
+    "cdnKey": "71094746beb324c434277487906c9849",
+    "keyRing": "",
+    "path": "tpr/hslrc",
+    "pipelineId": 315,
+    "productConfig":
+    {
+      "hash": "c419af0eae899276a6bf19a1cefd5d6d",
+      "id": 9263
+    },
+    "versionNumber": 207468,
+    "versionString": "30.4.2.207468"
+  }
+}

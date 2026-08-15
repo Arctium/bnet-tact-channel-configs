@@ -1,0 +1,802 @@
+{
+  "cn\u002Beu\u002Bkr\u002Bus":
+  {
+    "all":
+    {
+      "config":
+      {
+        "data_dir": "SC2Data/",
+        "migration_required_version": "3.0.1.0",
+        "opaque_product_specific":
+        {
+          "sso_launch_argument": "-sso=1"
+        },
+        "product": "s2t",
+        "supported_locales":
+        [
+          "enUS",
+          "esMX",
+          "ptBR",
+          "frFR",
+          "deDE",
+          "esES",
+          "itIT",
+          "ruRU",
+          "koKR",
+          "zhTW",
+          "zhCN",
+          "plPL"
+        ],
+        "supports_multibox": true,
+        "supports_offline": true,
+        "switcher": true,
+        "title_info":
+        {
+          "products_in_title":
+          [
+            "s2",
+            "s2t"
+          ],
+          "title_id": "s2"
+        },
+        "update_method": "ngdp"
+      }
+    },
+    "dede":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%StarCraft II Public Test/StarCraft II Public Test.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "StarCraft II auf dem \u00F6ffentlichen Testserver testen",
+              "link": "%desktoppreference%StarCraft II Public Test.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "StarCraft II Public Test",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "StarCraft II Public Test",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "enus":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%StarCraft II Public Test/StarCraft II Public Test.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Play StarCraft II Public Test",
+              "link": "%desktoppreference%StarCraft II Public Test.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "StarCraft II Public Test",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "StarCraft II Public Test",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "eses":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%StarCraft II Public Test/StarCraft II Public Test.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Jugar a StarCraft II Public Test",
+              "link": "%desktoppreference%StarCraft II Public Test.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "StarCraft II Public Test",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "StarCraft II Public Test",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "esmx":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%StarCraft II Public Test/StarCraft II Public Test.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Jugar StarCraft II Public Test",
+              "link": "%desktoppreference%StarCraft II Public Test.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "StarCraft II Public Test",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "StarCraft II Public Test",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "frfr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%StarCraft II Public Test/StarCraft II Public Test.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Jouer au test public de StarCraft II Public Test",
+              "link": "%desktoppreference%StarCraft II Public Test.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "StarCraft II Public Test",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "StarCraft II Public Test",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "itit":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%StarCraft II Public Test/StarCraft II Public Test.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Gioca a StarCraft II Public Test",
+              "link": "%desktoppreference%StarCraft II Public Test.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "StarCraft II Public Test",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "StarCraft II Public Test",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "kokr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%\uC2A4\uD0C0\uD06C\uB798\uD504\uD2B8 II \uACF5\uAC1C \uD14C\uC2A4\uD2B8/\uC2A4\uD0C0\uD06C\uB798\uD504\uD2B8 II \uACF5\uAC1C \uD14C\uC2A4\uD2B8.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "\uC2A4\uD0C0\uD06C\uB798\uD504\uD2B8 II \uACF5\uAC1C \uD14C\uC2A4\uD2B8 \uBC84\uC804\uC744 \uC2E4\uD589\uD569\uB2C8\uB2E4.",
+              "link": "%desktoppreference%\uC2A4\uD0C0\uD06C\uB798\uD504\uD2B8 II \uACF5\uAC1C \uD14C\uC2A4\uD2B8.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "\uC2A4\uD0C0\uD06C\uB798\uD504\uD2B8 II \uACF5\uAC1C \uD14C\uC2A4\uD2B8",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "StarCraft II Public Test",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "additional_permission_paths":
+          [
+            "%userlibraryappsupport%Blizzard/StarCraft II"
+          ],
+          "binaries":
+          {
+            "editor":
+            {
+              "relative_path": "StarCraft II Editor.app",
+              "switcher": false
+            },
+            "game":
+            {
+              "launch_arguments":
+              [
+                "-test",
+                "-launch"
+              ],
+              "regex": "Versions/Base\\d\u002B/SC2\\.app",
+              "relative_path": "Support/SC2Switcher.app",
+              "switcher": true
+            }
+          },
+          "binary_launch_path": "Support/SC2Switcher.app",
+          "binary_version_path": "Support/SC2Switcher.app",
+          "form":
+          {
+            "game_dir":
+            {
+              "default": "Applications",
+              "dirname": "StarCraft II Public Test",
+              "required_space": 30000000000,
+              "space_per_extra_language": 7000000000
+            }
+          },
+          "min_spec":
+          {
+            "default_required_cpu_cores": 1,
+            "default_required_cpu_speed": 2600,
+            "default_required_ram": 2048,
+            "required_osspecs":
+            {
+              "10.7":
+              {
+                "required_subversion": 0
+              }
+            }
+          },
+          "shortcut_target_path": "StarCraft II Public Test.app",
+          "tags":
+          [
+            "OSX",
+            "code"
+          ],
+          "uninstall":
+          [
+            {
+              "delete_folder":
+              {
+                "relative_paths":
+                [
+                  "Battle.net",
+                  "Campaigns",
+                  "Interfaces",
+                  "Logs",
+                  "Mods/Core.SC2Mod",
+                  "Mods/Liberty.SC2Mod",
+                  "Mods/LibertyMulti.SC2Mod",
+                  "Mods/Swarm.SC2Mod",
+                  "Mods/SwarmMulti.SC2Mod",
+                  "Mods/War3.SC2Mod",
+                  "Mods/War3Data.SC2Mod",
+                  "Mods/War3Multi.SC2Mod",
+                  "SC2Data",
+                  "StarCraft II.app",
+                  "StarCraft II Beta.app",
+                  "StarCraft II Editor.app",
+                  "StarCraft II Public Test.app",
+                  "Support",
+                  "Support64",
+                  "Updates",
+                  "Versions"
+                ],
+                "root": "%game%"
+              }
+            },
+            {
+              "delete_file":
+              {
+                "relative_paths":
+                [
+                  "Starcraft II.mfil",
+                  "StarCraft II.tfil",
+                  "Mods/Challenges.SC2Mod",
+                  "Mods/Streamlined.SC2Interface",
+                  "Mods/Split_1v1.SC2Interface",
+                  "Mods/WCS_2.0.SC2Interface",
+                  "Mods/WCS_2.2.SC2Interface",
+                  ".agent.db",
+                  ".build.db",
+                  ".build.info",
+                  ".patch.result",
+                  "Launcher.db",
+                  "SetupOSX.mpq"
+                ],
+                "root": "%game%"
+              }
+            }
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "additional_permission_paths":
+          [
+            "%mydocuments%StarCraft II"
+          ],
+          "binaries":
+          {
+            "editor":
+            {
+              "relative_path": "Support/SC2Editor.exe",
+              "relative_path_64": "Support64/SC2Editor_x64.exe",
+              "switcher": false
+            },
+            "game":
+            {
+              "launch_arguments":
+              [
+                "-test",
+                "-launch"
+              ],
+              "regex": "Versions/Base\\d\u002B/SC2(_x64)?\\.exe",
+              "relative_path": "Support/SC2Switcher.exe",
+              "relative_path_64": "Support64/SC2Switcher_x64.exe",
+              "switcher": true
+            }
+          },
+          "binary_launch_path": "Support/SC2Switcher.exe",
+          "binary_version_path": "Support/SC2Switcher.exe",
+          "form":
+          {
+            "game_dir":
+            {
+              "default": "Program Files",
+              "dirname": "StarCraft II Public Test",
+              "required_space": 30000000000,
+              "space_per_extra_language": 7000000000
+            }
+          },
+          "install":
+          [
+            {
+              "delete_folder":
+              {
+                "relative_paths":
+                [
+                  "Blizzard Entertainment/StarCraft II Public Test*"
+                ],
+                "root": "%programfilescommon%"
+              }
+            },
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_BOTH",
+                "key_type": "HKEY_LOCAL_MACHINE",
+                "root": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
+                "subkeys":
+                [
+                  "\uC2A4\uD0C0\uD06C\uB798\uD504\uD2B8 II \uACF5\uAC1C \uD14C\uC2A4\uD2B8",
+                  "\u300A\u661F\u6D77\u722D\u9738II\u300B \u6E2C\u8A66\u7248",
+                  "\u300A\u661F\u9645\u4E89\u9738II\u300B \u6D4B\u8BD5\u7248"
+                ]
+              }
+            }
+          ],
+          "min_spec":
+          {
+            "default_required_cpu_cores": 1,
+            "default_required_cpu_speed": 2600,
+            "default_required_ram": 1536,
+            "required_osspecs":
+            {
+              "5.1":
+              {
+                "required_subversion": 2
+              }
+            }
+          },
+          "shortcut_target_path": "StarCraft II Public Test.exe",
+          "tags":
+          [
+            "Windows",
+            "code"
+          ],
+          "uninstall":
+          [
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_32BIT",
+                "key_type": "HKEY_LOCAL_MACHINE",
+                "root": "SOFTWARE\\Blizzard Entertainment",
+                "subkeys":
+                [
+                  "StarCraft II Public Test"
+                ]
+              }
+            },
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_BOTH",
+                "key_type": "HKEY_LOCAL_MACHINE",
+                "root": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
+                "subkeys":
+                [
+                  "\uC2A4\uD0C0\uD06C\uB798\uD504\uD2B8 II \uACF5\uAC1C \uD14C\uC2A4\uD2B8",
+                  "\u300A\u661F\u6D77\u722D\u9738II\u300B \u6E2C\u8A66\u7248",
+                  "\u300A\u661F\u9645\u4E89\u9738II\u300B \u6D4B\u8BD5\u7248",
+                  "StarCraft II Public Test"
+                ]
+              }
+            },
+            {
+              "delete_folder":
+              {
+                "relative_paths":
+                [
+                  "Battle.net",
+                  "Campaigns",
+                  "Interfaces",
+                  "Logs",
+                  "Mods/Core.SC2Mod",
+                  "Mods/Liberty.SC2Mod",
+                  "Mods/LibertyMulti.SC2Mod",
+                  "Mods/Swarm.SC2Mod",
+                  "Mods/SwarmMulti.SC2Mod",
+                  "Mods/War3.SC2Mod",
+                  "Mods/War3Data.SC2Mod",
+                  "Mods/War3Multi.SC2Mod",
+                  "SC2Data",
+                  "Support",
+                  "Support64",
+                  "Updates",
+                  "Versions"
+                ],
+                "root": "%game%"
+              }
+            },
+            {
+              "delete_folder":
+              {
+                "relative_paths":
+                [
+                  "Blizzard Entertainment/StarCraft II*"
+                ],
+                "root": "%programfilescommon%"
+              }
+            },
+            {
+              "delete_file":
+              {
+                "relative_paths":
+                [
+                  "Starcraft II.mfil",
+                  "StarCraft II.tfil",
+                  "StarCraft II.exe",
+                  "StarCraft II Beta.exe",
+                  "StarCraft II Public Test.exe",
+                  "StarCraft II Editor.exe",
+                  "StarCraft II Editor_x64.exe",
+                  "Mods/Challenges.SC2Mod",
+                  "Mods/Streamlined.SC2Interface",
+                  "Mods/Split_1v1.SC2Interface",
+                  "Mods/WCS_2.0.SC2Interface",
+                  "Mods/WCS_2.2.SC2Interface",
+                  ".agent.db",
+                  ".build.db",
+                  ".build.info",
+                  ".patch.result",
+                  "Launcher.db",
+                  "SetupWin.mpq"
+                ],
+                "root": "%game%"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "plpl":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%StarCraft II Public Test/StarCraft II Public Test.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Zagraj w gr\u0119 StarCraft II Public Test.",
+              "link": "%desktoppreference%StarCraft II Public Test.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "StarCraft II Public Test",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "StarCraft II Public Test",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "ptbr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%StarCraft II Public Test/StarCraft II Public Test.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Jogar StarCraft II Public Test",
+              "link": "%desktoppreference%StarCraft II Public Test.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "StarCraft II Public Test",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "StarCraft II Public Test",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "ruru":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%StarCraft II Public Test/StarCraft II Public Test.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "\u0417\u0430\u043F\u0443\u0441\u043A StarCraft II Public Test",
+              "link": "%desktoppreference%StarCraft II Public Test.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "StarCraft II Public Test",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "StarCraft II Public Test",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "zhcn":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%\u661F\u9645\u4E89\u9738II PTR/\u661F\u9645\u4E89\u9738II PTR.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "\u57F7\u884C\u661F\u6D77\u722D\u9738 II",
+              "link": "%desktoppreference%\u661F\u9645\u4E89\u9738II PTR.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "\u661F\u9645\u4E89\u9738II PTR",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "StarCraft II Public Test",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "zhtw":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%\u300A\u661F\u6D77\u722D\u9738 II\u300B PTR/\u300A\u661F\u6D77\u722D\u9738 II\u300B PTR.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "\u542F\u52A8\u300A\u661F\u9645\u4E89\u9738II\u300B",
+              "link": "%desktoppreference%\u300A\u661F\u6D77\u722D\u9738 II\u300B PTR.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "\u300A\u661F\u6D77\u722D\u9738 II\u300B PTR",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "StarCraft II Public Test",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

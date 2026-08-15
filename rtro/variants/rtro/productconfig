@@ -1,0 +1,651 @@
+{
+  "eu\u002Bkr\u002Bsg\u002Btw\u002Bus":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "data_dir": "Data/",
+        "form":
+        {
+          "game_dir":
+          {
+            "dirname": "Blizzard Arcade Collection"
+          }
+        },
+        "launcher_install_info":
+        {
+          "bootstrapper_branch": "launcher",
+          "bootstrapper_product": "bts",
+          "product_tag": "rtro"
+        },
+        "product": "rtro",
+        "supported_locales":
+        [
+          "enUS",
+          "frFR",
+          "deDE",
+          "itIT",
+          "esES",
+          "koKR",
+          "ptBR",
+          "esMX",
+          "jaJP",
+          "plPL",
+          "ruRU",
+          "zhTW",
+          "zhCN"
+        ],
+        "supports_multibox": false,
+        "supports_offline": true,
+        "switcher": false,
+        "title_info":
+        {
+          "title_id": "rtro"
+        },
+        "update_method": "containerless ngdp"
+      }
+    },
+    "dede":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Blizzard Arcade-Sammlung/Blizzard Arcade-Sammlung.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Blizzard Arcade-Sammlung",
+              "link": "%desktoppreference%Blizzard Arcade-Sammlung.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Blizzard Arcade-Sammlung",
+              "helplink": "http://eu.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Blizzard Arcade Collection",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "enus":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Blizzard Arcade Collection/Blizzard Arcade Collection.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Blizzard Arcade Collection",
+              "link": "%desktoppreference%Blizzard Arcade Collection.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Blizzard Arcade Collection",
+              "helplink": "http://us.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Blizzard Arcade Collection",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "eses":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Colecci\u00F3n arcade de Blizzard/Colecci\u00F3n arcade de Blizzard.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Colecci\u00F3n arcade de Blizzard",
+              "link": "%desktoppreference%Colecci\u00F3n arcade de Blizzard.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Colecci\u00F3n arcade de Blizzard",
+              "helplink": "http://eu.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Blizzard Arcade Collection",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "esmx":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Colecci\u00F3n de arcade de Blizzard/Colecci\u00F3n de arcade de Blizzard.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Colecci\u00F3n de arcade de Blizzard",
+              "link": "%desktoppreference%Colecci\u00F3n de arcade de Blizzard.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Colecci\u00F3n de arcade de Blizzard",
+              "helplink": "http://us.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Blizzard Arcade Collection",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "frfr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Blizzard Arcade Collection/Blizzard Arcade Collection.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Blizzard Arcade Collection",
+              "link": "%desktoppreference%Blizzard Arcade Collection.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Blizzard Arcade Collection",
+              "helplink": "http://eu.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Blizzard Arcade Collection",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "itit":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Blizzard Arcade Collection/Blizzard Arcade Collection.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Blizzard Arcade Collection",
+              "link": "%desktoppreference%Blizzard Arcade Collection.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Blizzard Arcade Collection",
+              "helplink": "http://eu.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Blizzard Arcade Collection",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "jajp":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Blizzard Arcade Collection\uFF08\u30A2\u30FC\u30B1\u30FC\u30C9\u30B3\u30EC\u30AF\u30B7\u30E7\u30F3\uFF09/Blizzard Arcade Collection\uFF08\u30A2\u30FC\u30B1\u30FC\u30C9\u30B3\u30EC\u30AF\u30B7\u30E7\u30F3\uFF09.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Blizzard Arcade Collection\uFF08\u30A2\u30FC\u30B1\u30FC\u30C9\u30B3\u30EC\u30AF\u30B7\u30E7\u30F3\uFF09",
+              "link": "%desktoppreference%Blizzard Arcade Collection\uFF08\u30A2\u30FC\u30B1\u30FC\u30C9\u30B3\u30EC\u30AF\u30B7\u30E7\u30F3\uFF09.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Blizzard Arcade Collection\uFF08\u30A2\u30FC\u30B1\u30FC\u30C9\u30B3\u30EC\u30AF\u30B7\u30E7\u30F3\uFF09",
+              "helplink": "http://us.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Blizzard Arcade Collection",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "kokr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%\uBE14\uB9AC\uC790\uB4DC \uC544\uCF00\uC774\uB4DC \uCEEC\uB809\uC158/\uBE14\uB9AC\uC790\uB4DC \uC544\uCF00\uC774\uB4DC \uCEEC\uB809\uC158.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "\uBE14\uB9AC\uC790\uB4DC \uC544\uCF00\uC774\uB4DC \uCEEC\uB809\uC158",
+              "link": "%desktoppreference%\uBE14\uB9AC\uC790\uB4DC \uC544\uCF00\uC774\uB4DC \uCEEC\uB809\uC158.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "\uBE14\uB9AC\uC790\uB4DC \uC544\uCF00\uC774\uB4DC \uCEEC\uB809\uC158",
+              "helplink": "http://kr.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Blizzard Arcade Collection",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "platform":
+    {
+      "win":
+      {
+        "config":
+        {
+          "binaries":
+          {
+            "game":
+            {
+              "launch_arguments": [],
+              "regex": "client.exe",
+              "relative_path": "client.exe",
+              "switcher": false
+            }
+          },
+          "binary_version_path": "client.exe",
+          "form":
+          {
+            "game_dir":
+            {
+              "default": "Program Files",
+              "required_space": 3000000000
+            }
+          },
+          "min_spec":
+          {
+            "default_requires_64_bit": true,
+            "required_osspecs":
+            {
+              "6.1":
+              {
+                "required_subversion": 0
+              }
+            }
+          },
+          "shortcut_target_path": "Blizzard Arcade Collection Launcher.exe",
+          "tags": [],
+          "uninstall":
+          [
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_BOTH",
+                "key_type": "HKEY_LOCAL_MACHINE",
+                "root": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
+                "subkeys":
+                [
+                  "Blizzard Arcade Collection"
+                ]
+              }
+            },
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_BOTH",
+                "key_type": "HKEY_CURRENT_USER",
+                "root": "SOFTWARE\\Blizzard Entertainment",
+                "subkeys":
+                [
+                  "Blizzard Arcade Collection"
+                ]
+              }
+            },
+            {
+              "delete_folder":
+              {
+                "relative_paths":
+                [
+                  "assets",
+                  "Data"
+                ],
+                "root": "%game%"
+              }
+            },
+            {
+              "delete_file":
+              {
+                "relative_paths":
+                [
+                  "Blizzard Arcade Collection Launcher.exe",
+                  "client.exe",
+                  "msvcp140.dll",
+                  "vcruntime140.dll",
+                  "vcruntime140_1.dll"
+                ],
+                "root": "%game%"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "plpl":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Blizzard Arcade Collection/Blizzard Arcade Collection.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Blizzard Arcade Collection",
+              "link": "%desktoppreference%Blizzard Arcade Collection.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Blizzard Arcade Collection",
+              "helplink": "http://eu.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Blizzard Arcade Collection",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "ptbr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Cole\u00E7\u00E3o Arcade da Blizzard/Cole\u00E7\u00E3o Arcade da Blizzard.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Cole\u00E7\u00E3o Arcade da Blizzard",
+              "link": "%desktoppreference%Cole\u00E7\u00E3o Arcade da Blizzard.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Cole\u00E7\u00E3o Arcade da Blizzard",
+              "helplink": "http://us.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Blizzard Arcade Collection",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "ruru":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Blizzard Arcade Collection/Blizzard Arcade Collection.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Blizzard Arcade Collection",
+              "link": "%desktoppreference%Blizzard Arcade Collection.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Blizzard Arcade Collection",
+              "helplink": "http://eu.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Blizzard Arcade Collection",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "zhcn":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Blizzard Arcade Collection/Blizzard Arcade Collection.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Blizzard Arcade Collection",
+              "link": "%desktoppreference%Blizzard Arcade Collection.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "Blizzard Arcade Collection",
+              "helplink": "http://cn.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Blizzard Arcade Collection",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "zhtw":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%\u300A\u66B4\u96EA\u904A\u6A02\u5834\u5178\u85CF\u7CFB\u5217\u300B/\u300A\u66B4\u96EA\u904A\u6A02\u5834\u5178\u85CF\u7CFB\u5217\u300B.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "\u300A\u66B4\u96EA\u904A\u6A02\u5834\u5178\u85CF\u7CFB\u5217\u300B",
+              "link": "%desktoppreference%\u300A\u66B4\u96EA\u904A\u6A02\u5834\u5178\u85CF\u7CFB\u5217\u300B.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "\u300A\u66B4\u96EA\u904A\u6A02\u5834\u5178\u85CF\u7CFB\u5217\u300B",
+              "helplink": "http://tw.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Blizzard Arcade Collection",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

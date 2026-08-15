@@ -1,0 +1,753 @@
+{
+  "cn\u002Beu\u002Bkr\u002Btw\u002Bus":
+  {
+    "all":
+    {
+      "config":
+      {
+        "data_dir": "Data/",
+        "display_locales":
+        [
+          "enUS",
+          "esMX",
+          "ptBR",
+          "deDE",
+          "esES",
+          "frFR",
+          "ruRU",
+          "koKR",
+          "zhTW",
+          "zhCN"
+        ],
+        "enable_block_copy_patch": true,
+        "form":
+        {
+          "game_dir":
+          {
+            "dirname": "World of Warcraft"
+          }
+        },
+        "launch_arguments":
+        [
+          "-launch"
+        ],
+        "launcher_install_info":
+        {
+          "bootstrapper_branch": "launcher",
+          "bootstrapper_product": "bts",
+          "product_tag": "wow"
+        },
+        "opaque_complex_data":
+        {
+          "tags_config_uri":
+          {
+            "install_packages":
+            [
+              {
+                "package_id": "classic-base",
+                "required": true,
+                "title_string":
+                {
+                  "deDE": "Grundspiel (erforderlich)",
+                  "default": "Base Game (required)",
+                  "esES": "Juego b\u00E1sico (necesario)",
+                  "esMX": "Juego b\u00E1sico (necesario)",
+                  "frFR": "Jeu de base (requis)",
+                  "itIT": "Gioco base (necessario)",
+                  "jaJP": "\u30B2\u30FC\u30E0\u672C\u7DE8\uFF08\u5FC5\u9808\uFF09",
+                  "koKR": "\uAE30\uBCF8 \uAC8C\uC784(\uD544\uC218)",
+                  "plPL": "Podstawowa wersja gry (wymagana)",
+                  "ptBR": "Jogo Base (necess\u00E1rio)",
+                  "ruRU": "\u0411\u0430\u0437\u043E\u0432\u0430\u044F \u0432\u0435\u0440\u0441\u0438\u044F \u0438\u0433\u0440\u044B (\u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F)",
+                  "zhTW": "\u904A\u6232\u4E3B\u9AD4\uFF08\u5FC5\u9808\uFF09"
+                }
+              },
+              {
+                "default_checked": false,
+                "more_info_blurb_string":
+                {
+                  "deDE": "Erforderlich, um hochaufl\u00F6sende Inhalte darzustellen. Spieler, die mit 4K-Monitoren und den h\u00F6chsten Grafikeinstellungen spielen, profitieren am meisten von diesem Installationspaket.",
+                  "default": "Required for High-Resolution Assets. Players who play on 4K monitors and play with Ultra settings will benefit the most from this pack.",
+                  "esES": "Se necesita para utilizar recursos de alta resoluci\u00F3n. Este paquete ofrece la mejor experiencia con monitores 4K y los ajustes configurados en Ultra.",
+                  "esMX": "Se requiere para acceder a los modelos de alta resoluci\u00F3n. Los jugadores que usan monitores 4K con la configuraci\u00F3n Ultra obtendr\u00E1n el m\u00E1ximo rendimiento con este paquete.",
+                  "frFR": "Requis pour les \u00E9l\u00E9ments en haute d\u00E9finition. Les joueurs poss\u00E9dant des \u00E9crans\u00A04K et ayant d\u00E9fini les param\u00E8tres sur Ultra tireront le meilleur parti de ce pack.",
+                  "itIT": "Necessario per gli asset ad alta risoluzione. I giocatori che utilizzano monitor a 4K e impostazioni \u0022Ultra\u0022 trarranno il massimo beneficio da questo pacchetto.",
+                  "jaJP": "\u9AD8\u89E3\u50CF\u5EA6\u30A2\u30BB\u30C3\u30C8\u306E\u4F7F\u7528\u306B\u5FC5\u8981\u3067\u3059\u30024K\u30E2\u30CB\u30BF\u30FC\u3084\u30A6\u30EB\u30C8\u30E9\u8A2D\u5B9A\u3067\u30D7\u30EC\u30A4\u3055\u308C\u308B\u65B9\u306F\u672C\u30D1\u30C3\u30AF\u3092\u9069\u7528\u3059\u308B\u3053\u3068\u3067\u3001\u3088\u308A\u30EA\u30A2\u30EB\u306A\u6620\u50CF\u3092\u6700\u5927\u9650\u306B\u304A\u697D\u3057\u307F\u3044\u305F\u3060\u3051\u307E\u3059\u3002",
+                  "koKR": "\uACE0\uD574\uC0C1\uB3C4 \uC560\uC14B\uC5D0 \uD544\uC694\uD569\uB2C8\uB2E4. 4K \uBAA8\uB2C8\uD130\uC5D0\uC11C \uC6B8\uD2B8\uB77C \uC124\uC815\uC73C\uB85C \uD50C\uB808\uC774\uD558\uC2E0\uB2E4\uBA74 \uC774 \uD329\uC73C\uB85C \uAC00\uC7A5 \uB9CE\uC740 \uD61C\uD0DD\uC744 \uBCF4\uC2E4 \uC218 \uC788\uC2B5\uB2C8\uB2E4.",
+                  "plPL": "Wymagane do korzystania z zasob\u00F3w w wysokiej rozdzielczo\u015Bci. Pakiet szczeg\u00F3lnie polecany graczom korzystaj\u0105cym z monitor\u00F3w 4K w ustawieniach Ultra.",
+                  "ptBR": "Necess\u00E1rio para Elementos em Alta Resolu\u00E7\u00E3o. Jogadores com monitores 4K e configura\u00E7\u00F5es Ultra obter\u00E3o os melhores benef\u00EDcios deste pacote.",
+                  "ruRU": "\u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F \u0434\u043B\u044F \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u043E\u0432 \u0432 \u0432\u044B\u0441\u043E\u043A\u043E\u043C \u0440\u0430\u0437\u0440\u0435\u0448\u0435\u043D\u0438\u0438 \u0414\u0430\u043D\u043D\u044B\u0439 \u043D\u0430\u0431\u043E\u0440 \u043D\u0430\u0438\u0431\u043E\u043B\u0435\u0435 \u043F\u043E\u043B\u0435\u0437\u0435\u043D \u0434\u043B\u044F \u0438\u0433\u0440\u043E\u043A\u043E\u0432, \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u044E\u0449\u0438\u0445 \u043C\u043E\u043D\u0438\u0442\u043E\u0440\u044B \u0441 \u0440\u0430\u0437\u0440\u0435\u0448\u0435\u043D\u0438\u0435\u043C 4K \u0438 \u0443\u0440\u043E\u0432\u0435\u043D\u044C \u043D\u0430\u0441\u0442\u0440\u043E\u0435\u043A \u00AB\u0423\u043B\u044C\u0442\u0440\u0430\u00BB.",
+                  "zhTW": "\u9700\u8981\u64C1\u6709\u624D\u80FD\u4F7F\u7528\u9AD8\u756B\u8CEA\u7D20\u6750\u6B64\u7D20\u6750\u5305\u53EF\u70BA\u4F7F\u75284K\u9AD8\u756B\u8CEA\u87A2\u5E55\u4EE5\u53CA\u8D85\u9AD8\u8A2D\u5B9A\u7684\u73A9\u5BB6\u5E36\u4F86\u6700\u5927\u6548\u76CA\u3002"
+                },
+                "package_id": "classic-hd",
+                "tags":
+                [
+                  "HighRes"
+                ],
+                "title_string":
+                {
+                  "deDE": "Hochaufl\u00F6sende Inhalte",
+                  "default": "High-Resolution Assets",
+                  "esES": "Recursos de alta resoluci\u00F3n",
+                  "esMX": "Modelos de alta resoluci\u00F3n",
+                  "frFR": "\u00C9l\u00E9ments en haute d\u00E9finition",
+                  "itIT": "Asset ad alta risoluzione",
+                  "jaJP": "\u9AD8\u89E3\u50CF\u5EA6\u30A2\u30BB\u30C3\u30C8",
+                  "koKR": "\uACE0\uD574\uC0C1\uB3C4 \uC560\uC14B",
+                  "plPL": "Zasoby w wysokiej rozdzielczo\u015Bci",
+                  "ptBR": "Elementos em Alta Resolu\u00E7\u00E3o",
+                  "ruRU": "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u0432 \u0432\u044B\u0441\u043E\u043A\u043E\u043C \u0440\u0430\u0437\u0440\u0435\u0448\u0435\u043D\u0438\u0438",
+                  "zhTW": "\u9AD8\u756B\u8CEA\u7D20\u6750"
+                }
+              }
+            ],
+            "string_table": {}
+          }
+        },
+        "opaque_product_specific":
+        {
+          "uses_web_credentials": "true"
+        },
+        "product": "wow_classic_ptr",
+        "shared_container_default_subfolder": "_classic_ptr_",
+        "supported_locales":
+        [
+          "enUS",
+          "esMX",
+          "ptBR",
+          "deDE",
+          "esES",
+          "frFR",
+          "ruRU",
+          "koKR",
+          "zhTW",
+          "zhCN"
+        ],
+        "supports_multibox": true,
+        "supports_offline": false,
+        "title_info":
+        {
+          "products_in_title":
+          [
+            "wowt",
+            "wow_beta",
+            "wow",
+            "wowe1",
+            "wowe2",
+            "wowe3",
+            "wowv",
+            "wowdemo",
+            "wowdev",
+            "wowz",
+            "wow_classic",
+            "wow_classic_beta"
+          ],
+          "title_id": "wow"
+        },
+        "update_method": "ngdp"
+      }
+    },
+    "cn":
+    {
+      "config":
+      {
+        "display_locales":
+        [
+          "zhCN"
+        ],
+        "extra_tags":
+        [
+          "Alternate"
+        ]
+      }
+    },
+    "dede":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "args": "--productcode=wow_classic_ptr",
+              "link": "%commonstartmenu%World of Warcraft Classic PTR/World of Warcraft Classic PTR.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "args": "--productcode=wow_classic_ptr",
+              "description": "Hier klicken, um World of Warcraft zu spielen.",
+              "link": "%desktoppreference%World of Warcraft Classic PTR.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "Blizzard Support",
+              "display_name": "World of Warcraft Classic PTR",
+              "helplink": "http://eu.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "World of Warcraft Classic PTR",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "enus":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "args": "--productcode=wow_classic_ptr",
+              "link": "%commonstartmenu%World of Warcraft Classic PTR/World of Warcraft Classic PTR.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "args": "--productcode=wow_classic_ptr",
+              "description": "Click here to play World of Warcraft.",
+              "link": "%desktoppreference%World of Warcraft Classic PTR.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "Blizzard Support",
+              "display_name": "World of Warcraft Classic PTR",
+              "helplink": "http://us.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "World of Warcraft Classic PTR",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "eses":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "args": "--productcode=wow_classic_ptr",
+              "link": "%commonstartmenu%World of Warcraft Classic PTR/World of Warcraft Classic PTR.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "args": "--productcode=wow_classic_ptr",
+              "description": "Haz clic aqu\u00ED para jugar a World of Warcraft.",
+              "link": "%desktoppreference%World of Warcraft Classic PTR.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "Blizzard Support",
+              "display_name": "World of Warcraft Classic PTR",
+              "helplink": "http://eu.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "World of Warcraft Classic PTR",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "frfr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "args": "--productcode=wow_classic_ptr",
+              "link": "%commonstartmenu%World of Warcraft Classic PTR/World of Warcraft Classic PTR.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "args": "--productcode=wow_classic_ptr",
+              "description": "Cliquez ici pour jouer \u00E0 World of Warcraft.",
+              "link": "%desktoppreference%World of Warcraft Classic PTR.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "Blizzard Support",
+              "display_name": "World of Warcraft Classic PTR",
+              "helplink": "http://eu.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "World of Warcraft Classic PTR",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "kokr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "args": "--productcode=wow_classic_ptr",
+              "link": "%commonstartmenu%\uACF5\uAC1C \uD14C\uC2A4\uD2B8 \uC11C\uBC84 (\uD074\uB798\uC2DD BCC)/\uACF5\uAC1C \uD14C\uC2A4\uD2B8 \uC11C\uBC84 (\uD074\uB798\uC2DD BCC).lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "args": "--productcode=wow_classic_ptr",
+              "description": "\uC6D4\uB4DC \uC624\uBE0C \uC6CC\uD06C\uB798\uD504\uD2B8\uB97C \uC2E4\uD589\uD558\uB824\uBA74 \uC5EC\uAE30\uB97C \uD074\uB9AD\uD558\uC2ED\uC2DC\uC624.",
+              "link": "%desktoppreference%\uACF5\uAC1C \uD14C\uC2A4\uD2B8 \uC11C\uBC84 (\uD074\uB798\uC2DD BCC).lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "Blizzard Support",
+              "display_name": "\uACF5\uAC1C \uD14C\uC2A4\uD2B8 \uC11C\uBC84 (\uD074\uB798\uC2DD BCC)",
+              "helplink": "http://kr.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "World of Warcraft Classic PTR",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "binaries":
+          {
+            "game":
+            {
+              "launch_arguments": [],
+              "relative_path": "World of Warcraft Classic Test.app",
+              "switcher": false
+            }
+          },
+          "form":
+          {
+            "game_dir":
+            {
+              "default": "Applications",
+              "required_space": 11500000000,
+              "space_per_extra_language": 2000000000
+            }
+          },
+          "min_spec":
+          {
+            "default_required_cpu_cores": 2,
+            "default_required_cpu_speed": 2200,
+            "default_required_ram": 2048,
+            "default_requires_64_bit": true,
+            "required_osspecs":
+            {
+              "10.14":
+              {
+                "required_subversion": 0
+              }
+            }
+          },
+          "shortcut_target_path": "World of Warcraft Launcher.app",
+          "tags":
+          [
+            "OSX"
+          ],
+          "tags_32bit":
+          [
+            "x86_32"
+          ],
+          "tags_64bit":
+          [
+            "x86_64"
+          ],
+          "uninstall":
+          [
+            {
+              "delete_folder":
+              {
+                "relative_paths":
+                [
+                  "Data",
+                  "World of Warcraft Launcher.app"
+                ],
+                "root": "%titlepath%"
+              }
+            },
+            {
+              "delete_folder":
+              {
+                "relative_paths":
+                [
+                  "WTF",
+                  "Utils",
+                  "Updates",
+                  "Logs",
+                  "Blizzard Error.app",
+                  "World of Warcraft.app",
+                  "World of Warcraft-64.app",
+                  "World of Warcraft Classic Test.app",
+                  "World of Warcraft Launcher.app",
+                  "Cache",
+                  "Errors",
+                  "Temp"
+                ],
+                "root": "%game%"
+              }
+            },
+            {
+              "delete_file":
+              {
+                "relative_paths":
+                [
+                  ".agent.db",
+                  ".build.db",
+                  ".build.info",
+                  ".patch.result",
+                  "Launcher.db",
+                  "SetupOSX.mpq",
+                  "WoW.mfil"
+                ],
+                "root": "%game%"
+              }
+            }
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "binaries":
+          {
+            "game":
+            {
+              "launch_arguments": [],
+              "relative_path": "WoWClassicT.exe",
+              "relative_path_arm64": "WowClassicT-arm64.exe",
+              "switcher": false
+            }
+          },
+          "form":
+          {
+            "game_dir":
+            {
+              "default": "Program Files",
+              "required_space": 11500000000,
+              "space_per_extra_language": 2000000000
+            }
+          },
+          "min_spec":
+          {
+            "default_required_cpu_cores": 1,
+            "default_required_cpu_speed": 2600,
+            "default_required_ram": 2048,
+            "default_requires_64_bit": true,
+            "required_osspecs":
+            {
+              "6.1":
+              {
+                "required_subversion": 0
+              }
+            }
+          },
+          "shortcut_target_path": "World of Warcraft Launcher.exe",
+          "tags":
+          [
+            "Windows"
+          ],
+          "tags_32bit":
+          [
+            "x86_32"
+          ],
+          "tags_64bit":
+          [
+            "x86_64"
+          ],
+          "tags_arm64":
+          [
+            "arm64"
+          ],
+          "uninstall":
+          [
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_32BIT",
+                "key_type": "HKEY_LOCAL_MACHINE",
+                "root": "SOFTWARE\\Blizzard Entertainment",
+                "subkeys":
+                [
+                  "World of Warcraft Classic PTR"
+                ]
+              }
+            },
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_BOTH",
+                "key_type": "HKEY_LOCAL_MACHINE",
+                "root": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
+                "subkeys":
+                [
+                  "World of Warcraft Classic PTR"
+                ]
+              }
+            },
+            {
+              "delete_folder":
+              {
+                "relative_paths":
+                [
+                  "Data"
+                ],
+                "root": "%titlepath%"
+              }
+            },
+            {
+              "delete_file":
+              {
+                "relative_paths":
+                [
+                  "World of Warcraft Launcher.exe"
+                ],
+                "root": "%titlepath%"
+              }
+            },
+            {
+              "delete_folder":
+              {
+                "relative_paths":
+                [
+                  "WTF",
+                  "Utils",
+                  "Updates",
+                  "Logs",
+                  "Cache",
+                  "Errors",
+                  "Temp"
+                ],
+                "root": "%game%"
+              }
+            },
+            {
+              "delete_file":
+              {
+                "relative_paths":
+                [
+                  ".agent.db",
+                  ".build.db",
+                  ".build.info",
+                  ".patch.result",
+                  "BlizzardError.exe",
+                  "Launcher.db",
+                  "MovieProxy.exe",
+                  "World of Warcraft Launcher.exe",
+                  "Wow.exe",
+                  "WowB.exe",
+                  "WowT.exe",
+                  "Wow-64.exe",
+                  "WoWClassicT.exe",
+                  "WowError.exe",
+                  "WowError-64.exe",
+                  "dbghelp.dll",
+                  "Wow*arm64.exe",
+                  "GFSDK_Aftermath_Lib.x64.dll",
+                  "WoW.mfil"
+                ],
+                "root": "%game%"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "ruru":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "args": "--productcode=wow_classic_ptr",
+              "link": "%commonstartmenu%World of Warcraft Classic PTR/World of Warcraft Classic PTR.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "args": "--productcode=wow_classic_ptr",
+              "description": "\u041D\u0430\u0436\u043C\u0438\u0442\u0435 \u0437\u0434\u0435\u0441\u044C, \u0447\u0442\u043E\u0431\u044B \u0437\u0430\u043F\u0443\u0441\u0442\u0438\u0442\u044C World of Warcraft.",
+              "link": "%desktoppreference%World of Warcraft Classic PTR.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "Blizzard Support",
+              "display_name": "World of Warcraft Classic PTR",
+              "helplink": "http://eu.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "World of Warcraft Classic PTR",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "zhcn":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "args": "--productcode=wow_classic_ptr",
+              "link": "%commonstartmenu%\u516C\u5171\u6D4B\u8BD5\u670D\uFF08\u71C3\u70E7\u7684\u8FDC\u5F81\uFF09/\u516C\u5171\u6D4B\u8BD5\u670D\uFF08\u71C3\u70E7\u7684\u8FDC\u5F81\uFF09.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "args": "--productcode=wow_classic_ptr",
+              "description": "\u70B9\u51FB\u8FD9\u91CC\u8FD0\u884C\u300A\u9B54\u517D\u4E16\u754C\u300B\u3002",
+              "link": "%desktoppreference%\u516C\u5171\u6D4B\u8BD5\u670D\uFF08\u71C3\u70E7\u7684\u8FDC\u5F81\uFF09.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "Blizzard Support",
+              "display_name": "\u516C\u5171\u6D4B\u8BD5\u670D\uFF08\u71C3\u70E7\u7684\u8FDC\u5F81\uFF09",
+              "helplink": "http://cn.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "World of Warcraft Classic PTR",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "zhtw":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "args": "--productcode=wow_classic_ptr",
+              "link": "%commonstartmenu%\u516C\u958B\u6E2C\u8A66\u4F3A\u670D\u5668 (\u300A\u71C3\u71D2\u7684\u9060\u5F81\u300B\u7D93\u5178\u7248)/\u516C\u958B\u6E2C\u8A66\u4F3A\u670D\u5668 (\u300A\u71C3\u71D2\u7684\u9060\u5F81\u300B\u7D93\u5178\u7248).lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "args": "--productcode=wow_classic_ptr",
+              "description": "\u9EDE\u9078\u6B64\u9023\u7D50\u4EE5\u57F7\u884C\u300A\u9B54\u7378\u4E16\u754C\u300B\u3002",
+              "link": "%desktoppreference%\u516C\u958B\u6E2C\u8A66\u4F3A\u670D\u5668 (\u300A\u71C3\u71D2\u7684\u9060\u5F81\u300B\u7D93\u5178\u7248).lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "Blizzard Support",
+              "display_name": "\u516C\u958B\u6E2C\u8A66\u4F3A\u670D\u5668 (\u300A\u71C3\u71D2\u7684\u9060\u5F81\u300B\u7D93\u5178\u7248)",
+              "helplink": "http://tw.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "World of Warcraft Classic PTR",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

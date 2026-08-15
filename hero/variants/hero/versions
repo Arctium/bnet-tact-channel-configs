@@ -1,0 +1,65 @@
+{
+  "cn":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "B89566",
+      "token": "2d5c1dae-fb6e-4eed-9123-4dddba866be1"
+    },
+    "buildKey": "a1eb46877f0c27e66f1dcd169866b34b",
+    "cdnKey": "dd34a66867f0b57459176999fbc848a6",
+    "keyRing": "",
+    "path": "tpr/Hero-Live-a",
+    "pipelineId": 10,
+    "productConfig":
+    {
+      "hash": "a0c5874544505acfa8952db0b0a4e48f",
+      "id": 1021
+    },
+    "versionNumber": 89566,
+    "versionString": "2.55.3.89566"
+  },
+  "eu":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "B97650",
+      "token": "0b5d124b-643b-42bb-803c-7392d7d3eeb9"
+    },
+    "buildKey": "c99ce65cdc7b50699e953816c6ace966",
+    "cdnKey": "6463c00b2aa6c593ed6cbd170570ea1e",
+    "keyRing": "",
+    "path": "tpr/Hero-Live-a",
+    "pipelineId": 10,
+    "productConfig":
+    {
+      "hash": "a0c5874544505acfa8952db0b0a4e48f",
+      "id": 1021
+    },
+    "versionNumber": 97650,
+    "versionString": "2.55.17.97650"
+  },
+  "kr\u002Bsg\u002Btw\u002Bus":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "B97771",
+      "token": "a07927ca-0112-4da5-84d2-b2d8f9484292"
+    },
+    "buildKey": "8c9b7d1cb91b046aa4efb91db5364710",
+    "cdnKey": "649138484b857978ae5c73772091d880",
+    "keyRing": "",
+    "path": "tpr/Hero-Live-a",
+    "pipelineId": 10,
+    "productConfig":
+    {
+      "hash": "a0c5874544505acfa8952db0b0a4e48f",
+      "id": 1021
+    },
+    "versionNumber": 97771,
+    "versionString": "2.55.17.97771"
+  }
+}

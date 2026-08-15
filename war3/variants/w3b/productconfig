@@ -1,0 +1,761 @@
+{
+  "cn\u002Beu\u002Bkr\u002Bus":
+  {
+    "acct-CHN":
+    {
+      "config":
+      {
+        "form":
+        {
+          "game_dir":
+          {
+            "dirname": "Warcraft III Test"
+          }
+        }
+      }
+    },
+    "all":
+    {
+      "config":
+      {
+        "data_dir": "Data/",
+        "display_locales":
+        [
+          "deDE",
+          "enUS",
+          "esMX",
+          "ptBR",
+          "esES",
+          "frFR",
+          "itIT",
+          "koKR",
+          "plPL",
+          "ruRU",
+          "zhCN",
+          "zhTW"
+        ],
+        "form":
+        {
+          "game_dir":
+          {
+            "dirname": "Warcraft III Beta"
+          }
+        },
+        "launcher_install_info":
+        {
+          "bootstrapper_branch": "launcher",
+          "bootstrapper_migration_version": "1.16.1.0",
+          "bootstrapper_product": "bts",
+          "product_tag": "w3"
+        },
+        "product": "w3b",
+        "supported_locales":
+        [
+          "deDE",
+          "enUS",
+          "esMX",
+          "ptBR",
+          "esES",
+          "frFR",
+          "itIT",
+          "koKR",
+          "plPL",
+          "ruRU",
+          "zhCN",
+          "zhTW"
+        ],
+        "supports_multibox": true,
+        "supports_offline": true,
+        "switcher": false,
+        "title_info":
+        {
+          "products_in_title":
+          [
+            "w3",
+            "w3t",
+            "w3b"
+          ],
+          "title_id": "w3"
+        },
+        "update_method": "ngdp"
+      }
+    },
+    "dede":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Warcraft III Beta/Warcraft III Beta.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Warcraft III spielen",
+              "link": "%desktoppreference%Warcraft III Beta.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "Blizzard Support",
+              "display_name": "Warcraft III Beta",
+              "helplink": "http://eu.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Warcraft III Beta",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "enus":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Warcraft III Beta/Warcraft III Beta.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Play Warcraft III",
+              "link": "%desktoppreference%Warcraft III Beta.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "Blizzard Support",
+              "display_name": "Warcraft III Beta",
+              "helplink": "http://us.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Warcraft III Beta",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "eses":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Warcraft III Beta/Warcraft III Beta.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Jugar a Warcraft III",
+              "link": "%desktoppreference%Warcraft III Beta.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "Blizzard Support",
+              "display_name": "Warcraft III Beta",
+              "helplink": "http://eu.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Warcraft III Beta",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "esmx":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Warcraft III Beta/Warcraft III Beta.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Jugar Warcraft III",
+              "link": "%desktoppreference%Warcraft III Beta.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "Blizzard Support",
+              "display_name": "Warcraft III Beta",
+              "helplink": "http://us.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Warcraft III Beta",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "frfr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Warcraft III Beta/Warcraft III Beta.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Jouer \u00E0 Warcraft III",
+              "link": "%desktoppreference%Warcraft III Beta.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "Blizzard Support",
+              "display_name": "Warcraft III Beta",
+              "helplink": "http://eu.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Warcraft III Beta",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "itit":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Warcraft III Beta/Warcraft III Beta.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Gioca a Warcraft III",
+              "link": "%desktoppreference%Warcraft III Beta.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "Blizzard Support",
+              "display_name": "Warcraft III Beta",
+              "helplink": "http://eu.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Warcraft III Beta",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "kokr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%\uC6CC\uD06C\uB798\uD504\uD2B8 III: \uB9AC\uD3EC\uC9C0\uB4DC \uBCA0\uD0C0/\uC6CC\uD06C\uB798\uD504\uD2B8 III: \uB9AC\uD3EC\uC9C0\uB4DC \uBCA0\uD0C0.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "\uC6CC\uD06C\uB798\uD504\uD2B8 III\uB97C \uC2E4\uD589\uD569\uB2C8\uB2E4",
+              "link": "%desktoppreference%\uC6CC\uD06C\uB798\uD504\uD2B8 III: \uB9AC\uD3EC\uC9C0\uB4DC \uBCA0\uD0C0.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "Blizzard Support",
+              "display_name": "\uC6CC\uD06C\uB798\uD504\uD2B8 III: \uB9AC\uD3EC\uC9C0\uB4DC \uBCA0\uD0C0",
+              "helplink": "http://kr.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Warcraft III Beta",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "binaries":
+          {
+            "game":
+            {
+              "launch_arguments":
+              [
+                "-launch"
+              ],
+              "regex": "x86(_64)?/Warcraft III\\.app",
+              "relative_path": "x86_64/Warcraft III.app",
+              "switcher": false
+            }
+          },
+          "binary_version_path": "x86_64/Warcraft III.app",
+          "form":
+          {
+            "game_dir":
+            {
+              "default": "Applications",
+              "required_space": 3000000000.0
+            }
+          },
+          "tags":
+          [
+            "OSX"
+          ],
+          "uninstall":
+          [
+            {
+              "delete_folder":
+              {
+                "relative_paths":
+                [
+                  "cef",
+                  "Data",
+                  "JassHelper",
+                  "Maps",
+                  "x86",
+                  "x86_64",
+                  "Warcraft III Launcher.app",
+                  "Warcraft III.app",
+                  "AI Scripts",
+                  "Blizzard Error.app",
+                  "Campaigns",
+                  "Movies",
+                  "The Frozen Throne.app",
+                  "redist",
+                  "LegacyVersion"
+                ],
+                "root": "%game%"
+              }
+            },
+            {
+              "delete_file":
+              {
+                "relative_paths":
+                [
+                  "CustomKeyInfo.txt",
+                  "CustomKeysSample.txt",
+                  "Launcher.db"
+                ],
+                "root": "%game%"
+              }
+            }
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "binaries":
+          {
+            "editor":
+            {
+              "launch_arguments":
+              [
+                "-launch"
+              ],
+              "relative_path": "x86_64/World Editor.exe",
+              "switcher": false
+            },
+            "game":
+            {
+              "launch_arguments":
+              [
+                "-launch"
+              ],
+              "regex": "x86(_64)?/Warcraft III\\.exe",
+              "relative_path": "x86_64/Warcraft III.exe",
+              "switcher": false
+            }
+          },
+          "binary_version_path": "x86_64/Warcraft III.exe",
+          "form":
+          {
+            "game_dir":
+            {
+              "default": "Program Files",
+              "required_space": 1500000000.0
+            }
+          },
+          "min_spec":
+          {
+            "default_requires_64_bit": true,
+            "required_osspecs":
+            {
+              "6.1":
+              {
+                "required_subversion": 0
+              }
+            }
+          },
+          "shortcut_target_path": "Warcraft III Launcher.exe",
+          "tags":
+          [
+            "Windows"
+          ],
+          "uninstall":
+          [
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_BOTH",
+                "key_type": "HKEY_LOCAL_MACHINE",
+                "root": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
+                "subkeys":
+                [
+                  "Warcraft III Beta"
+                ]
+              }
+            },
+            {
+              "delete_registry_key_list":
+              {
+                "flags": "WOW_BOTH",
+                "key_type": "HKEY_CURRENT_USER",
+                "root": "SOFTWARE\\Blizzard Entertainment",
+                "subkeys":
+                [
+                  "Warcraft III Beta"
+                ]
+              }
+            },
+            {
+              "delete_folder":
+              {
+                "relative_paths":
+                [
+                  "cef",
+                  "Data",
+                  "JassHelper",
+                  "Maps",
+                  "x86",
+                  "x86_64",
+                  "AI Scripts",
+                  "Campaigns",
+                  "Movies",
+                  "Release",
+                  "redist",
+                  "LegacyVersion",
+                  "BlizzardBrowser"
+                ],
+                "root": "%game%"
+              }
+            },
+            {
+              "delete_file":
+              {
+                "relative_paths":
+                [
+                  "BlizzardError.exe",
+                  "ClientSdk.dll",
+                  "ClientSdkFirewallHelper.exe",
+                  "ClientSdkMDNSHost.exe",
+                  "CustomKeyInfo.txt",
+                  "CustomKeysSample.txt",
+                  "Launcher.db",
+                  "replays.ico",
+                  "SystemSurvey.exe",
+                  "Warcraft III Launcher.exe",
+                  "Warcraft III.exe",
+                  "World Editor.exe"
+                ],
+                "root": "%game%"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "plpl":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Warcraft III Beta/Warcraft III Beta.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Zagraj w gr\u0119 Warcraft III.",
+              "link": "%desktoppreference%Warcraft III Beta.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "Blizzard Support",
+              "display_name": "Warcraft III Beta",
+              "helplink": "http://eu.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Warcraft III Beta",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "ptbr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Warcraft III Beta/Warcraft III Beta.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "Jogar Warcraft III",
+              "link": "%desktoppreference%Warcraft III Beta.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "Blizzard Support",
+              "display_name": "Warcraft III Beta",
+              "helplink": "http://us.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Warcraft III Beta",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "ruru":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%Warcraft III Beta/Warcraft III Beta.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "\u0417\u0430\u043F\u0443\u0441\u043A Warcraft III",
+              "link": "%desktoppreference%Warcraft III Beta.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "Blizzard Support",
+              "display_name": "Warcraft III Beta",
+              "helplink": "http://eu.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Warcraft III Beta",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "zhcn":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%\u9B54\u517D\u4E89\u9738III\uFF1A\u91CD\u5236\u7248\u6D4B\u8BD5/\u9B54\u517D\u4E89\u9738III\uFF1A\u91CD\u5236\u7248\u6D4B\u8BD5.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "\u57F7\u884C\u9B54\u517D\u4E89\u9738III",
+              "link": "%desktoppreference%\u9B54\u517D\u4E89\u9738III\uFF1A\u91CD\u5236\u7248\u6D4B\u8BD5.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "Blizzard Support",
+              "display_name": "\u9B54\u517D\u4E89\u9738III\uFF1A\u91CD\u5236\u7248\u6D4B\u8BD5",
+              "helplink": "http://cn.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Warcraft III Beta",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "zhtw":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "link": "%commonstartmenu%\u300A\u9B54\u7378\u722D\u9738III\u300B\u6DEC\u934A\u91CD\u751F\u6E2C\u8A66\u7248/\u300A\u9B54\u7378\u722D\u9738III\u300B\u6DEC\u934A\u91CD\u751F\u6E2C\u8A66\u7248.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "description": "\u542F\u52A8\u300A\u9B54\u7378\u722D\u9738III\u300B",
+              "link": "%desktoppreference%\u300A\u9B54\u7378\u722D\u9738III\u300B\u6DEC\u934A\u91CD\u751F\u6E2C\u8A66\u7248.lnk",
+              "target": "%shortcutpath%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "contact": "Blizzard Support",
+              "display_name": "\u300A\u9B54\u7378\u722D\u9738III\u300B\u6DEC\u934A\u91CD\u751F\u6E2C\u8A66\u7248",
+              "helplink": "http://tw.blizzard.com/support/",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Warcraft III Beta",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

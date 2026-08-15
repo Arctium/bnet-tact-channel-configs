@@ -1,0 +1,13 @@
+{
+  "eu\u002Bkr\u002Bus":
+  {
+    "all":
+    {
+      "config":
+      {
+        "product": "agent_redist",
+        "update_method": "invalid"
+      }
+    }
+  }
+}

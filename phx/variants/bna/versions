@@ -1,0 +1,69 @@
+{
+  "beta":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "17652_release_2.52.8-beta",
+      "token": "af4d0219-41b2-4549-974e-43e11f2b42f5"
+    },
+    "buildKey": "6578af32081bac804e0cf83a96559919",
+    "cdnKey": "551bcec947d3c1bce0f791e7d3e0e694",
+    "keyRing": "",
+    "path": "tpr/bnt002",
+    "pipelineId": 53,
+    "productConfig":
+    {
+      "algorithm": "Salsa20",
+      "encKey": "fkeKKM3cxn0jsZxxkEGmFAlwj8fGqdrB/pYBTFoGbM4=",
+      "hash": "dfe9a08680589cbc256386f214d170a6",
+      "id": 9007
+    },
+    "versionNumber": 17652,
+    "versionString": "2.52.8.17652"
+  },
+  "cn\u002Beu\u002Bkr\u002Bsg\u002Btw\u002Bus":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "17651_release_2.52.8",
+      "token": "835cf163-45e7-4162-b53f-3b24cecd6863"
+    },
+    "buildKey": "83e89bb98a1199169f122cd72478cd6b",
+    "cdnKey": "49df939a40b75e0c7d3fa7bbfeaa4fb2",
+    "keyRing": "",
+    "path": "tpr/bnt002",
+    "pipelineId": 53,
+    "productConfig":
+    {
+      "algorithm": "Salsa20",
+      "encKey": "fkeKKM3cxn0jsZxxkEGmFAlwj8fGqdrB/pYBTFoGbM4=",
+      "hash": "dfe9a08680589cbc256386f214d170a6",
+      "id": 9007
+    },
+    "versionNumber": 17651,
+    "versionString": "2.52.8.17651"
+  },
+  "macos-10.12":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "14220_2.16.6",
+      "token": "4c04a4eb-a79f-450b-99cb-eba453ddb2bd"
+    },
+    "buildKey": "401bf479ca7b070137079647cd22d84f",
+    "cdnKey": "408473274ccf708bf87ec934a8626a3f",
+    "keyRing": "",
+    "path": "tpr/bnt002",
+    "pipelineId": 53,
+    "productConfig":
+    {
+      "hash": "cb43342ae016258bbbbc2300d0995f73",
+      "id": 1104
+    },
+    "versionNumber": 14220,
+    "versionString": "2.16.6.14220"
+  }
+}
