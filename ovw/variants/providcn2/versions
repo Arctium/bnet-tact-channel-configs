@@ -36,7 +36,7 @@
     "productConfig":
     {
       "cdnPath": "",
-      "hash": null
+      "hash": ""
     },
     "versionNumber": 149203,
     "versionString": "2.22.1.0.149203"
