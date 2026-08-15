@@ -252,7 +252,7 @@
               [
                 "cod26-cod.exe"
               ],
-              "regex": "cod26-cod.exe|bootstrapper.exe",
+              "regex": "bootstrapper.exe",
               "relative_path": "bootstrapper.exe",
               "switcher": false
             }
@@ -274,7 +274,7 @@
               {
                 "commandline_args":
                 [
-                  "cod26-cod.exe",
+                  "cod.exe",
                   "\u002Bogu_mode",
                   "--nofork"
                 ],
