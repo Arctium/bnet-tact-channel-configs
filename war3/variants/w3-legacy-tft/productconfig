@@ -1,5 +1,5 @@
 {
-  "eu\u002Bkr\u002Bus":
+  "eu+kr+us":
   {
     "all":
     {
@@ -180,7 +180,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "Jouer \u00E0 Warcraft III (Legacy)",
+              "description": "Jouer à Warcraft III (Legacy)",
               "link": "%desktoppreference%Warcraft III (Legacy).lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -252,7 +252,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\uC6CC\uD06C\uB798\uD504\uD2B8 III(\uB808\uAC70\uC2DC)/\uC6CC\uD06C\uB798\uD504\uD2B8 III(\uB808\uAC70\uC2DC).lnk",
+              "link": "%commonstartmenu%워크래프트 III(레거시)/워크래프트 III(레거시).lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -260,8 +260,8 @@
           {
             "desktop_shortcut":
             {
-              "description": "\uC6CC\uD06C\uB798\uD504\uD2B8 III(\uB808\uAC70\uC2DC) \uD50C\uB808\uC774",
-              "link": "%desktoppreference%\uC6CC\uD06C\uB798\uD504\uD2B8 III(\uB808\uAC70\uC2DC).lnk",
+              "description": "워크래프트 III(레거시) 플레이",
+              "link": "%desktoppreference%워크래프트 III(레거시).lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -270,7 +270,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\uC6CC\uD06C\uB798\uD504\uD2B8 III(\uB808\uAC70\uC2DC)",
+              "display_name": "워크래프트 III(레거시)",
               "helplink": "http://kr.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -643,7 +643,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%Warcraft III (\u043A\u043B\u0430\u0441\u0441\u0438\u043A\u0430)/Warcraft III (\u043A\u043B\u0430\u0441\u0441\u0438\u043A\u0430).lnk",
+              "link": "%commonstartmenu%Warcraft III (классика)/Warcraft III (классика).lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -651,8 +651,8 @@
           {
             "desktop_shortcut":
             {
-              "description": "\u0418\u0433\u0440\u0430\u0442\u044C \u0432 Warcraft III (\u043A\u043B\u0430\u0441\u0441\u0438\u043A\u0430)",
-              "link": "%desktoppreference%Warcraft III (\u043A\u043B\u0430\u0441\u0441\u0438\u043A\u0430).lnk",
+              "description": "Играть в Warcraft III (классика)",
+              "link": "%desktoppreference%Warcraft III (классика).lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -661,7 +661,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "Warcraft III (\u043A\u043B\u0430\u0441\u0441\u0438\u043A\u0430)",
+              "display_name": "Warcraft III (классика)",
               "helplink": "http://eu.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -683,7 +683,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\u300A\u9B54\u517D\u4E89\u9738III\u300B\uFF08\u7ECF\u5178\u7248\uFF09/\u300A\u9B54\u517D\u4E89\u9738III\u300B\uFF08\u7ECF\u5178\u7248\uFF09.lnk",
+              "link": "%commonstartmenu%《魔兽争霸III》（经典版）/《魔兽争霸III》（经典版）.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -691,8 +691,8 @@
           {
             "desktop_shortcut":
             {
-              "description": "\u6E38\u73A9\u300A\u9B54\u517D\u4E89\u9738III\u300B\uFF08\u7ECF\u5178\u7248\uFF09",
-              "link": "%desktoppreference%\u300A\u9B54\u517D\u4E89\u9738III\u300B\uFF08\u7ECF\u5178\u7248\uFF09.lnk",
+              "description": "游玩《魔兽争霸III》（经典版）",
+              "link": "%desktoppreference%《魔兽争霸III》（经典版）.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -701,7 +701,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\u300A\u9B54\u517D\u4E89\u9738III\u300B\uFF08\u7ECF\u5178\u7248\uFF09",
+              "display_name": "《魔兽争霸III》（经典版）",
               "helplink": "http://cn.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -723,7 +723,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\u300A\u9B54\u7378\u722D\u9738 III\u300B\uFF08\u820A\u7248\uFF09/\u300A\u9B54\u7378\u722D\u9738 III\u300B\uFF08\u820A\u7248\uFF09.lnk",
+              "link": "%commonstartmenu%《魔獸爭霸 III》（舊版）/《魔獸爭霸 III》（舊版）.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -731,8 +731,8 @@
           {
             "desktop_shortcut":
             {
-              "description": "\u904A\u73A9\u300A\u9B54\u7378\u722D\u9738 III\u300B\uFF08\u820A\u7248\uFF09",
-              "link": "%desktoppreference%\u300A\u9B54\u7378\u722D\u9738 III\u300B\uFF08\u820A\u7248\uFF09.lnk",
+              "description": "遊玩《魔獸爭霸 III》（舊版）",
+              "link": "%desktoppreference%《魔獸爭霸 III》（舊版）.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -741,7 +741,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\u300A\u9B54\u7378\u722D\u9738 III\u300B\uFF08\u820A\u7248\uFF09",
+              "display_name": "《魔獸爭霸 III》（舊版）",
               "helplink": "http://tw.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",

@@ -28,10 +28,10 @@
         "host": "http://eu.cdn.blizzard.com?maxhosts=4"
       },
       {
-        "host": "https://eu.cdn.blizzard.com?maxhosts=4\u0026fallback=1"
+        "host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"
       },
       {
-        "host": "https://level3.ssl.blizzard.com?maxhosts=4\u0026fallback=1"
+        "host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"
       },
       {
         "host": "http://kr.cdn.blizzard.com?maxhosts=3"
@@ -47,7 +47,7 @@
       }
     ]
   },
-  "tw\u002Bkr":
+  "tw+kr":
   {
     "hosts":
     [
@@ -100,7 +100,7 @@
         "host": "http://us.cdn.blizzard.com?maxhosts=4"
       },
       {
-        "host": "https://us.cdn.blizzard.com?maxhosts=4\u0026fallback=1"
+        "host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"
       },
       {
         "host": "http://cloudfront-us.cdn.blizzard.com?maxhosts=3"
@@ -115,7 +115,7 @@
         "host": "https://llnw.us.blizzard.com?maxhosts=3"
       },
       {
-        "host": "https://level3.ssl.blizzard.com?maxhosts=4\u0026fallback=1"
+        "host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"
       },
       {
         "host": "http://kr.cdn.blizzard.com?maxhosts=3"

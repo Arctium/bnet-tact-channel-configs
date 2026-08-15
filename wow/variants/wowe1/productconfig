@@ -1,5 +1,5 @@
 {
-  "cn\u002Beu\u002Bkr\u002Bsg\u002Btw\u002Bus\u002Bxx":
+  "cn+eu+kr+sg+tw+us+xx":
   {
     "all":
     {
@@ -137,7 +137,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\u9B54\u517D\u4E16\u754C",
+              "display_name": "魔兽世界",
               "helplink": "http://cn.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -183,7 +183,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\u9B54\u7378\u4E16\u754C",
+              "display_name": "魔獸世界",
               "helplink": "http://tw.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -321,7 +321,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\uC6D4\uB4DC \uC624\uBE0C \uC6CC\uD06C\uB798\uD504\uD2B8",
+              "display_name": "월드 오브 워크래프트",
               "helplink": "http://kr.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -700,7 +700,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\u9B54\u517D\u4E16\u754C",
+              "display_name": "魔兽世界",
               "helplink": "http://cn.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -723,7 +723,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\u9B54\u7378\u4E16\u754C",
+              "display_name": "魔獸世界",
               "helplink": "http://tw.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",

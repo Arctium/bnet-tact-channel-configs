@@ -1,5 +1,5 @@
 {
-  "eu\u002Bkr\u002Bus":
+  "eu+kr+us":
   {
     "all":
     {
@@ -320,7 +320,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\u30AF\u30E9\u30C3\u30B7\u30E5\u30FB\u30D0\u30F3\u30C7\u30A3\u30AF\u30FC4/\u30AF\u30E9\u30C3\u30B7\u30E5\u30FB\u30D0\u30F3\u30C7\u30A3\u30AF\u30FC4.lnk",
+              "link": "%commonstartmenu%クラッシュ・バンディクー4/クラッシュ・バンディクー4.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -328,8 +328,8 @@
           {
             "desktop_shortcut":
             {
-              "description": "\u30AF\u30E9\u30C3\u30B7\u30E5\u30FB\u30D0\u30F3\u30C7\u30A3\u30AF\u30FC4",
-              "link": "%desktoppreference%\u30AF\u30E9\u30C3\u30B7\u30E5\u30FB\u30D0\u30F3\u30C7\u30A3\u30AF\u30FC4.lnk",
+              "description": "クラッシュ・バンディクー4",
+              "link": "%desktoppreference%クラッシュ・バンディクー4.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -337,7 +337,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "\u30AF\u30E9\u30C3\u30B7\u30E5\u30FB\u30D0\u30F3\u30C7\u30A3\u30AF\u30FC4",
+              "display_name": "クラッシュ・バンディクー4",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
               "locale": "%locale%",

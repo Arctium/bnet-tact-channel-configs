@@ -1,5 +1,5 @@
 {
-  "eu\u002Bkr\u002Bus":
+  "eu+kr+us":
   {
     "all":
     {
@@ -414,7 +414,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBAA8\uB358 \uC6CC\uD398\uC5B4 2 \uCEA0\uD398\uC778 \uB9AC\uB9C8\uC2A4\uD130/\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBAA8\uB358 \uC6CC\uD398\uC5B4 2 \uCEA0\uD398\uC778 \uB9AC\uB9C8\uC2A4\uD130.lnk",
+              "link": "%commonstartmenu%콜 오브 듀티 모던 워페어 2 캠페인 리마스터/콜 오브 듀티 모던 워페어 2 캠페인 리마스터.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -423,7 +423,7 @@
             "desktop_shortcut":
             {
               "description": "Play Call of Duty Modern Warfare 2 Campaign Remastered",
-              "link": "%desktoppreference%\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBAA8\uB358 \uC6CC\uD398\uC5B4 2 \uCEA0\uD398\uC778 \uB9AC\uB9C8\uC2A4\uD130.lnk",
+              "link": "%desktoppreference%콜 오브 듀티 모던 워페어 2 캠페인 리마스터.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -431,7 +431,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBAA8\uB358 \uC6CC\uD398\uC5B4 2 \uCEA0\uD398\uC778 \uB9AC\uB9C8\uC2A4\uD130",
+              "display_name": "콜 오브 듀티 모던 워페어 2 캠페인 리마스터",
               "helplink": "https://kr.battle.net/support/ko/games/codmw2cr",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -673,7 +673,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\u300A\u6C7A\u52DD\u6642\u523B\u00AE\u73FE\u4EE3\u6230\u722D2\u300B\u6230\u5F79\u91CD\u88FD\u7248/\u300A\u6C7A\u52DD\u6642\u523B\u00AE\u73FE\u4EE3\u6230\u722D2\u300B\u6230\u5F79\u91CD\u88FD\u7248.lnk",
+              "link": "%commonstartmenu%《決勝時刻®現代戰爭2》戰役重製版/《決勝時刻®現代戰爭2》戰役重製版.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -682,7 +682,7 @@
             "desktop_shortcut":
             {
               "description": "Play Call of Duty Modern Warfare 2 Campaign Remastered",
-              "link": "%desktoppreference%\u300A\u6C7A\u52DD\u6642\u523B\u00AE\u73FE\u4EE3\u6230\u722D2\u300B\u6230\u5F79\u91CD\u88FD\u7248.lnk",
+              "link": "%desktoppreference%《決勝時刻®現代戰爭2》戰役重製版.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -690,7 +690,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "\u300A\u6C7A\u52DD\u6642\u523B\u00AE\u73FE\u4EE3\u6230\u722D2\u300B\u6230\u5F79\u91CD\u88FD\u7248",
+              "display_name": "《決勝時刻®現代戰爭2》戰役重製版",
               "helplink": "https://tw.battle.net/support/zh/games/codmw2cr",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",

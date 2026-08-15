@@ -1,5 +1,5 @@
 {
-  "eu\u002Bkr\u002Bus":
+  "eu+kr+us":
   {
     "all":
     {
@@ -1430,7 +1430,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBAA8\uB358 \uC6CC\uD398\uC5B4 Beta/\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBAA8\uB358 \uC6CC\uD398\uC5B4 Beta.lnk",
+              "link": "%commonstartmenu%콜 오브 듀티 모던 워페어 Beta/콜 오브 듀티 모던 워페어 Beta.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -1439,7 +1439,7 @@
             "desktop_shortcut":
             {
               "description": "Play Call of Duty Modern Warfare Beta",
-              "link": "%desktoppreference%\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBAA8\uB358 \uC6CC\uD398\uC5B4 Beta.lnk",
+              "link": "%desktoppreference%콜 오브 듀티 모던 워페어 Beta.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -1447,7 +1447,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBAA8\uB358 \uC6CC\uD398\uC5B4 Beta",
+              "display_name": "콜 오브 듀티 모던 워페어 Beta",
               "helplink": "https://kr.battle.net/support/ko/games/codmw",
               "icon_path": "%installpath%/ModernWarfare.exe",
               "install_path": "%installpath%",

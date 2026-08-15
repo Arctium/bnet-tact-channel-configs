@@ -322,7 +322,7 @@
             "desktop_shortcut":
             {
               "args": "--productcode=w3t",
-              "description": "Jouer \u00E0 Warcraft III Public Test",
+              "description": "Jouer à Warcraft III Public Test",
               "link": "%desktoppreference%Warcraft III Public Test.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -397,7 +397,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=w3t",
-              "link": "%commonstartmenu%\uC6CC\uD06C\uB798\uD504\uD2B8 III \uACF5\uAC1C \uD14C\uC2A4\uD2B8/\uC6CC\uD06C\uB798\uD504\uD2B8 III \uACF5\uAC1C \uD14C\uC2A4\uD2B8.lnk",
+              "link": "%commonstartmenu%워크래프트 III 공개 테스트/워크래프트 III 공개 테스트.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -406,8 +406,8 @@
             "desktop_shortcut":
             {
               "args": "--productcode=w3t",
-              "description": "\uC6CC\uD06C\uB798\uD504\uD2B8 III \uACF5\uAC1C \uD14C\uC2A4\uD2B8",
-              "link": "%desktoppreference%\uC6CC\uD06C\uB798\uD504\uD2B8 III \uACF5\uAC1C \uD14C\uC2A4\uD2B8.lnk",
+              "description": "워크래프트 III 공개 테스트",
+              "link": "%desktoppreference%워크래프트 III 공개 테스트.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -416,7 +416,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\uC6CC\uD06C\uB798\uD504\uD2B8 III \uACF5\uAC1C \uD14C\uC2A4\uD2B8",
+              "display_name": "워크래프트 III 공개 테스트",
               "helplink": "http://kr.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -748,7 +748,7 @@
             "desktop_shortcut":
             {
               "args": "--productcode=w3t",
-              "description": "Zagraj w gr\u0119 Warcraft III Public Test.",
+              "description": "Zagraj w grę Warcraft III Public Test.",
               "link": "%desktoppreference%Warcraft III Public Test.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -832,7 +832,7 @@
             "desktop_shortcut":
             {
               "args": "--productcode=w3t",
-              "description": "\u0417\u0430\u043F\u0443\u0441\u043A Warcraft III Public Test",
+              "description": "Запуск Warcraft III Public Test",
               "link": "%desktoppreference%Warcraft III Public Test.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -865,7 +865,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=w3t",
-              "link": "%commonstartmenu%\u300A\u9B54\u517D\u4E89\u9738III\u300B\u516C\u5F00\u6D4B\u8BD5/\u300A\u9B54\u517D\u4E89\u9738III\u300B\u516C\u5F00\u6D4B\u8BD5.lnk",
+              "link": "%commonstartmenu%《魔兽争霸III》公开测试/《魔兽争霸III》公开测试.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -874,8 +874,8 @@
             "desktop_shortcut":
             {
               "args": "--productcode=w3t",
-              "description": "\u300A\u9B54\u517D\u4E89\u9738III\u300B\u516C\u5F00\u6D4B\u8BD5",
-              "link": "%desktoppreference%\u300A\u9B54\u517D\u4E89\u9738III\u300B\u516C\u5F00\u6D4B\u8BD5.lnk",
+              "description": "《魔兽争霸III》公开测试",
+              "link": "%desktoppreference%《魔兽争霸III》公开测试.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -884,7 +884,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\u300A\u9B54\u517D\u4E89\u9738III\u300B\u516C\u5F00\u6D4B\u8BD5",
+              "display_name": "《魔兽争霸III》公开测试",
               "helplink": "http://cn.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -907,7 +907,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=w3t",
-              "link": "%commonstartmenu%\u300A\u9B54\u7378\u722D\u9738III\u300B\u516C\u958B\u6E2C\u8A66/\u300A\u9B54\u7378\u722D\u9738III\u300B\u516C\u958B\u6E2C\u8A66.lnk",
+              "link": "%commonstartmenu%《魔獸爭霸III》公開測試/《魔獸爭霸III》公開測試.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -916,8 +916,8 @@
             "desktop_shortcut":
             {
               "args": "--productcode=w3t",
-              "description": "\u300A\u9B54\u7378\u722D\u9738III\u300B\u516C\u958B\u6E2C\u8A66",
-              "link": "%desktoppreference%\u300A\u9B54\u7378\u722D\u9738III\u300B\u516C\u958B\u6E2C\u8A66.lnk",
+              "description": "《魔獸爭霸III》公開測試",
+              "link": "%desktoppreference%《魔獸爭霸III》公開測試.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -926,7 +926,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\u300A\u9B54\u7378\u722D\u9738III\u300B\u516C\u958B\u6E2C\u8A66",
+              "display_name": "《魔獸爭霸III》公開測試",
               "helplink": "http://tw.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",

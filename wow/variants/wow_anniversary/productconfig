@@ -1,5 +1,5 @@
 {
-  "cn\u002Beu\u002Bkr\u002Btw\u002Bus":
+  "cn+eu+kr+tw+us":
   {
     "all":
     {
@@ -75,7 +75,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=wow_anniversary",
-              "link": "%commonstartmenu%Jubil\u00E4um von Burning Crusade/Jubil\u00E4um von Burning Crusade.lnk",
+              "link": "%commonstartmenu%Jubiläum von Burning Crusade/Jubiläum von Burning Crusade.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -84,7 +84,7 @@
             "desktop_shortcut":
             {
               "args": "--productcode=wow_anniversary",
-              "link": "%desktoppreference%Jubil\u00E4um von Burning Crusade.lnk",
+              "link": "%desktoppreference%Jubiläum von Burning Crusade.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -93,7 +93,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "Jubil\u00E4um von Burning Crusade",
+              "display_name": "Jubiläum von Burning Crusade",
               "helplink": "http://eu.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -239,7 +239,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=wow_anniversary",
-              "link": "%commonstartmenu%Anniversaire de Burning\u00A0Crusade/Anniversaire de Burning\u00A0Crusade.lnk",
+              "link": "%commonstartmenu%Anniversaire de Burning Crusade/Anniversaire de Burning Crusade.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -248,7 +248,7 @@
             "desktop_shortcut":
             {
               "args": "--productcode=wow_anniversary",
-              "link": "%desktoppreference%Anniversaire de Burning\u00A0Crusade.lnk",
+              "link": "%desktoppreference%Anniversaire de Burning Crusade.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -257,7 +257,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "Anniversaire de Burning\u00A0Crusade",
+              "display_name": "Anniversaire de Burning Crusade",
               "helplink": "http://eu.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -321,7 +321,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=wow_anniversary",
-              "link": "%commonstartmenu%T\u300CBurning Crusade\u300D Anniversary/T\u300CBurning Crusade\u300D Anniversary.lnk",
+              "link": "%commonstartmenu%T「Burning Crusade」 Anniversary/T「Burning Crusade」 Anniversary.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -330,7 +330,7 @@
             "desktop_shortcut":
             {
               "args": "--productcode=wow_anniversary",
-              "link": "%desktoppreference%T\u300CBurning Crusade\u300D Anniversary.lnk",
+              "link": "%desktoppreference%T「Burning Crusade」 Anniversary.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -339,7 +339,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "T\u300CBurning Crusade\u300D Anniversary",
+              "display_name": "T「Burning Crusade」 Anniversary",
               "helplink": "http://us.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -362,7 +362,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=wow_anniversary",
-              "link": "%commonstartmenu%\uBD88\uD0C0\uB294 \uC131\uC804 \uAE30\uB150 \uC11C\uBC84/\uBD88\uD0C0\uB294 \uC131\uC804 \uAE30\uB150 \uC11C\uBC84.lnk",
+              "link": "%commonstartmenu%불타는 성전 기념 서버/불타는 성전 기념 서버.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -371,7 +371,7 @@
             "desktop_shortcut":
             {
               "args": "--productcode=wow_anniversary",
-              "link": "%desktoppreference%\uBD88\uD0C0\uB294 \uC131\uC804 \uAE30\uB150 \uC11C\uBC84.lnk",
+              "link": "%desktoppreference%불타는 성전 기념 서버.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -380,7 +380,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\uBD88\uD0C0\uB294 \uC131\uC804 \uAE30\uB150 \uC11C\uBC84",
+              "display_name": "불타는 성전 기념 서버",
               "helplink": "http://kr.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -749,7 +749,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=wow_anniversary",
-              "link": "%commonstartmenu%Anivers\u00E1rio de Burning Crusade/Anivers\u00E1rio de Burning Crusade.lnk",
+              "link": "%commonstartmenu%Aniversário de Burning Crusade/Aniversário de Burning Crusade.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -758,7 +758,7 @@
             "desktop_shortcut":
             {
               "args": "--productcode=wow_anniversary",
-              "link": "%desktoppreference%Anivers\u00E1rio de Burning Crusade.lnk",
+              "link": "%desktoppreference%Aniversário de Burning Crusade.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -767,7 +767,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "Anivers\u00E1rio de Burning Crusade",
+              "display_name": "Aniversário de Burning Crusade",
               "helplink": "http://us.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -790,7 +790,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=wow_anniversary",
-              "link": "%commonstartmenu%\u0413\u043E\u0434\u043E\u0432\u0449\u0438\u043D\u0430 Burning Crusade/\u0413\u043E\u0434\u043E\u0432\u0449\u0438\u043D\u0430 Burning Crusade.lnk",
+              "link": "%commonstartmenu%Годовщина Burning Crusade/Годовщина Burning Crusade.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -799,7 +799,7 @@
             "desktop_shortcut":
             {
               "args": "--productcode=wow_anniversary",
-              "link": "%desktoppreference%\u0413\u043E\u0434\u043E\u0432\u0449\u0438\u043D\u0430 Burning Crusade.lnk",
+              "link": "%desktoppreference%Годовщина Burning Crusade.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -808,7 +808,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\u0413\u043E\u0434\u043E\u0432\u0449\u0438\u043D\u0430 Burning Crusade",
+              "display_name": "Годовщина Burning Crusade",
               "helplink": "http://eu.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -872,7 +872,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=wow_anniversary",
-              "link": "%commonstartmenu%\u201C\u71C3\u70E7\u7684\u8FDC\u5F81\u201D\u5468\u5E74\u7EAA\u5FF5/\u201C\u71C3\u70E7\u7684\u8FDC\u5F81\u201D\u5468\u5E74\u7EAA\u5FF5.lnk",
+              "link": "%commonstartmenu%“燃烧的远征”周年纪念/“燃烧的远征”周年纪念.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -881,7 +881,7 @@
             "desktop_shortcut":
             {
               "args": "--productcode=wow_anniversary",
-              "link": "%desktoppreference%\u201C\u71C3\u70E7\u7684\u8FDC\u5F81\u201D\u5468\u5E74\u7EAA\u5FF5.lnk",
+              "link": "%desktoppreference%“燃烧的远征”周年纪念.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -890,7 +890,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\u201C\u71C3\u70E7\u7684\u8FDC\u5F81\u201D\u5468\u5E74\u7EAA\u5FF5",
+              "display_name": "“燃烧的远征”周年纪念",
               "helplink": "http://cn.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -913,7 +913,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=wow_anniversary",
-              "link": "%commonstartmenu%\u300A\u71C3\u71D2\u7684\u9060\u5F81\u300B\u9031\u5E74\u7D00\u5FF5/\u300A\u71C3\u71D2\u7684\u9060\u5F81\u300B\u9031\u5E74\u7D00\u5FF5.lnk",
+              "link": "%commonstartmenu%《燃燒的遠征》週年紀念/《燃燒的遠征》週年紀念.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -922,7 +922,7 @@
             "desktop_shortcut":
             {
               "args": "--productcode=wow_anniversary",
-              "link": "%desktoppreference%\u300A\u71C3\u71D2\u7684\u9060\u5F81\u300B\u9031\u5E74\u7D00\u5FF5.lnk",
+              "link": "%desktoppreference%《燃燒的遠征》週年紀念.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -931,7 +931,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\u300A\u71C3\u71D2\u7684\u9060\u5F81\u300B\u9031\u5E74\u7D00\u5FF5",
+              "display_name": "《燃燒的遠征》週年紀念",
               "helplink": "http://tw.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",

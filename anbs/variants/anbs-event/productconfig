@@ -1,5 +1,5 @@
 {
-  "eu\u002Bkr\u002Bus":
+  "eu+kr+us":
   {
     "all":
     {
@@ -166,7 +166,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "\u30C7\u30A3\u30A2\u30D6\u30ED \u30A4\u30E2\u30FC\u30BF\u30EB",
+              "display_name": "ディアブロ イモータル",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
               "locale": "%locale%",
@@ -187,7 +187,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "\uB514\uC544\uBE14\uB85C \uC774\uBAA8\uD0C8",
+              "display_name": "디아블로 이모탈",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
               "locale": "%locale%",
@@ -367,7 +367,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "\u6697\u9ED1\u7834\u574F\u795E \u4E0D\u673D",
+              "display_name": "暗黑破坏神 不朽",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
               "locale": "%locale%",
@@ -388,7 +388,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "\u300A\u6697\u9ED1\u7834\u58DE\u795E \u6C38\u751F\u4E0D\u673D\u300B",
+              "display_name": "《暗黑破壞神 永生不朽》",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
               "locale": "%locale%",

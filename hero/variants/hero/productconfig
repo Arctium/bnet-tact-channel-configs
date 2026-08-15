@@ -144,7 +144,7 @@
           {
             "program_associations":
             {
-              "application_description": "Heroes of the Storm ist ein kostenlos spielbares Online-Teamkampfspiel, das die beliebtesten Blizzard-Charaktere miteinander verbindet. Passen Sie Helden aus allen Blizzard-Universen Ihrem Geschmack und Spielstil an. Verb\u00FCnden Sie sich mit Ihren Freunden und st\u00FCrzen Sie sich in actiongeladene Abenteuer auf unterschiedlichen Schlachtfeldern, die die Strategie beeinflussen und Ihnen unterschiedliche Spielweisen abverlangen.",
+              "application_description": "Heroes of the Storm ist ein kostenlos spielbares Online-Teamkampfspiel, das die beliebtesten Blizzard-Charaktere miteinander verbindet. Passen Sie Helden aus allen Blizzard-Universen Ihrem Geschmack und Spielstil an. Verbünden Sie sich mit Ihren Freunden und stürzen Sie sich in actiongeladene Abenteuer auf unterschiedlichen Schlachtfeldern, die die Strategie beeinflussen und Ihnen unterschiedliche Spielweisen abverlangen.",
               "application_display_name": "Heroes of the Storm",
               "executable_icon_index": 0.0,
               "executable_icon_path": "%binarypath%",
@@ -272,7 +272,7 @@
           {
             "program_associations":
             {
-              "application_description": "Heroes of the Storm es un juego de combate online entre equipos formados por personajes emblem\u00E1ticos de Blizzard. Crea y personaliza a tus h\u00E9roes de todos los universos de Blizzard para que se adapten a tu estilo de juego. Forma equipo con tus amigos y desata un caos trepidante por diversos campos de batalla que afectar\u00E1n a tu estrategia y tu forma de jugar.",
+              "application_description": "Heroes of the Storm es un juego de combate online entre equipos formados por personajes emblemáticos de Blizzard. Crea y personaliza a tus héroes de todos los universos de Blizzard para que se adapten a tu estilo de juego. Forma equipo con tus amigos y desata un caos trepidante por diversos campos de batalla que afectarán a tu estrategia y tu forma de jugar.",
               "application_display_name": "Heroes of the Storm",
               "executable_icon_index": 0.0,
               "executable_icon_path": "%binarypath%",
@@ -322,7 +322,7 @@
           {
             "add_remove_programs_key":
             {
-              "contact": "Soporte t\u00E9cnico de Blizzard",
+              "contact": "Soporte técnico de Blizzard",
               "display_name": "Heroes of the Storm",
               "helplink": "https://us.battle.net/support/es/games/heroes",
               "icon_path": "%binarypath%",
@@ -336,7 +336,7 @@
           {
             "program_associations":
             {
-              "application_description": "Heroes of the Storm es un juego gratuito en l\u00EDnea de enfrentamiento por equipos en el que participan tus personajes favoritos de Blizzard. Podr\u00E1s personalizar a los h\u00E9roes de todos los universos de Blizzard para que se ajusten a tu estilo de juego. \u00DAnete a tus amigos y l\u00E1nzate a un desenfreno fren\u00E9tico en diferentes campos de batalla que tendr\u00E1n un impacto en tu estrategia y modificar\u00E1n tu forma de juego.",
+              "application_description": "Heroes of the Storm es un juego gratuito en línea de enfrentamiento por equipos en el que participan tus personajes favoritos de Blizzard. Podrás personalizar a los héroes de todos los universos de Blizzard para que se ajusten a tu estilo de juego. Únete a tus amigos y lánzate a un desenfreno frenético en diferentes campos de batalla que tendrán un impacto en tu estrategia y modificarán tu forma de juego.",
               "application_display_name": "Heroes of the Storm",
               "executable_icon_index": 0.0,
               "executable_icon_path": "%binarypath%",
@@ -377,7 +377,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "Jouer \u00E0 Heroes of the Storm",
+              "description": "Jouer à Heroes of the Storm",
               "link": "%desktoppreference%Heroes of the Storm.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -386,7 +386,7 @@
           {
             "add_remove_programs_key":
             {
-              "contact": "Assistance client\u00E8le de Blizzard",
+              "contact": "Assistance clientèle de Blizzard",
               "display_name": "Heroes of the Storm",
               "helplink": "https://eu.battle.net/support/fr/games/heroes",
               "icon_path": "%binarypath%",
@@ -400,7 +400,7 @@
           {
             "program_associations":
             {
-              "application_description": "Heroes of the Storm est un jeu de combat par \u00E9quipe en ligne avec vos personnages pr\u00E9f\u00E9r\u00E9s de Blizzard. Personnalisez des h\u00E9ros venus de tous les univers de Blizzard selon votre style de jeu. Faites \u00E9quipe avec vos amis pour d\u00E9cha\u00EEner le chaos sur des champs de bataille vari\u00E9s qui dicteront leur loi \u00E0 votre strat\u00E9gie.",
+              "application_description": "Heroes of the Storm est un jeu de combat par équipe en ligne avec vos personnages préférés de Blizzard. Personnalisez des héros venus de tous les univers de Blizzard selon votre style de jeu. Faites équipe avec vos amis pour déchaîner le chaos sur des champs de bataille variés qui dicteront leur loi à votre stratégie.",
               "application_display_name": "Heroes of the Storm",
               "executable_icon_index": 0.0,
               "executable_icon_path": "%binarypath%",
@@ -464,7 +464,7 @@
           {
             "program_associations":
             {
-              "application_description": "Heroes of the Storm \u00E8 un picchiaduro free-to-play online a squadre con i tuoi personaggi Blizzard preferiti. Plasma e personalizza eroi provenienti da tutti gli universi Blizzard per adattarli al tuo stile di gioco. Forma una squadra con gli amici e lanciati in una travolgente spirale di combattimenti attraverso svariati campi di battaglia che influenzano la strategia e il modo di giocare.",
+              "application_description": "Heroes of the Storm è un picchiaduro free-to-play online a squadre con i tuoi personaggi Blizzard preferiti. Plasma e personalizza eroi provenienti da tutti gli universi Blizzard per adattarli al tuo stile di gioco. Forma una squadra con gli amici e lanciati in una travolgente spirale di combattimenti attraverso svariati campi di battaglia che influenzano la strategia e il modo di giocare.",
               "application_display_name": "Heroes of the Storm",
               "executable_icon_index": 0.0,
               "executable_icon_path": "%binarypath%",
@@ -497,7 +497,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\uD788\uC5B4\uB85C\uC988 \uC624\uBE0C \uB354 \uC2A4\uD1B0/\uD788\uC5B4\uB85C\uC988 \uC624\uBE0C \uB354 \uC2A4\uD1B0.lnk",
+              "link": "%commonstartmenu%히어로즈 오브 더 스톰/히어로즈 오브 더 스톰.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -505,8 +505,8 @@
           {
             "desktop_shortcut":
             {
-              "description": "\uD788\uC5B4\uB85C\uC988 \uC624\uBE0C \uB354 \uC2A4\uD1B0\uB97C \uC2E4\uD589\uD569\uB2C8\uB2E4",
-              "link": "%desktoppreference%\uD788\uC5B4\uB85C\uC988 \uC624\uBE0C \uB354 \uC2A4\uD1B0.lnk",
+              "description": "히어로즈 오브 더 스톰를 실행합니다",
+              "link": "%desktoppreference%히어로즈 오브 더 스톰.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -514,8 +514,8 @@
           {
             "add_remove_programs_key":
             {
-              "contact": "\uBE14\uB9AC\uC790\uB4DC \uACE0\uAC1D\uC9C0\uC6D0",
-              "display_name": "\uD788\uC5B4\uB85C\uC988 \uC624\uBE0C \uB354 \uC2A4\uD1B0",
+              "contact": "블리자드 고객지원",
+              "display_name": "히어로즈 오브 더 스톰",
               "helplink": "https://kr.battle.net/support/kr/games/heroes",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -528,8 +528,8 @@
           {
             "program_associations":
             {
-              "application_description": "\uD788\uC5B4\uB85C\uC988 \uC624\uBE0C \uB354 \uC2A4\uD1B0\uC740 \uC778\uAE30 \uBE14\uB9AC\uC790\uB4DC \uCE90\uB9AD\uD130\uB4E4\uC774 \uC8FC\uC778\uACF5\uC73C\uB85C \uB4F1\uC7A5\uD558\uB294 \uBB34\uB8CC \uC628\uB77C\uC778 \uD300\uC804 \uAC8C\uC784\uC785\uB2C8\uB2E4. \uC785\uB9DB\uC5D0 \uB530\uB77C \uBE14\uB9AC\uC790\uB4DC \uC138\uACC4\uAD00\uC758 \uCE90\uB9AD\uD130\uB97C \uD0A4\uC6B0\uC2ED\uC2DC\uC624. \uCE5C\uAD6C\uB4E4\uACFC \uD568\uAED8 \uD300\uC744 \uAC16\uCD94\uACE0, \uC0C8\uB85C\uC6B4 \uC804\uB7B5\uACFC \uD50C\uB808\uC774 \uBC29\uC2DD\uC774 \uC694\uAD6C\uB418\uB294 \uB2E4\uC591\uD55C \uC804\uC7A5\uC5D0\uC11C \uBE60\uB978 \uC18D\uB3C4\uB85C \uC9C4\uD589\uB418\uB294 \uC804\uD22C\uC5D0 \uB3CC\uC785\uD558\uC2ED\uC2DC\uC624.",
-              "application_display_name": "\uD788\uC5B4\uB85C\uC988 \uC624\uBE0C \uB354 \uC2A4\uD1B0",
+              "application_description": "히어로즈 오브 더 스톰은 인기 블리자드 캐릭터들이 주인공으로 등장하는 무료 온라인 팀전 게임입니다. 입맛에 따라 블리자드 세계관의 캐릭터를 키우십시오. 친구들과 함께 팀을 갖추고, 새로운 전략과 플레이 방식이 요구되는 다양한 전장에서 빠른 속도로 진행되는 전투에 돌입하십시오.",
+              "application_display_name": "히어로즈 오브 더 스톰",
               "executable_icon_index": 0.0,
               "executable_icon_path": "%binarypath%",
               "executable_path": "%binarypath%",
@@ -570,7 +570,7 @@
               [
                 "-launch"
               ],
-              "regex": "Versions/Base\\d\u002B/Heroes\\.app",
+              "regex": "Versions/Base\\d+/Heroes\\.app",
               "relative_path": "Support/HeroesSwitcher.app",
               "switcher": true
             }
@@ -656,7 +656,7 @@
               [
                 "-launch"
               ],
-              "regex": "Versions/Base\\d\u002B/(HeroesOfTheStorm|HeroesOfTheStorm_x64)\\.exe",
+              "regex": "Versions/Base\\d+/(HeroesOfTheStorm|HeroesOfTheStorm_x64)\\.exe",
               "relative_path": "Support64/HeroesSwitcher_x64.exe",
               "switcher": true
             }
@@ -769,7 +769,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "Zagraj w gr\u0119 Heroes of the Storm.",
+              "description": "Zagraj w grę Heroes of the Storm.",
               "link": "%desktoppreference%Heroes of the Storm.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -792,7 +792,7 @@
           {
             "program_associations":
             {
-              "application_description": "Heroes of the Storm to darmowa sieciowa gra dru\u017Cynowa, w kt\u00F3rej pojawi\u0105 si\u0119 wasze ulubione postaci z gier Blizzarda. Oferuje mo\u017Cliwo\u015B\u0107 wyboru i dostosowania bohater\u00F3w ze wszystkich \u015Bwiat\u00F3w Blizzarda do w\u0142asnego stylu gry. Zapro\u015B do zabawy znajomych i we\u017A udzia\u0142 w dynamicznej batalii na r\u00F3\u017Cnych polach bitew, wymagaj\u0105cych odr\u0119bnej strategii i innego stylu gry.",
+              "application_description": "Heroes of the Storm to darmowa sieciowa gra drużynowa, w której pojawią się wasze ulubione postaci z gier Blizzarda. Oferuje możliwość wyboru i dostosowania bohaterów ze wszystkich światów Blizzarda do własnego stylu gry. Zaproś do zabawy znajomych i weź udział w dynamicznej batalii na różnych polach bitew, wymagających odrębnej strategii i innego stylu gry.",
               "application_display_name": "Heroes of the Storm",
               "executable_icon_index": 0.0,
               "executable_icon_path": "%binarypath%",
@@ -856,7 +856,7 @@
           {
             "program_associations":
             {
-              "application_description": "Heroes of the Storm \u00E9 um jogo gratuito de combate entre equipes estrelando seus personagens favoritos da Blizzard. Evolua e personalize her\u00F3is de todo o universo da Blizzard para corresponder ao seu estilo de jogo. Junte-se a seus amigos e entre na a\u00E7\u00E3o em diversos campos de batalha que influenciam a estrat\u00E9gia e a maneira de jogar.",
+              "application_description": "Heroes of the Storm é um jogo gratuito de combate entre equipes estrelando seus personagens favoritos da Blizzard. Evolua e personalize heróis de todo o universo da Blizzard para corresponder ao seu estilo de jogo. Junte-se a seus amigos e entre na ação em diversos campos de batalha que influenciam a estratégia e a maneira de jogar.",
               "application_display_name": "Heroes of the Storm",
               "executable_icon_index": 0.0,
               "executable_icon_path": "%binarypath%",
@@ -897,7 +897,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "\u0417\u0430\u043F\u0443\u0441\u043A Heroes of the Storm",
+              "description": "Запуск Heroes of the Storm",
               "link": "%desktoppreference%Heroes of the Storm.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -906,7 +906,7 @@
           {
             "add_remove_programs_key":
             {
-              "contact": "\u0421\u043B\u0443\u0436\u0431\u0430 \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0438 Blizzard",
+              "contact": "Служба поддержки Blizzard",
               "display_name": "Heroes of the Storm",
               "helplink": "https://eu.battle.net/support/ru/games/heroes",
               "icon_path": "%binarypath%",
@@ -920,7 +920,7 @@
           {
             "program_associations":
             {
-              "application_description": "Heroes of the Storm \u2014 \u0431\u0435\u0441\u043F\u043B\u0430\u0442\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u043D\u0430\u044F \u0441\u0435\u0442\u0435\u0432\u0430\u044F \u0438\u0433\u0440\u0430, \u0432 \u043A\u043E\u0442\u043E\u0440\u043E\u0439 \u0432\u0441\u0442\u0440\u0435\u0442\u0438\u0442\u0435 \u043F\u043E\u043B\u044E\u0431\u0438\u0432\u0448\u0438\u0445\u0441\u044F \u043F\u0435\u0440\u0441\u043E\u043D\u0430\u0436\u0435\u0439 Blizzard. \u0412\u044B \u0441\u043C\u043E\u0436\u0435\u0442\u0435 \u0432\u044B\u0431\u0440\u0430\u0442\u044C \u043D\u0435\u043F\u043E\u0432\u0442\u043E\u0440\u0438\u043C\u044B\u0439 \u043E\u0431\u043B\u0438\u043A \u0438 \u043D\u0430\u0431\u043E\u0440 \u0441\u043F\u043E\u0441\u043E\u0431\u043D\u043E\u0441\u0442\u0435\u0439 \u0434\u043B\u044F \u0441\u0432\u043E\u0435\u0433\u043E \u0433\u0435\u0440\u043E\u044F. \u0417\u043E\u0432\u0438\u0442\u0435 \u0434\u0440\u0443\u0437\u0435\u0439, \u0447\u0442\u043E\u0431\u044B \u0432\u043C\u0435\u0441\u0442\u0435 \u043F\u0440\u0438\u043D\u044F\u0442\u044C \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0443\u0432\u043B\u0435\u043A\u0430\u0442\u0435\u043B\u044C\u043D\u043E\u0439 \u0438 \u0434\u0438\u043D\u0430\u043C\u0438\u0447\u043D\u043E\u0439 \u0441\u0445\u0432\u0430\u0442\u043A\u0435. \u0410 \u0440\u0430\u0437\u043D\u043E\u043E\u0431\u0440\u0430\u0437\u0438\u0435 \u0438\u0433\u0440\u043E\u0432\u044B\u0445 \u043A\u0430\u0440\u0442 \u043E\u0442\u043A\u0440\u043E\u0435\u0442 \u043F\u0435\u0440\u0435\u0434 \u0432\u0430\u043C\u0438 \u043D\u043E\u0432\u044B\u0435 \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0432\u043E\u0437\u043C\u043E\u0436\u043D\u043E\u0441\u0442\u0438 \u0438 \u043F\u043E\u0437\u0432\u043E\u043B\u0438\u0442 \u0441\u0434\u0435\u043B\u0430\u0442\u044C \u0432\u0430\u0448\u0438 \u0441\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0435\u0449\u0435 \u0438\u043D\u0442\u0435\u0440\u0435\u0441\u043D\u0435\u0435.",
+              "application_description": "Heroes of the Storm — бесплатная командная сетевая игра, в которой встретите полюбившихся персонажей Blizzard. Вы сможете выбрать неповторимый облик и набор способностей для своего героя. Зовите друзей, чтобы вместе принять участие в увлекательной и динамичной схватке. А разнообразие игровых карт откроет перед вами новые стратегические возможности и позволит сделать ваши сражения еще интереснее.",
               "application_display_name": "Heroes of the Storm",
               "executable_icon_index": 0.0,
               "executable_icon_path": "%binarypath%",
@@ -953,7 +953,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\u98CE\u66B4\u82F1\u96C4/\u98CE\u66B4\u82F1\u96C4.lnk",
+              "link": "%commonstartmenu%风暴英雄/风暴英雄.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -961,8 +961,8 @@
           {
             "desktop_shortcut":
             {
-              "description": "\u542F\u52A8\u98CE\u66B4\u82F1\u96C4",
-              "link": "%desktoppreference%\u98CE\u66B4\u82F1\u96C4.lnk",
+              "description": "启动风暴英雄",
+              "link": "%desktoppreference%风暴英雄.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -970,8 +970,8 @@
           {
             "add_remove_programs_key":
             {
-              "contact": "\u66B4\u96EA\u652F\u6301",
-              "display_name": "\u98CE\u66B4\u82F1\u96C4",
+              "contact": "暴雪支持",
+              "display_name": "风暴英雄",
               "helplink": "https://www.battlenet.com.cn/support/zh/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -984,8 +984,8 @@
           {
             "program_associations":
             {
-              "application_description": "\u300A\u98CE\u66B4\u82F1\u96C4\u300B\u662F\u4E00\u6B3E\u514D\u8D39\u7545\u73A9\u7684\u5728\u7EBF\u56E2\u961F\u5927\u4E71\u6597\u6E38\u620F\uFF0C\u5176\u4E2D\u5168\u90E8\u662F\u4F60\u6700\u559C\u7231\u7684\u66B4\u96EA\u6E38\u620F\u4EBA\u7269\u3002\u4ECE\u4E0D\u540C\u7684\u66B4\u96EA\u6E38\u620F\u4EBA\u7269\u4E2D\u9009\u62E9\u4F60\u7684\u82F1\u96C4\uFF0C\u5C06\u5176\u6253\u9020\u6210\u6700\u9002\u5408\u4F60\u98CE\u683C\u7684\u6E38\u620F\u89D2\u8272\u3002\u548C\u4F60\u7684\u597D\u53CB\u7EC4\u961F\uFF0C\u4E00\u8D77\u5728\u5FEB\u8282\u594F\u7684\u6FC0\u6597\u4E2D\u4E00\u51B3\u80DC\u8D1F\uFF0C\u6B64\u5916\u8FD8\u6709\u73A9\u6CD5\u8FE5\u5F02\u3001\u7B56\u7565\u4E0D\u540C\u7684\u591A\u4E2A\u6218\u573A\u53EF\u4F9B\u9009\u62E9\u3002",
-              "application_display_name": "\u98CE\u66B4\u82F1\u96C4",
+              "application_description": "《风暴英雄》是一款免费畅玩的在线团队大乱斗游戏，其中全部是你最喜爱的暴雪游戏人物。从不同的暴雪游戏人物中选择你的英雄，将其打造成最适合你风格的游戏角色。和你的好友组队，一起在快节奏的激斗中一决胜负，此外还有玩法迥异、策略不同的多个战场可供选择。",
+              "application_display_name": "风暴英雄",
               "executable_icon_index": 0.0,
               "executable_icon_path": "%binarypath%",
               "executable_path": "%binarypath%",
@@ -1017,7 +1017,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\u66B4\u96EA\u82F1\u9738/\u66B4\u96EA\u82F1\u9738.lnk",
+              "link": "%commonstartmenu%暴雪英霸/暴雪英霸.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -1025,8 +1025,8 @@
           {
             "desktop_shortcut":
             {
-              "description": "\u57F7\u884C\u66B4\u96EA\u82F1\u9738",
-              "link": "%desktoppreference%\u66B4\u96EA\u82F1\u9738.lnk",
+              "description": "執行暴雪英霸",
+              "link": "%desktoppreference%暴雪英霸.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -1034,8 +1034,8 @@
           {
             "add_remove_programs_key":
             {
-              "contact": "Blizzard\u652F\u63F4",
-              "display_name": "\u66B4\u96EA\u82F1\u9738",
+              "contact": "Blizzard支援",
+              "display_name": "暴雪英霸",
               "helplink": "https://tw.battle.net/support/zh/games/heroes",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -1048,8 +1048,8 @@
           {
             "program_associations":
             {
-              "application_description": "\u300A\u66B4\u96EA\u82F1\u9738\u300B\u662F\u4E00\u6B3E\u71B1\u9B27\u7121\u6BD4\u7684\u7DDA\u4E0A\u5718\u6230\u904A\u6232\uFF0C\u88E1\u9762\u6709\u8A31\u591A\u4F60\u6700\u559C\u611B\u7684Blizzard\u82F1\u96C4\u89D2\u8272\u3002\u4F60\u53EF\u4EE5\u4F9D\u81EA\u5DF1\u7684\u904A\u6232\u98A8\u683C\u91CF\u8EAB\u6253\u9020\u9019\u4E9B\u4F86\u81EABlizzard\u5404\u904A\u6232\u7684\u82F1\u96C4\uFF0C\u7136\u5F8C\u8207\u597D\u53CB\u7D44\u968A\uFF0C\u5F81\u6230\u5145\u6EFF\u7B56\u7565\u8207\u6230\u8853\u8B8A\u5316\u7684\u5404\u7A2E\u6230\u5834\u3002",
-              "application_display_name": "\u66B4\u96EA\u82F1\u9738",
+              "application_description": "《暴雪英霸》是一款熱鬧無比的線上團戰遊戲，裡面有許多你最喜愛的Blizzard英雄角色。你可以依自己的遊戲風格量身打造這些來自Blizzard各遊戲的英雄，然後與好友組隊，征戰充滿策略與戰術變化的各種戰場。",
+              "application_display_name": "暴雪英霸",
               "executable_icon_index": 0.0,
               "executable_icon_path": "%binarypath%",
               "executable_path": "%binarypath%",
@@ -1073,7 +1073,7 @@
       }
     }
   },
-  "eu\u002Bkr\u002Bsg\u002Btw\u002Bus":
+  "eu+kr+sg+tw+us":
   {
     "all":
     {
@@ -1218,7 +1218,7 @@
           {
             "program_associations":
             {
-              "application_description": "Heroes of the Storm ist ein kostenlos spielbares Online-Teamkampfspiel, das die beliebtesten Blizzard-Charaktere miteinander verbindet. Passen Sie Helden aus allen Blizzard-Universen Ihrem Geschmack und Spielstil an. Verb\u00FCnden Sie sich mit Ihren Freunden und st\u00FCrzen Sie sich in actiongeladene Abenteuer auf unterschiedlichen Schlachtfeldern, die die Strategie beeinflussen und Ihnen unterschiedliche Spielweisen abverlangen.",
+              "application_description": "Heroes of the Storm ist ein kostenlos spielbares Online-Teamkampfspiel, das die beliebtesten Blizzard-Charaktere miteinander verbindet. Passen Sie Helden aus allen Blizzard-Universen Ihrem Geschmack und Spielstil an. Verbünden Sie sich mit Ihren Freunden und stürzen Sie sich in actiongeladene Abenteuer auf unterschiedlichen Schlachtfeldern, die die Strategie beeinflussen und Ihnen unterschiedliche Spielweisen abverlangen.",
               "application_display_name": "Heroes of the Storm",
               "executable_icon_index": 0.0,
               "executable_icon_path": "%binarypath%",
@@ -1346,7 +1346,7 @@
           {
             "program_associations":
             {
-              "application_description": "Heroes of the Storm es un juego de combate online entre equipos formados por personajes emblem\u00E1ticos de Blizzard. Crea y personaliza a tus h\u00E9roes de todos los universos de Blizzard para que se adapten a tu estilo de juego. Forma equipo con tus amigos y desata un caos trepidante por diversos campos de batalla que afectar\u00E1n a tu estrategia y tu forma de jugar.",
+              "application_description": "Heroes of the Storm es un juego de combate online entre equipos formados por personajes emblemáticos de Blizzard. Crea y personaliza a tus héroes de todos los universos de Blizzard para que se adapten a tu estilo de juego. Forma equipo con tus amigos y desata un caos trepidante por diversos campos de batalla que afectarán a tu estrategia y tu forma de jugar.",
               "application_display_name": "Heroes of the Storm",
               "executable_icon_index": 0.0,
               "executable_icon_path": "%binarypath%",
@@ -1396,7 +1396,7 @@
           {
             "add_remove_programs_key":
             {
-              "contact": "Soporte t\u00E9cnico de Blizzard",
+              "contact": "Soporte técnico de Blizzard",
               "display_name": "Heroes of the Storm",
               "helplink": "https://us.battle.net/support/es/games/heroes",
               "icon_path": "%binarypath%",
@@ -1410,7 +1410,7 @@
           {
             "program_associations":
             {
-              "application_description": "Heroes of the Storm es un juego gratuito en l\u00EDnea de enfrentamiento por equipos en el que participan tus personajes favoritos de Blizzard. Podr\u00E1s personalizar a los h\u00E9roes de todos los universos de Blizzard para que se ajusten a tu estilo de juego. \u00DAnete a tus amigos y l\u00E1nzate a un desenfreno fren\u00E9tico en diferentes campos de batalla que tendr\u00E1n un impacto en tu estrategia y modificar\u00E1n tu forma de juego.",
+              "application_description": "Heroes of the Storm es un juego gratuito en línea de enfrentamiento por equipos en el que participan tus personajes favoritos de Blizzard. Podrás personalizar a los héroes de todos los universos de Blizzard para que se ajusten a tu estilo de juego. Únete a tus amigos y lánzate a un desenfreno frenético en diferentes campos de batalla que tendrán un impacto en tu estrategia y modificarán tu forma de juego.",
               "application_display_name": "Heroes of the Storm",
               "executable_icon_index": 0.0,
               "executable_icon_path": "%binarypath%",
@@ -1451,7 +1451,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "Jouer \u00E0 Heroes of the Storm",
+              "description": "Jouer à Heroes of the Storm",
               "link": "%desktoppreference%Heroes of the Storm.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -1460,7 +1460,7 @@
           {
             "add_remove_programs_key":
             {
-              "contact": "Assistance client\u00E8le de Blizzard",
+              "contact": "Assistance clientèle de Blizzard",
               "display_name": "Heroes of the Storm",
               "helplink": "https://eu.battle.net/support/fr/games/heroes",
               "icon_path": "%binarypath%",
@@ -1474,7 +1474,7 @@
           {
             "program_associations":
             {
-              "application_description": "Heroes of the Storm est un jeu de combat par \u00E9quipe en ligne avec vos personnages pr\u00E9f\u00E9r\u00E9s de Blizzard. Personnalisez des h\u00E9ros venus de tous les univers de Blizzard selon votre style de jeu. Faites \u00E9quipe avec vos amis pour d\u00E9cha\u00EEner le chaos sur des champs de bataille vari\u00E9s qui dicteront leur loi \u00E0 votre strat\u00E9gie.",
+              "application_description": "Heroes of the Storm est un jeu de combat par équipe en ligne avec vos personnages préférés de Blizzard. Personnalisez des héros venus de tous les univers de Blizzard selon votre style de jeu. Faites équipe avec vos amis pour déchaîner le chaos sur des champs de bataille variés qui dicteront leur loi à votre stratégie.",
               "application_display_name": "Heroes of the Storm",
               "executable_icon_index": 0.0,
               "executable_icon_path": "%binarypath%",
@@ -1538,7 +1538,7 @@
           {
             "program_associations":
             {
-              "application_description": "Heroes of the Storm \u00E8 un picchiaduro free-to-play online a squadre con i tuoi personaggi Blizzard preferiti. Plasma e personalizza eroi provenienti da tutti gli universi Blizzard per adattarli al tuo stile di gioco. Forma una squadra con gli amici e lanciati in una travolgente spirale di combattimenti attraverso svariati campi di battaglia che influenzano la strategia e il modo di giocare.",
+              "application_description": "Heroes of the Storm è un picchiaduro free-to-play online a squadre con i tuoi personaggi Blizzard preferiti. Plasma e personalizza eroi provenienti da tutti gli universi Blizzard per adattarli al tuo stile di gioco. Forma una squadra con gli amici e lanciati in una travolgente spirale di combattimenti attraverso svariati campi di battaglia che influenzano la strategia e il modo di giocare.",
               "application_display_name": "Heroes of the Storm",
               "executable_icon_index": 0.0,
               "executable_icon_path": "%binarypath%",
@@ -1571,7 +1571,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\uD788\uC5B4\uB85C\uC988 \uC624\uBE0C \uB354 \uC2A4\uD1B0/\uD788\uC5B4\uB85C\uC988 \uC624\uBE0C \uB354 \uC2A4\uD1B0.lnk",
+              "link": "%commonstartmenu%히어로즈 오브 더 스톰/히어로즈 오브 더 스톰.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -1579,8 +1579,8 @@
           {
             "desktop_shortcut":
             {
-              "description": "\uD788\uC5B4\uB85C\uC988 \uC624\uBE0C \uB354 \uC2A4\uD1B0\uB97C \uC2E4\uD589\uD569\uB2C8\uB2E4",
-              "link": "%desktoppreference%\uD788\uC5B4\uB85C\uC988 \uC624\uBE0C \uB354 \uC2A4\uD1B0.lnk",
+              "description": "히어로즈 오브 더 스톰를 실행합니다",
+              "link": "%desktoppreference%히어로즈 오브 더 스톰.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -1588,8 +1588,8 @@
           {
             "add_remove_programs_key":
             {
-              "contact": "\uBE14\uB9AC\uC790\uB4DC \uACE0\uAC1D\uC9C0\uC6D0",
-              "display_name": "\uD788\uC5B4\uB85C\uC988 \uC624\uBE0C \uB354 \uC2A4\uD1B0",
+              "contact": "블리자드 고객지원",
+              "display_name": "히어로즈 오브 더 스톰",
               "helplink": "https://kr.battle.net/support/kr/games/heroes",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -1602,8 +1602,8 @@
           {
             "program_associations":
             {
-              "application_description": "\uD788\uC5B4\uB85C\uC988 \uC624\uBE0C \uB354 \uC2A4\uD1B0\uC740 \uC778\uAE30 \uBE14\uB9AC\uC790\uB4DC \uCE90\uB9AD\uD130\uB4E4\uC774 \uC8FC\uC778\uACF5\uC73C\uB85C \uB4F1\uC7A5\uD558\uB294 \uBB34\uB8CC \uC628\uB77C\uC778 \uD300\uC804 \uAC8C\uC784\uC785\uB2C8\uB2E4. \uC785\uB9DB\uC5D0 \uB530\uB77C \uBE14\uB9AC\uC790\uB4DC \uC138\uACC4\uAD00\uC758 \uCE90\uB9AD\uD130\uB97C \uD0A4\uC6B0\uC2ED\uC2DC\uC624. \uCE5C\uAD6C\uB4E4\uACFC \uD568\uAED8 \uD300\uC744 \uAC16\uCD94\uACE0, \uC0C8\uB85C\uC6B4 \uC804\uB7B5\uACFC \uD50C\uB808\uC774 \uBC29\uC2DD\uC774 \uC694\uAD6C\uB418\uB294 \uB2E4\uC591\uD55C \uC804\uC7A5\uC5D0\uC11C \uBE60\uB978 \uC18D\uB3C4\uB85C \uC9C4\uD589\uB418\uB294 \uC804\uD22C\uC5D0 \uB3CC\uC785\uD558\uC2ED\uC2DC\uC624.",
-              "application_display_name": "\uD788\uC5B4\uB85C\uC988 \uC624\uBE0C \uB354 \uC2A4\uD1B0",
+              "application_description": "히어로즈 오브 더 스톰은 인기 블리자드 캐릭터들이 주인공으로 등장하는 무료 온라인 팀전 게임입니다. 입맛에 따라 블리자드 세계관의 캐릭터를 키우십시오. 친구들과 함께 팀을 갖추고, 새로운 전략과 플레이 방식이 요구되는 다양한 전장에서 빠른 속도로 진행되는 전투에 돌입하십시오.",
+              "application_display_name": "히어로즈 오브 더 스톰",
               "executable_icon_index": 0.0,
               "executable_icon_path": "%binarypath%",
               "executable_path": "%binarypath%",
@@ -1644,7 +1644,7 @@
               [
                 "-launch"
               ],
-              "regex": "Versions/Base\\d\u002B/Heroes\\.app",
+              "regex": "Versions/Base\\d+/Heroes\\.app",
               "relative_path": "Support/HeroesSwitcher.app",
               "switcher": true
             }
@@ -1730,7 +1730,7 @@
               [
                 "-launch"
               ],
-              "regex": "Versions/Base\\d\u002B/(HeroesOfTheStorm|HeroesOfTheStorm_x64)\\.exe",
+              "regex": "Versions/Base\\d+/(HeroesOfTheStorm|HeroesOfTheStorm_x64)\\.exe",
               "relative_path": "Support64/HeroesSwitcher_x64.exe",
               "switcher": true
             }
@@ -1843,7 +1843,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "Zagraj w gr\u0119 Heroes of the Storm.",
+              "description": "Zagraj w grę Heroes of the Storm.",
               "link": "%desktoppreference%Heroes of the Storm.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -1866,7 +1866,7 @@
           {
             "program_associations":
             {
-              "application_description": "Heroes of the Storm to darmowa sieciowa gra dru\u017Cynowa, w kt\u00F3rej pojawi\u0105 si\u0119 wasze ulubione postaci z gier Blizzarda. Oferuje mo\u017Cliwo\u015B\u0107 wyboru i dostosowania bohater\u00F3w ze wszystkich \u015Bwiat\u00F3w Blizzarda do w\u0142asnego stylu gry. Zapro\u015B do zabawy znajomych i we\u017A udzia\u0142 w dynamicznej batalii na r\u00F3\u017Cnych polach bitew, wymagaj\u0105cych odr\u0119bnej strategii i innego stylu gry.",
+              "application_description": "Heroes of the Storm to darmowa sieciowa gra drużynowa, w której pojawią się wasze ulubione postaci z gier Blizzarda. Oferuje możliwość wyboru i dostosowania bohaterów ze wszystkich światów Blizzarda do własnego stylu gry. Zaproś do zabawy znajomych i weź udział w dynamicznej batalii na różnych polach bitew, wymagających odrębnej strategii i innego stylu gry.",
               "application_display_name": "Heroes of the Storm",
               "executable_icon_index": 0.0,
               "executable_icon_path": "%binarypath%",
@@ -1930,7 +1930,7 @@
           {
             "program_associations":
             {
-              "application_description": "Heroes of the Storm \u00E9 um jogo gratuito de combate entre equipes estrelando seus personagens favoritos da Blizzard. Evolua e personalize her\u00F3is de todo o universo da Blizzard para corresponder ao seu estilo de jogo. Junte-se a seus amigos e entre na a\u00E7\u00E3o em diversos campos de batalha que influenciam a estrat\u00E9gia e a maneira de jogar.",
+              "application_description": "Heroes of the Storm é um jogo gratuito de combate entre equipes estrelando seus personagens favoritos da Blizzard. Evolua e personalize heróis de todo o universo da Blizzard para corresponder ao seu estilo de jogo. Junte-se a seus amigos e entre na ação em diversos campos de batalha que influenciam a estratégia e a maneira de jogar.",
               "application_display_name": "Heroes of the Storm",
               "executable_icon_index": 0.0,
               "executable_icon_path": "%binarypath%",
@@ -1971,7 +1971,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "\u0417\u0430\u043F\u0443\u0441\u043A Heroes of the Storm",
+              "description": "Запуск Heroes of the Storm",
               "link": "%desktoppreference%Heroes of the Storm.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -1980,7 +1980,7 @@
           {
             "add_remove_programs_key":
             {
-              "contact": "\u0421\u043B\u0443\u0436\u0431\u0430 \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0438 Blizzard",
+              "contact": "Служба поддержки Blizzard",
               "display_name": "Heroes of the Storm",
               "helplink": "https://eu.battle.net/support/ru/games/heroes",
               "icon_path": "%binarypath%",
@@ -1994,7 +1994,7 @@
           {
             "program_associations":
             {
-              "application_description": "Heroes of the Storm \u2014 \u0431\u0435\u0441\u043F\u043B\u0430\u0442\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u043D\u0430\u044F \u0441\u0435\u0442\u0435\u0432\u0430\u044F \u0438\u0433\u0440\u0430, \u0432 \u043A\u043E\u0442\u043E\u0440\u043E\u0439 \u0432\u0441\u0442\u0440\u0435\u0442\u0438\u0442\u0435 \u043F\u043E\u043B\u044E\u0431\u0438\u0432\u0448\u0438\u0445\u0441\u044F \u043F\u0435\u0440\u0441\u043E\u043D\u0430\u0436\u0435\u0439 Blizzard. \u0412\u044B \u0441\u043C\u043E\u0436\u0435\u0442\u0435 \u0432\u044B\u0431\u0440\u0430\u0442\u044C \u043D\u0435\u043F\u043E\u0432\u0442\u043E\u0440\u0438\u043C\u044B\u0439 \u043E\u0431\u043B\u0438\u043A \u0438 \u043D\u0430\u0431\u043E\u0440 \u0441\u043F\u043E\u0441\u043E\u0431\u043D\u043E\u0441\u0442\u0435\u0439 \u0434\u043B\u044F \u0441\u0432\u043E\u0435\u0433\u043E \u0433\u0435\u0440\u043E\u044F. \u0417\u043E\u0432\u0438\u0442\u0435 \u0434\u0440\u0443\u0437\u0435\u0439, \u0447\u0442\u043E\u0431\u044B \u0432\u043C\u0435\u0441\u0442\u0435 \u043F\u0440\u0438\u043D\u044F\u0442\u044C \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0443\u0432\u043B\u0435\u043A\u0430\u0442\u0435\u043B\u044C\u043D\u043E\u0439 \u0438 \u0434\u0438\u043D\u0430\u043C\u0438\u0447\u043D\u043E\u0439 \u0441\u0445\u0432\u0430\u0442\u043A\u0435. \u0410 \u0440\u0430\u0437\u043D\u043E\u043E\u0431\u0440\u0430\u0437\u0438\u0435 \u0438\u0433\u0440\u043E\u0432\u044B\u0445 \u043A\u0430\u0440\u0442 \u043E\u0442\u043A\u0440\u043E\u0435\u0442 \u043F\u0435\u0440\u0435\u0434 \u0432\u0430\u043C\u0438 \u043D\u043E\u0432\u044B\u0435 \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0432\u043E\u0437\u043C\u043E\u0436\u043D\u043E\u0441\u0442\u0438 \u0438 \u043F\u043E\u0437\u0432\u043E\u043B\u0438\u0442 \u0441\u0434\u0435\u043B\u0430\u0442\u044C \u0432\u0430\u0448\u0438 \u0441\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0435\u0449\u0435 \u0438\u043D\u0442\u0435\u0440\u0435\u0441\u043D\u0435\u0435.",
+              "application_description": "Heroes of the Storm — бесплатная командная сетевая игра, в которой встретите полюбившихся персонажей Blizzard. Вы сможете выбрать неповторимый облик и набор способностей для своего героя. Зовите друзей, чтобы вместе принять участие в увлекательной и динамичной схватке. А разнообразие игровых карт откроет перед вами новые стратегические возможности и позволит сделать ваши сражения еще интереснее.",
               "application_display_name": "Heroes of the Storm",
               "executable_icon_index": 0.0,
               "executable_icon_path": "%binarypath%",
@@ -2027,7 +2027,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\u98CE\u66B4\u82F1\u96C4/\u98CE\u66B4\u82F1\u96C4.lnk",
+              "link": "%commonstartmenu%风暴英雄/风暴英雄.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -2035,8 +2035,8 @@
           {
             "desktop_shortcut":
             {
-              "description": "\u542F\u52A8\u98CE\u66B4\u82F1\u96C4",
-              "link": "%desktoppreference%\u98CE\u66B4\u82F1\u96C4.lnk",
+              "description": "启动风暴英雄",
+              "link": "%desktoppreference%风暴英雄.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -2044,8 +2044,8 @@
           {
             "add_remove_programs_key":
             {
-              "contact": "\u66B4\u96EA\u652F\u6301",
-              "display_name": "\u98CE\u66B4\u82F1\u96C4",
+              "contact": "暴雪支持",
+              "display_name": "风暴英雄",
               "helplink": "https://www.battlenet.com.cn/support/zh/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -2058,8 +2058,8 @@
           {
             "program_associations":
             {
-              "application_description": "\u300A\u98CE\u66B4\u82F1\u96C4\u300B\u662F\u4E00\u6B3E\u514D\u8D39\u7545\u73A9\u7684\u5728\u7EBF\u56E2\u961F\u5927\u4E71\u6597\u6E38\u620F\uFF0C\u5176\u4E2D\u5168\u90E8\u662F\u4F60\u6700\u559C\u7231\u7684\u66B4\u96EA\u6E38\u620F\u4EBA\u7269\u3002\u4ECE\u4E0D\u540C\u7684\u66B4\u96EA\u6E38\u620F\u4EBA\u7269\u4E2D\u9009\u62E9\u4F60\u7684\u82F1\u96C4\uFF0C\u5C06\u5176\u6253\u9020\u6210\u6700\u9002\u5408\u4F60\u98CE\u683C\u7684\u6E38\u620F\u89D2\u8272\u3002\u548C\u4F60\u7684\u597D\u53CB\u7EC4\u961F\uFF0C\u4E00\u8D77\u5728\u5FEB\u8282\u594F\u7684\u6FC0\u6597\u4E2D\u4E00\u51B3\u80DC\u8D1F\uFF0C\u6B64\u5916\u8FD8\u6709\u73A9\u6CD5\u8FE5\u5F02\u3001\u7B56\u7565\u4E0D\u540C\u7684\u591A\u4E2A\u6218\u573A\u53EF\u4F9B\u9009\u62E9\u3002",
-              "application_display_name": "\u98CE\u66B4\u82F1\u96C4",
+              "application_description": "《风暴英雄》是一款免费畅玩的在线团队大乱斗游戏，其中全部是你最喜爱的暴雪游戏人物。从不同的暴雪游戏人物中选择你的英雄，将其打造成最适合你风格的游戏角色。和你的好友组队，一起在快节奏的激斗中一决胜负，此外还有玩法迥异、策略不同的多个战场可供选择。",
+              "application_display_name": "风暴英雄",
               "executable_icon_index": 0.0,
               "executable_icon_path": "%binarypath%",
               "executable_path": "%binarypath%",
@@ -2091,7 +2091,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\u66B4\u96EA\u82F1\u9738/\u66B4\u96EA\u82F1\u9738.lnk",
+              "link": "%commonstartmenu%暴雪英霸/暴雪英霸.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -2099,8 +2099,8 @@
           {
             "desktop_shortcut":
             {
-              "description": "\u57F7\u884C\u66B4\u96EA\u82F1\u9738",
-              "link": "%desktoppreference%\u66B4\u96EA\u82F1\u9738.lnk",
+              "description": "執行暴雪英霸",
+              "link": "%desktoppreference%暴雪英霸.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -2108,8 +2108,8 @@
           {
             "add_remove_programs_key":
             {
-              "contact": "Blizzard\u652F\u63F4",
-              "display_name": "\u66B4\u96EA\u82F1\u9738",
+              "contact": "Blizzard支援",
+              "display_name": "暴雪英霸",
               "helplink": "https://tw.battle.net/support/zh/games/heroes",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -2122,8 +2122,8 @@
           {
             "program_associations":
             {
-              "application_description": "\u300A\u66B4\u96EA\u82F1\u9738\u300B\u662F\u4E00\u6B3E\u71B1\u9B27\u7121\u6BD4\u7684\u7DDA\u4E0A\u5718\u6230\u904A\u6232\uFF0C\u88E1\u9762\u6709\u8A31\u591A\u4F60\u6700\u559C\u611B\u7684Blizzard\u82F1\u96C4\u89D2\u8272\u3002\u4F60\u53EF\u4EE5\u4F9D\u81EA\u5DF1\u7684\u904A\u6232\u98A8\u683C\u91CF\u8EAB\u6253\u9020\u9019\u4E9B\u4F86\u81EABlizzard\u5404\u904A\u6232\u7684\u82F1\u96C4\uFF0C\u7136\u5F8C\u8207\u597D\u53CB\u7D44\u968A\uFF0C\u5F81\u6230\u5145\u6EFF\u7B56\u7565\u8207\u6230\u8853\u8B8A\u5316\u7684\u5404\u7A2E\u6230\u5834\u3002",
-              "application_display_name": "\u66B4\u96EA\u82F1\u9738",
+              "application_description": "《暴雪英霸》是一款熱鬧無比的線上團戰遊戲，裡面有許多你最喜愛的Blizzard英雄角色。你可以依自己的遊戲風格量身打造這些來自Blizzard各遊戲的英雄，然後與好友組隊，征戰充滿策略與戰術變化的各種戰場。",
+              "application_display_name": "暴雪英霸",
               "executable_icon_index": 0.0,
               "executable_icon_path": "%binarypath%",
               "executable_path": "%binarypath%",

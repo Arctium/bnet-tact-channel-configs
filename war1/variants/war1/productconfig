@@ -1,5 +1,5 @@
 {
-  "eu\u002Bkr\u002Bus":
+  "eu+kr+us":
   {
     "all":
     {
@@ -11,7 +11,7 @@
         {
           "game_dir":
           {
-            "dirname": "Warcraft Orcs \u0026 Humans"
+            "dirname": "Warcraft Orcs & Humans"
           }
         },
         "product": "war1",
@@ -39,8 +39,8 @@
           {
             "start_menu_shortcut":
             {
-              "args": "-noconsole -conf dosbox.conf -title \u0027Warcraft: Orcs \u0026 Humans [Version 1.22h][DOS]\u0027",
-              "link": "%commonstartmenu%Warcraft Orcs \u0026 Humans/Warcraft Orcs \u0026 Humans.lnk",
+              "args": "-noconsole -conf dosbox.conf -title 'Warcraft: Orcs & Humans [Version 1.22h][DOS]'",
+              "link": "%commonstartmenu%Warcraft Orcs & Humans/Warcraft Orcs & Humans.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%/dos"
             }
@@ -48,8 +48,8 @@
           {
             "desktop_shortcut":
             {
-              "args": "-noconsole -conf dosbox.conf -title \u0027Warcraft: Orcs \u0026 Humans [Version 1.22h][DOS]\u0027",
-              "link": "%desktoppreference%Warcraft Orcs \u0026 Humans.lnk",
+              "args": "-noconsole -conf dosbox.conf -title 'Warcraft: Orcs & Humans [Version 1.22h][DOS]'",
+              "link": "%desktoppreference%Warcraft Orcs & Humans.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%/dos"
             }
@@ -57,11 +57,11 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "Warcraft Orcs \u0026 Humans",
+              "display_name": "Warcraft Orcs & Humans",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
               "locale": "%locale%",
-              "root": "Warcraft Orcs \u0026 Humans",
+              "root": "Warcraft Orcs & Humans",
               "uid": "%uid%",
               "uninstall_path": "%uninstallpath%"
             }
@@ -85,7 +85,7 @@
                 "-conf",
                 "dosbox.conf",
                 "-title",
-                "\u0027Warcraft: Orcs \u0026 Humans [Version 1.22h][DOS]\u0027"
+                "'Warcraft: Orcs & Humans [Version 1.22h][DOS]'"
               ],
               "regex": "dos/DOSBox.exe",
               "relative_path": "dos/DOSBox.exe",
@@ -112,7 +112,7 @@
                 "root": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
                 "subkeys":
                 [
-                  "Warcraft Orcs \u0026 Humans"
+                  "Warcraft Orcs & Humans"
                 ]
               }
             },
@@ -124,7 +124,7 @@
                 "root": "SOFTWARE\\Blizzard Entertainment",
                 "subkeys":
                 [
-                  "Warcraft Orcs \u0026 Humans"
+                  "Warcraft Orcs & Humans"
                 ]
               }
             },

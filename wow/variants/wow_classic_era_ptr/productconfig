@@ -1,5 +1,5 @@
 {
-  "cn\u002Beu\u002Bkr\u002Btw\u002Bus":
+  "cn+eu+kr+tw+us":
   {
     "all":
     {
@@ -177,7 +177,7 @@
             "desktop_shortcut":
             {
               "args": "--productcode=wow_classic_era_ptr",
-              "description": "Haz clic aqu\u00ED para jugar a World of Warcraft.",
+              "description": "Haz clic aquí para jugar a World of Warcraft.",
               "link": "%desktoppreference%World of Warcraft Classic Era PTR.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -217,7 +217,7 @@
             "desktop_shortcut":
             {
               "args": "--productcode=wow_classic_era_ptr",
-              "description": "Haz clic aqu\u00ED para jugar a World of Warcraft.",
+              "description": "Haz clic aquí para jugar a World of Warcraft.",
               "link": "%desktoppreference%World of Warcraft Classic Era PTR.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -257,7 +257,7 @@
             "desktop_shortcut":
             {
               "args": "--productcode=wow_classic_era_ptr",
-              "description": "Cliquez ici pour jouer \u00E0 World of Warcraft.",
+              "description": "Cliquez ici pour jouer à World of Warcraft.",
               "link": "%desktoppreference%World of Warcraft Classic Era PTR.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -288,7 +288,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=wow_classic_era_ptr",
-              "link": "%commonstartmenu%\uACF5\uAC1C \uD14C\uC2A4\uD2B8 \uC11C\uBC84 (\uD074\uB798\uC2DD \uC2DC\uB300)/\uACF5\uAC1C \uD14C\uC2A4\uD2B8 \uC11C\uBC84 (\uD074\uB798\uC2DD \uC2DC\uB300).lnk",
+              "link": "%commonstartmenu%공개 테스트 서버 (클래식 시대)/공개 테스트 서버 (클래식 시대).lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -297,8 +297,8 @@
             "desktop_shortcut":
             {
               "args": "--productcode=wow_classic_era_ptr",
-              "description": "\uC6D4\uB4DC \uC624\uBE0C \uC6CC\uD06C\uB798\uD504\uD2B8\uB97C \uC2E4\uD589\uD558\uB824\uBA74 \uC5EC\uAE30\uB97C \uD074\uB9AD\uD558\uC2ED\uC2DC\uC624.",
-              "link": "%desktoppreference%\uACF5\uAC1C \uD14C\uC2A4\uD2B8 \uC11C\uBC84 (\uD074\uB798\uC2DD \uC2DC\uB300).lnk",
+              "description": "월드 오브 워크래프트를 실행하려면 여기를 클릭하십시오.",
+              "link": "%desktoppreference%공개 테스트 서버 (클래식 시대).lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -306,7 +306,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "\uACF5\uAC1C \uD14C\uC2A4\uD2B8 \uC11C\uBC84 (\uD074\uB798\uC2DD \uC2DC\uB300)",
+              "display_name": "공개 테스트 서버 (클래식 시대)",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
               "locale": "%locale%",
@@ -631,7 +631,7 @@
             "desktop_shortcut":
             {
               "args": "--productcode=wow_classic_era_ptr",
-              "description": "\u041D\u0430\u0436\u043C\u0438\u0442\u0435 \u0437\u0434\u0435\u0441\u044C, \u0447\u0442\u043E\u0431\u044B \u0437\u0430\u043F\u0443\u0441\u0442\u0438\u0442\u044C World of Warcraft.",
+              "description": "Нажмите здесь, чтобы запустить World of Warcraft.",
               "link": "%desktoppreference%World of Warcraft Classic Era PTR.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -662,7 +662,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=wow_classic_era_ptr",
-              "link": "%commonstartmenu%\u516C\u5171\u6D4B\u8BD5\u670D\uFF08\u65E7\u4E16\u7ECF\u5178\uFF09/\u516C\u5171\u6D4B\u8BD5\u670D\uFF08\u65E7\u4E16\u7ECF\u5178\uFF09.lnk",
+              "link": "%commonstartmenu%公共测试服（旧世经典）/公共测试服（旧世经典）.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -671,8 +671,8 @@
             "desktop_shortcut":
             {
               "args": "--productcode=wow_classic_era_ptr",
-              "description": "\u70B9\u51FB\u8FD9\u91CC\u8FD0\u884C\u300A\u9B54\u517D\u4E16\u754C\u300B\u3002",
-              "link": "%desktoppreference%\u516C\u5171\u6D4B\u8BD5\u670D\uFF08\u65E7\u4E16\u7ECF\u5178\uFF09.lnk",
+              "description": "点击这里运行《魔兽世界》。",
+              "link": "%desktoppreference%公共测试服（旧世经典）.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -680,7 +680,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "\u516C\u5171\u6D4B\u8BD5\u670D\uFF08\u65E7\u4E16\u7ECF\u5178\uFF09",
+              "display_name": "公共测试服（旧世经典）",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
               "locale": "%locale%",
@@ -702,7 +702,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=wow_classic_era_ptr",
-              "link": "%commonstartmenu%\u516C\u958B\u6E2C\u8A66\u4F3A\u670D\u5668 (\u7D93\u5178\u6642\u671F)/\u516C\u958B\u6E2C\u8A66\u4F3A\u670D\u5668 (\u7D93\u5178\u6642\u671F).lnk",
+              "link": "%commonstartmenu%公開測試伺服器 (經典時期)/公開測試伺服器 (經典時期).lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -711,8 +711,8 @@
             "desktop_shortcut":
             {
               "args": "--productcode=wow_classic_era_ptr",
-              "description": "\u9EDE\u9078\u6B64\u9023\u7D50\u4EE5\u57F7\u884C\u300A\u9B54\u7378\u4E16\u754C\u300B\u3002",
-              "link": "%desktoppreference%\u516C\u958B\u6E2C\u8A66\u4F3A\u670D\u5668 (\u7D93\u5178\u6642\u671F).lnk",
+              "description": "點選此連結以執行《魔獸世界》。",
+              "link": "%desktoppreference%公開測試伺服器 (經典時期).lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -720,7 +720,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "\u516C\u958B\u6E2C\u8A66\u4F3A\u670D\u5668 (\u7D93\u5178\u6642\u671F)",
+              "display_name": "公開測試伺服器 (經典時期)",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
               "locale": "%locale%",

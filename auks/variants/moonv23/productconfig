@@ -31,20 +31,20 @@
                 "required": true,
                 "title_string":
                 {
-                  "arSA": "\u0627\u0644\u0644\u0639\u0628\u0629 \u0627\u0644\u0623\u0633\u0627\u0633\u064A\u0629",
+                  "arSA": "اللعبة الأساسية",
                   "deDE": "Grundspiel (erforderlich)",
                   "default": "Base Game (required)",
-                  "esES": "Juego b\u00E1sico (necesario)",
-                  "esMX": "Juego b\u00E1sico (necesario)",
+                  "esES": "Juego básico (necesario)",
+                  "esMX": "Juego básico (necesario)",
                   "frFR": "Jeu de base (requis)",
                   "itIT": "Gioco base (necessario)",
-                  "jaJP": "\u30B2\u30FC\u30E0\u672C\u7DE8\uFF08\u5FC5\u9808\uFF09",
-                  "koKR": "\uAE30\uBCF8 \uAC8C\uC784(\uD544\uC218)",
+                  "jaJP": "ゲーム本編（必須）",
+                  "koKR": "기본 게임(필수)",
                   "plPL": "Podstawowa wersja gry (wymagana)",
-                  "ptBR": "Jogo Base (necess\u00E1rio)",
-                  "ruRU": "\u0411\u0430\u0437\u043E\u0432\u0430\u044F \u0432\u0435\u0440\u0441\u0438\u044F \u0438\u0433\u0440\u044B (\u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F)",
-                  "thTH": "\u0E15\u0E31\u0E27\u0E40\u0E01\u0E21\u0E2B\u0E25\u0E31\u0E01 (\u0E08\u0E33\u0E40\u0E1B\u0E47\u0E19)",
-                  "zhTW": "\u904A\u6232\u4E3B\u9AD4\uFF08\u5FC5\u9808\uFF09"
+                  "ptBR": "Jogo Base (necessário)",
+                  "ruRU": "Базовая версия игры (требуется)",
+                  "thTH": "ตัวเกมหลัก (จำเป็น)",
+                  "zhTW": "遊戲主體（必須）"
                 }
               },
               {
@@ -361,20 +361,20 @@
                 "required": true,
                 "title_string":
                 {
-                  "arSA": "\u0627\u0644\u0644\u0639\u0628\u0629 \u0627\u0644\u0623\u0633\u0627\u0633\u064A\u0629",
+                  "arSA": "اللعبة الأساسية",
                   "deDE": "Grundspiel (erforderlich)",
                   "default": "Base Game (required)",
-                  "esES": "Juego b\u00E1sico (necesario)",
-                  "esMX": "Juego b\u00E1sico (necesario)",
+                  "esES": "Juego básico (necesario)",
+                  "esMX": "Juego básico (necesario)",
                   "frFR": "Jeu de base (requis)",
                   "itIT": "Gioco base (necessario)",
-                  "jaJP": "\u30B2\u30FC\u30E0\u672C\u7DE8\uFF08\u5FC5\u9808\uFF09",
-                  "koKR": "\uAE30\uBCF8 \uAC8C\uC784(\uD544\uC218)",
+                  "jaJP": "ゲーム本編（必須）",
+                  "koKR": "기본 게임(필수)",
                   "plPL": "Podstawowa wersja gry (wymagana)",
-                  "ptBR": "Jogo Base (necess\u00E1rio)",
-                  "ruRU": "\u0411\u0430\u0437\u043E\u0432\u0430\u044F \u0432\u0435\u0440\u0441\u0438\u044F \u0438\u0433\u0440\u044B (\u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F)",
-                  "thTH": "\u0E15\u0E31\u0E27\u0E40\u0E01\u0E21\u0E2B\u0E25\u0E31\u0E01 (\u0E08\u0E33\u0E40\u0E1B\u0E47\u0E19)",
-                  "zhTW": "\u904A\u6232\u4E3B\u9AD4\uFF08\u5FC5\u9808\uFF09"
+                  "ptBR": "Jogo Base (necessário)",
+                  "ruRU": "Базовая версия игры (требуется)",
+                  "thTH": "ตัวเกมหลัก (จำเป็น)",
+                  "zhTW": "遊戲主體（必須）"
                 }
               },
               {

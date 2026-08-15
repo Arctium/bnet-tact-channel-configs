@@ -1,5 +1,5 @@
 {
-  "cn\u002Beu\u002Bkr\u002Btw\u002Bus\u002Bxx":
+  "cn+eu+kr+tw+us+xx":
   {
     "all":
     {
@@ -208,7 +208,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "Haz clic aqu\u00ED para jugar a Diablo III Public Test.",
+              "description": "Haz clic aquí para jugar a Diablo III Public Test.",
               "link": "%desktoppreference%Diablo III Public Test.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -248,7 +248,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "Haz clic aqu\u00ED para jugar a Diablo III Public Test.",
+              "description": "Haz clic aquí para jugar a Diablo III Public Test.",
               "link": "%desktoppreference%Diablo III Public Test.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -288,7 +288,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "Cliquez ici pour jouer \u00E0 Diablo III Public Test.",
+              "description": "Cliquez ici pour jouer à Diablo III Public Test.",
               "link": "%desktoppreference%Diablo III Public Test.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -360,7 +360,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\uB514\uC544\uBE14\uB85C III \uACF5\uAC1C \uD14C\uC2A4\uD2B8/\uB514\uC544\uBE14\uB85C III \uACF5\uAC1C \uD14C\uC2A4\uD2B8.lnk",
+              "link": "%commonstartmenu%디아블로 III 공개 테스트/디아블로 III 공개 테스트.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -368,8 +368,8 @@
           {
             "desktop_shortcut":
             {
-              "description": "\uB514\uC544\uBE14\uB85C III \uACF5\uAC1C \uD14C\uC2A4\uD2B8\uB97C \uC2E4\uD589\uD558\uB824\uBA74 \uC5EC\uAE30\uB97C \uD074\uB9AD\uD558\uC2ED\uC2DC\uC624.",
-              "link": "%desktoppreference%\uB514\uC544\uBE14\uB85C III \uACF5\uAC1C \uD14C\uC2A4\uD2B8.lnk",
+              "description": "디아블로 III 공개 테스트를 실행하려면 여기를 클릭하십시오.",
+              "link": "%desktoppreference%디아블로 III 공개 테스트.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -378,7 +378,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\uB514\uC544\uBE14\uB85C III \uACF5\uAC1C \uD14C\uC2A4\uD2B8",
+              "display_name": "디아블로 III 공개 테스트",
               "helplink": "http://kr.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -542,9 +542,9 @@
                 "root": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
                 "subkeys":
                 [
-                  "\uB514\uC544\uBE14\uB85C III \uACF5\uAC1C \uD14C\uC2A4\uD2B8",
-                  "\u6697\u9ED1\u7834\u58DE\u795EIII \u6E2C\u8A66\u7248",
-                  "\u6697\u9ED1\u7834\u574F\u795EIII \u6E2C\u8A66\u7248"
+                  "디아블로 III 공개 테스트",
+                  "暗黑破壞神III 測試版",
+                  "暗黑破坏神III 測試版"
                 ]
               }
             }
@@ -605,9 +605,9 @@
                 "root": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
                 "subkeys":
                 [
-                  "\uB514\uC544\uBE14\uB85C III \uACF5\uAC1C \uD14C\uC2A4\uD2B8",
-                  "\u6697\u9ED1\u7834\u58DE\u795EIII \u6E2C\u8A66\u7248",
-                  "\u6697\u9ED1\u7834\u574F\u795EIII \u6E2C\u8A66\u7248",
+                  "디아블로 III 공개 테스트",
+                  "暗黑破壞神III 測試版",
+                  "暗黑破坏神III 測試版",
                   "Diablo III Public Test"
                 ]
               }
@@ -745,7 +745,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "Zagraj w gr\u0119 Diablo III Public Test.",
+              "description": "Zagraj w grę Diablo III Public Test.",
               "link": "%desktoppreference%Diablo III Public Test.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -825,7 +825,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "\u041D\u0430\u0436\u043C\u0438\u0442\u0435 \u0437\u0434\u0435\u0441\u044C, \u0447\u0442\u043E\u0431\u044B \u0437\u0430\u043F\u0443\u0441\u0442\u0438\u0442\u044C Diablo III Public Test.",
+              "description": "Нажмите здесь, чтобы запустить Diablo III Public Test.",
               "link": "%desktoppreference%Diablo III Public Test.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -857,7 +857,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\u300A\u6697\u9ED1\u7834\u58DE\u795EIII\u300B\u516C\u958B\u6E2C\u8A66\u7248/\u300A\u6697\u9ED1\u7834\u58DE\u795EIII\u300B\u516C\u958B\u6E2C\u8A66\u7248.lnk",
+              "link": "%commonstartmenu%《暗黑破壞神III》公開測試版/《暗黑破壞神III》公開測試版.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -865,8 +865,8 @@
           {
             "desktop_shortcut":
             {
-              "description": "\u9EDE\u9078\u6B64\u9023\u7D50\u4EE5\u57F7\u884C\u300A\u6697\u9ED1\u7834\u58DE\u795EIII\u300B\u516C\u958B\u6E2C\u8A66\u7248\u3002",
-              "link": "%desktoppreference%\u300A\u6697\u9ED1\u7834\u58DE\u795EIII\u300B\u516C\u958B\u6E2C\u8A66\u7248.lnk",
+              "description": "點選此連結以執行《暗黑破壞神III》公開測試版。",
+              "link": "%desktoppreference%《暗黑破壞神III》公開測試版.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -875,7 +875,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\u300A\u6697\u9ED1\u7834\u58DE\u795EIII\u300B\u516C\u958B\u6E2C\u8A66\u7248",
+              "display_name": "《暗黑破壞神III》公開測試版",
               "helplink": "http://tw.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",

@@ -259,7 +259,7 @@
             "desktop_shortcut":
             {
               "args": "--productcode=pro",
-              "description": "Jouer \u00E0 Overwatch",
+              "description": "Jouer à Overwatch",
               "link": "%desktoppreference%Overwatch.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -343,7 +343,7 @@
             "desktop_shortcut":
             {
               "args": "--productcode=pro",
-              "description": "Overwatch\u3092\u30D7\u30EC\u30A4",
+              "description": "Overwatchをプレイ",
               "link": "%desktoppreference%Overwatch.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -376,7 +376,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=pro",
-              "link": "%commonstartmenu%\uC624\uBC84\uC6CC\uCE58/\uC624\uBC84\uC6CC\uCE58.lnk",
+              "link": "%commonstartmenu%오버워치/오버워치.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -385,8 +385,8 @@
             "desktop_shortcut":
             {
               "args": "--productcode=pro",
-              "description": "\uC624\uBC84\uC6CC\uCE58 \uC2E4\uD589",
-              "link": "%desktoppreference%\uC624\uBC84\uC6CC\uCE58.lnk",
+              "description": "오버워치 실행",
+              "link": "%desktoppreference%오버워치.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -395,7 +395,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\uC624\uBC84\uC6CC\uCE58",
+              "display_name": "오버워치",
               "helplink": "https://kr.battle.net/support/ko/games/overwatch",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -681,7 +681,7 @@
             "desktop_shortcut":
             {
               "args": "--productcode=pro",
-              "description": "\u0418\u0433\u0440\u0430\u0442\u044C \u0432 Overwatch",
+              "description": "Играть в Overwatch",
               "link": "%desktoppreference%Overwatch.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -714,7 +714,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=pro",
-              "link": "%commonstartmenu%\u5B88\u671B\u5148\u950B/\u5B88\u671B\u5148\u950B.lnk",
+              "link": "%commonstartmenu%守望先锋/守望先锋.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -723,8 +723,8 @@
             "desktop_shortcut":
             {
               "args": "--productcode=pro",
-              "description": "\u5F00\u59CB\u6E38\u73A9\u5B88\u671B\u5148\u950B",
-              "link": "%desktoppreference%\u5B88\u671B\u5148\u950B.lnk",
+              "description": "开始游玩守望先锋",
+              "link": "%desktoppreference%守望先锋.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -733,7 +733,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\u5B88\u671B\u5148\u950B",
+              "display_name": "守望先锋",
               "helplink": "https://cn.battle.net/support/zh/games/overwatch",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -756,7 +756,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=pro",
-              "link": "%commonstartmenu%\u300A\u9B25\u9663\u7279\u653B\u300B/\u300A\u9B25\u9663\u7279\u653B\u300B.lnk",
+              "link": "%commonstartmenu%《鬥陣特攻》/《鬥陣特攻》.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -765,8 +765,8 @@
             "desktop_shortcut":
             {
               "args": "--productcode=pro",
-              "description": "\u73A9\u300A\u9B25\u9663\u7279\u653B\u300B",
-              "link": "%desktoppreference%\u300A\u9B25\u9663\u7279\u653B\u300B.lnk",
+              "description": "玩《鬥陣特攻》",
+              "link": "%desktoppreference%《鬥陣特攻》.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -775,7 +775,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\u300A\u9B25\u9663\u7279\u653B\u300B",
+              "display_name": "《鬥陣特攻》",
               "helplink": "https://tw.battle.net/support/zh/games/overwatch",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -789,7 +789,7 @@
       }
     }
   },
-  "eu\u002Bkr\u002Bus":
+  "eu+kr+us":
   {
     "all":
     {
@@ -1049,7 +1049,7 @@
             "desktop_shortcut":
             {
               "args": "--productcode=pro",
-              "description": "Jouer \u00E0 Overwatch",
+              "description": "Jouer à Overwatch",
               "link": "%desktoppreference%Overwatch.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -1133,7 +1133,7 @@
             "desktop_shortcut":
             {
               "args": "--productcode=pro",
-              "description": "Overwatch\u3092\u30D7\u30EC\u30A4",
+              "description": "Overwatchをプレイ",
               "link": "%desktoppreference%Overwatch.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -1166,7 +1166,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=pro",
-              "link": "%commonstartmenu%\uC624\uBC84\uC6CC\uCE58/\uC624\uBC84\uC6CC\uCE58.lnk",
+              "link": "%commonstartmenu%오버워치/오버워치.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -1175,8 +1175,8 @@
             "desktop_shortcut":
             {
               "args": "--productcode=pro",
-              "description": "\uC624\uBC84\uC6CC\uCE58 \uC2E4\uD589",
-              "link": "%desktoppreference%\uC624\uBC84\uC6CC\uCE58.lnk",
+              "description": "오버워치 실행",
+              "link": "%desktoppreference%오버워치.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -1185,7 +1185,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\uC624\uBC84\uC6CC\uCE58",
+              "display_name": "오버워치",
               "helplink": "https://kr.battle.net/support/ko/games/overwatch",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -1471,7 +1471,7 @@
             "desktop_shortcut":
             {
               "args": "--productcode=pro",
-              "description": "\u0418\u0433\u0440\u0430\u0442\u044C \u0432 Overwatch",
+              "description": "Играть в Overwatch",
               "link": "%desktoppreference%Overwatch.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -1504,7 +1504,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=pro",
-              "link": "%commonstartmenu%\u5B88\u671B\u5148\u950B/\u5B88\u671B\u5148\u950B.lnk",
+              "link": "%commonstartmenu%守望先锋/守望先锋.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -1513,8 +1513,8 @@
             "desktop_shortcut":
             {
               "args": "--productcode=pro",
-              "description": "\u5F00\u59CB\u6E38\u73A9\u5B88\u671B\u5148\u950B",
-              "link": "%desktoppreference%\u5B88\u671B\u5148\u950B.lnk",
+              "description": "开始游玩守望先锋",
+              "link": "%desktoppreference%守望先锋.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -1523,7 +1523,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\u5B88\u671B\u5148\u950B",
+              "display_name": "守望先锋",
               "helplink": "https://cn.battle.net/support/zh/games/overwatch",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -1546,7 +1546,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=pro",
-              "link": "%commonstartmenu%\u300A\u9B25\u9663\u7279\u653B\u300B/\u300A\u9B25\u9663\u7279\u653B\u300B.lnk",
+              "link": "%commonstartmenu%《鬥陣特攻》/《鬥陣特攻》.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -1555,8 +1555,8 @@
             "desktop_shortcut":
             {
               "args": "--productcode=pro",
-              "description": "\u73A9\u300A\u9B25\u9663\u7279\u653B\u300B",
-              "link": "%desktoppreference%\u300A\u9B25\u9663\u7279\u653B\u300B.lnk",
+              "description": "玩《鬥陣特攻》",
+              "link": "%desktoppreference%《鬥陣特攻》.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -1565,7 +1565,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\u300A\u9B25\u9663\u7279\u653B\u300B",
+              "display_name": "《鬥陣特攻》",
               "helplink": "https://tw.battle.net/support/zh/games/overwatch",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -1843,7 +1843,7 @@
             "desktop_shortcut":
             {
               "args": "--productcode=pro",
-              "description": "Jouer \u00E0 Overwatch",
+              "description": "Jouer à Overwatch",
               "icon_path": "%game%/GameClientBnet.ico",
               "link": "%desktoppreference%Overwatch.lnk",
               "target": "%shortcutpath%",
@@ -1929,7 +1929,7 @@
             "desktop_shortcut":
             {
               "args": "--productcode=pro",
-              "description": "Overwatch\u3092\u30D7\u30EC\u30A4",
+              "description": "Overwatchをプレイ",
               "icon_path": "%game%/GameClientBnet.ico",
               "link": "%desktoppreference%Overwatch.lnk",
               "target": "%shortcutpath%",
@@ -1963,7 +1963,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=pro",
-              "link": "%commonstartmenu%\uC624\uBC84\uC6CC\uCE58/\uC624\uBC84\uC6CC\uCE58.lnk",
+              "link": "%commonstartmenu%오버워치/오버워치.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -1972,9 +1972,9 @@
             "desktop_shortcut":
             {
               "args": "--productcode=pro",
-              "description": "\uC624\uBC84\uC6CC\uCE58 \uC2E4\uD589",
+              "description": "오버워치 실행",
               "icon_path": "%game%/GameClientBnet.ico",
-              "link": "%desktoppreference%\uC624\uBC84\uC6CC\uCE58.lnk",
+              "link": "%desktoppreference%오버워치.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -1983,7 +1983,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\uC624\uBC84\uC6CC\uCE58",
+              "display_name": "오버워치",
               "helplink": "https://kr.battle.net/support/ko/games/overwatch",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -2317,7 +2317,7 @@
             "desktop_shortcut":
             {
               "args": "--productcode=pro",
-              "description": "\u0418\u0433\u0440\u0430\u0442\u044C \u0432 Overwatch",
+              "description": "Играть в Overwatch",
               "icon_path": "%game%/GameClientBnet.ico",
               "link": "%desktoppreference%Overwatch.lnk",
               "target": "%shortcutpath%",
@@ -2351,7 +2351,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=pro",
-              "link": "%commonstartmenu%\u5B88\u671B\u5148\u950B/\u5B88\u671B\u5148\u950B.lnk",
+              "link": "%commonstartmenu%守望先锋/守望先锋.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -2360,9 +2360,9 @@
             "desktop_shortcut":
             {
               "args": "--productcode=pro",
-              "description": "\u5F00\u59CB\u6E38\u73A9\u5B88\u671B\u5148\u950B",
+              "description": "开始游玩守望先锋",
               "icon_path": "%game%/GameClientBnet.ico",
-              "link": "%desktoppreference%\u5B88\u671B\u5148\u950B.lnk",
+              "link": "%desktoppreference%守望先锋.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -2371,7 +2371,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\u5B88\u671B\u5148\u950B",
+              "display_name": "守望先锋",
               "helplink": "https://cn.battle.net/support/zh/games/overwatch",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -2394,7 +2394,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=pro",
-              "link": "%commonstartmenu%\u300A\u9B25\u9663\u7279\u653B\u300B/\u300A\u9B25\u9663\u7279\u653B\u300B.lnk",
+              "link": "%commonstartmenu%《鬥陣特攻》/《鬥陣特攻》.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -2403,9 +2403,9 @@
             "desktop_shortcut":
             {
               "args": "--productcode=pro",
-              "description": "\u73A9\u300A\u9B25\u9663\u7279\u653B\u300B",
+              "description": "玩《鬥陣特攻》",
               "icon_path": "%game%/GameClientBnet.ico",
-              "link": "%desktoppreference%\u300A\u9B25\u9663\u7279\u653B\u300B.lnk",
+              "link": "%desktoppreference%《鬥陣特攻》.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -2414,7 +2414,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\u300A\u9B25\u9663\u7279\u653B\u300B",
+              "display_name": "《鬥陣特攻》",
               "helplink": "https://tw.battle.net/support/zh/games/overwatch",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",

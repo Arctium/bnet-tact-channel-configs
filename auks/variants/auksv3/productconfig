@@ -37,20 +37,20 @@
                 "required": true,
                 "title_string":
                 {
-                  "arSA": "\u0627\u0644\u0644\u0639\u0628\u0629 \u0627\u0644\u0623\u0633\u0627\u0633\u064A\u0629",
+                  "arSA": "اللعبة الأساسية",
                   "deDE": "Grundspiel (erforderlich)",
                   "default": "Base Game (required)",
-                  "esES": "Juego b\u00E1sico (necesario)",
-                  "esMX": "Juego b\u00E1sico (necesario)",
+                  "esES": "Juego básico (necesario)",
+                  "esMX": "Juego básico (necesario)",
                   "frFR": "Jeu de base (requis)",
                   "itIT": "Gioco base (necessario)",
-                  "jaJP": "\u30B2\u30FC\u30E0\u672C\u7DE8\uFF08\u5FC5\u9808\uFF09",
-                  "koKR": "\uAE30\uBCF8 \uAC8C\uC784(\uD544\uC218)",
+                  "jaJP": "ゲーム本編（必須）",
+                  "koKR": "기본 게임(필수)",
                   "plPL": "Podstawowa wersja gry (wymagana)",
-                  "ptBR": "Jogo Base (necess\u00E1rio)",
-                  "ruRU": "\u0411\u0430\u0437\u043E\u0432\u0430\u044F \u0432\u0435\u0440\u0441\u0438\u044F \u0438\u0433\u0440\u044B (\u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F)",
-                  "thTH": "\u0E15\u0E31\u0E27\u0E40\u0E01\u0E21\u0E2B\u0E25\u0E31\u0E01 (\u0E08\u0E33\u0E40\u0E1B\u0E47\u0E19)",
-                  "zhTW": "\u904A\u6232\u4E3B\u9AD4\uFF08\u5FC5\u9808\uFF09"
+                  "ptBR": "Jogo Base (necessário)",
+                  "ruRU": "Базовая версия игры (требуется)",
+                  "thTH": "ตัวเกมหลัก (จำเป็น)",
+                  "zhTW": "遊戲主體（必須）"
                 }
               },
               {
@@ -96,9 +96,9 @@
                 "title_string":
                 {
                   "default": "Black Ops 7",
-                  "koKR": "\uBE14\uB799 \uC635\uC2A4 7",
-                  "zhCN": "\u300A\u9ED1\u8272\u884C\u52A87\u300B",
-                  "zhTW": "\u300A\u9ED1\u8272\u884C\u52D5 7\u300B"
+                  "koKR": "블랙 옵스 7",
+                  "zhCN": "《黑色行动7》",
+                  "zhTW": "《黑色行動 7》"
                 }
               },
               {
@@ -135,9 +135,9 @@
                 "title_string":
                 {
                   "default": "Black Ops 6",
-                  "koKR": "\uBE14\uB799 \uC635\uC2A4 6",
-                  "zhCN": "\u9ED1\u8272\u884C\u52A8 6",
-                  "zhTW": "\u300A\u9ED1\u8272\u884C\u52D5 6\u300B"
+                  "koKR": "블랙 옵스 6",
+                  "zhCN": "黑色行动 6",
+                  "zhTW": "《黑色行動 6》"
                 }
               },
               {
@@ -150,9 +150,9 @@
                 "title_string":
                 {
                   "default": "Warzone",
-                  "koKR": "\uC6CC\uC874",
-                  "zhCN": "\u6218\u4E89\u5730\u5E26",
-                  "zhTW": "\u300A\u73FE\u4EE3\u6230\u57DF\u300B"
+                  "koKR": "워존",
+                  "zhCN": "战争地带",
+                  "zhTW": "《現代戰域》"
                 }
               }
             ],
@@ -160,57 +160,57 @@
             {
               "COD_CAMPAIGN":
               {
-                "arSA": "\u0637\u0648\u0631 \u0627\u0644\u0642\u0635\u0629",
+                "arSA": "طور القصة",
                 "deDE": "Kampagne",
                 "default": "Campaign",
-                "esES": "Campa\u00F1a",
-                "esMX": "Campa\u00F1a",
+                "esES": "Campaña",
+                "esMX": "Campaña",
                 "frFR": "Campagne",
                 "itIT": "Campagna",
-                "jaJP": "\u30AD\u30E3\u30F3\u30DA\u30FC\u30F3",
-                "koKR": "\uCEA0\uD398\uC778",
+                "jaJP": "キャンペーン",
+                "koKR": "캠페인",
                 "plPL": "Kampania",
                 "ptBR": "Campanha",
-                "ruRU": "\u041A\u0430\u043C\u043F\u0430\u043D\u0438\u044F",
-                "thTH": "\u0E41\u0E04\u0E21\u0E40\u0E1B\u0E0D",
-                "zhCN": "\u5267\u60C5\u6218\u5F79",
-                "zhTW": "\u5287\u60C5\u6230\u5F79"
+                "ruRU": "Кампания",
+                "thTH": "แคมเปญ",
+                "zhCN": "剧情战役",
+                "zhTW": "劇情戰役"
               },
               "COD_FREE_TRIAL":
               {
-                "arSA": "\u0627\u0644\u062A\u062C\u0631\u0628\u0629 \u0627\u0644\u0645\u062C\u0627\u0646\u064A\u0629",
+                "arSA": "التجربة المجانية",
                 "deDE": "Testversion ",
                 "default": "Free Trial",
                 "esES": "Prueba gratuita",
                 "esMX": "Prueba gratuita",
                 "frFR": "Essai gratuit ",
                 "itIT": "Prova gratuita",
-                "jaJP": "\u7121\u6599\u30C8\u30E9\u30A4\u30A2\u30EB",
-                "koKR": "\uBB34\uB8CC \uD2B8\uB77C\uC774\uC5BC",
-                "plPL": "Darmowa wersja pr\u00F3bna",
-                "ptBR": "Teste Gr\u00E1tis",
-                "ruRU": "\u0411\u0435\u0441\u043F\u043B\u0430\u0442\u043D\u0430\u044F \u0432\u0435\u0440\u0441\u0438\u044F",
-                "thTH": "\u0E17\u0E14\u0E25\u0E2D\u0E07\u0E40\u0E25\u0E48\u0E19\u0E1F\u0E23\u0E35",
-                "zhCN": "\u514D\u8CBB\u8A66\u73A9",
-                "zhTW": "\u514D\u8D39\u8BD5\u73A9"
+                "jaJP": "無料トライアル",
+                "koKR": "무료 트라이얼",
+                "plPL": "Darmowa wersja próbna",
+                "ptBR": "Teste Grátis",
+                "ruRU": "Бесплатная версия",
+                "thTH": "ทดลองเล่นฟรี",
+                "zhCN": "免費試玩",
+                "zhTW": "免费试玩"
               },
               "COD_MULTIPLAYER":
               {
-                "arSA": "\u0637\u0648\u0631 \u0627\u0644\u0644\u0639\u0628 \u0627\u0644\u062C\u0645\u0627\u0639\u064A",
+                "arSA": "طور اللعب الجماعي",
                 "deDE": "Mehrspieler",
                 "default": "Multiplayer",
                 "esES": "Multijugador",
                 "esMX": "Multijugador",
                 "frFR": "Multijoueur",
                 "itIT": "Multigiocatore ",
-                "jaJP": "\u30DE\u30EB\u30C1\u30D7\u30EC\u30A4\u30E4\u30FC",
-                "koKR": "\uBA40\uD2F0\uD50C\uB808\uC774",
+                "jaJP": "マルチプレイヤー",
+                "koKR": "멀티플레이",
                 "plPL": "Tryb wieloosobowy",
                 "ptBR": "Multijogador",
-                "ruRU": "\u0421\u0435\u0442\u0435\u0432\u0430\u044F \u0438\u0433\u0440\u0430",
-                "thTH": "\u0E1C\u0E39\u0E49\u0E40\u0E25\u0E48\u0E19\u0E2B\u0E25\u0E32\u0E22\u0E04\u0E19",
-                "zhCN": "\u591A\u4EBA\u6E38\u620F",
-                "zhTW": "\u591A\u4EBA\u5C0D\u6230"
+                "ruRU": "Сетевая игра",
+                "thTH": "ผู้เล่นหลายคน",
+                "zhCN": "多人游戏",
+                "zhTW": "多人對戰"
               },
               "COD_ZOMBIES":
               {
@@ -218,28 +218,28 @@
                 "esES": "Zombis",
                 "esMX": "Zombis",
                 "itIT": "Zombi",
-                "jaJP": "\u30BE\u30F3\u30D3",
-                "koKR": "\uC880\uBE44",
+                "jaJP": "ゾンビ",
+                "koKR": "좀비",
                 "plPL": "Zombie",
-                "ruRU": "\u0411\u043E\u0438 \u0441 \u0437\u043E\u043C\u0431\u0438",
-                "zhTW": "\u6BAD\u5C4D"
+                "ruRU": "Бои с зомби",
+                "zhTW": "殭屍"
               },
               "DLC_04_03_TITLE":
               {
-                "arSA": "\u0627\u0644\u0645\u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062D\u0627\u0633\u0645\u0629",
+                "arSA": "المواجهة الحاسمة",
                 "deDE": "Endspiel",
                 "default": "Endgame",
                 "esES": "Objetivo final",
                 "esMX": "Endgame",
                 "frFR": "Phase finale",
                 "itIT": "Endgame",
-                "jaJP": "\u30A8\u30F3\u30C9\u30B2\u30FC\u30E0",
-                "koKR": "\uC885\uBC18\uC804",
-                "plPL": "Etap ko\u0144cowy",
+                "jaJP": "エンドゲーム",
+                "koKR": "종반전",
+                "plPL": "Etap końcowy",
                 "ptBR": "Fim da Jornada",
-                "ruRU": "\u0424\u0438\u043D\u0430\u043B",
-                "zhCN": "\u6700\u7EC8\u4EFB\u52A1",
-                "zhTW": "\u7D42\u6975\u4E4B\u6230"
+                "ruRU": "Финал",
+                "zhCN": "最终任务",
+                "zhTW": "終極之戰"
               }
             }
           }
@@ -676,20 +676,20 @@
                 "required": true,
                 "title_string":
                 {
-                  "arSA": "\u0627\u0644\u0644\u0639\u0628\u0629 \u0627\u0644\u0623\u0633\u0627\u0633\u064A\u0629",
+                  "arSA": "اللعبة الأساسية",
                   "deDE": "Grundspiel (erforderlich)",
                   "default": "Base Game (required)",
-                  "esES": "Juego b\u00E1sico (necesario)",
-                  "esMX": "Juego b\u00E1sico (necesario)",
+                  "esES": "Juego básico (necesario)",
+                  "esMX": "Juego básico (necesario)",
                   "frFR": "Jeu de base (requis)",
                   "itIT": "Gioco base (necessario)",
-                  "jaJP": "\u30B2\u30FC\u30E0\u672C\u7DE8\uFF08\u5FC5\u9808\uFF09",
-                  "koKR": "\uAE30\uBCF8 \uAC8C\uC784(\uD544\uC218)",
+                  "jaJP": "ゲーム本編（必須）",
+                  "koKR": "기본 게임(필수)",
                   "plPL": "Podstawowa wersja gry (wymagana)",
-                  "ptBR": "Jogo Base (necess\u00E1rio)",
-                  "ruRU": "\u0411\u0430\u0437\u043E\u0432\u0430\u044F \u0432\u0435\u0440\u0441\u0438\u044F \u0438\u0433\u0440\u044B (\u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F)",
-                  "thTH": "\u0E15\u0E31\u0E27\u0E40\u0E01\u0E21\u0E2B\u0E25\u0E31\u0E01 (\u0E08\u0E33\u0E40\u0E1B\u0E47\u0E19)",
-                  "zhTW": "\u904A\u6232\u4E3B\u9AD4\uFF08\u5FC5\u9808\uFF09"
+                  "ptBR": "Jogo Base (necessário)",
+                  "ruRU": "Базовая версия игры (требуется)",
+                  "thTH": "ตัวเกมหลัก (จำเป็น)",
+                  "zhTW": "遊戲主體（必須）"
                 }
               },
               {
@@ -726,8 +726,8 @@
                 "title_string":
                 {
                   "default": "Modern Warfare III",
-                  "koKR": "\uBAA8\uB358 \uC6CC\uD398\uC5B4 III",
-                  "zhTW": "\u300A\u73FE\u4EE3\u6230\u722D III\u300B"
+                  "koKR": "모던 워페어 III",
+                  "zhTW": "《現代戰爭 III》"
                 }
               },
               {
@@ -789,8 +789,8 @@
                 "title_string":
                 {
                   "default": "Modern Warfare II",
-                  "koKR": "\uBAA8\uB358 \uC6CC\uD398\uC5B4 II",
-                  "zhTW": "\u300A\u73FE\u4EE3\u6230\u722D II\u300B"
+                  "koKR": "모던 워페어 II",
+                  "zhTW": "《現代戰爭 II》"
                 }
               },
               {
@@ -810,54 +810,54 @@
             {
               "COD_CAMPAIGN":
               {
-                "arSA": "\u0637\u0648\u0631 \u0627\u0644\u0642\u0635\u0629",
+                "arSA": "طور القصة",
                 "deDE": "Kampagne",
                 "default": "Campaign",
-                "esES": "Campa\u00F1a",
-                "esMX": "Campa\u00F1a",
+                "esES": "Campaña",
+                "esMX": "Campaña",
                 "frFR": "Campagne",
                 "itIT": "Campagna",
-                "jaJP": "\u30AD\u30E3\u30F3\u30DA\u30FC\u30F3",
-                "koKR": "\uCEA0\uD398\uC778",
+                "jaJP": "キャンペーン",
+                "koKR": "캠페인",
                 "plPL": "Kampania",
                 "ptBR": "Campanha",
-                "ruRU": "\u041A\u0430\u043C\u043F\u0430\u043D\u0438\u044F",
-                "thTH": "\u0E41\u0E04\u0E21\u0E40\u0E1B\u0E0D",
-                "zhTW": "\u5287\u60C5\u6230\u5F79"
+                "ruRU": "Кампания",
+                "thTH": "แคมเปญ",
+                "zhTW": "劇情戰役"
               },
               "COD_COOP":
               {
-                "arSA": "\u0627\u0644\u0637\u0648\u0631 \u0627\u0644\u062A\u0639\u0627\u0648\u0646\u064A",
+                "arSA": "الطور التعاوني",
                 "deDE": "Koop",
                 "default": "Co-Op",
                 "esES": "Cooperativo",
                 "esMX": "Cooperativo",
                 "frFR": "Coop",
                 "itIT": "Coop",
-                "jaJP": "Co-op\u30E2\u30FC\u30C9",
-                "koKR": "\uD611\uB3D9\uC804",
+                "jaJP": "Co-opモード",
+                "koKR": "협동전",
                 "plPL": "Tryb kooperacji",
                 "ptBR": "Cooperativo",
-                "ruRU": "C\u043E\u0432\u043C\u0435\u0441\u0442\u043D\u0430\u044F \u0438\u0433\u0440\u0430",
-                "thTH": "\u0E40\u0E25\u0E48\u0E19\u0E23\u0E48\u0E27\u0E21\u0E01\u0E31\u0E19",
-                "zhTW": "\u5408\u4F5C\u6A21\u5F0F"
+                "ruRU": "Cовместная игра",
+                "thTH": "เล่นร่วมกัน",
+                "zhTW": "合作模式"
               },
               "COD_MULTIPLAYER":
               {
-                "arSA": "\u0637\u0648\u0631 \u0627\u0644\u0644\u0639\u0628 \u0627\u0644\u062C\u0645\u0627\u0639\u064A",
+                "arSA": "طور اللعب الجماعي",
                 "deDE": "Mehrspieler",
                 "default": "Multiplayer",
                 "esES": "Multijugador",
                 "esMX": "Multijugador",
                 "frFR": "Multijoueur",
                 "itIT": "Multigiocatore ",
-                "jaJP": "\u30DE\u30EB\u30C1\u30D7\u30EC\u30A4\u30E4\u30FC",
-                "koKR": "\uBA40\uD2F0\uD50C\uB808\uC774",
+                "jaJP": "マルチプレイヤー",
+                "koKR": "멀티플레이",
                 "plPL": "Tryb wieloosobowy",
                 "ptBR": "Multijogador",
-                "ruRU": "\u0421\u0435\u0442\u0435\u0432\u0430\u044F \u0438\u0433\u0440\u0430",
-                "thTH": "\u0E1C\u0E39\u0E49\u0E40\u0E25\u0E48\u0E19\u0E2B\u0E25\u0E32\u0E22\u0E04\u0E19",
-                "zhTW": "\u591A\u4EBA\u5C0D\u6230"
+                "ruRU": "Сетевая игра",
+                "thTH": "ผู้เล่นหลายคน",
+                "zhTW": "多人對戰"
               }
             }
           }
@@ -1168,20 +1168,20 @@
                 "required": true,
                 "title_string":
                 {
-                  "arSA": "\u0627\u0644\u0644\u0639\u0628\u0629 \u0627\u0644\u0623\u0633\u0627\u0633\u064A\u0629",
+                  "arSA": "اللعبة الأساسية",
                   "deDE": "Grundspiel (erforderlich)",
                   "default": "Base Game (required)",
-                  "esES": "Juego b\u00E1sico (necesario)",
-                  "esMX": "Juego b\u00E1sico (necesario)",
+                  "esES": "Juego básico (necesario)",
+                  "esMX": "Juego básico (necesario)",
                   "frFR": "Jeu de base (requis)",
                   "itIT": "Gioco base (necessario)",
-                  "jaJP": "\u30B2\u30FC\u30E0\u672C\u7DE8\uFF08\u5FC5\u9808\uFF09",
-                  "koKR": "\uAE30\uBCF8 \uAC8C\uC784(\uD544\uC218)",
+                  "jaJP": "ゲーム本編（必須）",
+                  "koKR": "기본 게임(필수)",
                   "plPL": "Podstawowa wersja gry (wymagana)",
-                  "ptBR": "Jogo Base (necess\u00E1rio)",
-                  "ruRU": "\u0411\u0430\u0437\u043E\u0432\u0430\u044F \u0432\u0435\u0440\u0441\u0438\u044F \u0438\u0433\u0440\u044B (\u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F)",
-                  "thTH": "\u0E15\u0E31\u0E27\u0E40\u0E01\u0E21\u0E2B\u0E25\u0E31\u0E01 (\u0E08\u0E33\u0E40\u0E1B\u0E47\u0E19)",
-                  "zhTW": "\u904A\u6232\u4E3B\u9AD4\uFF08\u5FC5\u9808\uFF09"
+                  "ptBR": "Jogo Base (necessário)",
+                  "ruRU": "Базовая версия игры (требуется)",
+                  "thTH": "ตัวเกมหลัก (จำเป็น)",
+                  "zhTW": "遊戲主體（必須）"
                 }
               },
               {
@@ -1227,9 +1227,9 @@
                 "title_string":
                 {
                   "default": "Black Ops 7",
-                  "koKR": "\uBE14\uB799 \uC635\uC2A4 7",
-                  "zhCN": "\u300A\u9ED1\u8272\u884C\u52A87\u300B",
-                  "zhTW": "\u300A\u9ED1\u8272\u884C\u52D5 7\u300B"
+                  "koKR": "블랙 옵스 7",
+                  "zhCN": "《黑色行动7》",
+                  "zhTW": "《黑色行動 7》"
                 }
               },
               {
@@ -1266,9 +1266,9 @@
                 "title_string":
                 {
                   "default": "Black Ops 6",
-                  "koKR": "\uBE14\uB799 \uC635\uC2A4 6",
-                  "zhCN": "\u9ED1\u8272\u884C\u52A8 6",
-                  "zhTW": "\u300A\u9ED1\u8272\u884C\u52D5 6\u300B"
+                  "koKR": "블랙 옵스 6",
+                  "zhCN": "黑色行动 6",
+                  "zhTW": "《黑色行動 6》"
                 }
               },
               {
@@ -1281,9 +1281,9 @@
                 "title_string":
                 {
                   "default": "Warzone",
-                  "koKR": "\uC6CC\uC874",
-                  "zhCN": "\u6218\u4E89\u5730\u5E26",
-                  "zhTW": "\u300A\u73FE\u4EE3\u6230\u57DF\u300B"
+                  "koKR": "워존",
+                  "zhCN": "战争地带",
+                  "zhTW": "《現代戰域》"
                 }
               }
             ],
@@ -1291,57 +1291,57 @@
             {
               "COD_CAMPAIGN":
               {
-                "arSA": "\u0637\u0648\u0631 \u0627\u0644\u0642\u0635\u0629",
+                "arSA": "طور القصة",
                 "deDE": "Kampagne",
                 "default": "Campaign",
-                "esES": "Campa\u00F1a",
-                "esMX": "Campa\u00F1a",
+                "esES": "Campaña",
+                "esMX": "Campaña",
                 "frFR": "Campagne",
                 "itIT": "Campagna",
-                "jaJP": "\u30AD\u30E3\u30F3\u30DA\u30FC\u30F3",
-                "koKR": "\uCEA0\uD398\uC778",
+                "jaJP": "キャンペーン",
+                "koKR": "캠페인",
                 "plPL": "Kampania",
                 "ptBR": "Campanha",
-                "ruRU": "\u041A\u0430\u043C\u043F\u0430\u043D\u0438\u044F",
-                "thTH": "\u0E41\u0E04\u0E21\u0E40\u0E1B\u0E0D",
-                "zhCN": "\u5267\u60C5\u6218\u5F79",
-                "zhTW": "\u5287\u60C5\u6230\u5F79"
+                "ruRU": "Кампания",
+                "thTH": "แคมเปญ",
+                "zhCN": "剧情战役",
+                "zhTW": "劇情戰役"
               },
               "COD_FREE_TRIAL":
               {
-                "arSA": "\u0627\u0644\u062A\u062C\u0631\u0628\u0629 \u0627\u0644\u0645\u062C\u0627\u0646\u064A\u0629",
+                "arSA": "التجربة المجانية",
                 "deDE": "Testversion ",
                 "default": "Free Trial",
                 "esES": "Prueba gratuita",
                 "esMX": "Prueba gratuita",
                 "frFR": "Essai gratuit ",
                 "itIT": "Prova gratuita",
-                "jaJP": "\u7121\u6599\u30C8\u30E9\u30A4\u30A2\u30EB",
-                "koKR": "\uBB34\uB8CC \uD2B8\uB77C\uC774\uC5BC",
-                "plPL": "Darmowa wersja pr\u00F3bna",
-                "ptBR": "Teste Gr\u00E1tis",
-                "ruRU": "\u0411\u0435\u0441\u043F\u043B\u0430\u0442\u043D\u0430\u044F \u0432\u0435\u0440\u0441\u0438\u044F",
-                "thTH": "\u0E17\u0E14\u0E25\u0E2D\u0E07\u0E40\u0E25\u0E48\u0E19\u0E1F\u0E23\u0E35",
-                "zhCN": "\u514D\u8CBB\u8A66\u73A9",
-                "zhTW": "\u514D\u8D39\u8BD5\u73A9"
+                "jaJP": "無料トライアル",
+                "koKR": "무료 트라이얼",
+                "plPL": "Darmowa wersja próbna",
+                "ptBR": "Teste Grátis",
+                "ruRU": "Бесплатная версия",
+                "thTH": "ทดลองเล่นฟรี",
+                "zhCN": "免費試玩",
+                "zhTW": "免费试玩"
               },
               "COD_MULTIPLAYER":
               {
-                "arSA": "\u0637\u0648\u0631 \u0627\u0644\u0644\u0639\u0628 \u0627\u0644\u062C\u0645\u0627\u0639\u064A",
+                "arSA": "طور اللعب الجماعي",
                 "deDE": "Mehrspieler",
                 "default": "Multiplayer",
                 "esES": "Multijugador",
                 "esMX": "Multijugador",
                 "frFR": "Multijoueur",
                 "itIT": "Multigiocatore ",
-                "jaJP": "\u30DE\u30EB\u30C1\u30D7\u30EC\u30A4\u30E4\u30FC",
-                "koKR": "\uBA40\uD2F0\uD50C\uB808\uC774",
+                "jaJP": "マルチプレイヤー",
+                "koKR": "멀티플레이",
                 "plPL": "Tryb wieloosobowy",
                 "ptBR": "Multijogador",
-                "ruRU": "\u0421\u0435\u0442\u0435\u0432\u0430\u044F \u0438\u0433\u0440\u0430",
-                "thTH": "\u0E1C\u0E39\u0E49\u0E40\u0E25\u0E48\u0E19\u0E2B\u0E25\u0E32\u0E22\u0E04\u0E19",
-                "zhCN": "\u591A\u4EBA\u6E38\u620F",
-                "zhTW": "\u591A\u4EBA\u5C0D\u6230"
+                "ruRU": "Сетевая игра",
+                "thTH": "ผู้เล่นหลายคน",
+                "zhCN": "多人游戏",
+                "zhTW": "多人對戰"
               },
               "COD_ZOMBIES":
               {
@@ -1349,28 +1349,28 @@
                 "esES": "Zombis",
                 "esMX": "Zombis",
                 "itIT": "Zombi",
-                "jaJP": "\u30BE\u30F3\u30D3",
-                "koKR": "\uC880\uBE44",
+                "jaJP": "ゾンビ",
+                "koKR": "좀비",
                 "plPL": "Zombie",
-                "ruRU": "\u0411\u043E\u0438 \u0441 \u0437\u043E\u043C\u0431\u0438",
-                "zhTW": "\u6BAD\u5C4D"
+                "ruRU": "Бои с зомби",
+                "zhTW": "殭屍"
               },
               "DLC_04_03_TITLE":
               {
-                "arSA": "\u0627\u0644\u0645\u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062D\u0627\u0633\u0645\u0629",
+                "arSA": "المواجهة الحاسمة",
                 "deDE": "Endspiel",
                 "default": "Endgame",
                 "esES": "Objetivo final",
                 "esMX": "Endgame",
                 "frFR": "Phase finale",
                 "itIT": "Endgame",
-                "jaJP": "\u30A8\u30F3\u30C9\u30B2\u30FC\u30E0",
-                "koKR": "\uC885\uBC18\uC804",
-                "plPL": "Etap ko\u0144cowy",
+                "jaJP": "エンドゲーム",
+                "koKR": "종반전",
+                "plPL": "Etap końcowy",
                 "ptBR": "Fim da Jornada",
-                "ruRU": "\u0424\u0438\u043D\u0430\u043B",
-                "zhCN": "\u6700\u7EC8\u4EFB\u52A1",
-                "zhTW": "\u7D42\u6975\u4E4B\u6230"
+                "ruRU": "Финал",
+                "zhCN": "最终任务",
+                "zhTW": "終極之戰"
               }
             }
           }

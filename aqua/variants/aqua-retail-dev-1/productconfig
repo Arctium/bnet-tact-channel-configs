@@ -1,5 +1,5 @@
 {
-  "eu\u002Bkr\u002Bus":
+  "eu+kr+us":
   {
     "all":
     {
@@ -97,10 +97,10 @@
           "install":
           [
             {
-              "c\u002B\u002B_redist":
+              "c++_redist":
               {
                 "architecture": "x64",
-                "installer_details": "%feature_setting:installers_win:c\u002B\u002B_x64%",
+                "installer_details": "%feature_setting:installers_win:c++_x64%",
                 "minimum_version": "14.40.0.0"
               }
             },

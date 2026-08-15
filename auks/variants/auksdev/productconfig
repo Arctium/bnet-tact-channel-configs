@@ -1,5 +1,5 @@
 {
-  "eu\u002Bkr\u002Bus":
+  "eu+kr+us":
   {
     "all":
     {
@@ -275,7 +275,7 @@
                 "commandline_args":
                 [
                   "cod.exe",
-                  "\u002Bogu_mode",
+                  "+ogu_mode",
                   "--nofork"
                 ],
                 "display_text": "%feature_setting:work_type_display_strings:preloading_shaders_%locale%%",

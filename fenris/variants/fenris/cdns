@@ -7,7 +7,7 @@
         "host": "http://blzdist-d4.necdn.leihuo.netease.com?maxhosts=6"
       },
       {
-        "host": "https://blzdist-d4.necdn.leihuo.netease.com?maxhosts=6\u0026fallback=1"
+        "host": "https://blzdist-d4.necdn.leihuo.netease.com?maxhosts=6&fallback=1"
       }
     ]
   },
@@ -19,13 +19,13 @@
         "host": "http://level3.blizzard.com?maxhosts=3"
       },
       {
-        "host": "http://eu.cdn.blizzard.com?maxhosts=4\u0026fallback=1"
+        "host": "http://eu.cdn.blizzard.com?maxhosts=4&fallback=1"
       },
       {
-        "host": "https://eu.cdn.blizzard.com?maxhosts=4\u0026fallback=1"
+        "host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"
       },
       {
-        "host": "https://level3.ssl.blizzard.com?maxhosts=4\u0026fallback=1"
+        "host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"
       }
     ]
   },
@@ -37,19 +37,19 @@
         "host": "http://level3.blizzard.com?maxhosts=4"
       },
       {
-        "host": "https://level3.ssl.blizzard.com?maxhosts=4\u0026fallback=1"
+        "host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"
       },
       {
-        "host": "http://kr.cdn.blizzard.com?maxhosts=4\u0026fallback=1"
+        "host": "http://kr.cdn.blizzard.com?maxhosts=4&fallback=1"
       },
       {
-        "host": "https://kr.cdn.blizzard.com?maxhosts=4\u0026fallback=1"
+        "host": "https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"
       },
       {
         "host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4"
       },
       {
-        "host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4\u0026fallback=1"
+        "host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"
       }
     ]
   },
@@ -61,13 +61,13 @@
         "host": "http://level3.blizzard.com?maxhosts=4"
       },
       {
-        "host": "http://us.cdn.blizzard.com?maxhosts=4\u0026fallback=1"
+        "host": "http://us.cdn.blizzard.com?maxhosts=4&fallback=1"
       },
       {
-        "host": "https://us.cdn.blizzard.com?maxhosts=4\u0026fallback=1"
+        "host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"
       },
       {
-        "host": "https://level3.ssl.blizzard.com?maxhosts=4\u0026fallback=1"
+        "host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"
       }
     ]
   }

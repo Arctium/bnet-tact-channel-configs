@@ -1,5 +1,5 @@
 {
-  "eu\u002Bkr\u002Bsg\u002Btw\u002Bus":
+  "eu+kr+sg+tw+us":
   {
     "all":
     {
@@ -269,7 +269,7 @@
           {
             "add_remove_programs_key":
             {
-              "contact": "Soporte t\u00E9cnico de Blizzard",
+              "contact": "Soporte técnico de Blizzard",
               "display_name": "Heroes of the Storm Public Test",
               "helplink": "https://us.battle.net/support/es/games/heroes",
               "icon_path": "%binarypath%",
@@ -315,7 +315,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "Jouer \u00E0 Heroes of the Storm Public Test",
+              "description": "Jouer à Heroes of the Storm Public Test",
               "link": "%desktoppreference%Heroes of the Storm Public Test.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -324,7 +324,7 @@
           {
             "add_remove_programs_key":
             {
-              "contact": "Assistance client\u00E8le de Blizzard",
+              "contact": "Assistance clientèle de Blizzard",
               "display_name": "Heroes of the Storm Public Test",
               "helplink": "https://eu.battle.net/support/fr/games/heroes",
               "icon_path": "%binarypath%",
@@ -417,7 +417,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\uD788\uC5B4\uB85C\uC988 \uC624\uBE0C \uB354 \uC2A4\uD1B0 \uACF5\uAC1C \uD14C\uC2A4\uD2B8/\uD788\uC5B4\uB85C\uC988 \uC624\uBE0C \uB354 \uC2A4\uD1B0 \uACF5\uAC1C \uD14C\uC2A4\uD2B8.lnk",
+              "link": "%commonstartmenu%히어로즈 오브 더 스톰 공개 테스트/히어로즈 오브 더 스톰 공개 테스트.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -425,8 +425,8 @@
           {
             "desktop_shortcut":
             {
-              "description": "\uD788\uC5B4\uB85C\uC988 \uC624\uBE0C \uB354 \uC2A4\uD1B0\uB97C \uC2E4\uD589\uD569\uB2C8\uB2E4",
-              "link": "%desktoppreference%\uD788\uC5B4\uB85C\uC988 \uC624\uBE0C \uB354 \uC2A4\uD1B0 \uACF5\uAC1C \uD14C\uC2A4\uD2B8.lnk",
+              "description": "히어로즈 오브 더 스톰를 실행합니다",
+              "link": "%desktoppreference%히어로즈 오브 더 스톰 공개 테스트.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -434,8 +434,8 @@
           {
             "add_remove_programs_key":
             {
-              "contact": "\uBE14\uB9AC\uC790\uB4DC \uACE0\uAC1D\uC9C0\uC6D0",
-              "display_name": "\uD788\uC5B4\uB85C\uC988 \uC624\uBE0C \uB354 \uC2A4\uD1B0 \uACF5\uAC1C \uD14C\uC2A4\uD2B8",
+              "contact": "블리자드 고객지원",
+              "display_name": "히어로즈 오브 더 스톰 공개 테스트",
               "helplink": "https://kr.battle.net/support/kr/games/heroes",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -466,7 +466,7 @@
               [
                 "-launch"
               ],
-              "regex": "Versions/Base\\d\u002B/Heroes\\.app",
+              "regex": "Versions/Base\\d+/Heroes\\.app",
               "relative_path": "Support/HeroesSwitcher.app",
               "switcher": true
             }
@@ -550,7 +550,7 @@
               [
                 "-launch"
               ],
-              "regex": "Versions/Base\\d\u002B/(HeroesOfTheStorm|HeroesOfTheStorm_x64)\\.exe",
+              "regex": "Versions/Base\\d+/(HeroesOfTheStorm|HeroesOfTheStorm_x64)\\.exe",
               "relative_path": "Support64/HeroesSwitcher_x64.exe",
               "switcher": true
             }
@@ -676,7 +676,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "Zagraj w gr\u0119 Heroes of the Storm Public Test.",
+              "description": "Zagraj w grę Heroes of the Storm Public Test.",
               "link": "%desktoppreference%Heroes of the Storm Public Test.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -786,7 +786,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "\u0417\u0430\u043F\u0443\u0441\u043A Heroes of the Storm Public Test",
+              "description": "Запуск Heroes of the Storm Public Test",
               "link": "%desktoppreference%Heroes of the Storm Public Test.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -795,7 +795,7 @@
           {
             "add_remove_programs_key":
             {
-              "contact": "\u0421\u043B\u0443\u0436\u0431\u0430 \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0438 Blizzard",
+              "contact": "Служба поддержки Blizzard",
               "display_name": "Heroes of the Storm Public Test",
               "helplink": "https://eu.battle.net/support/ru/games/heroes",
               "icon_path": "%binarypath%",
@@ -822,7 +822,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\u98CE\u66B4\u82F1\u96C4 Public Test/\u98CE\u66B4\u82F1\u96C4 Public Test.lnk",
+              "link": "%commonstartmenu%风暴英雄 Public Test/风暴英雄 Public Test.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -830,8 +830,8 @@
           {
             "desktop_shortcut":
             {
-              "description": "\u542F\u52A8\u98CE\u66B4\u82F1\u96C4",
-              "link": "%desktoppreference%\u98CE\u66B4\u82F1\u96C4 Public Test.lnk",
+              "description": "启动风暴英雄",
+              "link": "%desktoppreference%风暴英雄 Public Test.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -839,8 +839,8 @@
           {
             "add_remove_programs_key":
             {
-              "contact": "\u66B4\u96EA\u652F\u6301",
-              "display_name": "\u98CE\u66B4\u82F1\u96C4 Public Test",
+              "contact": "暴雪支持",
+              "display_name": "风暴英雄 Public Test",
               "helplink": "https://www.battlenet.com.cn/support/zh/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -877,7 +877,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\u66B4\u96EA\u82F1\u9738 Public Test/\u66B4\u96EA\u82F1\u9738 Public Test.lnk",
+              "link": "%commonstartmenu%暴雪英霸 Public Test/暴雪英霸 Public Test.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -885,8 +885,8 @@
           {
             "desktop_shortcut":
             {
-              "description": "\u57F7\u884C\u66B4\u96EA\u82F1\u9738",
-              "link": "%desktoppreference%\u66B4\u96EA\u82F1\u9738 Public Test.lnk",
+              "description": "執行暴雪英霸",
+              "link": "%desktoppreference%暴雪英霸 Public Test.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -894,8 +894,8 @@
           {
             "add_remove_programs_key":
             {
-              "contact": "Blizzard\u652F\u63F4",
-              "display_name": "\u66B4\u96EA\u82F1\u9738 Public Test",
+              "contact": "Blizzard支援",
+              "display_name": "暴雪英霸 Public Test",
               "helplink": "https://tw.battle.net/support/zh/games/heroes",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",

@@ -39,7 +39,7 @@
                 "title_string":
                 {
                   "default": "Base Game (required)",
-                  "zhCN": "\u57FA\u7840\u6E38\u620F\uFF08\u5FC5\u9700\uFF09"
+                  "zhCN": "基础游戏（必需）"
                 }
               },
               {
@@ -47,7 +47,7 @@
                 "more_info_blurb_string":
                 {
                   "default": "Required for Hi-Resolution Textures. Players who play on 4K monitors with Ultra settings will benefit the most from this pack.",
-                  "zhCN": "\u9700\u8981\u6B64\u9009\u9879\u4EE5\u4F7F\u7528\u9AD8\u6E05\u8D34\u56FE\u3002\u4F7F\u75284K\u663E\u793A\u5668\u5E76\u5F00\u542F\u8D85\u9AD8\u753B\u8D28\u8BBE\u7F6E\u7684\u73A9\u5BB6\u5C06\u4ECE\u6B64\u5408\u96C6\u4E2D\u83B7\u76CA\u6700\u591A\u3002"
+                  "zhCN": "需要此选项以使用高清贴图。使用4K显示器并开启超高画质设置的玩家将从此合集中获益最多。"
                 },
                 "package_id": "hi-res-textures",
                 "tags":
@@ -57,7 +57,7 @@
                 "title_string":
                 {
                   "default": "Hi-Resolution Textures",
-                  "zhCN": "\u9AD8\u6E05\u8D34\u56FE"
+                  "zhCN": "高清贴图"
                 }
               }
             ]

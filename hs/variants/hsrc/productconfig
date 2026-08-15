@@ -1,5 +1,5 @@
 {
-  "android_amazon\u002Bandroid_google\u002Bandroid_onestore\u002Beu\u002Bios\u002Bkr\u002Bus":
+  "android_amazon+android_google+android_onestore+eu+ios+kr+us":
   {
     "all":
     {
@@ -45,7 +45,7 @@
         "migration_required_version": "3.1.0.0",
         "opaque_product_specific":
         {
-          "min_spec": "{\u0022android\u0022:{\u0022required_ram\u0022:{\u002222.4\u0022:1536,\u002229.4\u0022:2536},\u0022cpu_freq\u0022:{\u002222.4\u0022:1200},\u0022required_osspecs\u0022:{\u002222.4\u0022:24,\u002227.4\u0022:28},\u0022required_opengl\u0022:{\u002223.4\u0022:3.0}},\u0022ios\u0022:{\u0022required_ram\u0022:{\u002222.4\u0022:1500,\u002229.4\u0022:2500},\u0022required_osspecs\u0022:{\u002222.4\u0022:10.0,\u002226.2\u0022:12.0}}}",
+          "min_spec": "{\"android\":{\"required_ram\":{\"22.4\":1536,\"29.4\":2536},\"cpu_freq\":{\"22.4\":1200},\"required_osspecs\":{\"22.4\":24,\"27.4\":28},\"required_opengl\":{\"23.4\":3.0}},\"ios\":{\"required_ram\":{\"22.4\":1500,\"29.4\":2500},\"required_osspecs\":{\"22.4\":10.0,\"26.2\":12.0}}}",
           "uses_web_credentials": "true"
         },
         "product": "hsrc",
@@ -72,7 +72,7 @@
               "zhCN"
             ]
           },
-          "locale_regex": "(?P\u003Crelative_path\u003EStrings/(?P\u003Clocale_name\u003E[a-zA-Z]{4})/GAMEPLAY.txt)$",
+          "locale_regex": "(?P<relative_path>Strings/(?P<locale_name>[a-zA-Z]{4})/GAMEPLAY.txt)$",
           "region_hint_table":
           {
             "CN":
@@ -279,7 +279,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "Haz clic aqu\u00ED para ejecutar Hearthstone.",
+              "description": "Haz clic aquí para ejecutar Hearthstone.",
               "link": "%desktoppreference%Hearthstone RC.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -319,7 +319,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "Haz clic aqu\u00ED para iniciar Hearthstone.",
+              "description": "Haz clic aquí para iniciar Hearthstone.",
               "link": "%desktoppreference%Hearthstone RC.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -439,7 +439,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "Hearthstone\u3092\u8D77\u52D5\u3059\u308B\u306B\u306F\u3053\u3053\u3092\u30AF\u30EA\u30C3\u30AF",
+              "description": "Hearthstoneを起動するにはここをクリック",
               "link": "%desktoppreference%Hearthstone RC.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -479,7 +479,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "\uD558\uC2A4\uC2A4\uD1A4\uC744 \uC2E4\uD589\uD558\uB824\uBA74 \uC5EC\uAE30\uB97C \uD074\uB9AD\uD558\uC2ED\uC2DC\uC624.",
+              "description": "하스스톤을 실행하려면 여기를 클릭하십시오.",
               "link": "%desktoppreference%Hearthstone RC.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -898,7 +898,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "Kliknij aby uruchomi\u0107 Hearthstone",
+              "description": "Kliknij aby uruchomić Hearthstone",
               "link": "%desktoppreference%Hearthstone RC.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -1018,7 +1018,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "\u0429\u0435\u043B\u043A\u043D\u0438\u0442\u0435 \u0437\u0434\u0435\u0441\u044C, \u0447\u0442\u043E\u0431\u044B \u0437\u0430\u043F\u0443\u0441\u0442\u0438\u0442\u044C Hearthstone.",
+              "description": "Щелкните здесь, чтобы запустить Hearthstone.",
               "link": "%desktoppreference%Hearthstone RC.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -1058,7 +1058,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "\u0E04\u0E25\u0E34\u0E01\u0E17\u0E35\u0E48\u0E19\u0E35\u0E48\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E40\u0E1B\u0E34\u0E14 Hearthstone",
+              "description": "คลิกที่นี่เพื่อเปิด Hearthstone",
               "link": "%desktoppreference%Hearthstone RC.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -1098,7 +1098,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "\u70B9\u51FB\u6B64\u5904\u542F\u52A8\u6218\u7F51\u3002",
+              "description": "点击此处启动战网。",
               "link": "%desktoppreference%Hearthstone RC.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -1138,7 +1138,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "\u9EDE\u64CA\u6B64\u8655\u4EE5\u555F\u52D5\u7210\u77F3\u6230\u8A18\u3002",
+              "description": "點擊此處以啟動爐石戰記。",
               "link": "%desktoppreference%Hearthstone RC.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -1162,7 +1162,7 @@
       }
     }
   },
-  "android_cn\u002Bandroid_cn_dashen\u002Bandroid_cn_huawei\u002Bcn\u002Bios_cn":
+  "android_cn+android_cn_dashen+android_cn_huawei+cn+ios_cn":
   {
     "all":
     {
@@ -1208,7 +1208,7 @@
         "migration_required_version": "3.1.0.0",
         "opaque_product_specific":
         {
-          "min_spec": "{\u0022android\u0022:{\u0022required_ram\u0022:{\u002222.4\u0022:1536,\u002229.4\u0022:2536},\u0022cpu_freq\u0022:{\u002222.4\u0022:1200},\u0022required_osspecs\u0022:{\u002222.4\u0022:24,\u002227.4\u0022:28},\u0022required_opengl\u0022:{\u002223.4\u0022:3.0}},\u0022ios\u0022:{\u0022required_ram\u0022:{\u002222.4\u0022:1500,\u002229.4\u0022:2500},\u0022required_osspecs\u0022:{\u002222.4\u0022:10.0,\u002226.2\u0022:12.0}}}",
+          "min_spec": "{\"android\":{\"required_ram\":{\"22.4\":1536,\"29.4\":2536},\"cpu_freq\":{\"22.4\":1200},\"required_osspecs\":{\"22.4\":24,\"27.4\":28},\"required_opengl\":{\"23.4\":3.0}},\"ios\":{\"required_ram\":{\"22.4\":1500,\"29.4\":2500},\"required_osspecs\":{\"22.4\":10.0,\"26.2\":12.0}}}",
           "uses_web_credentials": "true"
         },
         "product": "hsrc",
@@ -1235,7 +1235,7 @@
               "zhCN"
             ]
           },
-          "locale_regex": "(?P\u003Crelative_path\u003EStrings/(?P\u003Clocale_name\u003E[a-zA-Z]{4})/GAMEPLAY.txt)$",
+          "locale_regex": "(?P<relative_path>Strings/(?P<locale_name>[a-zA-Z]{4})/GAMEPLAY.txt)$",
           "region_hint_table":
           {
             "CN":
@@ -1442,7 +1442,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "Haz clic aqu\u00ED para ejecutar Hearthstone.",
+              "description": "Haz clic aquí para ejecutar Hearthstone.",
               "link": "%desktoppreference%Hearthstone RC.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -1482,7 +1482,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "Haz clic aqu\u00ED para iniciar Hearthstone.",
+              "description": "Haz clic aquí para iniciar Hearthstone.",
               "link": "%desktoppreference%Hearthstone RC.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -1602,7 +1602,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "Hearthstone\u3092\u8D77\u52D5\u3059\u308B\u306B\u306F\u3053\u3053\u3092\u30AF\u30EA\u30C3\u30AF",
+              "description": "Hearthstoneを起動するにはここをクリック",
               "link": "%desktoppreference%Hearthstone RC.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -1642,7 +1642,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "\uD558\uC2A4\uC2A4\uD1A4\uC744 \uC2E4\uD589\uD558\uB824\uBA74 \uC5EC\uAE30\uB97C \uD074\uB9AD\uD558\uC2ED\uC2DC\uC624.",
+              "description": "하스스톤을 실행하려면 여기를 클릭하십시오.",
               "link": "%desktoppreference%Hearthstone RC.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -2061,7 +2061,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "Kliknij aby uruchomi\u0107 Hearthstone",
+              "description": "Kliknij aby uruchomić Hearthstone",
               "link": "%desktoppreference%Hearthstone RC.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -2181,7 +2181,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "\u0429\u0435\u043B\u043A\u043D\u0438\u0442\u0435 \u0437\u0434\u0435\u0441\u044C, \u0447\u0442\u043E\u0431\u044B \u0437\u0430\u043F\u0443\u0441\u0442\u0438\u0442\u044C Hearthstone.",
+              "description": "Щелкните здесь, чтобы запустить Hearthstone.",
               "link": "%desktoppreference%Hearthstone RC.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -2221,7 +2221,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "\u0E04\u0E25\u0E34\u0E01\u0E17\u0E35\u0E48\u0E19\u0E35\u0E48\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E40\u0E1B\u0E34\u0E14 Hearthstone",
+              "description": "คลิกที่นี่เพื่อเปิด Hearthstone",
               "link": "%desktoppreference%Hearthstone RC.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -2261,7 +2261,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "\u70B9\u51FB\u6B64\u5904\u542F\u52A8\u6218\u7F51\u3002",
+              "description": "点击此处启动战网。",
               "link": "%desktoppreference%Hearthstone RC.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -2301,7 +2301,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "\u9EDE\u64CA\u6B64\u8655\u4EE5\u555F\u52D5\u7210\u77F3\u6230\u8A18\u3002",
+              "description": "點擊此處以啟動爐石戰記。",
               "link": "%desktoppreference%Hearthstone RC.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"

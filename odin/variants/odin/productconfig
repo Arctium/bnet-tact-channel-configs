@@ -1,5 +1,5 @@
 {
-  "eu\u002Bkr\u002Bus":
+  "eu+kr+us":
   {
     "all":
     {
@@ -59,16 +59,16 @@
                 {
                   "deDE": "Grundspiel (erforderlich)",
                   "default": "Base Game (required)",
-                  "esES": "Juego b\u00E1sico (necesario)",
-                  "esMX": "Juego b\u00E1sico (necesario)",
+                  "esES": "Juego básico (necesario)",
+                  "esMX": "Juego básico (necesario)",
                   "frFR": "Jeu de base (requis)",
                   "itIT": "Gioco base (necessario)",
-                  "jaJP": "\u30B2\u30FC\u30E0\u672C\u7DE8\uFF08\u5FC5\u9808\uFF09",
-                  "koKR": "\uAE30\uBCF8 \uAC8C\uC784(\uD544\uC218)",
+                  "jaJP": "ゲーム本編（必須）",
+                  "koKR": "기본 게임(필수)",
                   "plPL": "Podstawowa wersja gry (wymagana)",
-                  "ptBR": "Jogo Base (necess\u00E1rio)",
-                  "ruRU": "\u0411\u0430\u0437\u043E\u0432\u0430\u044F \u0432\u0435\u0440\u0441\u0438\u044F \u0438\u0433\u0440\u044B (\u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F)",
-                  "zhTW": "\u904A\u6232\u4E3B\u9AD4\uFF08\u5FC5\u9808\uFF09"
+                  "ptBR": "Jogo Base (necessário)",
+                  "ruRU": "Базовая версия игры (требуется)",
+                  "zhTW": "遊戲主體（必須）"
                 }
               },
               {
@@ -81,16 +81,16 @@
                 {
                   "deDE": "Erforderlich, um die Kampagne zu spielen",
                   "default": "Required to play Campaign",
-                  "esES": "Se necesita para jugar la campa\u00F1a",
-                  "esMX": "Se requiere para jugar la campa\u00F1a",
-                  "frFR": "Requis pour jouer \u00E0 la campagne",
+                  "esES": "Se necesita para jugar la campaña",
+                  "esMX": "Se requiere para jugar la campaña",
+                  "frFR": "Requis pour jouer à la campagne",
                   "itIT": "Richiesto per giocare la campagna",
-                  "jaJP": "\u30AD\u30E3\u30F3\u30DA\u30FC\u30F3\u3092\u30D7\u30EC\u30A4\u3059\u308B\u306E\u306B\u5FC5\u8981\u3067\u3059",
-                  "koKR": "\uCEA0\uD398\uC778 \uD50C\uB808\uC774\uC5D0 \uD544\uC694\uD569\uB2C8\uB2E4",
-                  "plPL": "Wymagane do gry w kampani\u0119",
-                  "ptBR": "Necess\u00E1rio para jogar a Campanha",
-                  "ruRU": "\u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F \u0434\u043B\u044F \u0438\u0433\u0440\u044B \u0432 \u043A\u0430\u043C\u043F\u0430\u043D\u0438\u0438",
-                  "zhTW": "\u9700\u8981\u64C1\u6709\u624D\u80FD\u904A\u73A9\u5287\u60C5\u6230\u5F79"
+                  "jaJP": "キャンペーンをプレイするのに必要です",
+                  "koKR": "캠페인 플레이에 필요합니다",
+                  "plPL": "Wymagane do gry w kampanię",
+                  "ptBR": "Necessário para jogar a Campanha",
+                  "ruRU": "Требуется для игры в кампании",
+                  "zhTW": "需要擁有才能遊玩劇情戰役"
                 },
                 "more_info_blurb_unlicensed_string": "COD_UNLICENSED",
                 "package_id": "odin-campaign",
@@ -102,16 +102,16 @@
                 {
                   "deDE": "Kampagne",
                   "default": "Campaign",
-                  "esES": "Campa\u00F1a",
-                  "esMX": "Campa\u00F1a",
+                  "esES": "Campaña",
+                  "esMX": "Campaña",
                   "frFR": "Campagne",
                   "itIT": "Campagna",
-                  "jaJP": "\u30AD\u30E3\u30F3\u30DA\u30FC\u30F3",
-                  "koKR": "\uCEA0\uD398\uC778",
+                  "jaJP": "キャンペーン",
+                  "koKR": "캠페인",
                   "plPL": "Kampania",
                   "ptBR": "Campanha",
-                  "ruRU": "\u041A\u0430\u043C\u043F\u0430\u043D\u0438\u044F",
-                  "zhTW": "\u5287\u60C5\u6230\u5F79"
+                  "ruRU": "Кампания",
+                  "zhTW": "劇情戰役"
                 }
               },
               {
@@ -127,13 +127,13 @@
                   "esES": "Se necesita para jugar al multijugador",
                   "esMX": "Se requiere para jugar el modo multijugador",
                   "frFR": "Requis pour jouer en multijoueur",
-                  "itIT": "Richiesto per giocare in modalit\u00E0 multigiocatore",
-                  "jaJP": "\u30DE\u30EB\u30C1\u30D7\u30EC\u30A4\u30E4\u30FC\u3092\u30D7\u30EC\u30A4\u3059\u308B\u306E\u306B\u5FC5\u8981\u3067\u3059",
-                  "koKR": "\uBA40\uD2F0\uD50C\uB808\uC774\uC5D0 \uD544\uC694\uD569\uB2C8\uB2E4",
+                  "itIT": "Richiesto per giocare in modalità multigiocatore",
+                  "jaJP": "マルチプレイヤーをプレイするのに必要です",
+                  "koKR": "멀티플레이에 필요합니다",
                   "plPL": "Wymagane do gry w tryb wieloosobowy",
-                  "ptBR": "Necess\u00E1rio para jogar o Multijogador",
-                  "ruRU": "\u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F \u0434\u043B\u044F \u0441\u0435\u0442\u0435\u0432\u043E\u0439 \u0438\u0433\u0440\u044B",
-                  "zhTW": "\u9700\u8981\u64C1\u6709\u624D\u80FD\u904A\u73A9\u591A\u4EBA\u904A\u6232"
+                  "ptBR": "Necessário para jogar o Multijogador",
+                  "ruRU": "Требуется для сетевой игры",
+                  "zhTW": "需要擁有才能遊玩多人遊戲"
                 },
                 "more_info_blurb_unlicensed_string": "COD_UNLICENSED",
                 "package_id": "odin-multiplayer",
@@ -149,12 +149,12 @@
                   "esMX": "Multijugador",
                   "frFR": "Multijoueur",
                   "itIT": "Multigiocatore",
-                  "jaJP": "\u30DE\u30EB\u30C1\u30D7\u30EC\u30A4\u30E4\u30FC",
-                  "koKR": "\uBA40\uD2F0\uD50C\uB808\uC774",
+                  "jaJP": "マルチプレイヤー",
+                  "koKR": "멀티플레이",
                   "plPL": "Tryb wieloosobowy",
                   "ptBR": "Multijogador",
-                  "ruRU": "\u0421\u0435\u0442\u0435\u0432\u0430\u044F \u0438\u0433\u0440\u0430",
-                  "zhTW": "\u591A\u4EBA\u5C0D\u6230"
+                  "ruRU": "Сетевая игра",
+                  "zhTW": "多人對戰"
                 }
               },
               {
@@ -169,14 +169,14 @@
                   "default": "Required to play Special Ops",
                   "esES": "Se necesita para jugar a Operaciones especiales",
                   "esMX": "Se requiere para jugar Operaciones especiales",
-                  "frFR": "Requis pour jouer \u00E0 Op\u00E9rations sp\u00E9ciales",
+                  "frFR": "Requis pour jouer à Opérations spéciales",
                   "itIT": "Richiesto per giocare a Operazioni speciali",
-                  "jaJP": "\u30B9\u30DA\u30B7\u30E3\u30EB\u30AA\u30D7\u30B9\u3092\u30D7\u30EC\u30A4\u3059\u308B\u306E\u306B\u5FC5\u8981\u3067\u3059",
-                  "koKR": "\uC2A4\uD399 \uC635\uC2A4 \uD50C\uB808\uC774\uC5D0 \uD544\uC694\uD569\uB2C8\uB2E4",
+                  "jaJP": "スペシャルオプスをプレイするのに必要です",
+                  "koKR": "스펙 옵스 플레이에 필요합니다",
                   "plPL": "Wymagane do gry w Operacje Specjalne",
-                  "ptBR": "Necess\u00E1rio para jogar as Opera\u00E7\u00F5es Especiais",
-                  "ruRU": "\u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F \u0434\u043B\u044F \u0438\u0433\u0440\u044B \u0432 \u0440\u0435\u0436\u0438\u043C\u0435 \u00AB\u0421\u043F\u0435\u0446\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\u00BB",
-                  "zhTW": "\u9700\u8981\u64C1\u6709\u624D\u80FD\u904A\u73A9\u7279\u7A2E\u884C\u52D5"
+                  "ptBR": "Necessário para jogar as Operações Especiais",
+                  "ruRU": "Требуется для игры в режиме «Спецоперации»",
+                  "zhTW": "需要擁有才能遊玩特種行動"
                 },
                 "more_info_blurb_unlicensed_string": "COD_UNLICENSED",
                 "package_id": "odin-coop",
@@ -190,14 +190,14 @@
                   "default": "Special Ops",
                   "esES": "Operaciones especiales",
                   "esMX": "Operaciones especiales",
-                  "frFR": "Op\u00E9rations sp\u00E9ciales",
+                  "frFR": "Opérations spéciales",
                   "itIT": "Operazioni speciali",
-                  "jaJP": "\u30B9\u30DA\u30B7\u30E3\u30EB\u30AA\u30D7\u30B9",
-                  "koKR": "\uC2A4\uD399 \uC635\uC2A4",
+                  "jaJP": "スペシャルオプス",
+                  "koKR": "스펙 옵스",
                   "plPL": "Operacje Specjalne",
-                  "ptBR": "Opera\u00E7\u00F5es Especiais",
-                  "ruRU": "\u0421\u043F\u0435\u0446\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438",
-                  "zhTW": "\u7279\u7A2E\u884C\u52D5"
+                  "ptBR": "Operações Especiais",
+                  "ruRU": "Спецоперации",
+                  "zhTW": "特種行動"
                 }
               },
               {
@@ -208,18 +208,18 @@
                 ],
                 "more_info_blurb_string":
                 {
-                  "deDE": "Erforderlich, um den \u00DCberlebensmodus zu spielen. Au\u00DFerdem muss der Modus Spezialeinheit installiert sein.",
+                  "deDE": "Erforderlich, um den Überlebensmodus zu spielen. Außerdem muss der Modus Spezialeinheit installiert sein.",
                   "default": "Required to play Survival. Also requires Special Ops installed",
-                  "esES": "Se necesita para jugar a Supervivencia. Tambi\u00E9n requiere tener Operaciones especiales instalado",
-                  "esMX": "Necesario para jugar sobrevivencia. Tambi\u00E9n hace falta tener instalado Operaciones especiales",
-                  "frFR": "Requis pour jouer en Survie. Op\u00E9rations sp\u00E9ciales doit \u00EAtre install\u00E9",
-                  "itIT": "Necessario per giocare alla modalit\u00E0 Sopravvivenza. Richiede anche l\u0027installazione di Operazioni speciali.",
-                  "jaJP": "\u30B5\u30D0\u30A4\u30D0\u30EB\u306E\u30D7\u30EC\u30A4\u306B\u5FC5\u8981\u3067\u3059\u3002\u307E\u305F\u3001\u30B9\u30DA\u30B7\u30E3\u30EB\u30AA\u30D7\u30B9\u304C\u30A4\u30F3\u30B9\u30C8\u30FC\u30EB\u3055\u308C\u3066\u3044\u308B\u5FC5\u8981\u304C\u3042\u308A\u307E\u3059",
-                  "koKR": "\uC11C\uBC14\uC774\uBC8C \uD50C\uB808\uC774\uC5D0 \uD544\uC694\uD569\uB2C8\uB2E4. \uC2A4\uD399 \uC635\uC2A4\uB3C4 \uC124\uCE58\uB418\uC5B4 \uC788\uC5B4\uC57C \uD569\uB2C8\uB2E4",
-                  "plPL": "Wymagane do gry w Przetrwanie. Wymaga r\u00F3wnie\u017C zainstalowania Operacji Specjalnych.",
-                  "ptBR": "Necess\u00E1rio para jogar Sobreviv\u00EAncia. Tamb\u00E9m \u00E9 necess\u00E1rio ter Opera\u00E7\u00F5es Especiais instalado",
-                  "ruRU": "\u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F \u0434\u043B\u044F \u0438\u0433\u0440\u044B \u0432 \u0440\u0435\u0436\u0438\u043C\u0435 \u00AB\u0412\u044B\u0436\u0438\u0432\u0430\u043D\u0438\u0435\u00BB. \u0422\u0430\u043A\u0436\u0435 \u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F \u0443\u0441\u0442\u0430\u043D\u043E\u0432\u043A\u0430 \u0440\u0435\u0436\u0438\u043C\u0430 \u00AB\u0421\u043F\u0435\u0446\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\u00BB.",
-                  "zhTW": "\u9700\u8981\u64C1\u6709\u751F\u5B58\u6A21\u5F0F\u624D\u80FD\u904A\u73A9\u3002\u540C\u6642\u9700\u8981\u5B89\u88DD\u7279\u7A2E\u884C\u52D5\u3002"
+                  "esES": "Se necesita para jugar a Supervivencia. También requiere tener Operaciones especiales instalado",
+                  "esMX": "Necesario para jugar sobrevivencia. También hace falta tener instalado Operaciones especiales",
+                  "frFR": "Requis pour jouer en Survie. Opérations spéciales doit être installé",
+                  "itIT": "Necessario per giocare alla modalità Sopravvivenza. Richiede anche l'installazione di Operazioni speciali.",
+                  "jaJP": "サバイバルのプレイに必要です。また、スペシャルオプスがインストールされている必要があります",
+                  "koKR": "서바이벌 플레이에 필요합니다. 스펙 옵스도 설치되어 있어야 합니다",
+                  "plPL": "Wymagane do gry w Przetrwanie. Wymaga również zainstalowania Operacji Specjalnych.",
+                  "ptBR": "Necessário para jogar Sobrevivência. Também é necessário ter Operações Especiais instalado",
+                  "ruRU": "Требуется для игры в режиме «Выживание». Также требуется установка режима «Спецоперации».",
+                  "zhTW": "需要擁有生存模式才能遊玩。同時需要安裝特種行動。"
                 },
                 "more_info_blurb_unlicensed_string": "COD_UNLICENSED",
                 "package_id": "odin-survival",
@@ -229,18 +229,18 @@
                 ],
                 "title_string":
                 {
-                  "deDE": "\u00DCberleben",
+                  "deDE": "Überleben",
                   "default": "Survival",
                   "esES": "Supervivencia",
                   "esMX": "Sobrevivencia",
                   "frFR": "Survie",
                   "itIT": "Sopravvivenza",
-                  "jaJP": "\u30B5\u30D0\u30A4\u30D0\u30EB",
-                  "koKR": "\uC11C\uBC14\uC774\uBC8C",
+                  "jaJP": "サバイバル",
+                  "koKR": "서바이벌",
                   "plPL": "Przetrwanie",
-                  "ptBR": "Sobreviv\u00EAncia",
-                  "ruRU": "\u0412\u044B\u0436\u0438\u0432\u0430\u043D\u0438\u0435",
-                  "zhTW": "\u751F\u5B58\u6A21\u5F0F"
+                  "ptBR": "Sobrevivência",
+                  "ruRU": "Выживание",
+                  "zhTW": "生存模式"
                 }
               }
             ],
@@ -248,18 +248,18 @@
             {
               "COD_UNLICENSED":
               {
-                "deDE": "F\u00FCr diese Inhalte ist der Kauf von Call of Duty: Modern Warfare n\u00F6tig.",
+                "deDE": "Für diese Inhalte ist der Kauf von Call of Duty: Modern Warfare nötig.",
                 "default": "This content requires purchase of Call of Duty: Modern Warfare",
                 "esES": "Se necesita Call of Duty: Modern Warfare para este contenido",
                 "esMX": "Este contenido requiere la compra de Call of Duty: Modern Warfare",
-                "frFR": "L\u2019achat de Call of Duty: Modern Warfare est requis pour profiter de ce contenu",
-                "itIT": "Questo contenuto richiede l\u0027acquisto di Call of Duty: Modern Warfare",
-                "jaJP": "\u300C\u30B3\u30FC\u30EB \u30AA\u30D6 \u30C7\u30E5\u30FC\u30C6\u30A3 \u30E2\u30C0\u30F3\u30FB\u30A6\u30A9\u30FC\u30D5\u30A7\u30A2\u300D\u306E\u8CFC\u5165\u304C\u5FC5\u8981\u3067\u3059",
-                "koKR": "\uD574\uB2F9 \uCF58\uD150\uCE20\uB97C \uC774\uC6A9\uD558\uB824\uBA74 \uCF5C \uC624\uBE0C \uB4C0\uD2F0: \uBAA8\uB358 \uC6CC\uD398\uC5B4\uB97C \uAD6C\uB9E4\uD574\uC57C \uD569\uB2C8\uB2E4",
-                "plPL": "Ta zawarto\u015B\u0107 wymaga posiadania gry Call of Duty: Modern Warfare",
-                "ptBR": "Este conte\u00FAdo requer a compra de Call of Duty: Modern Warfare",
-                "ruRU": "\u0414\u0430\u043D\u043D\u044B\u0439 \u043A\u043E\u043D\u0442\u0435\u043D\u0442 \u0442\u0440\u0435\u0431\u0443\u0435\u0442 \u043D\u0430\u043B\u0438\u0447\u0438\u044F Call of Duty: Modern Warfare",
-                "zhTW": "\u6B64\u5167\u5BB9\u9808\u8CFC\u8CB7\u300A\u6C7A\u52DD\u6642\u523B\uFF1A\u73FE\u4EE3\u6230\u722D\u300B\u624D\u53EF\u4F7F\u7528"
+                "frFR": "L’achat de Call of Duty: Modern Warfare est requis pour profiter de ce contenu",
+                "itIT": "Questo contenuto richiede l'acquisto di Call of Duty: Modern Warfare",
+                "jaJP": "「コール オブ デューティ モダン・ウォーフェア」の購入が必要です",
+                "koKR": "해당 콘텐츠를 이용하려면 콜 오브 듀티: 모던 워페어를 구매해야 합니다",
+                "plPL": "Ta zawartość wymaga posiadania gry Call of Duty: Modern Warfare",
+                "ptBR": "Este conteúdo requer a compra de Call of Duty: Modern Warfare",
+                "ruRU": "Данный контент требует наличия Call of Duty: Modern Warfare",
+                "zhTW": "此內容須購買《決勝時刻：現代戰爭》才可使用"
               }
             }
           }
@@ -651,7 +651,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBAA8\uB358 \uC6CC\uD398\uC5B4/\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBAA8\uB358 \uC6CC\uD398\uC5B4.lnk",
+              "link": "%commonstartmenu%콜 오브 듀티 모던 워페어/콜 오브 듀티 모던 워페어.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -660,7 +660,7 @@
             "desktop_shortcut":
             {
               "description": "Play Call of Duty Modern Warfare",
-              "link": "%desktoppreference%\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBAA8\uB358 \uC6CC\uD398\uC5B4.lnk",
+              "link": "%desktoppreference%콜 오브 듀티 모던 워페어.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -668,7 +668,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBAA8\uB358 \uC6CC\uD398\uC5B4",
+              "display_name": "콜 오브 듀티 모던 워페어",
               "helplink": "https://kr.battle.net/support/ko/games/codmw",
               "icon_path": "%installpath%/ModernWarfare.exe",
               "install_path": "%installpath%",
@@ -942,7 +942,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\u6C7A\u52DD\u6642\u523B \u73FE\u4EE3\u6230\u722D/\u6C7A\u52DD\u6642\u523B \u73FE\u4EE3\u6230\u722D.lnk",
+              "link": "%commonstartmenu%決勝時刻 現代戰爭/決勝時刻 現代戰爭.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -951,7 +951,7 @@
             "desktop_shortcut":
             {
               "description": "Play Call of Duty Modern Warfare",
-              "link": "%desktoppreference%\u6C7A\u52DD\u6642\u523B \u73FE\u4EE3\u6230\u722D.lnk",
+              "link": "%desktoppreference%決勝時刻 現代戰爭.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -959,7 +959,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "\u6C7A\u52DD\u6642\u523B \u73FE\u4EE3\u6230\u722D",
+              "display_name": "決勝時刻 現代戰爭",
               "helplink": "https://tw.battle.net/support/zh/games/codmw",
               "icon_path": "%installpath%/ModernWarfare.exe",
               "install_path": "%installpath%",

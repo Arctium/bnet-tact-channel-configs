@@ -1,5 +1,5 @@
 {
-  "cn\u002Beu\u002Bkr\u002Bsg\u002Btw\u002Bus":
+  "cn+eu+kr+sg+tw+us":
   {
     "all":
     {
@@ -325,7 +325,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "Jouer \u00E0 StarCraft Public Test",
+              "description": "Jouer à StarCraft Public Test",
               "link": "%desktoppreference%StarCraft Public Test.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -397,7 +397,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\uC2A4\uD0C0\uD06C\uB798\uD504\uD2B8 \uACF5\uAC1C \uD14C\uC2A4\uD2B8/\uC2A4\uD0C0\uD06C\uB798\uD504\uD2B8 \uACF5\uAC1C \uD14C\uC2A4\uD2B8.lnk",
+              "link": "%commonstartmenu%스타크래프트 공개 테스트/스타크래프트 공개 테스트.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -405,8 +405,8 @@
           {
             "desktop_shortcut":
             {
-              "description": "\uC2A4\uD0C0\uD06C\uB798\uD504\uD2B8\uB97C \uC2E4\uD589\uD569\uB2C8\uB2E4",
-              "link": "%desktoppreference%\uC2A4\uD0C0\uD06C\uB798\uD504\uD2B8 \uACF5\uAC1C \uD14C\uC2A4\uD2B8.lnk",
+              "description": "스타크래프트를 실행합니다",
+              "link": "%desktoppreference%스타크래프트 공개 테스트.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -415,7 +415,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\uC2A4\uD0C0\uD06C\uB798\uD504\uD2B8 \uACF5\uAC1C \uD14C\uC2A4\uD2B8",
+              "display_name": "스타크래프트 공개 테스트",
               "helplink": "http://kr.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -740,7 +740,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "Zagraj w gr\u0119 StarCraft Public Test.",
+              "description": "Zagraj w grę StarCraft Public Test.",
               "link": "%desktoppreference%StarCraft Public Test.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -820,7 +820,7 @@
           {
             "desktop_shortcut":
             {
-              "description": "\u0417\u0430\u043F\u0443\u0441\u043A StarCraft Public Test",
+              "description": "Запуск StarCraft Public Test",
               "link": "%desktoppreference%StarCraft Public Test.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -852,7 +852,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\u661F\u9645\u4E89\u9738\u6D4B\u8BD5\u7248/\u661F\u9645\u4E89\u9738\u6D4B\u8BD5\u7248.lnk",
+              "link": "%commonstartmenu%星际争霸测试版/星际争霸测试版.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -860,8 +860,8 @@
           {
             "desktop_shortcut":
             {
-              "description": "\u57F7\u884C\u661F\u6D77\u722D\u9738\u6D4B\u8BD5\u7248",
-              "link": "%desktoppreference%\u661F\u9645\u4E89\u9738\u6D4B\u8BD5\u7248.lnk",
+              "description": "執行星海爭霸测试版",
+              "link": "%desktoppreference%星际争霸测试版.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -870,7 +870,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\u661F\u9645\u4E89\u9738\u6D4B\u8BD5\u7248",
+              "display_name": "星际争霸测试版",
               "helplink": "http://cn.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -892,7 +892,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\u300A\u661F\u6D77\u722D\u9738\u6E2C\u8A66\u7248\u300B/\u300A\u661F\u6D77\u722D\u9738\u6E2C\u8A66\u7248\u300B.lnk",
+              "link": "%commonstartmenu%《星海爭霸測試版》/《星海爭霸測試版》.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -900,8 +900,8 @@
           {
             "desktop_shortcut":
             {
-              "description": "\u542F\u52A8\u300A\u661F\u9645\u4E89\u9738\u6E2C\u8A66\u7248\u300B",
-              "link": "%desktoppreference%\u300A\u661F\u6D77\u722D\u9738\u6E2C\u8A66\u7248\u300B.lnk",
+              "description": "启动《星际争霸測試版》",
+              "link": "%desktoppreference%《星海爭霸測試版》.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -910,7 +910,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\u300A\u661F\u6D77\u722D\u9738\u6E2C\u8A66\u7248\u300B",
+              "display_name": "《星海爭霸測試版》",
               "helplink": "http://tw.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",

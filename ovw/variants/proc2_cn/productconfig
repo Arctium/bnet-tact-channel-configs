@@ -1,5 +1,5 @@
 {
-  "cn\u002Beu\u002Bkr\u002Bus":
+  "cn+eu+kr+us":
   {
     "all":
     {
@@ -288,7 +288,7 @@
             "desktop_shortcut":
             {
               "args": "--productcode=proc2_cn",
-              "description": "Jouer \u00E0 Overwatch",
+              "description": "Jouer à Overwatch",
               "link": "%desktoppreference%Overwatch Professional China 2.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -363,7 +363,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=proc2_cn",
-              "link": "%commonstartmenu%\u30AA\u30FC\u30D0\u30FC\u30A6\u30A9\u30C3\u30C1 \u30D7\u30ED\u30D5\u30A7\u30C3\u30B7\u30E7\u30CA\u30EB China 2/\u30AA\u30FC\u30D0\u30FC\u30A6\u30A9\u30C3\u30C1 \u30D7\u30ED\u30D5\u30A7\u30C3\u30B7\u30E7\u30CA\u30EB China 2.lnk",
+              "link": "%commonstartmenu%オーバーウォッチ プロフェッショナル China 2/オーバーウォッチ プロフェッショナル China 2.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -372,8 +372,8 @@
             "desktop_shortcut":
             {
               "args": "--productcode=proc2_cn",
-              "description": "Overwatch\u3092\u30D7\u30EC\u30A4",
-              "link": "%desktoppreference%\u30AA\u30FC\u30D0\u30FC\u30A6\u30A9\u30C3\u30C1 \u30D7\u30ED\u30D5\u30A7\u30C3\u30B7\u30E7\u30CA\u30EB China 2.lnk",
+              "description": "Overwatchをプレイ",
+              "link": "%desktoppreference%オーバーウォッチ プロフェッショナル China 2.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -382,7 +382,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\u30AA\u30FC\u30D0\u30FC\u30A6\u30A9\u30C3\u30C1 \u30D7\u30ED\u30D5\u30A7\u30C3\u30B7\u30E7\u30CA\u30EB China 2",
+              "display_name": "オーバーウォッチ プロフェッショナル China 2",
               "helplink": "https://us.battle.net/support/ja/games/overwatch",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -405,7 +405,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=proc2_cn",
-              "link": "%commonstartmenu%\uC624\uBC84\uC6CC\uCE58 \uD504\uB85C China 2/\uC624\uBC84\uC6CC\uCE58 \uD504\uB85C China 2.lnk",
+              "link": "%commonstartmenu%오버워치 프로 China 2/오버워치 프로 China 2.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -414,8 +414,8 @@
             "desktop_shortcut":
             {
               "args": "--productcode=proc2_cn",
-              "description": "\uC624\uBC84\uC6CC\uCE58 \uC2E4\uD589",
-              "link": "%desktoppreference%\uC624\uBC84\uC6CC\uCE58 \uD504\uB85C China 2.lnk",
+              "description": "오버워치 실행",
+              "link": "%desktoppreference%오버워치 프로 China 2.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -424,7 +424,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\uC624\uBC84\uC6CC\uCE58 \uD504\uB85C China 2",
+              "display_name": "오버워치 프로 China 2",
               "helplink": "https://kr.battle.net/support/ko/games/overwatch",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -678,7 +678,7 @@
             "desktop_shortcut":
             {
               "args": "--productcode=proc2_cn",
-              "description": "\u0418\u0433\u0440\u0430\u0442\u044C \u0432 Overwatch",
+              "description": "Играть в Overwatch",
               "link": "%desktoppreference%Overwatch Professional China 2.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
@@ -711,7 +711,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=proc2_cn",
-              "link": "%commonstartmenu%\u5B88\u671B\u5148\u950B\u804C\u4E1A\u6BD4\u8D5B China 2/\u5B88\u671B\u5148\u950B\u804C\u4E1A\u6BD4\u8D5B China 2.lnk",
+              "link": "%commonstartmenu%守望先锋职业比赛 China 2/守望先锋职业比赛 China 2.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -720,8 +720,8 @@
             "desktop_shortcut":
             {
               "args": "--productcode=proc2_cn",
-              "description": "\u5F00\u59CB\u6E38\u73A9\u5B88\u671B\u5148\u950B",
-              "link": "%desktoppreference%\u5B88\u671B\u5148\u950B\u804C\u4E1A\u6BD4\u8D5B China 2.lnk",
+              "description": "开始游玩守望先锋",
+              "link": "%desktoppreference%守望先锋职业比赛 China 2.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -730,7 +730,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\u5B88\u671B\u5148\u950B\u804C\u4E1A\u6BD4\u8D5B China 2",
+              "display_name": "守望先锋职业比赛 China 2",
               "helplink": "https://cn.battle.net/support/zh/games/overwatch",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -753,7 +753,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=proc2_cn",
-              "link": "%commonstartmenu%\u300A\u9B25\u9663\u7279\u653B\u300B\u8077\u696D\u8CFD China 2/\u300A\u9B25\u9663\u7279\u653B\u300B\u8077\u696D\u8CFD China 2.lnk",
+              "link": "%commonstartmenu%《鬥陣特攻》職業賽 China 2/《鬥陣特攻》職業賽 China 2.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -762,8 +762,8 @@
             "desktop_shortcut":
             {
               "args": "--productcode=proc2_cn",
-              "description": "\u73A9\u300A\u9B25\u9663\u7279\u653B\u300B",
-              "link": "%desktoppreference%\u300A\u9B25\u9663\u7279\u653B\u300B\u8077\u696D\u8CFD China 2.lnk",
+              "description": "玩《鬥陣特攻》",
+              "link": "%desktoppreference%《鬥陣特攻》職業賽 China 2.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -772,7 +772,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\u300A\u9B25\u9663\u7279\u653B\u300B\u8077\u696D\u8CFD China 2",
+              "display_name": "《鬥陣特攻》職業賽 China 2",
               "helplink": "https://tw.battle.net/support/zh/games/overwatch",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",

@@ -1,5 +1,5 @@
 {
-  "eu\u002Bkr\u002Bsg\u002Btw\u002Bus":
+  "eu+kr+sg+tw+us":
   {
     "all":
     {
@@ -134,7 +134,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%Colecci\u00F3n arcade de Blizzard/Colecci\u00F3n arcade de Blizzard.lnk",
+              "link": "%commonstartmenu%Colección arcade de Blizzard/Colección arcade de Blizzard.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -142,8 +142,8 @@
           {
             "desktop_shortcut":
             {
-              "description": "Colecci\u00F3n arcade de Blizzard",
-              "link": "%desktoppreference%Colecci\u00F3n arcade de Blizzard.lnk",
+              "description": "Colección arcade de Blizzard",
+              "link": "%desktoppreference%Colección arcade de Blizzard.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -151,7 +151,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "Colecci\u00F3n arcade de Blizzard",
+              "display_name": "Colección arcade de Blizzard",
               "helplink": "http://eu.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -173,7 +173,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%Colecci\u00F3n de arcade de Blizzard/Colecci\u00F3n de arcade de Blizzard.lnk",
+              "link": "%commonstartmenu%Colección de arcade de Blizzard/Colección de arcade de Blizzard.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -181,8 +181,8 @@
           {
             "desktop_shortcut":
             {
-              "description": "Colecci\u00F3n de arcade de Blizzard",
-              "link": "%desktoppreference%Colecci\u00F3n de arcade de Blizzard.lnk",
+              "description": "Colección de arcade de Blizzard",
+              "link": "%desktoppreference%Colección de arcade de Blizzard.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -190,7 +190,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "Colecci\u00F3n de arcade de Blizzard",
+              "display_name": "Colección de arcade de Blizzard",
               "helplink": "http://us.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -290,7 +290,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%Blizzard Arcade Collection\uFF08\u30A2\u30FC\u30B1\u30FC\u30C9\u30B3\u30EC\u30AF\u30B7\u30E7\u30F3\uFF09/Blizzard Arcade Collection\uFF08\u30A2\u30FC\u30B1\u30FC\u30C9\u30B3\u30EC\u30AF\u30B7\u30E7\u30F3\uFF09.lnk",
+              "link": "%commonstartmenu%Blizzard Arcade Collection（アーケードコレクション）/Blizzard Arcade Collection（アーケードコレクション）.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -298,8 +298,8 @@
           {
             "desktop_shortcut":
             {
-              "description": "Blizzard Arcade Collection\uFF08\u30A2\u30FC\u30B1\u30FC\u30C9\u30B3\u30EC\u30AF\u30B7\u30E7\u30F3\uFF09",
-              "link": "%desktoppreference%Blizzard Arcade Collection\uFF08\u30A2\u30FC\u30B1\u30FC\u30C9\u30B3\u30EC\u30AF\u30B7\u30E7\u30F3\uFF09.lnk",
+              "description": "Blizzard Arcade Collection（アーケードコレクション）",
+              "link": "%desktoppreference%Blizzard Arcade Collection（アーケードコレクション）.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -307,7 +307,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "Blizzard Arcade Collection\uFF08\u30A2\u30FC\u30B1\u30FC\u30C9\u30B3\u30EC\u30AF\u30B7\u30E7\u30F3\uFF09",
+              "display_name": "Blizzard Arcade Collection（アーケードコレクション）",
               "helplink": "http://us.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -329,7 +329,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\uBE14\uB9AC\uC790\uB4DC \uC544\uCF00\uC774\uB4DC \uCEEC\uB809\uC158/\uBE14\uB9AC\uC790\uB4DC \uC544\uCF00\uC774\uB4DC \uCEEC\uB809\uC158.lnk",
+              "link": "%commonstartmenu%블리자드 아케이드 컬렉션/블리자드 아케이드 컬렉션.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -337,8 +337,8 @@
           {
             "desktop_shortcut":
             {
-              "description": "\uBE14\uB9AC\uC790\uB4DC \uC544\uCF00\uC774\uB4DC \uCEEC\uB809\uC158",
-              "link": "%desktoppreference%\uBE14\uB9AC\uC790\uB4DC \uC544\uCF00\uC774\uB4DC \uCEEC\uB809\uC158.lnk",
+              "description": "블리자드 아케이드 컬렉션",
+              "link": "%desktoppreference%블리자드 아케이드 컬렉션.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -346,7 +346,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "\uBE14\uB9AC\uC790\uB4DC \uC544\uCF00\uC774\uB4DC \uCEEC\uB809\uC158",
+              "display_name": "블리자드 아케이드 컬렉션",
               "helplink": "http://kr.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -500,7 +500,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%Cole\u00E7\u00E3o Arcade da Blizzard/Cole\u00E7\u00E3o Arcade da Blizzard.lnk",
+              "link": "%commonstartmenu%Coleção Arcade da Blizzard/Coleção Arcade da Blizzard.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -508,8 +508,8 @@
           {
             "desktop_shortcut":
             {
-              "description": "Cole\u00E7\u00E3o Arcade da Blizzard",
-              "link": "%desktoppreference%Cole\u00E7\u00E3o Arcade da Blizzard.lnk",
+              "description": "Coleção Arcade da Blizzard",
+              "link": "%desktoppreference%Coleção Arcade da Blizzard.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -517,7 +517,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "Cole\u00E7\u00E3o Arcade da Blizzard",
+              "display_name": "Coleção Arcade da Blizzard",
               "helplink": "http://us.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -617,7 +617,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\u300A\u66B4\u96EA\u904A\u6A02\u5834\u5178\u85CF\u7CFB\u5217\u300B/\u300A\u66B4\u96EA\u904A\u6A02\u5834\u5178\u85CF\u7CFB\u5217\u300B.lnk",
+              "link": "%commonstartmenu%《暴雪遊樂場典藏系列》/《暴雪遊樂場典藏系列》.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -625,8 +625,8 @@
           {
             "desktop_shortcut":
             {
-              "description": "\u300A\u66B4\u96EA\u904A\u6A02\u5834\u5178\u85CF\u7CFB\u5217\u300B",
-              "link": "%desktoppreference%\u300A\u66B4\u96EA\u904A\u6A02\u5834\u5178\u85CF\u7CFB\u5217\u300B.lnk",
+              "description": "《暴雪遊樂場典藏系列》",
+              "link": "%desktoppreference%《暴雪遊樂場典藏系列》.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -634,7 +634,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "\u300A\u66B4\u96EA\u904A\u6A02\u5834\u5178\u85CF\u7CFB\u5217\u300B",
+              "display_name": "《暴雪遊樂場典藏系列》",
               "helplink": "http://tw.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",

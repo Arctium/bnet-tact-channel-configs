@@ -7,7 +7,7 @@
         "host": "http://blzdist-wow.necdn.leihuo.netease.com?maxhosts=6"
       },
       {
-        "host": "https://blzdist-wow.necdn.leihuo.netease.com?maxhosts=4\u0026fallback=1"
+        "host": "https://blzdist-wow.necdn.leihuo.netease.com?maxhosts=4&fallback=1"
       }
     ]
   },
@@ -19,7 +19,7 @@
         "host": "http://level3.blizzard.com?maxhosts=8"
       },
       {
-        "host": "https://level3.ssl.blizzard.com?maxhosts=8\u0026fallback=1"
+        "host": "https://level3.ssl.blizzard.com?maxhosts=8&fallback=1"
       }
     ]
   },
@@ -31,23 +31,23 @@
         "host": "http://level3.blizzard.com?maxhosts=4"
       },
       {
-        "host": "https://level3.ssl.blizzard.com?maxhosts=4\u0026fallback=1"
+        "host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"
       },
       {
         "host": "http://kr.cdn.blizzard.com?maxhosts=2"
       },
       {
-        "host": "https://kr.cdn.blizzard.com?maxhosts=4\u0026fallback=1"
+        "host": "https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"
       },
       {
-        "host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=3\u0026fallback=1"
+        "host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=3&fallback=1"
       },
       {
-        "host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4\u0026fallback=1"
+        "host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"
       }
     ]
   },
-  "tw\u002Bus":
+  "tw+us":
   {
     "hosts":
     [
@@ -55,13 +55,13 @@
         "host": "http://level3.blizzard.com?maxhosts=8"
       },
       {
-        "host": "http://us.cdn.blizzard.com?maxhosts=4\u0026fallback=1"
+        "host": "http://us.cdn.blizzard.com?maxhosts=4&fallback=1"
       },
       {
-        "host": "https://us.cdn.blizzard.com?maxhosts=4\u0026fallback=1"
+        "host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"
       },
       {
-        "host": "https://level3.ssl.blizzard.com?maxhosts=4\u0026fallback=1"
+        "host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"
       }
     ]
   }

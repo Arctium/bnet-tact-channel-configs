@@ -1,5 +1,5 @@
 {
-  "cn\u002Bus":
+  "cn+us":
   {
     "all":
     {
@@ -18,7 +18,7 @@
           },
           "game_dir":
           {
-            "dirname": "\u6697\u9ED1\u7834\u574F\u795EIII"
+            "dirname": "暗黑破坏神III"
           }
         },
         "install_media":
@@ -49,7 +49,7 @@
         "product": "d3cn",
         "register_game_info":
         {
-          "folder_name": "\u6697\u9ED1\u7834\u574F\u795EIII",
+          "folder_name": "暗黑破坏神III",
           "language_hint_table":
           {
             "zh":
@@ -57,7 +57,7 @@
               "zhCN"
             ]
           },
-          "locale_regex": "(?P\u003Crelative_path\u003EData/PC/MPQs/(?P\u003Clocale_name\u003E[a-zA-Z]{4})_Text\\.mpq)$",
+          "locale_regex": "(?P<relative_path>Data/PC/MPQs/(?P<locale_name>[a-zA-Z]{4})_Text\\.mpq)$",
           "region_hint_table":
           {
             "CN":
@@ -131,7 +131,7 @@
           {
             "search_dirs":
             [
-              "/Applications/\u6697\u9ED1\u7834\u574F\u795EIII"
+              "/Applications/暗黑破坏神III"
             ]
           },
           "shortcut_target_path": "Diablo III Launcher.app",
@@ -230,8 +230,8 @@
           {
             "search_dirs":
             [
-              "%PROGRAM_FILES%/\u6697\u9ED1\u7834\u574F\u795EIII",
-              "c:/Games/\u6697\u9ED1\u7834\u574F\u795EIII"
+              "%PROGRAM_FILES%/暗黑破坏神III",
+              "c:/Games/暗黑破坏神III"
             ]
           },
           "shortcut_target_path": "Diablo III Launcher.exe",
@@ -384,7 +384,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\u6697\u9ED1\u7834\u574F\u795EIII/\u6697\u9ED1\u7834\u574F\u795EIII.lnk",
+              "link": "%commonstartmenu%暗黑破坏神III/暗黑破坏神III.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -392,8 +392,8 @@
           {
             "desktop_shortcut":
             {
-              "description": "\u70B9\u51FB\u6B64\u5904\u5F00\u59CB\u300A\u6697\u9ED1\u7834\u574F\u795EIII\u300B",
-              "link": "%desktoppreference%\u6697\u9ED1\u7834\u574F\u795EIII.lnk",
+              "description": "点击此处开始《暗黑破坏神III》",
+              "link": "%desktoppreference%暗黑破坏神III.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -402,7 +402,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\u6697\u9ED1\u7834\u574F\u795EIII",
+              "display_name": "暗黑破坏神III",
               "helplink": "http://cn.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",

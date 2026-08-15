@@ -1,5 +1,5 @@
 {
-  "eu\u002Bkr\u002Bus":
+  "eu+kr+us":
   {
     "all":
     {
@@ -11,7 +11,7 @@
         {
           "game_dir":
           {
-            "dirname": "Tony Hawks Pro Skater 3 \u002B 4 Demo"
+            "dirname": "Tony Hawks Pro Skater 3 + 4 Demo"
           }
         },
         "product": "lbra-demo",
@@ -38,7 +38,7 @@
             "start_menu_shortcut":
             {
               "icon_path": "%installpath%/Base/Binaries/Win64/THPS34.exe",
-              "link": "%commonstartmenu%Tony Hawks Pro Skater 3 \u002B 4 Demo/Tony Hawks Pro Skater 3 \u002B 4 Demo.lnk",
+              "link": "%commonstartmenu%Tony Hawks Pro Skater 3 + 4 Demo/Tony Hawks Pro Skater 3 + 4 Demo.lnk",
               "target": "battlenet://game/%product%",
               "working_dir": "%installpath%"
             }
@@ -47,7 +47,7 @@
             "desktop_shortcut":
             {
               "icon_path": "%installpath%/Base/Binaries/Win64/THPS34.exe",
-              "link": "%desktoppreference%Tony Hawks Pro Skater 3 \u002B 4 Demo.lnk",
+              "link": "%desktoppreference%Tony Hawks Pro Skater 3 + 4 Demo.lnk",
               "target": "battlenet://game/%product%",
               "working_dir": "%installpath%"
             }
@@ -55,11 +55,11 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "Tony Hawks Pro Skater 3 \u002B 4 Demo",
+              "display_name": "Tony Hawks Pro Skater 3 + 4 Demo",
               "icon_path": "%installpath%/Base/Binaries/Win64/THPS34.exe",
               "install_path": "%installpath%",
               "locale": "%locale%",
-              "root": "Tony Hawks Pro Skater 3 \u002B 4 Demo",
+              "root": "Tony Hawks Pro Skater 3 + 4 Demo",
               "uid": "%uid%",
               "uninstall_path": "%uninstallpath%"
             }
@@ -95,10 +95,10 @@
           "install":
           [
             {
-              "c\u002B\u002B_redist":
+              "c++_redist":
               {
                 "architecture": "x64",
-                "installer_details": "%feature_setting:installers_win:c\u002B\u002B_x64%",
+                "installer_details": "%feature_setting:installers_win:c++_x64%",
                 "minimum_version": "14.40.33810.0"
               }
             },
@@ -137,7 +137,7 @@
                 "root": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
                 "subkeys":
                 [
-                  "Tony Hawks Pro Skater 3 \u002B 4 Demo"
+                  "Tony Hawks Pro Skater 3 + 4 Demo"
                 ]
               }
             },

@@ -10,10 +10,10 @@
         "host": "http://eu.cdn.blizzard.com?maxhosts=4"
       },
       {
-        "host": "https://eu.cdn.blizzard.com?maxhosts=3\u0026fallback=1"
+        "host": "https://eu.cdn.blizzard.com?maxhosts=3&fallback=1"
       },
       {
-        "host": "https://level3.ssl.blizzard.com?maxhosts=3\u0026fallback=1"
+        "host": "https://level3.ssl.blizzard.com?maxhosts=3&fallback=1"
       }
     ]
   },
@@ -28,10 +28,10 @@
         "host": "http://us.cdn.blizzard.com?maxhosts=4"
       },
       {
-        "host": "https://us.cdn.blizzard.com?maxhosts=3\u0026fallback=1"
+        "host": "https://us.cdn.blizzard.com?maxhosts=3&fallback=1"
       },
       {
-        "host": "https://level3.ssl.blizzard.com?maxhosts=3\u0026fallback=1"
+        "host": "https://level3.ssl.blizzard.com?maxhosts=3&fallback=1"
       }
     ]
   }

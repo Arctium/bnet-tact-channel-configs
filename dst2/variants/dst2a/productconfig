@@ -1,5 +1,5 @@
 {
-  "eu\u002Bkr\u002Bus":
+  "eu+kr+us":
   {
     "all":
     {
@@ -437,7 +437,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "\u5929\u547D2 Take-Home",
+              "display_name": "天命2 Take-Home",
               "helplink": "https://tw.battle.net/support/tw/games/destiny2",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",

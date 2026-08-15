@@ -1,5 +1,5 @@
 {
-  "eu\u002Bkr\u002Bsg\u002Btw\u002Bus\u002Bxx":
+  "eu+kr+sg+tw+us+xx":
   {
     "all":
     {
@@ -537,8 +537,8 @@
                 "subkeys":
                 [
                   "World of Warcraft Alpha",
-                  "\uC6D4\uB4DC \uC624\uBE0C \uC6CC\uD06C\uB798\uD504\uD2B8 \uACF5\uAC1C \uD14C\uC2A4\uD2B8",
-                  "\u9B54\u7378\u4E16\u754C \u6E2C\u8A66\u7248"
+                  "월드 오브 워크래프트 공개 테스트",
+                  "魔獸世界 測試版"
                 ]
               }
             },

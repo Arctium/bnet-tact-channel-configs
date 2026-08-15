@@ -1,5 +1,5 @@
 {
-  "eu\u002Bkr\u002Bus":
+  "eu+kr+us":
   {
     "all":
     {
@@ -248,7 +248,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\u30A6\u30A9\u30FC\u30AF\u30E9\u30D5\u30C8 II \u30EA\u30DE\u30B9\u30BF\u30FC\u30C9/\u30A6\u30A9\u30FC\u30AF\u30E9\u30D5\u30C8 II \u30EA\u30DE\u30B9\u30BF\u30FC\u30C9.lnk",
+              "link": "%commonstartmenu%ウォークラフト II リマスタード/ウォークラフト II リマスタード.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -256,7 +256,7 @@
           {
             "desktop_shortcut":
             {
-              "link": "%desktoppreference%\u30A6\u30A9\u30FC\u30AF\u30E9\u30D5\u30C8 II \u30EA\u30DE\u30B9\u30BF\u30FC\u30C9.lnk",
+              "link": "%desktoppreference%ウォークラフト II リマスタード.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -264,7 +264,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "\u30A6\u30A9\u30FC\u30AF\u30E9\u30D5\u30C8 II \u30EA\u30DE\u30B9\u30BF\u30FC\u30C9",
+              "display_name": "ウォークラフト II リマスタード",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
               "locale": "%locale%",
@@ -285,7 +285,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\uC6CC\uD06C\uB798\uD504\uD2B8 II \uB9AC\uB9C8\uC2A4\uD130/\uC6CC\uD06C\uB798\uD504\uD2B8 II \uB9AC\uB9C8\uC2A4\uD130.lnk",
+              "link": "%commonstartmenu%워크래프트 II 리마스터/워크래프트 II 리마스터.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -293,7 +293,7 @@
           {
             "desktop_shortcut":
             {
-              "link": "%desktoppreference%\uC6CC\uD06C\uB798\uD504\uD2B8 II \uB9AC\uB9C8\uC2A4\uD130.lnk",
+              "link": "%desktoppreference%워크래프트 II 리마스터.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -301,7 +301,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "\uC6CC\uD06C\uB798\uD504\uD2B8 II \uB9AC\uB9C8\uC2A4\uD130",
+              "display_name": "워크래프트 II 리마스터",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
               "locale": "%locale%",
@@ -471,7 +471,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\u9B54\u517D\u4E89\u9738 II \u91CD\u5236\u7248/\u9B54\u517D\u4E89\u9738 II \u91CD\u5236\u7248.lnk",
+              "link": "%commonstartmenu%魔兽争霸 II 重制版/魔兽争霸 II 重制版.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -479,7 +479,7 @@
           {
             "desktop_shortcut":
             {
-              "link": "%desktoppreference%\u9B54\u517D\u4E89\u9738 II \u91CD\u5236\u7248.lnk",
+              "link": "%desktoppreference%魔兽争霸 II 重制版.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -487,7 +487,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "\u9B54\u517D\u4E89\u9738 II \u91CD\u5236\u7248",
+              "display_name": "魔兽争霸 II 重制版",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
               "locale": "%locale%",
@@ -508,7 +508,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\u300A\u9B54\u7378\u722D\u9738 II \u91CD\u88FD\u7248\u300B/\u300A\u9B54\u7378\u722D\u9738 II \u91CD\u88FD\u7248\u300B.lnk",
+              "link": "%commonstartmenu%《魔獸爭霸 II 重製版》/《魔獸爭霸 II 重製版》.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -516,7 +516,7 @@
           {
             "desktop_shortcut":
             {
-              "link": "%desktoppreference%\u300A\u9B54\u7378\u722D\u9738 II \u91CD\u88FD\u7248\u300B.lnk",
+              "link": "%desktoppreference%《魔獸爭霸 II 重製版》.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -524,7 +524,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "\u300A\u9B54\u7378\u722D\u9738 II \u91CD\u88FD\u7248\u300B",
+              "display_name": "《魔獸爭霸 II 重製版》",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
               "locale": "%locale%",

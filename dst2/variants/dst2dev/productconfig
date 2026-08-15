@@ -437,7 +437,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "\u5929\u547D2",
+              "display_name": "天命2",
               "helplink": "https://tw.battle.net/support/tw/games/destiny2",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",

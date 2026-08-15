@@ -1,5 +1,5 @@
 {
-  "eu\u002Bkr\u002Bus":
+  "eu+kr+us":
   {
     "all":
     {
@@ -202,7 +202,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%B\u00EAta de Diablo II Resurrected/B\u00EAta de Diablo II Resurrected.lnk",
+              "link": "%commonstartmenu%Bêta de Diablo II Resurrected/Bêta de Diablo II Resurrected.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -210,7 +210,7 @@
           {
             "desktop_shortcut":
             {
-              "link": "%desktoppreference%B\u00EAta de Diablo II Resurrected.lnk",
+              "link": "%desktoppreference%Bêta de Diablo II Resurrected.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -218,7 +218,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "B\u00EAta de Diablo II Resurrected",
+              "display_name": "Bêta de Diablo II Resurrected",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
               "locale": "%locale%",
@@ -276,7 +276,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\u300C\u30C7\u30A3\u30A2\u30D6\u30ED II \u30EA\u30B6\u30EC\u30AF\u30C6\u30C3\u30C9\u300D\u30D9\u30FC\u30BF/\u300C\u30C7\u30A3\u30A2\u30D6\u30ED II \u30EA\u30B6\u30EC\u30AF\u30C6\u30C3\u30C9\u300D\u30D9\u30FC\u30BF.lnk",
+              "link": "%commonstartmenu%「ディアブロ II リザレクテッド」ベータ/「ディアブロ II リザレクテッド」ベータ.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -284,7 +284,7 @@
           {
             "desktop_shortcut":
             {
-              "link": "%desktoppreference%\u300C\u30C7\u30A3\u30A2\u30D6\u30ED II \u30EA\u30B6\u30EC\u30AF\u30C6\u30C3\u30C9\u300D\u30D9\u30FC\u30BF.lnk",
+              "link": "%desktoppreference%「ディアブロ II リザレクテッド」ベータ.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -292,7 +292,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "\u300C\u30C7\u30A3\u30A2\u30D6\u30ED II \u30EA\u30B6\u30EC\u30AF\u30C6\u30C3\u30C9\u300D\u30D9\u30FC\u30BF",
+              "display_name": "「ディアブロ II リザレクテッド」ベータ",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
               "locale": "%locale%",
@@ -313,7 +313,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\uB514\uC544\uBE14\uB85C II \uB808\uC800\uB809\uC158 \uBCA0\uD0C0/\uB514\uC544\uBE14\uB85C II \uB808\uC800\uB809\uC158 \uBCA0\uD0C0.lnk",
+              "link": "%commonstartmenu%디아블로 II 레저렉션 베타/디아블로 II 레저렉션 베타.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -321,7 +321,7 @@
           {
             "desktop_shortcut":
             {
-              "link": "%desktoppreference%\uB514\uC544\uBE14\uB85C II \uB808\uC800\uB809\uC158 \uBCA0\uD0C0.lnk",
+              "link": "%desktoppreference%디아블로 II 레저렉션 베타.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -329,7 +329,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "\uB514\uC544\uBE14\uB85C II \uB808\uC800\uB809\uC158 \uBCA0\uD0C0",
+              "display_name": "디아블로 II 레저렉션 베타",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
               "locale": "%locale%",
@@ -445,7 +445,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%Diablo II Resurrected \u2013 Beta/Diablo II Resurrected \u2013 Beta.lnk",
+              "link": "%commonstartmenu%Diablo II Resurrected – Beta/Diablo II Resurrected – Beta.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -453,7 +453,7 @@
           {
             "desktop_shortcut":
             {
-              "link": "%desktoppreference%Diablo II Resurrected \u2013 Beta.lnk",
+              "link": "%desktoppreference%Diablo II Resurrected – Beta.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -461,7 +461,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "Diablo II Resurrected \u2013 Beta",
+              "display_name": "Diablo II Resurrected – Beta",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
               "locale": "%locale%",
@@ -519,7 +519,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\u0411\u0435\u0442\u0430 Diablo II Resurrected/\u0411\u0435\u0442\u0430 Diablo II Resurrected.lnk",
+              "link": "%commonstartmenu%Бета Diablo II Resurrected/Бета Diablo II Resurrected.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -527,7 +527,7 @@
           {
             "desktop_shortcut":
             {
-              "link": "%desktoppreference%\u0411\u0435\u0442\u0430 Diablo II Resurrected.lnk",
+              "link": "%desktoppreference%Бета Diablo II Resurrected.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -535,7 +535,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "\u0411\u0435\u0442\u0430 Diablo II Resurrected",
+              "display_name": "Бета Diablo II Resurrected",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
               "locale": "%locale%",
@@ -556,7 +556,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\u300A\u6697\u9ED1\u7834\u58DE\u795E\u00AEII\uFF1A\u7344\u706B\u91CD\u751F\u300BBeta/\u300A\u6697\u9ED1\u7834\u58DE\u795E\u00AEII\uFF1A\u7344\u706B\u91CD\u751F\u300BBeta.lnk",
+              "link": "%commonstartmenu%《暗黑破壞神®II：獄火重生》Beta/《暗黑破壞神®II：獄火重生》Beta.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -564,7 +564,7 @@
           {
             "desktop_shortcut":
             {
-              "link": "%desktoppreference%\u300A\u6697\u9ED1\u7834\u58DE\u795E\u00AEII\uFF1A\u7344\u706B\u91CD\u751F\u300BBeta.lnk",
+              "link": "%desktoppreference%《暗黑破壞神®II：獄火重生》Beta.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -572,7 +572,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "\u300A\u6697\u9ED1\u7834\u58DE\u795E\u00AEII\uFF1A\u7344\u706B\u91CD\u751F\u300BBeta",
+              "display_name": "《暗黑破壞神®II：獄火重生》Beta",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
               "locale": "%locale%",

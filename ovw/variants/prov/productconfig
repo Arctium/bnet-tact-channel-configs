@@ -212,7 +212,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\u30AA\u30FC\u30D0\u30FC\u30A6\u30A9\u30C3\u30C1 Vendor",
+              "display_name": "オーバーウォッチ Vendor",
               "helplink": "https://us.battle.net/support/ja/games/overwatch",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -235,7 +235,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\uC624\uBC84\uC6CC\uCE58 Vendor",
+              "display_name": "오버워치 Vendor",
               "helplink": "https://kr.battle.net/support/ko/games/overwatch",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -447,7 +447,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\u5B88\u671B\u5148\u950B Vendor",
+              "display_name": "守望先锋 Vendor",
               "helplink": "https://cn.battle.net/support/zh/games/overwatch",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -470,7 +470,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "\u300A\u9B25\u9663\u7279\u653B\u300BVendor",
+              "display_name": "《鬥陣特攻》Vendor",
               "helplink": "https://tw.battle.net/support/zh/games/overwatch",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",

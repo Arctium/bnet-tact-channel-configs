@@ -1,5 +1,5 @@
 {
-  "eu\u002Bus":
+  "eu+us":
   {
     "hosts":
     [
@@ -7,7 +7,7 @@
         "host": "http://level3.blizzard.com?maxhosts=6"
       },
       {
-        "host": "https://level3.ssl.blizzard.com?maxhosts=5\u0026fallback=1"
+        "host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"
       }
     ]
   }

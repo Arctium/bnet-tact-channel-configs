@@ -1,5 +1,5 @@
 {
-  "eu\u002Bkr\u002Bus":
+  "eu+kr+us":
   {
     "all":
     {
@@ -203,7 +203,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%B\u00EAta de Call of Duty Black Ops Cold War/B\u00EAta de Call of Duty Black Ops Cold War.lnk",
+              "link": "%commonstartmenu%Bêta de Call of Duty Black Ops Cold War/Bêta de Call of Duty Black Ops Cold War.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -212,7 +212,7 @@
             "desktop_shortcut":
             {
               "description": "Play the Black Ops Cold War Beta",
-              "link": "%desktoppreference%B\u00EAta de Call of Duty Black Ops Cold War.lnk",
+              "link": "%desktoppreference%Bêta de Call of Duty Black Ops Cold War.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -220,7 +220,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "B\u00EAta de Call of Duty Black Ops Cold War",
+              "display_name": "Bêta de Call of Duty Black Ops Cold War",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
               "locale": "%locale%",
@@ -279,7 +279,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\u300C\u30B3\u30FC\u30EB \u30AA\u30D6 \u30C7\u30E5\u30FC\u30C6\u30A3 \u30D6\u30E9\u30C3\u30AF\u30AA\u30D7\u30B9 \u30B3\u30FC\u30EB\u30C9\u30FB\u30A6\u30A9\u30FC\u300D\u30D9\u30FC\u30BF/\u300C\u30B3\u30FC\u30EB \u30AA\u30D6 \u30C7\u30E5\u30FC\u30C6\u30A3 \u30D6\u30E9\u30C3\u30AF\u30AA\u30D7\u30B9 \u30B3\u30FC\u30EB\u30C9\u30FB\u30A6\u30A9\u30FC\u300D\u30D9\u30FC\u30BF.lnk",
+              "link": "%commonstartmenu%「コール オブ デューティ ブラックオプス コールド・ウォー」ベータ/「コール オブ デューティ ブラックオプス コールド・ウォー」ベータ.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -288,7 +288,7 @@
             "desktop_shortcut":
             {
               "description": "Play the Black Ops Cold War Beta",
-              "link": "%desktoppreference%\u300C\u30B3\u30FC\u30EB \u30AA\u30D6 \u30C7\u30E5\u30FC\u30C6\u30A3 \u30D6\u30E9\u30C3\u30AF\u30AA\u30D7\u30B9 \u30B3\u30FC\u30EB\u30C9\u30FB\u30A6\u30A9\u30FC\u300D\u30D9\u30FC\u30BF.lnk",
+              "link": "%desktoppreference%「コール オブ デューティ ブラックオプス コールド・ウォー」ベータ.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -296,7 +296,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "\u300C\u30B3\u30FC\u30EB \u30AA\u30D6 \u30C7\u30E5\u30FC\u30C6\u30A3 \u30D6\u30E9\u30C3\u30AF\u30AA\u30D7\u30B9 \u30B3\u30FC\u30EB\u30C9\u30FB\u30A6\u30A9\u30FC\u300D\u30D9\u30FC\u30BF",
+              "display_name": "「コール オブ デューティ ブラックオプス コールド・ウォー」ベータ",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
               "locale": "%locale%",
@@ -317,7 +317,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBE14\uB799 \uC635\uC2A4 \uCF5C\uB4DC \uC6CC \uBCA0\uD0C0/\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBE14\uB799 \uC635\uC2A4 \uCF5C\uB4DC \uC6CC \uBCA0\uD0C0.lnk",
+              "link": "%commonstartmenu%콜 오브 듀티 블랙 옵스 콜드 워 베타/콜 오브 듀티 블랙 옵스 콜드 워 베타.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -326,7 +326,7 @@
             "desktop_shortcut":
             {
               "description": "Play the Black Ops Cold War Beta",
-              "link": "%desktoppreference%\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBE14\uB799 \uC635\uC2A4 \uCF5C\uB4DC \uC6CC \uBCA0\uD0C0.lnk",
+              "link": "%desktoppreference%콜 오브 듀티 블랙 옵스 콜드 워 베타.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -334,7 +334,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBE14\uB799 \uC635\uC2A4 \uCF5C\uB4DC \uC6CC \uBCA0\uD0C0",
+              "display_name": "콜 오브 듀티 블랙 옵스 콜드 워 베타",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
               "locale": "%locale%",
@@ -502,7 +502,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\u0411\u0435\u0442\u0430-\u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 Call of Duty Black Ops Cold War/\u0411\u0435\u0442\u0430-\u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 Call of Duty Black Ops Cold War.lnk",
+              "link": "%commonstartmenu%Бета-тестирование Call of Duty Black Ops Cold War/Бета-тестирование Call of Duty Black Ops Cold War.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -511,7 +511,7 @@
             "desktop_shortcut":
             {
               "description": "Play the Black Ops Cold War Beta",
-              "link": "%desktoppreference%\u0411\u0435\u0442\u0430-\u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 Call of Duty Black Ops Cold War.lnk",
+              "link": "%desktoppreference%Бета-тестирование Call of Duty Black Ops Cold War.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -519,7 +519,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "\u0411\u0435\u0442\u0430-\u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 Call of Duty Black Ops Cold War",
+              "display_name": "Бета-тестирование Call of Duty Black Ops Cold War",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
               "locale": "%locale%",

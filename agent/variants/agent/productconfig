@@ -1,5 +1,5 @@
 {
-  "cn\u002Beu\u002Bkr\u002Btw\u002Bus":
+  "cn+eu+kr+tw+us":
   {
     "all":
     {
@@ -127,13 +127,13 @@
           {
             "settings":
             {
-              "c\u002B\u002B_x64": "{\u0022hash\u0022:\u00221d545507009cc4ec7409c1bc6e93b17b\u0022,\u0022architecture\u0022:\u0022x64\u0022,\u0022cdn_product\u0022:\u0022agent_redist\u0022,\u0022local_relative_path\u0022:\u0022C\u002B\u002B Redistributable/VC_redist.x64.exe\u0022}",
-              "directx_Jun2010": "{\u0022hash\u0022:\u0022822e4c516600e81dc7fb16d9a77ec6d4\u0022,\u0022version\u0022:\u0022Jun2010\u0022,\u0022cdn_product\u0022:\u0022agent_redist\u0022,\u0022local_relative_path\u0022:\u0022DirectX/directx_Jun2010_redist.exe\u0022}",
-              "dotnet_6.0_x64": "{\u0022hash\u0022:\u00222052ff59bb1531f8e0b52a427aaa8aa0\u0022,\u0022architecture\u0022:\u0022x64\u0022,\u0022version\u0022:\u00226.0\u0022,\u0022cdn_product\u0022:\u0022agent_redist\u0022,\u0022local_relative_path\u0022:\u0022.NET Runtime/windowsdesktop-runtime-6.0-win-x64.exe\u0022}",
-              "dotnet_6.0_x86": "{\u0022hash\u0022:\u0022d0c2547410a108a7105207559d5f7e8d\u0022,\u0022architecture\u0022:\u0022x86\u0022,\u0022version\u0022:\u00226.0\u0022,\u0022cdn_product\u0022:\u0022agent_redist\u0022,\u0022local_relative_path\u0022:\u0022.NET Runtime/windowsdesktop-runtime-6.0-win-x86.exe\u0022}",
-              "dotnet_8.0_arm64": "{\u0022hash\u0022:\u00228f2009b03494e116cd7f1e5b08709669\u0022,\u0022architecture\u0022:\u0022arm64\u0022,\u0022version\u0022:\u00228.0\u0022,\u0022cdn_product\u0022:\u0022agent_redist\u0022,\u0022local_relative_path\u0022:\u0022.NET Runtime/windowsdesktop-runtime-8.0-win-arm64.exe\u0022}",
-              "dotnet_8.0_x64": "{\u0022hash\u0022:\u00220e0ea2421338052eec7dffbf419e0d47\u0022,\u0022architecture\u0022:\u0022x64\u0022,\u0022version\u0022:\u00228.0\u0022,\u0022cdn_product\u0022:\u0022agent_redist\u0022,\u0022local_relative_path\u0022:\u0022.NET Runtime/windowsdesktop-runtime-8.0-win-x64.exe\u0022}",
-              "dotnet_8.0_x86": "{\u0022hash\u0022:\u00229070fc068f33ed7f1f8bb03bb0c0beb5\u0022,\u0022architecture\u0022:\u0022x86\u0022,\u0022version\u0022:\u00228.0\u0022,\u0022cdn_product\u0022:\u0022agent_redist\u0022,\u0022local_relative_path\u0022:\u0022.NET Runtime/windowsdesktop-runtime-8.0-win-x86.exe\u0022}"
+              "c++_x64": "{\"hash\":\"1d545507009cc4ec7409c1bc6e93b17b\",\"architecture\":\"x64\",\"cdn_product\":\"agent_redist\",\"local_relative_path\":\"C++ Redistributable/VC_redist.x64.exe\"}",
+              "directx_Jun2010": "{\"hash\":\"822e4c516600e81dc7fb16d9a77ec6d4\",\"version\":\"Jun2010\",\"cdn_product\":\"agent_redist\",\"local_relative_path\":\"DirectX/directx_Jun2010_redist.exe\"}",
+              "dotnet_6.0_x64": "{\"hash\":\"2052ff59bb1531f8e0b52a427aaa8aa0\",\"architecture\":\"x64\",\"version\":\"6.0\",\"cdn_product\":\"agent_redist\",\"local_relative_path\":\".NET Runtime/windowsdesktop-runtime-6.0-win-x64.exe\"}",
+              "dotnet_6.0_x86": "{\"hash\":\"d0c2547410a108a7105207559d5f7e8d\",\"architecture\":\"x86\",\"version\":\"6.0\",\"cdn_product\":\"agent_redist\",\"local_relative_path\":\".NET Runtime/windowsdesktop-runtime-6.0-win-x86.exe\"}",
+              "dotnet_8.0_arm64": "{\"hash\":\"8f2009b03494e116cd7f1e5b08709669\",\"architecture\":\"arm64\",\"version\":\"8.0\",\"cdn_product\":\"agent_redist\",\"local_relative_path\":\".NET Runtime/windowsdesktop-runtime-8.0-win-arm64.exe\"}",
+              "dotnet_8.0_x64": "{\"hash\":\"0e0ea2421338052eec7dffbf419e0d47\",\"architecture\":\"x64\",\"version\":\"8.0\",\"cdn_product\":\"agent_redist\",\"local_relative_path\":\".NET Runtime/windowsdesktop-runtime-8.0-win-x64.exe\"}",
+              "dotnet_8.0_x86": "{\"hash\":\"9070fc068f33ed7f1f8bb03bb0c0beb5\",\"architecture\":\"x86\",\"version\":\"8.0\",\"cdn_product\":\"agent_redist\",\"local_relative_path\":\".NET Runtime/windowsdesktop-runtime-8.0-win-x86.exe\"}"
             },
             "throttle": 1
           },
@@ -300,22 +300,22 @@
           {
             "settings":
             {
-              "installing_dependencies_deDE": "Installiert Abh\u00E4ngigkeiten",
+              "installing_dependencies_deDE": "Installiert Abhängigkeiten",
               "installing_dependencies_enGB": "Installing dependencies",
               "installing_dependencies_enUS": "Installing dependencies",
               "installing_dependencies_esES": "Instalando dependencias",
               "installing_dependencies_esMX": "Instalando dependencias",
-              "installing_dependencies_frFR": "Installation des d\u00E9pendances",
+              "installing_dependencies_frFR": "Installation des dépendances",
               "installing_dependencies_itIT": "Installazione componenti",
-              "installing_dependencies_jaJP": "\u4F9D\u5B58\u30D5\u30A1\u30A4\u30EB\u3092\u30C0\u30A6\u30F3\u30ED\u30FC\u30C9\u4E2D",
-              "installing_dependencies_koKR": "\uC885\uC18D\uC131 \uC124\uCE58 \uC911",
-              "installing_dependencies_plPL": "Instalowanie zale\u017Cno\u015Bci",
-              "installing_dependencies_ptBR": "Instalando depend\u00EAncias",
-              "installing_dependencies_ptPT": "A instalar depend\u00EAncias",
-              "installing_dependencies_ruRU": "\u0423\u0441\u0442\u0430\u043D\u043E\u0432\u043A\u0430 \u0437\u0430\u0432\u0438\u0441\u0438\u043C\u043E\u0441\u0442\u0435\u0439",
-              "installing_dependencies_thTH": "\u0E01\u0E33\u0E25\u0E31\u0E07\u0E15\u0E34\u0E14\u0E15\u0E31\u0E49\u0E07\u0E2A\u0E48\u0E27\u0E19\u0E17\u0E35\u0E48\u0E08\u0E33\u0E40\u0E1B\u0E47\u0E19",
-              "installing_dependencies_zhCN": "\u6B63\u5728\u5B89\u88C5\u4F9D\u8D56\u9879",
-              "installing_dependencies_zhTW": "\u6B63\u5728\u5B89\u88DD\u76F8\u4F9D\u6027\u5957\u4EF6",
+              "installing_dependencies_jaJP": "依存ファイルをダウンロード中",
+              "installing_dependencies_koKR": "종속성 설치 중",
+              "installing_dependencies_plPL": "Instalowanie zależności",
+              "installing_dependencies_ptBR": "Instalando dependências",
+              "installing_dependencies_ptPT": "A instalar dependências",
+              "installing_dependencies_ruRU": "Установка зависимостей",
+              "installing_dependencies_thTH": "กำลังติดตั้งส่วนที่จำเป็น",
+              "installing_dependencies_zhCN": "正在安装依赖项",
+              "installing_dependencies_zhTW": "正在安裝相依性套件",
               "preloading_shaders_deDE": "Shader werden geladen",
               "preloading_shaders_enGB": "Preloading shaders",
               "preloading_shaders_enUS": "Preloading shaders",
@@ -323,15 +323,15 @@
               "preloading_shaders_esMX": "Precargando sombreadores",
               "preloading_shaders_frFR": "Chargement des shaders",
               "preloading_shaders_itIT": "Precaricamento degli shader",
-              "preloading_shaders_jaJP": "\u30B7\u30A7\u30FC\u30C0\u30FC\u3092\u30D7\u30EA\u30ED\u30FC\u30C9\u4E2D",
-              "preloading_shaders_koKR": "\uC170\uC774\uB354 \uD504\uB9AC\uB85C\uB4DC \uC911",
-              "preloading_shaders_plPL": "Wst\u0119pne wczytywanie shader\u00F3w",
-              "preloading_shaders_ptBR": "Pr\u00E9-carregamento de shaders",
-              "preloading_shaders_ptPT": "A pr\u00E9-carregar shaders",
-              "preloading_shaders_ruRU": "\u041F\u0440\u0435\u0434\u0432\u0430\u0440\u0438\u0442\u0435\u043B\u044C\u043D\u0430\u044F \u0437\u0430\u0433\u0440\u0443\u0437\u043A\u0430 \u0448\u0435\u0439\u0434\u0435\u0440\u043E\u0432",
-              "preloading_shaders_thTH": "\u0E01\u0E33\u0E25\u0E31\u0E07\u0E42\u0E2B\u0E25\u0E14\u0E40\u0E0A\u0E14\u0E40\u0E14\u0E2D\u0E23\u0E4C\u0E25\u0E48\u0E27\u0E07\u0E2B\u0E19\u0E49\u0E32",
-              "preloading_shaders_zhCN": "\u6B63\u5728\u9884\u52A0\u8F7D\u7740\u8272\u5668",
-              "preloading_shaders_zhTW": "\u6B63\u5728\u9810\u5148\u8F09\u5165\u8457\u8272\u5668"
+              "preloading_shaders_jaJP": "シェーダーをプリロード中",
+              "preloading_shaders_koKR": "셰이더 프리로드 중",
+              "preloading_shaders_plPL": "Wstępne wczytywanie shaderów",
+              "preloading_shaders_ptBR": "Pré-carregamento de shaders",
+              "preloading_shaders_ptPT": "A pré-carregar shaders",
+              "preloading_shaders_ruRU": "Предварительная загрузка шейдеров",
+              "preloading_shaders_thTH": "กำลังโหลดเชดเดอร์ล่วงหน้า",
+              "preloading_shaders_zhCN": "正在预加载着色器",
+              "preloading_shaders_zhTW": "正在預先載入著色器"
             },
             "throttle": 1
           }

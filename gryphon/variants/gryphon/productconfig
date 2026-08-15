@@ -1,5 +1,5 @@
 {
-  "eu\u002Bkr\u002Bus":
+  "eu+kr+us":
   {
     "all":
     {
@@ -342,7 +342,7 @@
             "start_menu_shortcut":
             {
               "icon_path": "%binarypath%",
-              "link": "%commonstartmenu%\uC6CC\uD06C\uB798\uD504\uD2B8 \uB7FC\uBE14/\uC6CC\uD06C\uB798\uD504\uD2B8 \uB7FC\uBE14.lnk",
+              "link": "%commonstartmenu%워크래프트 럼블/워크래프트 럼블.lnk",
               "target": "battlenet://game/%product%",
               "working_dir": "%installpath%"
             }
@@ -351,7 +351,7 @@
             "desktop_shortcut":
             {
               "icon_path": "%binarypath%",
-              "link": "%desktoppreference%\uC6CC\uD06C\uB798\uD504\uD2B8 \uB7FC\uBE14.lnk",
+              "link": "%desktoppreference%워크래프트 럼블.lnk",
               "target": "battlenet://game/%product%",
               "working_dir": "%installpath%"
             }
@@ -359,7 +359,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "\uC6CC\uD06C\uB798\uD504\uD2B8 \uB7FC\uBE14",
+              "display_name": "워크래프트 럼블",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
               "locale": "%locale%",
@@ -681,7 +681,7 @@
             "start_menu_shortcut":
             {
               "icon_path": "%binarypath%",
-              "link": "%commonstartmenu%\u9B54\u7378\u5175\u5718/\u9B54\u7378\u5175\u5718.lnk",
+              "link": "%commonstartmenu%魔獸兵團/魔獸兵團.lnk",
               "target": "battlenet://game/%product%",
               "working_dir": "%installpath%"
             }
@@ -690,7 +690,7 @@
             "desktop_shortcut":
             {
               "icon_path": "%binarypath%",
-              "link": "%desktoppreference%\u9B54\u7378\u5175\u5718.lnk",
+              "link": "%desktoppreference%魔獸兵團.lnk",
               "target": "battlenet://game/%product%",
               "working_dir": "%installpath%"
             }
@@ -698,7 +698,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "\u9B54\u7378\u5175\u5718",
+              "display_name": "魔獸兵團",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
               "locale": "%locale%",

@@ -1,5 +1,5 @@
 {
-  "eu\u002Bkr\u002Bus":
+  "eu+kr+us":
   {
     "all":
     {
@@ -427,7 +427,7 @@
           {
             "start_menu_shortcut":
             {
-              "link": "%commonstartmenu%\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBE14\uB799 \uC635\uC2A4 4/\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBE14\uB799 \uC635\uC2A4 4.lnk",
+              "link": "%commonstartmenu%콜 오브 듀티 블랙 옵스 4/콜 오브 듀티 블랙 옵스 4.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -435,8 +435,8 @@
           {
             "desktop_shortcut":
             {
-              "description": "Play \uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBE14\uB799 \uC635\uC2A4 4",
-              "link": "%desktoppreference%\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBE14\uB799 \uC635\uC2A4 4.lnk",
+              "description": "Play 콜 오브 듀티 블랙 옵스 4",
+              "link": "%desktoppreference%콜 오브 듀티 블랙 옵스 4.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -444,7 +444,7 @@
           {
             "add_remove_programs_key":
             {
-              "display_name": "\uCF5C \uC624\uBE0C \uB4C0\uD2F0 \uBE14\uB799 \uC635\uC2A4 4",
+              "display_name": "콜 오브 듀티 블랙 옵스 4",
               "helplink": "https://kr.battle.net/support/ko/games/codbo4",
               "icon_path": "%installpath%/BlackOps4.exe",
               "install_path": "%installpath%",
