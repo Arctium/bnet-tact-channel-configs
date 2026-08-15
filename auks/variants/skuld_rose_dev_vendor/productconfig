@@ -5,7 +5,7 @@
     {
       "config":
       {
-        "data_dir": "data",
+        "data_dir": ".battle.net",
         "decryption_key_name": "cortez_live_dev_3",
         "product": "skuld_rose_dev_vendor",
         "update_method": "ngdp",
@@ -25,8 +25,8 @@
               "create_service":
               {
                 "binary_path": "%game%/skuld.sys",
-                "display_name": "atvi-skuld_dev",
-                "service_name": "atvi-skuld_dev",
+                "display_name": "atvi-skuld_live_dev",
+                "service_name": "atvi-skuld_live_dev",
                 "service_type": "kernelDriver",
                 "start_type": "onDemand"
               }
@@ -58,7 +58,7 @@
             {
               "delete_service":
               {
-                "service_name": "atvi-skuld_dev"
+                "service_name": "atvi-skuld_live_dev"
               }
             }
           ]

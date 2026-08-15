@@ -4,20 +4,20 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "Skuld-Rose-Dev-Vendor-dummy",
-      "token": "f19373d6-2e47-42e6-ab3f-b8b932d6ae2d"
+      "name": "trunk_driver_06_08_2026_28347379_cod26_beta_valkyrie_valkyrie_skuld_ship2",
+      "token": "4387bf45-da9f-4945-b12a-e518285ba120"
     },
-    "buildKey": "13f63efab2f4ac186ac1e9febf72fa4b",
-    "cdnKey": "1c31736875d57fa99d1b4fdf9598ea4e",
+    "buildKey": "87c2eb4ef3375868e8c0c14e150c59e9",
+    "cdnKey": "03fa04206b372c80718bfc2191c05406",
     "keyRing": "",
     "path": "tpr/auksdev/4",
     "pipelineId": 235,
     "productConfig":
     {
       "cdnPath": "",
-      "hash": "0ef0eb3136d945eb9b91910a2b5cbed1"
+      "hash": "0980d80983ed4bac5a38baa0fcbf6f95"
     },
-    "versionNumber": 1,
-    "versionString": "1"
+    "versionNumber": 28347379,
+    "versionString": "1.0.0.28347379"
   }
 }
