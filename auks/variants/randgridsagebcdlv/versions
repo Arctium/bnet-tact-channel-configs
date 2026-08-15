@@ -12,6 +12,11 @@
     "keyRing": "",
     "path": "tpr/sagevb",
     "pipelineId": 357,
+    "productConfig":
+    {
+      "hash": "6f4e84bdfbe2e4857867792492f19a11",
+      "id": 10445
+    },
     "versionNumber": 21476240,
     "versionString": "0.0.1.21476240s"
   }

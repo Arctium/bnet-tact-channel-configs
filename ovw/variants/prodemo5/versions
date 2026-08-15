@@ -75,6 +75,11 @@
     "keyRing": "",
     "path": "tpr/proe/2",
     "pipelineId": 300,
+    "productConfig":
+    {
+      "hash": "dbbabf30fe6e8f64f2bf6a3e9cc03693",
+      "id": 16256
+    },
     "versionNumber": 152308,
     "versionString": "2.24.0.0.152308"
   }

@@ -12,6 +12,11 @@
     "keyRing": "",
     "path": "tpr/dst2dev",
     "pipelineId": 136,
+    "productConfig":
+    {
+      "hash": "903bb055992c5b3530ddf94a3d294f16",
+      "id": 867
+    },
     "versionNumber": 5085832,
     "versionString": "5085832a-Event"
   },

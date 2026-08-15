@@ -1,5 +1,1409 @@
 {
+  "anbs":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "auks":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "bna":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "d3":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "d3b":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "d3cn":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "d3cnt":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "d3t":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "dst2":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "fenris":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "fore":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "hero":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "heroc":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "herot":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "hsb":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "hst":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
   "launcher":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "lazr":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "odin":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "osi":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "ow":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "owc":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "owdev":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "owt":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "rtro":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "s1":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "s1t":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "s2":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "s2b":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "s2t":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "viper":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "w3":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "wlby":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "wow":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "wowb":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "wowt":
+  {
+    "all":
+    {
+      "config":
+      {
+        "casc_language_agnostic": true,
+        "containerless_do_clean_up": true,
+        "containerless_do_real_cancel": true,
+        "product": "bts",
+        "supports_multibox": false,
+        "supports_offline": false,
+        "update_method": "containerless ngdp"
+      }
+    },
+    "platform":
+    {
+      "mac":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "OSX"
+          ]
+        }
+      },
+      "win":
+      {
+        "config":
+        {
+          "tags":
+          [
+            "Windows"
+          ]
+        }
+      }
+    }
+  },
+  "zeus":
   {
     "all":
     {

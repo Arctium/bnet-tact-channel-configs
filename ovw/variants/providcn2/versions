@@ -33,6 +33,11 @@
     "keyRing": "",
     "path": "tpr/prov3/2",
     "pipelineId": 299,
+    "productConfig":
+    {
+      "hash": "0f41f6acb8baa35aecaeda1dc0917312",
+      "id": 16283
+    },
     "versionNumber": 149203,
     "versionString": "2.22.1.0.149203"
   }
