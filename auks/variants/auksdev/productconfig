@@ -250,15 +250,15 @@
             {
               "launch_arguments":
               [
-                "cod.exe"
+                "cod26-cod.exe"
               ],
-              "regex": "cod.exe|bootstrapper.exe",
+              "regex": "cod26-cod.exe|bootstrapper.exe",
               "relative_path": "bootstrapper.exe",
               "switcher": false
             }
           },
           "binary_launch_path": "bootstrapper.exe",
-          "binary_version_path": "cod.exe",
+          "binary_version_path": "cod26-cod.exe",
           "form":
           {
             "game_dir":
@@ -274,7 +274,7 @@
               {
                 "commandline_args":
                 [
-                  "cod.exe",
+                  "cod26-cod.exe",
                   "\u002Bogu_mode",
                   "--nofork"
                 ],
@@ -313,8 +313,7 @@
                 "root": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
                 "subkeys":
                 [
-                  "Auks Dev",
-                  "Call of Duty Dev"
+                  "COD MW4 NEXT"
                 ]
               }
             },
@@ -326,8 +325,7 @@
                 "root": "SOFTWARE\\Blizzard Entertainment",
                 "subkeys":
                 [
-                  "Auks Dev",
-                  "Call of Duty Dev"
+                  "COD MW4 NEXT"
                 ]
               }
             },
@@ -354,6 +352,10 @@
                   "cod22",
                   "cod23",
                   "cod24",
+                  "cod25",
+                  "cod26",
+                  "extccs",
+                  "ImmerseData",
                   "lpc",
                   "main",
                   "mp23",
@@ -364,6 +366,7 @@
                   "sp22",
                   "sp23",
                   "sp24",
+                  "sp26",
                   "telescopeCache",
                   "telescopeStorage",
                   "telescopeVideoCache",
@@ -377,6 +380,19 @@
               {
                 "relative_paths":
                 [
+                  "Call of Duty Launcher.exe"
+                ],
+                "root": "%titlepath%"
+              }
+            },
+            {
+              "delete_file":
+              {
+                "relative_paths":
+                [
+                  "*.dll",
+                  "*.xpak",
+                  "*.xsub",
                   "amd_ags_x64.dll",
                   "api-ms-win-core-file-l1-2-0.dll",
                   "API-MS-Win-core-file-l2-1-0.dll",
@@ -404,22 +420,34 @@
                   "bootstrapper.log",
                   "bootstrapperCrashHandler.exe",
                   "Browser-20*.log",
+                  "ccsconfig.json",
+                  "ccsdownloader.exe",
+                  "ccsdownloader.log",
                   "CEF-20*.log",
                   "CgSDK.x64_2019.dll",
                   "cod.exe",
+                  "cod23.txt",
+                  "cod24.txt",
+                  "codbrokerinstaller.exe",
+                  "codbrokerservice.exe",
                   "codCrashHandler.exe",
                   "cod_bnet.exe",
+                  "codsecureattestationwizard.exe",
                   "concrt140.dll",
+                  "crashlogsgenerator.exe",
                   "D3D12/D3D12Core.dll",
                   "dbghelp.dll",
                   "discord_game_sdk.dll",
+                  "dlc_manifests.csv",
                   "dxcompiler.dll",
                   "dxil.dll",
+                  "enrollaik.exe",
                   "game.icn",
                   "GfeSDK.dll",
                   "GFSDK_Aftermath_Lib.x64.dll",
                   "IEShims.dll",
                   "igxess.dll",
+                  "imgui.ini",
                   "launcher.exe",
                   "libxess.dll",
                   "msvcp140.dll",
@@ -428,16 +456,26 @@
                   "oo2core_8_win64.dll",
                   "ortp_x64.dll",
                   "ReportCodBug.exe",
+                  "sl.common.dll",
+                  "sl.dlss.dll",
+                  "sl.interposer.dll",
+                  "sl.nis.dll",
+                  "sl.nrd.dll",
+                  "sl.reflex.dll",
                   "tbb.dll",
+                  "techsets_manifest.csv",
                   "telescope.dll",
+                  "telescope23.dll",
+                  "telescope23_2.dll",
                   "ucrtbase.dll",
                   "usd_ms.dll",
+                  "vcomp140.dll",
                   "vcruntime140.dll",
                   "vcruntime140_1.dll",
                   "XeFX.dll",
                   "XeFX_Loader.dll",
-                  "*.ff",
-                  "*.sodb",
+                  "*.ff*",
+                  "*.sodb*",
                   "cod26-cod.exe",
                   "ccs_history.json",
                   "dlc_manifest.csv"
