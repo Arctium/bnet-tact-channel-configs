@@ -151,12 +151,12 @@
                 "-launch",
                 "-blizzcon"
               ],
-              "regex": "show.exe|Diablo IV.exe",
-              "relative_path": "show.exe",
+              "regex": "FenrisShow.exe|Diablo IV.exe",
+              "relative_path": "FenrisShow.exe",
               "switcher": false
             }
           },
-          "binary_version_path": "show.exe",
+          "binary_version_path": "FenrisShow.exe",
           "form":
           {
             "game_dir":
@@ -248,7 +248,7 @@
                   "msvcr100.dll",
                   "nvngx_dlss.dll",
                   "ortp_x64.dll",
-                  "show.exe",
+                  "FenrisShow.exe",
                   "Tolk.dll",
                   "vcruntime140.dll",
                   "vcruntime140_1.dll",
