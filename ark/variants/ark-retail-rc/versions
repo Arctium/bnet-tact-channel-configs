@@ -14,8 +14,7 @@
     "pipelineId": 384,
     "productConfig":
     {
-      "hash": "b6aa7809029c3c37383ae3dd6007367a",
-      "id": 13671
+      "hash": "b6aa7809029c3c37383ae3dd6007367a"
     },
     "versionNumber": 2994920,
     "versionString": "1.2.0.1"

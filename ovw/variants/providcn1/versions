@@ -14,8 +14,7 @@
     "pipelineId": 299,
     "productConfig":
     {
-      "hash": "30b8946538b17f1fb06dfa88abbf5d15",
-      "id": 14816
+      "hash": "30b8946538b17f1fb06dfa88abbf5d15"
     },
     "versionNumber": 152679,
     "versionString": "2.24.1.0.152679"
@@ -33,6 +32,10 @@
     "keyRing": "",
     "path": "tpr/prov3/2",
     "pipelineId": 299,
+    "productConfig":
+    {
+      "hash": null
+    },
     "versionNumber": 149219,
     "versionString": "2.22.0.1.149219"
   }

@@ -14,8 +14,7 @@
     "pipelineId": 201,
     "productConfig":
     {
-      "hash": "5d625e01a403098c76469c94b1202bb9",
-      "id": 2019
+      "hash": "5d625e01a403098c76469c94b1202bb9"
     },
     "versionNumber": 8143487,
     "versionString": "target_8143487D_signed_ship"

@@ -14,8 +14,7 @@
     "pipelineId": 100,
     "productConfig":
     {
-      "hash": "33ef55566fba533fb84b06573f6f9682",
-      "id": 16314
+      "hash": "33ef55566fba533fb84b06573f6f9682"
     },
     "versionNumber": 9232,
     "versionString": "1.29.2.9232-legacy-tft"

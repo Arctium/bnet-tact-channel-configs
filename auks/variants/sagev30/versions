@@ -14,8 +14,7 @@
     "pipelineId": 357,
     "productConfig":
     {
-      "hash": "2fb8234e7a621acd532d30996e860299",
-      "id": 13373
+      "hash": "2fb8234e7a621acd532d30996e860299"
     },
     "versionNumber": 24536827,
     "versionString": "0.0.0.24536827d"
@@ -35,8 +34,7 @@
     "pipelineId": 357,
     "productConfig":
     {
-      "hash": "2fb8234e7a621acd532d30996e860299",
-      "id": 13373
+      "hash": "2fb8234e7a621acd532d30996e860299"
     },
     "versionNumber": 24525105,
     "versionString": "0.0.0.24525105d"
@@ -56,8 +54,7 @@
     "pipelineId": 357,
     "productConfig":
     {
-      "hash": "f84fabcb1034a2630187e2e4d46a674f",
-      "id": 14719
+      "hash": "f84fabcb1034a2630187e2e4d46a674f"
     },
     "versionNumber": 26297648,
     "versionString": "0.0.0.26297648d"

@@ -14,8 +14,7 @@
     "pipelineId": 43,
     "productConfig":
     {
-      "hash": "9f36af66b7a39a52e5f16063b0d55f50",
-      "id": 10221
+      "hash": "9f36af66b7a39a52e5f16063b0d55f50"
     },
     "versionNumber": 140469,
     "versionString": "2.17.0.1.140469.N"
@@ -35,8 +34,7 @@
     "pipelineId": 43,
     "productConfig":
     {
-      "hash": "ce29867918265b80ad04020db8126b53",
-      "id": 1632
+      "hash": "ce29867918265b80ad04020db8126b53"
     },
     "versionNumber": 151845,
     "versionString": "2.23.1.0.151845"
