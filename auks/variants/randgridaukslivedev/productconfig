@@ -7,7 +7,7 @@
       {
         "data_dir": "data",
         "decryption_key_name": "cortez_live_dev_3",
-        "product": "skuld_rose_dev_vendor",
+        "product": "randgridaukslivedev",
         "update_method": "ngdp",
         "use_service_permissions": true,
         "version_uses_hash_validation": true
@@ -24,9 +24,9 @@
             {
               "create_service":
               {
-                "binary_path": "%game%/skuld.sys",
-                "display_name": "atvi-skuld_dev",
-                "service_name": "atvi-skuld_dev",
+                "binary_path": "%game%/randgrid.sys",
+                "display_name": "atvi-randgrid_live_dev",
+                "service_name": "atvi-randgrid_live_dev",
                 "service_type": "kernelDriver",
                 "start_type": "onDemand"
               }
@@ -50,7 +50,7 @@
               {
                 "relative_paths":
                 [
-                  "skuld.sys"
+                  "randgrid.sys"
                 ],
                 "root": "%game%"
               }
@@ -58,7 +58,7 @@
             {
               "delete_service":
               {
-                "service_name": "atvi-skuld_dev"
+                "service_name": "atvi-randgrid_live_dev"
               }
             }
           ]
