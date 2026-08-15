@@ -467,7 +467,7 @@
         "casc_supports_1023_archives": true,
         "component_dependencies":
         [
-          "skuld_rose_a_dev"
+          "skuld_rose_a_dev2"
         ],
         "data_dir": "Data/",
         "decryption_key_name": "rosevendor",
