@@ -1,22 +1,22 @@
 {
-  "eu+us":
-  {
-    "hosts":
-    [
-      {
-        "host": "http://level3.blizzard.com?maxhosts=10"
-      },
-      {
-        "host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"
-      }
-    ]
-  },
   "kr":
   {
     "hosts":
     [
       {
         "host": "http://level3.blizzard.com?maxhosts=5"
+      },
+      {
+        "host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"
+      }
+    ]
+  },
+  "us+eu":
+  {
+    "hosts":
+    [
+      {
+        "host": "http://level3.blizzard.com?maxhosts=10"
       },
       {
         "host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"
