@@ -149,7 +149,8 @@
               [
                 "-sso",
                 "-launch",
-                "-blizzcon"
+                "-blizzcon",
+                "Online.EnvironmentLabels=EXP1"
               ],
               "regex": "FenrisShow.exe|Diablo IV.exe",
               "relative_path": "FenrisShow.exe",
