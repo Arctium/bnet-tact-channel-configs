@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "prometheus-2_24_0_0-152690-CN-NEAC",
-      "token": "1d1039e5-ef00-45c4-9d06-9c31e9896d03"
+      "name": "prometheus-2_24_0_3-152850-CN-NEAC",
+      "token": "c696aade-1c42-4083-bfb2-6bda8ab4f4c8"
     },
-    "buildKey": "a1175be404bb8e9c989eb500de147187",
-    "cdnKey": "9bc00c256850094c37efe1809cd5979a",
+    "buildKey": "13dfb6d916d3f94f731c3ccac804a08a",
+    "cdnKey": "8fc00a4b7591b582f491434ece2f267a",
     "keyRing": "3dabb1bf65a3a797ccc6eff63c51b509",
     "path": "tpr/ovw",
     "pipelineId": 43,
@@ -17,19 +17,19 @@
       "cdnPath": "",
       "hash": "14d469785b47c23da0592db533b757ec"
     },
-    "versionNumber": 152690,
-    "versionString": "2.24.0.0.152690N"
+    "versionNumber": 152850,
+    "versionString": "2.24.0.3.152850N"
   },
   "eu+kr+us":
   {
     "armadilloKey": "",
     "build":
     {
-      "name": "prometheus-2_24_0_0-152690",
-      "token": "24bc34f9-4dc3-4018-a832-d4ca75e4a16e"
+      "name": "prometheus-2_24_0_3-152850",
+      "token": "c134628f-5109-4221-b0f9-297a4ef1f2fc"
     },
-    "buildKey": "6198b7ec997c29f16ba5daaf4380bf37",
-    "cdnKey": "adeb02dbd594917bcb4c1b072e3684f6",
+    "buildKey": "e6665c7da99b37f2772b0298e5f566cd",
+    "cdnKey": "cff40b30c5269a55e63e36bd7babfaf8",
     "keyRing": "3dabb1bf65a3a797ccc6eff63c51b509",
     "path": "tpr/ovw",
     "pipelineId": 43,
@@ -38,19 +38,19 @@
       "cdnPath": "",
       "hash": "3ac04cec5bcdf18c4a37e0bdc3c2a6a3"
     },
-    "versionNumber": 152690,
-    "versionString": "2.24.0.0.152690"
+    "versionNumber": 152850,
+    "versionString": "2.24.0.3.152850"
   },
   "nexon":
   {
     "armadilloKey": "",
     "build":
     {
-      "name": "prometheus-2_24_0_1-152688-KR-NGSX",
-      "token": "fee4378d-3c3e-45c7-9171-083163d08e0a"
+      "name": "prometheus-2_24_0_3-152850-KR-NGSX-SDKUpdate",
+      "token": "14a48d06-2747-43e3-93f6-69b7e8caa534"
     },
-    "buildKey": "15265d7e98b9fb9b8872baee99c4587f",
-    "cdnKey": "265280aac13bc5cfc8d78a1de94e8109",
+    "buildKey": "c19448f3ef1593dc8e075f094c2d2363",
+    "cdnKey": "87c1d4feff88924289dce3f6104b48f8",
     "keyRing": "3dabb1bf65a3a797ccc6eff63c51b509",
     "path": "tpr/ovw",
     "pipelineId": 43,
@@ -59,7 +59,7 @@
       "cdnPath": "",
       "hash": "46035974354aca0e79028f98fe0a6ae4"
     },
-    "versionNumber": 152688,
-    "versionString": "2.24.0.1.152688"
+    "versionNumber": 152850,
+    "versionString": "2.24.0.3.152850K"
   }
 }
