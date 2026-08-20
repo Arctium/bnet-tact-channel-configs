@@ -14,6 +14,7 @@
     "pipelineId": 192,
     "productConfig":
     {
+      "cdnPath": "",
       "hash": "04681c93ff00e549dc44852a3be2270e"
     },
     "versionNumber": 12273715,
@@ -34,6 +35,7 @@
     "pipelineId": 192,
     "productConfig":
     {
+      "cdnPath": "",
       "hash": "04681c93ff00e549dc44852a3be2270e"
     },
     "versionNumber": 11460137,
@@ -54,6 +56,7 @@
     "pipelineId": 192,
     "productConfig":
     {
+      "cdnPath": "",
       "hash": "e47bb7ab5d6c68946e08423ee040a345"
     },
     "versionNumber": 12273715,
