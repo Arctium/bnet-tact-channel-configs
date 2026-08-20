@@ -4,20 +4,21 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "prometheus-2_24_0_3-152850-KR-NGSX-prodev14-SDKUpdate",
-      "token": "e0d7cbcf-0a0e-4630-bb26-5d7a13a6ad46"
+      "name": "prometheus-2_24_1_0-152935-KR-NGSX-prodev14",
+      "token": "72779881-d5f4-4081-ae89-846ac2291367"
     },
-    "buildKey": "ae034eb0fd1e3f6002ae34b530a99ed9",
-    "cdnKey": "1bcf44318082ab75d07c8b0e126e1994",
+    "buildKey": "da9e4b2d6633545d45ff1760335859cf",
+    "cdnKey": "9298b7bc6f247afa7081c3e29a9618c2",
     "keyRing": "",
     "path": "tpr/proa2",
     "pipelineId": 266,
     "productConfig":
     {
+      "cdnPath": "",
       "hash": "0fa772552c345eed6354578e49e37f10"
     },
-    "versionNumber": 152850,
-    "versionString": "2.24.0.3.152850S"
+    "versionNumber": 152935,
+    "versionString": "2.24.1.0.152935"
   },
   "us":
   {
@@ -34,6 +35,7 @@
     "pipelineId": 266,
     "productConfig":
     {
+      "cdnPath": "",
       "hash": "2fdb88c456578a7467b01483f70b9eef"
     },
     "versionNumber": 152903,

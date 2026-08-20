@@ -14,7 +14,8 @@
     "pipelineId": 107,
     "productConfig":
     {
-      "hash": null
+      "cdnPath": "",
+      "hash": ""
     },
     "versionNumber": 28,
     "versionString": "928"
@@ -34,7 +35,8 @@
     "pipelineId": 107,
     "productConfig":
     {
-      "hash": null
+      "cdnPath": "",
+      "hash": ""
     },
     "versionNumber": 18,
     "versionString": "977"
@@ -54,7 +56,8 @@
     "pipelineId": 107,
     "productConfig":
     {
-      "hash": null
+      "cdnPath": "",
+      "hash": ""
     },
     "versionNumber": 25,
     "versionString": "1029"
@@ -74,7 +77,8 @@
     "pipelineId": 107,
     "productConfig":
     {
-      "hash": null
+      "cdnPath": "",
+      "hash": ""
     },
     "versionNumber": 32,
     "versionString": "1136"
@@ -94,7 +98,8 @@
     "pipelineId": 107,
     "productConfig":
     {
-      "hash": null
+      "cdnPath": "",
+      "hash": ""
     },
     "versionNumber": 149,
     "versionString": "1590"
@@ -114,7 +119,8 @@
     "pipelineId": 107,
     "productConfig":
     {
-      "hash": null
+      "cdnPath": "",
+      "hash": ""
     },
     "versionNumber": 68,
     "versionString": "1747"
@@ -134,7 +140,8 @@
     "pipelineId": 107,
     "productConfig":
     {
-      "hash": null
+      "cdnPath": "",
+      "hash": ""
     },
     "versionNumber": 422,
     "versionString": "2547"
@@ -154,7 +161,8 @@
     "pipelineId": 107,
     "productConfig":
     {
-      "hash": null
+      "cdnPath": "",
+      "hash": ""
     },
     "versionNumber": 346,
     "versionString": "4998"
