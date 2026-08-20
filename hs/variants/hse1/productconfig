@@ -1,5 +1,5 @@
 {
-  "cn+us":
+  "us":
   {
     "all":
     {
@@ -7,7 +7,7 @@
       {
         "containerless_do_clean_up": true,
         "data_dir": "Data/",
-        "decryption_key_name": "hse1",
+        "decryption_key_name": "hs_live_event_1",
         "display_locales":
         [
           "deDE",
@@ -445,18 +445,18 @@
             "game_dir":
             {
               "default": "Applications",
-              "required_space": 3000000000.0,
+              "required_space": 12000000000.0,
               "space_per_extra_language": 180000000.0
             }
           },
           "min_spec":
           {
             "default_required_cpu_cores": 2,
-            "default_required_cpu_speed": 2200,
-            "default_required_ram": 2048,
+            "default_required_cpu_speed": 2000,
+            "default_required_ram": 8192,
             "required_osspecs":
             {
-              "10.12":
+              "12.0":
               {
                 "required_subversion": 0
               }
@@ -556,18 +556,18 @@
             "game_dir":
             {
               "default": "Program Files",
-              "required_space": 3000000000.0,
+              "required_space": 12000000000.0,
               "space_per_extra_language": 170000000.0
             }
           },
           "min_spec":
           {
-            "default_required_cpu_cores": 1,
-            "default_required_cpu_speed": 2600,
-            "default_required_ram": 2048,
+            "default_required_cpu_cores": 2,
+            "default_required_cpu_speed": 3700,
+            "default_required_ram": 8192,
             "required_osspecs":
             {
-              "6.1":
+              "10.0.0.19043":
               {
                 "required_subversion": 0
               }
