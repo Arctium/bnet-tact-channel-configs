@@ -14,6 +14,7 @@
     "pipelineId": 318,
     "productConfig":
     {
+      "cdnPath": "",
       "hash": "6d390362cc9433216b6c7978d7f11a9e"
     },
     "versionNumber": 21065833,
