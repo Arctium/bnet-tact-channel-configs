@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "76bf50dc0b15c844054a7a9df227c6a6-5022",
-      "token": "a5059bea-9a41-43a8-9df2-4d8c50985bb7"
+      "name": "baf23b08c9baa015fd3dd2f6c104fd84-5023",
+      "token": "c767f3c3-c20e-4fb3-a916-e694ee8e51aa"
     },
-    "buildKey": "2ed889b9b421a9f9213f67ac8c223686",
-    "cdnKey": "1a8a770e1d250cdfc57abae814bb3049",
+    "buildKey": "729e03723907a8185cd0cd312a6d14e1",
+    "cdnKey": "da70dbeb5103b158f6f748fbbc94a532",
     "keyRing": "",
     "path": "tpr/catalogs",
     "pipelineId": 107,
@@ -18,6 +18,6 @@
       "hash": ""
     },
     "versionNumber": 351,
-    "versionString": "5022"
+    "versionString": "5023"
   }
 }
