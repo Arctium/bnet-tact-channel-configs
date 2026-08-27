@@ -1,23 +1,23 @@
 {
-  "eu+kr+us":
+  "us":
   {
     "armadilloKey": "",
     "build":
     {
-      "name": "Cortez_Dev-rekey_test_dummy",
-      "token": "0fe36769-50e9-4cbf-a794-536c9068a3b4"
+      "name": "COD_MW4_CIB2_Rekey_auksdev",
+      "token": "4bcd67d1-e0d3-4580-8f43-464a7aff6151"
     },
-    "buildKey": "d2dd577fc9d1f5a245fda89b639314f4",
-    "cdnKey": "29fb366bb69febe223bfa10a50366958",
+    "buildKey": "67d11025be3e26df5f0405079c98b35d",
+    "cdnKey": "76794da81f0e14cc43440c7d1035e6c0",
     "keyRing": "",
-    "path": "tpr/auksdev/4",
+    "path": "tpr/auksdev/5",
     "pipelineId": 235,
     "productConfig":
     {
       "cdnPath": "",
-      "hash": "fb3484e5ec94712e71c40c05848ecb19"
+      "hash": ""
     },
     "versionNumber": 1,
-    "versionString": "0"
+    "versionString": "1"
   }
 }
