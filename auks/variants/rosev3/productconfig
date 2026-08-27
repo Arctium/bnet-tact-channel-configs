@@ -926,7 +926,7 @@
         "casc_supports_1023_archives": true,
         "component_dependencies":
         [
-          "randgridroseaqa2"
+          "randgridroseaqa"
         ],
         "data_dir": "Data/",
         "decryption_key_name": "rosevendor",
