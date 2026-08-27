@@ -1,0 +1,38 @@
+{
+  "eu":
+  {
+    "hosts":
+    [
+      {
+        "host": "http://eu.cdn.blizzard.com?maxhosts=5"
+      },
+      {
+        "host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"
+      }
+    ]
+  },
+  "kr":
+  {
+    "hosts":
+    [
+      {
+        "host": "http://kr.cdn.blizzard.com?maxhosts=5"
+      },
+      {
+        "host": "https://kr.cdn.blizzard.com?maxhosts=5&fallback=1"
+      }
+    ]
+  },
+  "us":
+  {
+    "hosts":
+    [
+      {
+        "host": "http://us.cdn.blizzard.com?maxhosts=5"
+      },
+      {
+        "host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"
+      }
+    ]
+  }
+}
