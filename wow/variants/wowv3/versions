@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "WOW-69492patch12.1.5_Vendor3",
-      "token": "518104ce-21bb-4bfe-ab78-010c3d39e9ea"
+      "name": "WOW-69538patch12.1.5_Vendor3",
+      "token": "380f7a53-125e-45f3-ab81-70c178186fd7"
     },
-    "buildKey": "9226cf00c0bfa037c76990c07c234930",
-    "cdnKey": "fe3e2a421d54a34fc245911d5efb52b9",
+    "buildKey": "7c52d5392a185af2cc5a0be28f1e2ec6",
+    "cdnKey": "638c5f6ea2b064b36ba77621f14f6eeb",
     "keyRing": "",
     "path": "tpr/wowv",
     "pipelineId": 163,
@@ -17,7 +17,7 @@
       "cdnPath": "",
       "hash": "cf360929ce16bb0d52f1020676c3fc5a"
     },
-    "versionNumber": 69492,
-    "versionString": "12.1.5.69492"
+    "versionNumber": 69538,
+    "versionString": "12.1.5.69538"
   }
 }
