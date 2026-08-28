@@ -4,12 +4,12 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "Arkansas_4017171",
-      "token": "c2c4be60-95fc-4f37-920c-5546e05105ab"
+      "name": "Arkansas_4017337",
+      "token": "c73ac49b-61fc-48d1-b00e-4fb254fe7e23"
     },
-    "buildKey": "e5eaf765e4850ef6002d81a731f4db0a",
-    "cdnKey": "66153e3b61855cb57e950af831bbed18",
-    "keyRing": "240635d0857435529f4f0e283f8fe32c",
+    "buildKey": "b42dfb29d32c7b3d7393dee25f3869b3",
+    "cdnKey": "42e2beb0e58d5d57ad1eb623ba31191b",
+    "keyRing": "5d28beb2ff0316e90afca9305a9451d0",
     "path": "tpr/arkdev",
     "pipelineId": 383,
     "productConfig":
