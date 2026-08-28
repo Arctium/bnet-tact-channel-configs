@@ -1,5 +1,5 @@
 {
-  "eu+kr+us":
+  "us":
   {
     "all":
     {
@@ -11,7 +11,7 @@
           "skuld_rose_dev_vendor"
         ],
         "data_dir": "Data/",
-        "decryption_key_name": "cortez_live_dev_3",
+        "decryption_key_name": "cortez_live_dev_4",
         "enable_block_copy_patch": true,
         "form":
         {
@@ -474,8 +474,8 @@
                   "vcruntime140_1.dll",
                   "XeFX.dll",
                   "XeFX_Loader.dll",
-                  "*.ff*",
-                  "*.sodb*",
+                  "*.ff",
+                  "*.sodb",
                   "cod26-cod.exe",
                   "ccs_history.json",
                   "dlc_manifest.csv"
