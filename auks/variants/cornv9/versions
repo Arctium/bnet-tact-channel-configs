@@ -1,35 +1,14 @@
 {
-  "eu":
-  {
-    "armadilloKey": "",
-    "build":
-    {
-      "name": "trunk_28043308_zul_sp_bnet_v9_dev",
-      "token": "7cfb660f-cf5b-48d2-893f-d0ca0817ef98"
-    },
-    "buildKey": "a69e84838afd6d396650aed20ef2ac83",
-    "cdnKey": "82bc2c200465ed93c7e37a15aea479c9",
-    "keyRing": "",
-    "path": "tpr/cornv",
-    "pipelineId": 376,
-    "productConfig":
-    {
-      "cdnPath": "",
-      "hash": "dd79bba13d6fe85220a1ad73b43d29b2"
-    },
-    "versionNumber": 28043308,
-    "versionString": "0.0.0.28043308d"
-  },
   "kr":
   {
     "armadilloKey": "",
     "build":
     {
-      "name": "trunk_27965532_zul_full_bnet_v9_dev",
-      "token": "1d2e2c4d-8af6-4fd5-835e-401bf3bfec66"
+      "name": "trunk_28713667_zul_sp_bnet_v9_dev",
+      "token": "fd7166f3-bf02-4484-a510-4971100524ba"
     },
-    "buildKey": "ff4b100e07d196c38b4121891a918092",
-    "cdnKey": "3f5f45a75bf65069b3f02d22ca7d7e3e",
+    "buildKey": "e7881eabd48df3b8653fcc1f1be0c46a",
+    "cdnKey": "ffce0a38570cd1f4fbd1851e0cff2ebd",
     "keyRing": "",
     "path": "tpr/cornv",
     "pipelineId": 376,
@@ -38,19 +17,19 @@
       "cdnPath": "",
       "hash": "dd79bba13d6fe85220a1ad73b43d29b2"
     },
-    "versionNumber": 27965532,
-    "versionString": "0.0.0.27965532d"
+    "versionNumber": 28713667,
+    "versionString": "0.0.0.28713667d"
   },
   "us":
   {
     "armadilloKey": "",
     "build":
     {
-      "name": "trunk_27984860_zul_full_bnet_v9_dev",
-      "token": "c48066db-586a-4515-8fed-79aa0e6e8a95"
+      "name": "trunk_28706147_zul_full_bnet_v9_dev",
+      "token": "2a5001ee-54e7-4e87-9b1f-4b439b96f83e"
     },
-    "buildKey": "8110fb04b0ab5f14ccf7196aa719bc6d",
-    "cdnKey": "f8efedab9c6bb33b7a55289ca69d934c",
+    "buildKey": "707e8ce5fefd660fb8765d783970cebd",
+    "cdnKey": "86da9c71783761f65e85bd2d1388430d",
     "keyRing": "",
     "path": "tpr/cornv",
     "pipelineId": 376,
@@ -59,7 +38,7 @@
       "cdnPath": "",
       "hash": "dd79bba13d6fe85220a1ad73b43d29b2"
     },
-    "versionNumber": 27984861,
-    "versionString": "0.0.0.27984860d"
+    "versionNumber": 28706147,
+    "versionString": "0.0.0.28706147d"
   }
 }
