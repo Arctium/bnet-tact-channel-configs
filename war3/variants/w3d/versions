@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "2.0.4.24211-live-dev",
-      "token": "524a6bb7-0319-4ad6-a990-ed6ef355c934"
+      "name": "2.0.4.24220-live-dev",
+      "token": "7e09fcc4-127c-4fcf-a4b2-1e4f304dde6e"
     },
-    "buildKey": "4208da9cf4b3d66d6521444fdd276c67",
-    "cdnKey": "12015e60362600eb77f0115e8a44935c",
+    "buildKey": "a0746452209b8ee513b24e8a84330ea9",
+    "cdnKey": "1def2b0fc11a50f279542d8848ebf735",
     "keyRing": "",
     "path": "tpr/war3-live-dev/",
     "pipelineId": 284,
@@ -17,7 +17,7 @@
       "cdnPath": "",
       "hash": "979aa7477e04827d0dbd381816302dc7"
     },
-    "versionNumber": 24211,
-    "versionString": "2.0.4.24211"
+    "versionNumber": 24220,
+    "versionString": "2.0.4.24220"
   }
 }
