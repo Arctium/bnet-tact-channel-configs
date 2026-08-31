@@ -1,56 +1,14 @@
 {
-  "eu":
-  {
-    "armadilloKey": "",
-    "build":
-    {
-      "name": "release_27898574_zul_gl_feature_bnet_v15_dev",
-      "token": "fd32aeec-1b28-42ce-bae8-3d302063a51c"
-    },
-    "buildKey": "846f097ebf7e857fb2ae56bf8f3fb53d",
-    "cdnKey": "84f06a4676d6bfb50698396ddd1e2305",
-    "keyRing": "",
-    "path": "tpr/cornv",
-    "pipelineId": 376,
-    "productConfig":
-    {
-      "cdnPath": "",
-      "hash": "6f543d000d2be600403e7766b85565d1"
-    },
-    "versionNumber": 27898574,
-    "versionString": "0.0.0.27898574d"
-  },
-  "kr":
-  {
-    "armadilloKey": "",
-    "build":
-    {
-      "name": "trunk_27984860_zul_full_bnet_v15_dev",
-      "token": "d0f6100d-7524-4660-a14e-77412ab6eb2a"
-    },
-    "buildKey": "b33771304070ab274298b6d581e0ae70",
-    "cdnKey": "04091cf712452e297f4d3c9a0a0d9eab",
-    "keyRing": "",
-    "path": "tpr/cornv",
-    "pipelineId": 376,
-    "productConfig":
-    {
-      "cdnPath": "",
-      "hash": "6f543d000d2be600403e7766b85565d1"
-    },
-    "versionNumber": 27984860,
-    "versionString": "0.0.0.27984860d"
-  },
   "us":
   {
     "armadilloKey": "",
     "build":
     {
-      "name": "trunk_27965532_zul_full_bnet_v15_dev",
-      "token": "590b9667-ebf8-4d85-82b2-b264cb9c2321"
+      "name": "trunk_28746150_zul_full_bnet_v15_dev",
+      "token": "5fdaa80e-58ce-4aa6-8763-ccc8c13d7f39"
     },
-    "buildKey": "0c3e20a7274eabe05f5857f786f5ad16",
-    "cdnKey": "3f5f45a75bf65069b3f02d22ca7d7e3e",
+    "buildKey": "801ee834c964783027ae98757c81e642",
+    "cdnKey": "399a33c3fd91a96b7834fbd56a10e63a",
     "keyRing": "",
     "path": "tpr/cornv",
     "pipelineId": 376,
@@ -59,7 +17,7 @@
       "cdnPath": "",
       "hash": "6f543d000d2be600403e7766b85565d1"
     },
-    "versionNumber": 27965532,
-    "versionString": "0.0.0.27965532d"
+    "versionNumber": 28746150,
+    "versionString": "0.0.0.28746150d"
   }
 }
