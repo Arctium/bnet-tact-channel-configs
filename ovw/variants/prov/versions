@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "prometheus-2_25_0_0-153306-Vendor",
-      "token": "789777fa-c0c8-4a6f-81bb-e7bc811d668b"
+      "name": "prometheus-2_24_1_0-153258-Vendor",
+      "token": "34311221-9148-4192-866d-5053d74c5750"
     },
-    "buildKey": "dd903917694c2ff6732d267fb6874867",
-    "cdnKey": "f4a9cbf3017d424de4223a27e005eac5",
+    "buildKey": "efe6788d741241bbea656eed9315d072",
+    "cdnKey": "d2b453f0bc7855fe2cf4e2e87537663e",
     "keyRing": "",
     "path": "tpr/prov",
     "pipelineId": 162,
@@ -17,7 +17,7 @@
       "cdnPath": "",
       "hash": "365c79ca8a0f4c578652a7c93130e605"
     },
-    "versionNumber": 153306,
-    "versionString": "2.25.0.0.153306"
+    "versionNumber": 153258,
+    "versionString": "2.24.1.0.153258"
   }
 }
