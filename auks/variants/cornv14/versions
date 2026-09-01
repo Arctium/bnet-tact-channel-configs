@@ -25,11 +25,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "trunk_28685956_zul_3m_bnet_v14_dev",
-      "token": "65277c24-783f-4f28-a1e8-0e8a7975599d"
+      "name": "trunk_28769115_zul_3m_bnet_v14_dev",
+      "token": "8f6e3347-08bd-4251-bfbd-4b55e151ecd9"
     },
-    "buildKey": "a7403fd71190df5e420b9922441889ae",
-    "cdnKey": "f1c068ca1152ad5de097d55d0507b0fa",
+    "buildKey": "91cdccce0f074085b76d4c709c09015d",
+    "cdnKey": "e12e8885477163a1dda058c098db8b1c",
     "keyRing": "",
     "path": "tpr/cornv",
     "pipelineId": 376,
@@ -38,8 +38,8 @@
       "cdnPath": "",
       "hash": "157859ad60cca2f9650a39291c1d6bfb"
     },
-    "versionNumber": 28685956,
-    "versionString": "0.0.0.28685956d"
+    "versionNumber": 28769115,
+    "versionString": "0.0.0.28769115d"
   },
   "us":
   {
