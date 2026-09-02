@@ -1,5 +1,5 @@
 {
-  "cn+eu+kr+sg+tw+xx":
+  "cn+kr+sg+tw+xx":
   {
     "all":
     {
@@ -1082,7 +1082,7 @@
       }
     }
   },
-  "us":
+  "eu+us":
   {
     "all":
     {
