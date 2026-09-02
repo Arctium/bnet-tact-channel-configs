@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "WOW-69606patch1.60.0_Test",
-      "token": "f18bf61d-4528-499c-9b66-c24329f87ca6"
+      "name": "WOW-69639patch1.60.0_Test",
+      "token": "acbfa0d5-b4c6-42da-9397-06aee99439b0"
     },
-    "buildKey": "c22784b1b235bea8ad8056d1c8eedfc3",
-    "cdnKey": "ff0a4724747f444c15622ca14be302d3",
+    "buildKey": "f3912af242b58479d9c932afea421a70",
+    "cdnKey": "dea71190e9d78c87bf5395e6db7c920c",
     "keyRing": "",
     "path": "tpr/wowdev/1",
     "pipelineId": 56,
@@ -17,7 +17,7 @@
       "cdnPath": "",
       "hash": "c91c9b31b01687baed3cfd50e4749cfc"
     },
-    "versionNumber": 69606,
-    "versionString": "1.60.0.69606"
+    "versionNumber": 69639,
+    "versionString": "1.60.0.69639"
   }
 }
