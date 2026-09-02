@@ -4,48 +4,6 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "trunk_28746182_rex_autobuild_mp_bnet_v1_dev",
-      "token": "a534c165-9aa3-43a4-b98c-4d90d696e433"
-    },
-    "buildKey": "cb0df261b6c567944a0387c2616e73ee",
-    "cdnKey": "2084eed7bd92f4dc33d2fdf8eaea5ea9",
-    "keyRing": "",
-    "path": "tpr/rosev",
-    "pipelineId": 302,
-    "productConfig":
-    {
-      "cdnPath": "",
-      "hash": "2ec36df825c9a01c327f11ea3248e0a9"
-    },
-    "versionNumber": 28746182,
-    "versionString": "0.0.0.28746182d"
-  },
-  "kr":
-  {
-    "armadilloKey": "",
-    "build":
-    {
-      "name": "trunk_28709199_rex_autobuild_mp_bnet_v1_dev",
-      "token": "618a6a1f-5707-486a-9f86-d64dc2de989e"
-    },
-    "buildKey": "17bd90b1e9d4983fb9e0409c42100b16",
-    "cdnKey": "8b88bd87524ab46cdc6bcb18bd1bcef9",
-    "keyRing": "",
-    "path": "tpr/rosev",
-    "pipelineId": 302,
-    "productConfig":
-    {
-      "cdnPath": "",
-      "hash": "467441e2e1db6db05f4802dcd13e6952"
-    },
-    "versionNumber": 28709199,
-    "versionString": "0.0.0.28709199d"
-  },
-  "us":
-  {
-    "armadilloKey": "",
-    "build":
-    {
       "name": "trunk_28766009_rex_autobuild_mp_bnet_v1_dev",
       "token": "2075d647-e5bf-434f-bf31-1d6f7dc3d3b0"
     },
@@ -61,5 +19,47 @@
     },
     "versionNumber": 28766009,
     "versionString": "0.0.0.28766009d"
+  },
+  "kr":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "trunk_28746182_rex_autobuild_mp_bnet_v1_dev",
+      "token": "a534c165-9aa3-43a4-b98c-4d90d696e433"
+    },
+    "buildKey": "cb0df261b6c567944a0387c2616e73ee",
+    "cdnKey": "2084eed7bd92f4dc33d2fdf8eaea5ea9",
+    "keyRing": "",
+    "path": "tpr/rosev",
+    "pipelineId": 302,
+    "productConfig":
+    {
+      "cdnPath": "",
+      "hash": "467441e2e1db6db05f4802dcd13e6952"
+    },
+    "versionNumber": 28746182,
+    "versionString": "0.0.0.28746182d"
+  },
+  "us":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "trunk_28790961_rex_autobuild_mp_bnet_v1_dev",
+      "token": "9363f7fc-bacb-4ed9-a581-6c24106c1821"
+    },
+    "buildKey": "95e2f3df9069de393afd6dda0c32a10d",
+    "cdnKey": "b5535cd70c69d665f62f7952214af3d7",
+    "keyRing": "",
+    "path": "tpr/rosev",
+    "pipelineId": 302,
+    "productConfig":
+    {
+      "cdnPath": "",
+      "hash": "2ec36df825c9a01c327f11ea3248e0a9"
+    },
+    "versionNumber": 28790961,
+    "versionString": "0.0.0.28790961d"
   }
 }
