@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "release_28766000_cod26_tu0_signed_bnet_v6_dev",
-      "token": "5580799a-4f72-4a44-8f8e-8139f31eaf03"
+      "name": "release_28788527_cod26_tu0_signed_bnet_v6_dev",
+      "token": "d30c1577-63cf-4e68-bf87-5a711e2abae9"
     },
-    "buildKey": "077e6f5a623b4737283fa8839c88d53e",
-    "cdnKey": "f19a546d0106673a044da9250a97cbc3",
+    "buildKey": "b4097575b872e0f5fa1b55bfeb2b2c1e",
+    "cdnKey": "ce4d7dda5dcc6508c056c122ff400f7c",
     "keyRing": "",
     "path": "tpr/rosev",
     "pipelineId": 302,
@@ -17,19 +17,19 @@
       "cdnPath": "",
       "hash": "0c3b1af2587bcd51a2ff583feed875f5"
     },
-    "versionNumber": 28766001,
-    "versionString": "0.0.1.28766000d"
+    "versionNumber": 28788527,
+    "versionString": "0.0.1.28788527d"
   },
   "us":
   {
     "armadilloKey": "",
     "build":
     {
-      "name": "release_28766000_cod26_tu0_signed_bnet_v6_ship_r3",
-      "token": "eb48db54-3eaf-4709-bd5f-2e46cd897772"
+      "name": "release_28788527_cod26_tu0_signed_bnet_v6_ship",
+      "token": "c9c26805-9cad-444e-b795-13eafff733d2"
     },
-    "buildKey": "39ed5db0d6f72eac7b80d2feb1e84cba",
-    "cdnKey": "f0dde81c9d3e7e2414b65f09416c59f4",
+    "buildKey": "12e9b1ec147af3b0753f6fa385ee4188",
+    "cdnKey": "0766e4f45d8479b599340cc3c5d7a637",
     "keyRing": "",
     "path": "tpr/rosev",
     "pipelineId": 302,
@@ -38,7 +38,7 @@
       "cdnPath": "",
       "hash": "69f885583c5ae801d2a62bd7e48257d0"
     },
-    "versionNumber": 28766001,
-    "versionString": "0.0.1.28766000d"
+    "versionNumber": 28788527,
+    "versionString": "0.0.1.28788527d"
   }
 }
