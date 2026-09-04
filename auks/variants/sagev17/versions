@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "main_28766772_sat_clean_launch_bnet_v17_dev",
-      "token": "d6bc8678-80af-49fb-a7d0-054b493a0e62"
+      "name": "main_28824225_sat_clean_launch_bnet_v17_dev",
+      "token": "c5c4b5b4-6226-4c86-88bb-49c279535564"
     },
-    "buildKey": "a4736695ff9e6ed68395b323780d3b28",
-    "cdnKey": "4afc13f96834ab60239b583243c65381",
+    "buildKey": "c371d6b5f6b5734136778de5369e8a4e",
+    "cdnKey": "7f745193be6c492f8212775554a3123e",
     "keyRing": "",
     "path": "tpr/sagev",
     "pipelineId": 304,
@@ -17,8 +17,8 @@
       "cdnPath": "",
       "hash": "76f13b4874285b4cc18560fe657b30e5"
     },
-    "versionNumber": 28766772,
-    "versionString": "0.0.1.28766772d"
+    "versionNumber": 28824225,
+    "versionString": "0.0.1.28824225d"
   },
   "us":
   {
