@@ -1,5 +1,5 @@
 {
-  "eu+us":
+  "eu+kr+us":
   {
     "all":
     {
@@ -8,7 +8,7 @@
         "casc_language_agnostic": true,
         "containerless_checksizeonly": false,
         "data_dir": "Data/",
-        "decryption_key_name": "lyra_live_dev_1",
+        "decryption_key_name": "lyra_live_dev_2",
         "form":
         {
           "game_dir":
