@@ -1,14 +1,14 @@
 {
-  "cn":
+  "sg+us":
   {
     "armadilloKey": "",
     "build":
     {
-      "name": "B89566",
-      "token": "2d5c1dae-fb6e-4eed-9123-4dddba866be1"
+      "name": "B98025",
+      "token": "0613238f-f714-46ae-ad20-0dfcc9246e3c"
     },
-    "buildKey": "a1eb46877f0c27e66f1dcd169866b34b",
-    "cdnKey": "dd34a66867f0b57459176999fbc848a6",
+    "buildKey": "85b6b7f4853fc597e4754e9e96b8f4fd",
+    "cdnKey": "ebab45d856706166350e5a4f343fad3e",
     "keyRing": "",
     "path": "tpr/Hero-Live-a",
     "pipelineId": 10,
@@ -17,28 +17,7 @@
       "cdnPath": "",
       "hash": "a0c5874544505acfa8952db0b0a4e48f"
     },
-    "versionNumber": 89566,
-    "versionString": "2.55.3.89566"
-  },
-  "eu+kr+sg+tw+us":
-  {
-    "armadilloKey": "",
-    "build":
-    {
-      "name": "B97771",
-      "token": "a07927ca-0112-4da5-84d2-b2d8f9484292"
-    },
-    "buildKey": "8c9b7d1cb91b046aa4efb91db5364710",
-    "cdnKey": "649138484b857978ae5c73772091d880",
-    "keyRing": "",
-    "path": "tpr/Hero-Live-a",
-    "pipelineId": 10,
-    "productConfig":
-    {
-      "cdnPath": "",
-      "hash": "a0c5874544505acfa8952db0b0a4e48f"
-    },
-    "versionNumber": 97771,
-    "versionString": "2.55.17.97771"
+    "versionNumber": 98025,
+    "versionString": "2.55.17.98025"
   }
 }
