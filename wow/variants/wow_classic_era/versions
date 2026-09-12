@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "WOW-69547patch1.15.9_ClassicRetail",
-      "token": "1187b40f-a36b-4a92-99d1-3551f1013575"
+      "name": "WOW-69722patch1.15.9_ClassicRetail",
+      "token": "18741ef0-8f77-46fb-a8d4-75a730ee87a2"
     },
-    "buildKey": "55a2b292067e36e7aabd71a6352ffe48",
-    "cdnKey": "398d82cf8744c49f5cdd1a06dc7f032c",
+    "buildKey": "3645f0fe9dc5215ea90eaf7cdb7379ce",
+    "cdnKey": "2d02f2213aa6c27c891a8bf2300cc98e",
     "keyRing": "",
     "path": "tpr/wow",
     "pipelineId": 19,
@@ -17,7 +17,7 @@
       "cdnPath": "",
       "hash": "c9934edfc8f217a2e01c47e4deae8454"
     },
-    "versionNumber": 69547,
-    "versionString": "1.15.9.69547"
+    "versionNumber": 69722,
+    "versionString": "1.15.9.69722"
   }
 }
