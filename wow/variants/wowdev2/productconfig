@@ -7,7 +7,7 @@
       {
         "beta": false,
         "data_dir": "Data/",
-        "decryption_key_name": "wowdevalpha",
+        "decryption_key_name": "wow_live_dev_01",
         "enable_block_copy_patch": true,
         "form":
         {
@@ -120,12 +120,12 @@
             "game":
             {
               "launch_arguments": [],
-              "relative_path": "World of Warcraft Classic Test.app",
+              "relative_path": "World of Warcraft Test.app",
               "switcher": false
             }
           },
-          "binary_launch_path": "World of Warcraft Classic Test.app",
-          "binary_version_path": "World of Warcraft Classic Test.app",
+          "binary_launch_path": "World of Warcraft Test.app",
+          "binary_version_path": "World of Warcraft Test.app",
           "form":
           {
             "game_dir":
@@ -187,7 +187,7 @@
                   "World of Warcraft Launcher.app",
                   "World of Warcraft Beta.app",
                   "World of Warcraft Classic Beta.app",
-                  "World of Warcraft Classic Test.app",
+                  "World of Warcraft Test.app",
                   "WoW.mfil",
                   "Cache",
                   "Errors",
