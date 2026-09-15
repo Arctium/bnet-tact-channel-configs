@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "WOW-69594patch12.1.5_XPTR",
-      "token": "755368ce-5e55-4c88-adaa-7e1f6214d410"
+      "name": "WOW-69848patch12.1.5_XPTR",
+      "token": "f0e03f4c-4b00-4ebd-a139-20bf6d866905"
     },
-    "buildKey": "4a9973f37906f8cfb344f8a9fe6777e0",
-    "cdnKey": "3aa83893a3ce9b722a5f51328ad9a552",
+    "buildKey": "50c5ec7df7ce47f14d9599281c9e14cf",
+    "cdnKey": "904e68a1fd418798b47ec3f9dba8da38",
     "keyRing": "",
     "path": "tpr/wow",
     "pipelineId": 19,
@@ -17,7 +17,7 @@
       "cdnPath": "",
       "hash": "c5983bded94d708c1958dde1fa6dbf22"
     },
-    "versionNumber": 69594,
-    "versionString": "12.1.5.69594"
+    "versionNumber": 69848,
+    "versionString": "12.1.5.69848"
   }
 }
