@@ -1,5 +1,5 @@
 {
-  "eu+kr+tw+us":
+  "us":
   {
     "all":
     {
@@ -19,7 +19,6 @@
           "zhTW",
           "zhCN"
         ],
-        "enable_block_copy_patch": true,
         "form":
         {
           "game_dir":
@@ -67,10 +66,7 @@
             "wowe3",
             "wowv",
             "wowdemo",
-            "wowdev",
-            "wowz",
-            "wow_classic",
-            "wow_classic_beta"
+            "wow_classic"
           ],
           "title_id": "wow"
         },
@@ -101,7 +97,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=wow_classic_beta",
-              "link": "%commonstartmenu%WoW Classic Beta/WoW Classic Beta.lnk",
+              "link": "%commonstartmenu%World of Warcraft Classic Beta/World of Warcraft Classic Beta.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -111,7 +107,7 @@
             {
               "args": "--productcode=wow_classic_beta",
               "description": "Hier klicken, um World of Warcraft Classic Beta zu spielen.",
-              "link": "%desktoppreference%WoW Classic Beta.lnk",
+              "link": "%desktoppreference%World of Warcraft Classic Beta.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -120,7 +116,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "WoW Classic Beta",
+              "display_name": "World of Warcraft Classic Beta",
               "helplink": "http://eu.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -143,7 +139,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=wow_classic_beta",
-              "link": "%commonstartmenu%WoW Classic Beta/WoW Classic Beta.lnk",
+              "link": "%commonstartmenu%World of Warcraft Classic Beta/World of Warcraft Classic Beta.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -153,7 +149,7 @@
             {
               "args": "--productcode=wow_classic_beta",
               "description": "Click here to play World of Warcraft Classic Beta.",
-              "link": "%desktoppreference%WoW Classic Beta.lnk",
+              "link": "%desktoppreference%World of Warcraft Classic Beta.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -162,7 +158,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "WoW Classic Beta",
+              "display_name": "World of Warcraft Classic Beta",
               "helplink": "http://us.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -185,7 +181,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=wow_classic_beta",
-              "link": "%commonstartmenu%WoW Classic Beta/WoW Classic Beta.lnk",
+              "link": "%commonstartmenu%World of Warcraft Classic Beta/World of Warcraft Classic Beta.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -195,7 +191,7 @@
             {
               "args": "--productcode=wow_classic_beta",
               "description": "Haz clic aquí para jugar a World of Warcraft Classic Beta.",
-              "link": "%desktoppreference%WoW Classic Beta.lnk",
+              "link": "%desktoppreference%World of Warcraft Classic Beta.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -204,7 +200,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "WoW Classic Beta",
+              "display_name": "World of Warcraft Classic Beta",
               "helplink": "http://eu.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -227,7 +223,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=wow_classic_beta",
-              "link": "%commonstartmenu%WoW Classic Beta/WoW Classic Beta.lnk",
+              "link": "%commonstartmenu%World of Warcraft Classic Beta/World of Warcraft Classic Beta.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -237,7 +233,7 @@
             {
               "args": "--productcode=wow_classic_beta",
               "description": "Haz clic aquí para jugar a World of Warcraft Classic Beta.",
-              "link": "%desktoppreference%WoW Classic Beta.lnk",
+              "link": "%desktoppreference%World of Warcraft Classic Beta.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -246,7 +242,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "WoW Classic Beta",
+              "display_name": "World of Warcraft Classic Beta",
               "helplink": "http://us.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -269,7 +265,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=wow_classic_beta",
-              "link": "%commonstartmenu%WoW Classic Beta/WoW Classic Beta.lnk",
+              "link": "%commonstartmenu%World of Warcraft Classic Beta/World of Warcraft Classic Beta.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -279,7 +275,7 @@
             {
               "args": "--productcode=wow_classic_beta",
               "description": "Cliquez ici pour jouer à World of Warcraft Classic Beta.",
-              "link": "%desktoppreference%WoW Classic Beta.lnk",
+              "link": "%desktoppreference%World of Warcraft Classic Beta.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -288,7 +284,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "WoW Classic Beta",
+              "display_name": "World of Warcraft Classic Beta",
               "helplink": "http://eu.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -311,7 +307,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=wow_classic_beta",
-              "link": "%commonstartmenu%월드 오브 워크래프트 클래식 베타/월드 오브 워크래프트 클래식 베타.lnk",
+              "link": "%commonstartmenu%월드 오브 워크래프트 Classic Beta/월드 오브 워크래프트 Classic Beta.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -321,7 +317,7 @@
             {
               "args": "--productcode=wow_classic_beta",
               "description": "월드 오브 워크래프트를 실행하려면 여기를 클릭하십시오.",
-              "link": "%desktoppreference%월드 오브 워크래프트 클래식 베타.lnk",
+              "link": "%desktoppreference%월드 오브 워크래프트 Classic Beta.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -330,7 +326,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "월드 오브 워크래프트 클래식 베타",
+              "display_name": "월드 오브 워크래프트 Classic Beta",
               "helplink": "http://kr.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -354,7 +350,7 @@
             "game":
             {
               "launch_arguments": [],
-              "relative_path": "World of Warcraft Classic Beta.app",
+              "relative_path": "World of Warcraft Beta.app",
               "switcher": false
             }
           },
@@ -434,7 +430,6 @@
                   "Logs",
                   "Blizzard Error.app",
                   "World of Warcraft Beta.app",
-                  "World of Warcraft Classic Beta.app",
                   "Cache",
                   "Errors",
                   "Temp"
@@ -466,8 +461,7 @@
             "game":
             {
               "launch_arguments": [],
-              "relative_path": "WowClassicB.exe",
-              "relative_path_arm64": "WowClassicB-arm64.exe",
+              "relative_path": "WoWB.exe",
               "switcher": false
             }
           },
@@ -528,10 +522,6 @@
           [
             "x86_64"
           ],
-          "tags_arm64":
-          [
-            "arm64"
-          ],
           "uninstall":
           [
             {
@@ -554,11 +544,7 @@
                 "root": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
                 "subkeys":
                 [
-                  "World of Warcraft Classic Beta",
-                  "월드 오브 워크래프트 Classic Beta",
-                  "魔獸世界 Classic Beta",
-                  "魔兽世界 Classic Beta",
-                  "WoW Classic Beta"
+                  "World of Warcraft Classic Beta"
                 ]
               }
             },
@@ -619,13 +605,11 @@
                   "World of Warcraft Launcher.exe",
                   "Wow.exe",
                   "WowB.exe",
-                  "WowClassicB.exe",
                   "WowT.exe",
                   "Wow-64.exe",
                   "WowError.exe",
                   "WowError-64.exe",
                   "dbghelp.dll",
-                  "Wow*arm64.exe",
                   "GFSDK_Aftermath_Lib.x64.dll",
                   "WoW.mfil"
                 ],
@@ -646,7 +630,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=wow_classic_beta",
-              "link": "%commonstartmenu%WoW Classic Beta/WoW Classic Beta.lnk",
+              "link": "%commonstartmenu%World of Warcraft Classic Beta/World of Warcraft Classic Beta.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -656,7 +640,7 @@
             {
               "args": "--productcode=wow_classic_beta",
               "description": "Clique aqui para jogar o World of Warcraft Classic Beta.",
-              "link": "%desktoppreference%WoW Classic Beta.lnk",
+              "link": "%desktoppreference%World of Warcraft Classic Beta.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -665,7 +649,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "WoW Classic Beta",
+              "display_name": "World of Warcraft Classic Beta",
               "helplink": "http://us.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -688,7 +672,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=wow_classic_beta",
-              "link": "%commonstartmenu%WoW Classic Beta/WoW Classic Beta.lnk",
+              "link": "%commonstartmenu%World of Warcraft Classic Beta/World of Warcraft Classic Beta.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -698,7 +682,7 @@
             {
               "args": "--productcode=wow_classic_beta",
               "description": "Нажмите здесь, чтобы запустить World of Warcraft Classic Beta.",
-              "link": "%desktoppreference%WoW Classic Beta.lnk",
+              "link": "%desktoppreference%World of Warcraft Classic Beta.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -707,7 +691,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "WoW Classic Beta",
+              "display_name": "World of Warcraft Classic Beta",
               "helplink": "http://eu.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -730,7 +714,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=wow_classic_beta",
-              "link": "%commonstartmenu%魔兽世界（经典怀旧服） Beta/魔兽世界（经典怀旧服） Beta.lnk",
+              "link": "%commonstartmenu%魔兽世界 Classic Beta/魔兽世界 Classic Beta.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -740,7 +724,7 @@
             {
               "args": "--productcode=wow_classic_beta",
               "description": "点击这里运行《魔兽世界》。",
-              "link": "%desktoppreference%魔兽世界（经典怀旧服） Beta.lnk",
+              "link": "%desktoppreference%魔兽世界 Classic Beta.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -749,7 +733,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "魔兽世界（经典怀旧服） Beta",
+              "display_name": "魔兽世界 Classic Beta",
               "helplink": "http://cn.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
@@ -772,7 +756,7 @@
             "start_menu_shortcut":
             {
               "args": "--productcode=wow_classic_beta",
-              "link": "%commonstartmenu%魔獸世界：經典版 Beta/魔獸世界：經典版 Beta.lnk",
+              "link": "%commonstartmenu%魔獸世界 Classic Beta/魔獸世界 Classic Beta.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -782,7 +766,7 @@
             {
               "args": "--productcode=wow_classic_beta",
               "description": "點選此連結以執行《魔獸世界》。",
-              "link": "%desktoppreference%魔獸世界：經典版 Beta.lnk",
+              "link": "%desktoppreference%魔獸世界 Classic Beta.lnk",
               "target": "%shortcutpath%",
               "working_dir": "%installpath%"
             }
@@ -791,7 +775,7 @@
             "add_remove_programs_key":
             {
               "contact": "Blizzard Support",
-              "display_name": "魔獸世界：經典版 Beta",
+              "display_name": "魔獸世界 Classic Beta",
               "helplink": "http://tw.blizzard.com/support/",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
