@@ -15,9 +15,9 @@
     "productConfig":
     {
       "cdnPath": "",
-      "hash": "7d1e26548a097d8c12714c4ac1e369fe"
+      "hash": "f8576ddd701c9efed1e1f2e84a1b49eb"
     },
-    "versionNumber": 28696816,
-    "versionString": "1.0.0.28696816"
+    "versionNumber": 28696817,
+    "versionString": "1.0.1.28696816"
   }
 }
