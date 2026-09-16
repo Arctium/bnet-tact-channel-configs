@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "WOW-69876patch1.60.1_ClassicBeta",
-      "token": "d3b75698-fb07-440d-a92a-6c1e983930c3"
+      "name": "WOW-69893patch1.60.1_ClassicBeta",
+      "token": "ad41b537-90f7-43d4-aee6-404103cd5c39"
     },
-    "buildKey": "e7fab7248766e9e7daddb3b6083c9c3c",
-    "cdnKey": "272d201d5b2d6fec8fdb4aa59b2a9eea",
+    "buildKey": "5aa0eecfa8d49f5ad01221dbc8601144",
+    "cdnKey": "c39a363b4a67449d8f16736dba987a43",
     "keyRing": "",
     "path": "tpr/wow",
     "pipelineId": 19,
@@ -17,7 +17,7 @@
       "cdnPath": "",
       "hash": "fcfd1bc39031f5921d00aee2d869adb5"
     },
-    "versionNumber": 69876,
-    "versionString": "1.60.1.69876"
+    "versionNumber": 69893,
+    "versionString": "1.60.1.69893"
   }
 }
