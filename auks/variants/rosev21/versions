@@ -4,21 +4,21 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "trunk_28953364_rex_br_br_season1_bnet_v21_dev",
-      "token": "22d60c0f-c6cc-4606-a811-17b6fb0d9270"
+      "name": "trunk_29011552_rex_br_br_season1_bnet_v21_dev",
+      "token": "42109f92-f24d-41db-a1d4-0e7236cac05b"
     },
-    "buildKey": "0d02cfa6cce263a19581301d8dd28eaa",
-    "cdnKey": "c82ddb87ce3beed2699e02b69817d652",
+    "buildKey": "d1165921fb9d2b09c22307e63f4ddc24",
+    "cdnKey": "97871cf0fc57ae87ea397e527f9d437c",
     "keyRing": "",
     "path": "tpr/rosevb",
     "pipelineId": 356,
     "productConfig":
     {
       "cdnPath": "",
-      "hash": "647c5868f14b24e816ba7c692a026866"
+      "hash": "4c50686577fcba0d97a420a55a33aaf7"
     },
-    "versionNumber": 28953364,
-    "versionString": "0.0.0.28953364d"
+    "versionNumber": 29011552,
+    "versionString": "0.0.0.29011552d"
   },
   "kr":
   {
@@ -46,20 +46,20 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "trunk_29011552_rex_br_br_season1_bnet_v21_dev",
-      "token": "42109f92-f24d-41db-a1d4-0e7236cac05b"
+      "name": "trunk_29033394_rex_br_br_season1_bnet_v21_dev",
+      "token": "1e561c77-fb66-4da7-90ad-83e76bd28ee6"
     },
-    "buildKey": "d1165921fb9d2b09c22307e63f4ddc24",
-    "cdnKey": "97871cf0fc57ae87ea397e527f9d437c",
+    "buildKey": "d8dda8b951c77e790c4540ea029cb795",
+    "cdnKey": "8b935783bd149e216a4d544bc7fa1d34",
     "keyRing": "",
     "path": "tpr/rosevb",
     "pipelineId": 356,
     "productConfig":
     {
       "cdnPath": "",
-      "hash": "c011872927823dafd41abb4e23ebf39a"
+      "hash": "4c50686577fcba0d97a420a55a33aaf7"
     },
-    "versionNumber": 29011552,
-    "versionString": "0.0.0.29011552d"
+    "versionNumber": 29033394,
+    "versionString": "0.0.0.29033394d"
   }
 }
