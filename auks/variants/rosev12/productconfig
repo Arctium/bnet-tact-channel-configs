@@ -741,25 +741,6 @@
               "required_space": 6000000000
             }
           },
-          "install":
-          [
-            {
-              "run_tool":
-              {
-                "commandline_args":
-                [
-                  "cod.exe",
-                  "+ogu_mode",
-                  "--nofork"
-                ],
-                "display_text": "%feature_setting:work_type_display_strings:preloading_shaders_%locale%%",
-                "executable_path": "%game%/bootstrapper.exe",
-                "order": 100,
-                "run_when": "install_or_update",
-                "signing_entity": "Activision Publishing Inc"
-              }
-            }
-          ],
           "min_spec":
           {
             "allow_arm_emulation": false,
