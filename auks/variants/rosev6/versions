@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "release_29013205_cod26_tu1_signed_bnet_v6_dev",
-      "token": "430f9de5-bc81-4732-ae91-57994a104df5"
+      "name": "release_29055727_cod26_tu1_signed_bnet_v6_dev",
+      "token": "e7b7e596-eb4e-4829-80a1-27a23fd0c30f"
     },
-    "buildKey": "aeb700e7005b42dc2f5a6f4452009df9",
-    "cdnKey": "fab9d89c2a339dbbf046f2d2a4c64ca5",
+    "buildKey": "766684a8f41fb0cdc3e4331d7f774ee6",
+    "cdnKey": "335abcda04989efc60f44f500f0cb993",
     "keyRing": "",
     "path": "tpr/rosev",
     "pipelineId": 302,
@@ -17,31 +17,10 @@
       "cdnPath": "",
       "hash": "0c3b1af2587bcd51a2ff583feed875f5"
     },
-    "versionNumber": 29013205,
-    "versionString": "0.0.1.29013205d"
+    "versionNumber": 29055727,
+    "versionString": "0.0.1.29055727d"
   },
   "kr":
-  {
-    "armadilloKey": "",
-    "build":
-    {
-      "name": "etu_28959013_cod26_cip_cib2_signed_bnet_v6_ship",
-      "token": "6d671ac1-5e2e-464c-b7ea-88c0c1d54677"
-    },
-    "buildKey": "9986d41a54fb02f391c4b2d4bafb7475",
-    "cdnKey": "a404f55e9b91274c93af570305125922",
-    "keyRing": "",
-    "path": "tpr/rosev",
-    "pipelineId": 302,
-    "productConfig":
-    {
-      "cdnPath": "",
-      "hash": "69f885583c5ae801d2a62bd7e48257d0"
-    },
-    "versionNumber": 28959013,
-    "versionString": "0.0.0.28959013d"
-  },
-  "us":
   {
     "armadilloKey": "",
     "build":
@@ -60,6 +39,27 @@
       "hash": "69f885583c5ae801d2a62bd7e48257d0"
     },
     "versionNumber": 29013205,
-    "versionString": "0.0.1.29013205d"
+    "versionString": "0.0.0.29013205d"
+  },
+  "us":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "release_29055727_cod26_tu1_signed_bnet_v6_ship",
+      "token": "0ab81af6-864b-471c-9e07-8c8b7e7714b4"
+    },
+    "buildKey": "6c13aea8096713e5fa328ee17e549c74",
+    "cdnKey": "d9dc17682e76866bf60645d1763c00b2",
+    "keyRing": "",
+    "path": "tpr/rosev",
+    "pipelineId": 302,
+    "productConfig":
+    {
+      "cdnPath": "",
+      "hash": "69f885583c5ae801d2a62bd7e48257d0"
+    },
+    "versionNumber": 29055727,
+    "versionString": "0.0.1.29055727d"
   }
 }
