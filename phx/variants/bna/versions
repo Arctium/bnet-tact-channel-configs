@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "17732_release_2.52.10-beta",
-      "token": "da5a5346-7aec-40f4-9fa1-13038c3a1fe1"
+      "name": "17822_release_2.52.12-beta",
+      "token": "29e94a61-a5f1-49cc-b63a-1fc1e0ee8168"
     },
-    "buildKey": "733f64c99638fc3c072bbc3b09d2e4c7",
-    "cdnKey": "cc49f1966573a384db0a90db521e4312",
+    "buildKey": "f2c53631a8358d06a092e32c6b541815",
+    "cdnKey": "9369d3d7e439872148b674a43a6a71b2",
     "keyRing": "",
     "path": "tpr/bnt002",
     "pipelineId": 53,
@@ -17,19 +17,19 @@
       "cdnPath": "",
       "hash": "c9dc6de3a629d80327fc6e96256dd19e"
     },
-    "versionNumber": 17732,
-    "versionString": "2.52.10.17732"
+    "versionNumber": 17822,
+    "versionString": "2.52.12.17822"
   },
   "cn+eu+kr+sg+tw+us":
   {
     "armadilloKey": "",
     "build":
     {
-      "name": "17731_release_2.52.10",
-      "token": "2384fc9b-f31e-4bf8-b46e-3d56064e185f"
+      "name": "17821_release_2.52.12",
+      "token": "2bcf361f-2a3f-4121-8d86-b01e06e89d05"
     },
-    "buildKey": "ccd6ebf6e0928683192c05a43fe2f89b",
-    "cdnKey": "d9c6f73b4c44eb2c44e480610e73c420",
+    "buildKey": "003033bc786a1f2afd50d504a7d513a1",
+    "cdnKey": "a378fad327d0495d61dcd0cda4ec4094",
     "keyRing": "",
     "path": "tpr/bnt002",
     "pipelineId": 53,
@@ -38,7 +38,7 @@
       "cdnPath": "",
       "hash": "c9dc6de3a629d80327fc6e96256dd19e"
     },
-    "versionNumber": 17731,
-    "versionString": "2.52.10.17731"
+    "versionNumber": 17821,
+    "versionString": "2.52.12.17821"
   }
 }
