@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "B98126",
-      "token": "3f1eaa13-d9a1-4712-a143-1ef081fd2924"
+      "name": "B98182",
+      "token": "64d85bb8-03da-4d89-81af-3f5c4c358b48"
     },
-    "buildKey": "3468f36214919a8810dff9c647245e17",
-    "cdnKey": "84cf6babe6bd3a1669e1aa9b8f2037af",
+    "buildKey": "590c3c96bba931e02088099d7083e0f5",
+    "cdnKey": "213829bc994c9b7507146fa0f84a0912",
     "keyRing": "",
     "path": "tpr/Hero-Live-a",
     "pipelineId": 10,
@@ -17,7 +17,7 @@
       "cdnPath": "",
       "hash": "65dcefe76985bd0bd87a1f112bf1a74d"
     },
-    "versionNumber": 98126,
-    "versionString": "2.57.0.98126"
+    "versionNumber": 98182,
+    "versionString": "2.57.0.98182"
   }
 }
