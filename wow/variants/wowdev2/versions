@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "WOW-69800patch1.60.1_ClassicAlpha",
-      "token": "6b67c501-c77d-4706-ae90-494e722cdc27"
+      "name": "WOW-69913patch1.60.1_ClassicAlpha",
+      "token": "352856a2-cce0-466d-8c84-0d5e62cedd9f"
     },
-    "buildKey": "49165d829d4d2327ded0e239b8321d60",
-    "cdnKey": "59a08d449310af4770a9cacf0bb947b4",
+    "buildKey": "a07b3a58b23bcfb905a773e43d9bcbba",
+    "cdnKey": "daca2f7cd3af16d9f3b995c32ccb4f84",
     "keyRing": "3ca57fe7319a297346440e4d2a03a0cd",
     "path": "tpr/wowdev/1",
     "pipelineId": 56,
@@ -17,7 +17,7 @@
       "cdnPath": "",
       "hash": "ec1375ca995db8bcbcf4e857964db527"
     },
-    "versionNumber": 69800,
-    "versionString": "1.60.1.69800"
+    "versionNumber": 69913,
+    "versionString": "1.60.1.69913"
   }
 }
