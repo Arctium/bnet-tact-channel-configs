@@ -1,4 +1,25 @@
 {
+  "eu":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "s4_tu28_08_18_signed__v7_dev",
+      "token": "c05d7a63-f724-4653-a311-9a0fddbb0900"
+    },
+    "buildKey": "237a68492ed7205520f4cddc146649d6",
+    "cdnKey": "568e7ff04553964526c5dd4c995c6124",
+    "keyRing": "",
+    "path": "tpr/forev",
+    "pipelineId": 219,
+    "productConfig":
+    {
+      "cdnPath": "",
+      "hash": "3a38226307f72eaf19c0ce108a20401f"
+    },
+    "versionNumber": 28520525,
+    "versionString": "1.26.1.28520525d"
+  },
   "kr":
   {
     "armadilloKey": "",
@@ -19,5 +40,26 @@
     },
     "versionNumber": 11536505,
     "versionString": "1.18.0.11536505d"
+  },
+  "us":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "s4_tu28_08_18_signed__v7_ship",
+      "token": "b6000c1b-94d1-4827-9265-2d7c674eb885"
+    },
+    "buildKey": "3ce0c9308067dea342372ab72ff022f7",
+    "cdnKey": "97d947c1adb205fb97ea38eb1fd3486e",
+    "keyRing": "",
+    "path": "tpr/forev",
+    "pipelineId": 219,
+    "productConfig":
+    {
+      "cdnPath": "",
+      "hash": "b05fb72dae74dc24e7dcc1f82a49c301"
+    },
+    "versionNumber": 28520525,
+    "versionString": "0.0.0.28520525s"
   }
 }
