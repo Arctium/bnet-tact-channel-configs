@@ -1,35 +1,14 @@
 {
-  "eu+kr+sg+tw":
-  {
-    "armadilloKey": "",
-    "build":
-    {
-      "name": "prometheus-2_19_1_1-144266-Loc-V2",
-      "token": "3709f81d-a75a-466b-b554-db0b389de0a4"
-    },
-    "buildKey": "9d67a41c6f5ac5f1313835837d250737",
-    "cdnKey": "4dd59dae85e1b5873cc73155e2bd1c1f",
-    "keyRing": "",
-    "path": "tpr/prov2/2",
-    "pipelineId": 225,
-    "productConfig":
-    {
-      "cdnPath": "",
-      "hash": "2f4cfeba474a54bc7c280c61a0c5c525"
-    },
-    "versionNumber": 144266,
-    "versionString": "2.19.1.1.144266"
-  },
   "us":
   {
     "armadilloKey": "",
     "build":
     {
-      "name": "prometheus-2_24_0_3-152736-Loc-V2",
-      "token": "e7d71c84-2ec5-4273-b3fc-0f29c7ce65d4"
+      "name": "prometheus-2_26_0_0-153923-Loc-V2",
+      "token": "9a0b9ed1-ce35-4c8e-9ef6-84320c99a07d"
     },
-    "buildKey": "6ed27e6eeb43392e2791183e7c4626e0",
-    "cdnKey": "2ab227435d6edfee05cc84015a78ce21",
+    "buildKey": "f39dc1d616e136a90f591949ed75b2f9",
+    "cdnKey": "19160dc1a59adc7942e315ba5b589315",
     "keyRing": "",
     "path": "tpr/prov2/2",
     "pipelineId": 225,
@@ -38,7 +17,7 @@
       "cdnPath": "",
       "hash": "2f4cfeba474a54bc7c280c61a0c5c525"
     },
-    "versionNumber": 152736,
-    "versionString": "2.24.0.3.152736"
+    "versionNumber": 153923,
+    "versionString": "2.26.0.0.153923"
   }
 }
