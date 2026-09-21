@@ -1,4 +1,16 @@
 {
+  "cn":
+  {
+    "hosts":
+    [
+      {
+        "host": "http://blzdist-wow.necdn.leihuo.netease.com?maxhosts=6"
+      },
+      {
+        "host": "https://blzdist-wow.necdn.leihuo.netease.com?maxhosts=4&fallback=1"
+      }
+    ]
+  },
   "eu":
   {
     "hosts":
@@ -32,16 +44,10 @@
       },
       {
         "host": "https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"
-      },
-      {
-        "host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4"
-      },
-      {
-        "host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"
       }
     ]
   },
-  "tw+us":
+  "us":
   {
     "hosts":
     [
