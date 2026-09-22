@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "3.0.0.24288-ptr",
-      "token": "55eb5c2e-9e24-432d-9cbe-f39be7dd1d33"
+      "name": "3.0.0.24295-ptr",
+      "token": "393ef2d7-14f3-4f92-a085-1df52c1533a7"
     },
-    "buildKey": "aa31093ef737027dd45f1cf6d37245d4",
-    "cdnKey": "673844b131dbe4f02c9474311d23d223",
+    "buildKey": "3fbc4e1570e9ce0296f3af20985e0d0d",
+    "cdnKey": "07dce6b1d40ee4b6525f91296e9df303",
     "keyRing": "",
     "path": "tpr/war3",
     "pipelineId": 100,
@@ -17,7 +17,7 @@
       "cdnPath": "",
       "hash": "0dab0e85b60f33f78a784b84cbc0a67f"
     },
-    "versionNumber": 24288,
-    "versionString": "3.0.0.24288"
+    "versionNumber": 24295,
+    "versionString": "3.0.0.24295"
   }
 }
