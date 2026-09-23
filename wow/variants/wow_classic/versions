@@ -1,5 +1,5 @@
 {
-  "cn+kr+tw":
+  "cn":
   {
     "armadilloKey": "",
     "build":
@@ -20,7 +20,7 @@
     "versionNumber": 69585,
     "versionString": "5.5.4.69585"
   },
-  "eu+us":
+  "eu+kr+tw+us":
   {
     "armadilloKey": "",
     "build":
