@@ -25,20 +25,20 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "gdt_client-1.0.10.0",
-      "token": "ea2c762f-902b-48c0-a6ad-12391837825c"
+      "name": "test_build5",
+      "token": "dece8f23-b237-4dfd-892b-72a1ef38f60d"
     },
-    "buildKey": "9f1639acd1e431342108b37848fe8a16",
-    "cdnKey": "edcf3d4def29db709df80b1172423066",
-    "keyRing": "",
+    "buildKey": "a7722183f307bcabace806db47241826",
+    "cdnKey": "b588b78246bf53136e0b984cdcf08879",
+    "keyRing": "3361e83c08d51dc27eda65d61a4600f1",
     "path": "tpr/gdtdev",
     "pipelineId": 364,
     "productConfig":
     {
       "cdnPath": "",
-      "hash": "f4df6609d533f7f4552c80461e733df1"
+      "hash": "c7585b1177c1b3e423367b729e064fe8"
     },
-    "versionNumber": 10100,
-    "versionString": "1.0.10.0"
+    "versionNumber": 1,
+    "versionString": "0.0.0001"
   }
 }

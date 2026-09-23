@@ -141,6 +141,7 @@
         "casc_language_agnostic": true,
         "data_dir": "Data/",
         "decryption_key_name": "gdt-live-dev",
+        "delete_orphaned_files": true,
         "form":
         {
           "game_dir":
@@ -229,6 +230,20 @@
               "required_space": 10500000
             }
           },
+          "install":
+          [
+            {
+              "delete_pattern":
+              {
+                "glob_patterns":
+                [
+                  "*.fp"
+                ],
+                "mode": "delete",
+                "root": "%game%"
+              }
+            }
+          ],
           "shared_container_delete_list": [],
           "shared_container_move_list": [],
           "tags":
