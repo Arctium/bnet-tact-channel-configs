@@ -8,6 +8,7 @@
         "casc_language_agnostic": true,
         "data_dir": "Data/",
         "decryption_key_name": "gdt-live-rc",
+        "delete_orphaned_files": true,
         "form":
         {
           "game_dir":
@@ -79,9 +80,11 @@
           {
             "game":
             {
-              "launch_arguments": [],
-              "relative_path": "gdt_client.exe",
-              "switcher": true
+              "launch_arguments":
+              [
+                "game-launch"
+              ],
+              "relative_path": "gdt_client.exe"
             }
           },
           "binary_launch_path": "gdt_client.exe",
@@ -119,8 +122,20 @@
               {
                 "relative_paths":
                 [
-                  "gdt_client.exe"
+                  "gdt_client.exe",
+                  "gdt_tools.exe"
                 ],
+                "root": "%game%"
+              }
+            },
+            {
+              "delete_pattern":
+              {
+                "glob_patterns":
+                [
+                  "*.fp"
+                ],
+                "mode": "delete",
                 "root": "%game%"
               }
             }
