@@ -1,5 +1,5 @@
 {
-  "android_amazon+android_cn+android_cn_dashen+android_cn_huawei+android_google+android_onestore+ios+ios_cn":
+  "android_amazon+android_cn+android_cn_dashen+android_google+android_onestore+cn+eu+kr+us":
   {
     "all":
     {
@@ -1242,7 +1242,7 @@
       }
     }
   },
-  "cn+eu+kr+us":
+  "android_cn_huawei+ios+ios_cn":
   {
     "all":
     {
