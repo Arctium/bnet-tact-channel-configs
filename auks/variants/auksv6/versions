@@ -25,21 +25,21 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "release_15731062_cod_tus5_5_sp_test_v6_dev",
-      "token": "08aed389-6a54-4764-9467-12a4f21debba"
+      "name": "release_29182605_cod26_tu1_bnet_v6_dev",
+      "token": "d924efa7-c568-4736-b3ce-58b428fb0ccd"
     },
-    "buildKey": "eff652d2b0e59f197c8766ef00e24107",
-    "cdnKey": "8de9b8f3a1714c88b458ae9f5305b4e1",
+    "buildKey": "8eef0ced4c428cf6e2c5abc00bd0f270",
+    "cdnKey": "20a85d950442d46f84afdc1a9619d5e4",
     "keyRing": "",
     "path": "tpr/auksv",
     "pipelineId": 236,
     "productConfig":
     {
       "cdnPath": "",
-      "hash": "1a0ae9cb1e50924576de61dc1ebfdbc2"
+      "hash": "a58677f4ce84ceb38e45f3e269c86df8"
     },
-    "versionNumber": 15731062,
-    "versionString": "1.21.0.15731062d"
+    "versionNumber": 29182605,
+    "versionString": "1.21.0.29182605d"
   },
   "us":
   {
