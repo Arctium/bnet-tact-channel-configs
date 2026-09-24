@@ -5,7 +5,6 @@
     {
       "config":
       {
-        "casc_language_agnostic": true,
         "containerless_checksizeonly": false,
         "data_dir": "Data/",
         "decryption_key_name": "lyra_live_dev_2",
@@ -17,7 +16,7 @@
           }
         },
         "product": "lyra-retail-dev-1",
-        "shared_container_default_subfolder": "_TheWitcher3Remastered_dev_",
+        "shared_container_default_subfolder": "_TW3R_dev_",
         "supported_speech_locales":
         [
           "enUS",
