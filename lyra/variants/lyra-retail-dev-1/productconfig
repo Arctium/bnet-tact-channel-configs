@@ -13,11 +13,24 @@
         {
           "game_dir":
           {
-            "dirname": "Lyra"
+            "dirname": "TheWitcher3Remastered"
           }
         },
         "product": "lyra-retail-dev-1",
-        "supported_locales":
+        "shared_container_default_subfolder": "_TheWitcher3Remastered_dev_",
+        "supported_speech_locales":
+        [
+          "enUS",
+          "frFR",
+          "deDE",
+          "koKR",
+          "plPL",
+          "ruRU",
+          "jaJP",
+          "ptBR",
+          "zhCN"
+        ],
+        "supported_text_locales":
         [
           "enUS",
           "frFR",
@@ -79,7 +92,7 @@
             "game":
             {
               "launch_arguments": [],
-              "regex": "Witcher3.exe|game_start.exe",
+              "regex": "(bin/x64(_dx12)?/)?[Ww]itcher3\\.exe|game_start\\.exe",
               "relative_path": "game_start.exe",
               "switcher": true
             }
@@ -125,6 +138,8 @@
               }
             }
           },
+          "shared_container_delete_list": [],
+          "shared_container_move_list": [],
           "tags": [],
           "uninstall":
           [
