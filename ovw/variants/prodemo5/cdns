@@ -1,22 +1,16 @@
 {
-  "cn":
-  {
-    "hosts":
-    [
-      {
-        "host": "http://blzdist-ow.necdn.leihuo.netease.com?maxhosts=4"
-      },
-      {
-        "host": "https://blzdist-ow.necdn.leihuo.netease.com?maxhosts=4&fallback=1"
-      }
-    ]
-  },
   "eu":
   {
     "hosts":
     [
       {
+        "host": "http://blzddist1-a.akamaihd.net?maxhosts=4&fallback=1"
+      },
+      {
         "host": "http://level3.blizzard.com?maxhosts=4"
+      },
+      {
+        "host": "https://blzddist1-a.akamaihd.net?maxhosts=4&fallback=1"
       },
       {
         "host": "http://eu.cdn.blizzard.com?maxhosts=4"
@@ -35,6 +29,12 @@
     [
       {
         "host": "http://level3.blizzard.com?maxhosts=4"
+      },
+      {
+        "host": "http://blzddistkr1-a.akamaihd.net?maxhosts=4&fallback=1"
+      },
+      {
+        "host": "https://blzddistkr1-a.akamaihd.net?maxhosts=4&fallback=1"
       },
       {
         "host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"
@@ -58,7 +58,13 @@
     "hosts":
     [
       {
+        "host": "http://blzddist1-a.akamaihd.net?maxhosts=4&fallback=1"
+      },
+      {
         "host": "http://level3.blizzard.com?maxhosts=4"
+      },
+      {
+        "host": "https://blzddist1-a.akamaihd.net?maxhosts=4&fallback=1"
       },
       {
         "host": "http://us.cdn.blizzard.com?maxhosts=4"
