@@ -13,7 +13,7 @@
         "data_dir": "Data/",
         "decryption_key_name": "rosevendor",
         "enable_block_copy_patch": true,
-        "force_dedupe": 1,
+        "force_dedupe": 2,
         "form":
         {
           "game_dir":
