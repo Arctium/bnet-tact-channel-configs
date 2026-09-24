@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "SeaOfThieves_2.152.2147.0",
-      "token": "91643211-626c-4154-b2ca-110304408796"
+      "name": "SeaOfThieves_2.152.3728.0",
+      "token": "870dd894-35c2-46fc-a7e0-fbba1c2d3476"
     },
-    "buildKey": "e61ac3466f88b83c51bc3dda6273c4c4",
-    "cdnKey": "4c8f836d2fac62f741b25c7d908b4f2e",
+    "buildKey": "25fe8b9c2d28bb40da0648818ad206e4",
+    "cdnKey": "d4e08530f9c6b9f871199596112fcc49",
     "keyRing": "",
     "path": "tpr/scor",
     "pipelineId": 336,
@@ -17,7 +17,7 @@
       "cdnPath": "",
       "hash": "cf6268b7831df0e1c2cf7149f9d5ee00"
     },
-    "versionNumber": 1522147,
-    "versionString": "2.152.2147.0"
+    "versionNumber": 1523728,
+    "versionString": "2.152.3728.0"
   }
 }
