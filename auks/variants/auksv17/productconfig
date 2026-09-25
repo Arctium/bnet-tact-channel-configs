@@ -8,11 +8,12 @@
         "casc_supports_1023_archives": true,
         "component_dependencies":
         [
-          "randgridaukscdlv"
+          "randgridauksv"
         ],
         "data_dir": "Data/",
         "decryption_key_name": "auksvendor",
         "enable_block_copy_patch": true,
+        "force_dedupe": 1,
         "form":
         {
           "game_dir":
@@ -60,14 +61,68 @@
                     "default_checked": "licensed",
                     "licenses":
                     [
-                      880549
+                      881555
                     ],
+                    "package_id": "auks-mw4-campaign",
+                    "tags":
+                    [
+                      "dlc05_01"
+                    ],
+                    "title_string": "COD_CAMPAIGN"
+                  },
+                  {
+                    "default_checked": "licensed",
+                    "licenses":
+                    [
+                      881555
+                    ],
+                    "package_id": "auks-mw4-multiplayer",
+                    "tags":
+                    [
+                      "dlc05_02"
+                    ],
+                    "title_string": "COD_MULTIPLAYER"
+                  },
+                  {
+                    "default_checked": "licensed",
+                    "licenses":
+                    [
+                      881555
+                    ],
+                    "package_id": "auks-mw4-dmz",
+                    "tags":
+                    [
+                      "dlc05_03"
+                    ],
+                    "title_string": "COD_MW4_DMZ"
+                  },
+                  {
+                    "default_checked": true,
+                    "package_id": "auks-mw4-free-trial",
+                    "tags":
+                    [
+                      "dlc05_05"
+                    ],
+                    "title_string": "COD_FREE_TRIAL"
+                  }
+                ],
+                "package_id": "auks-mw4",
+                "title_string":
+                {
+                  "default": "Modern Warfare 4"
+                }
+              },
+              {
+                "install_packages":
+                [
+                  {
+                    "default_checked": false,
                     "package_id": "auks-bo7-coop-campaign",
                     "tags":
                     [
                       "dlc04_03"
                     ],
-                    "title_string": "COD_COOP_CAMPAIGN"
+                    "title_string": "DLC_04_03_TITLE"
                   },
                   {
                     "default_checked": "licensed",
@@ -106,45 +161,6 @@
                 }
               },
               {
-                "install_packages":
-                [
-                  {
-                    "default_checked": "licensed",
-                    "licenses":
-                    [
-                      274545
-                    ],
-                    "package_id": "auks-bo6-campaign",
-                    "tags":
-                    [
-                      "dlc03_01"
-                    ],
-                    "title_string": "COD_CAMPAIGN"
-                  },
-                  {
-                    "default_checked": "licensed",
-                    "licenses":
-                    [
-                      274545
-                    ],
-                    "package_id": "auks-bo6-multiplayer",
-                    "tags":
-                    [
-                      "dlc03_02"
-                    ],
-                    "title_string": "COD_MULTIPLAYER"
-                  }
-                ],
-                "package_id": "auks-bo6",
-                "title_string":
-                {
-                  "default": "Black Ops 6",
-                  "koKR": "블랙 옵스 6",
-                  "zhCN": "黑色行动 6",
-                  "zhTW": "《黑色行動 6》"
-                }
-              },
-              {
                 "default_checked": true,
                 "package_id": "auks-mwiii-warzone",
                 "tags":
@@ -177,24 +193,26 @@
                 "ptBR": "Campanha",
                 "ruRU": "Кампания",
                 "thTH": "แคมเปญ",
+                "zhCN": "剧情战役",
                 "zhTW": "劇情戰役"
               },
-              "COD_COOP_CAMPAIGN":
+              "COD_FREE_TRIAL":
               {
-                "arSa": " طور القصة التعاوني",
-                "deDE": "Koop-Kampagne",
-                "default": "Co-Op Campaign",
-                "esES": "Campaña cooperativa",
-                "esMX": "Campaña cooperativa",
-                "frFR": "Campagne en coop",
-                "itIT": "Campagna in co-op",
-                "jaJP": "CO-OPキャンペーン",
-                "koKR": "코옵 캠페인",
-                "plPL": "Kampania kooperacyjna",
-                "ptBR": "Campanha Co-Op",
-                "ruRU": "Совместная кампания",
-                "zhCN": "合作战役",
-                "zhTW": "合作劇情戰役"
+                "arSA": "التجربة المجانية",
+                "deDE": "Testversion ",
+                "default": "Free Trial",
+                "esES": "Prueba gratuita",
+                "esMX": "Prueba gratuita",
+                "frFR": "Essai gratuit ",
+                "itIT": "Prova gratuita",
+                "jaJP": "無料トライアル",
+                "koKR": "무료 트라이얼",
+                "plPL": "Darmowa wersja próbna",
+                "ptBR": "Teste Grátis",
+                "ruRU": "Бесплатная версия",
+                "thTH": "ทดลองเล่นฟรี",
+                "zhCN": "免費試玩",
+                "zhTW": "免费试玩"
               },
               "COD_MULTIPLAYER":
               {
@@ -211,7 +229,12 @@
                 "ptBR": "Multijogador",
                 "ruRU": "Сетевая игра",
                 "thTH": "ผู้เล่นหลายคน",
+                "zhCN": "多人游戏",
                 "zhTW": "多人對戰"
+              },
+              "COD_MW4_DMZ":
+              {
+                "default": "DMZ"
               },
               "COD_ZOMBIES":
               {
@@ -224,6 +247,23 @@
                 "plPL": "Zombie",
                 "ruRU": "Бои с зомби",
                 "zhTW": "殭屍"
+              },
+              "DLC_04_03_TITLE":
+              {
+                "arSA": "المواجهة الحاسمة",
+                "deDE": "Endspiel",
+                "default": "Endgame",
+                "esES": "Objetivo final",
+                "esMX": "Endgame",
+                "frFR": "Phase finale",
+                "itIT": "Endgame",
+                "jaJP": "エンドゲーム",
+                "koKR": "종반전",
+                "plPL": "Etap końcowy",
+                "ptBR": "Fim da Jornada",
+                "ruRU": "Финал",
+                "zhCN": "最终任务",
+                "zhTW": "終極之戰"
               }
             }
           }
@@ -327,16 +367,82 @@
           "install":
           [
             {
-              "move_paths":
+              "run_tool":
               {
-                "command_id": "cod22_move_shaders",
-                "optional": true,
-                "relative_paths":
+                "commandline_args":
                 [
-                  "shadercache"
+                  "cod.exe",
+                  "+ogu_mode",
+                  "--nofork"
                 ],
-                "root_dest_path": "%game%/cod22",
-                "root_src_path": "%game%"
+                "display_text": "%feature_setting:work_type_display_strings:preloading_shaders_%locale%%",
+                "executable_path": "%game%/bootstrapper.exe",
+                "order": 100,
+                "run_when": "install_or_update",
+                "signing_entity": "Activision Publishing Inc"
+              }
+            },
+            {
+              "add_firewall_rule":
+              {
+                "group_name": "Call of Duty",
+                "name": "Call of Duty: Black Ops 6 Campaign",
+                "org_name": "Activision Publishing Inc",
+                "path": "%game%/sp24/sp24-cod.exe"
+              }
+            },
+            {
+              "add_firewall_rule":
+              {
+                "group_name": "Call of Duty",
+                "name": "Call of Duty: Black Ops 6 Campaign Crash Handler",
+                "org_name": "Activision Publishing Inc",
+                "path": "%game%/sp24/codCrashHandler.exe"
+              }
+            },
+            {
+              "add_firewall_rule":
+              {
+                "group_name": "Call of Duty",
+                "name": "Call of Duty Bootstrapper",
+                "org_name": "Activision Publishing Inc",
+                "path": "%game%/bootstrapper.exe"
+              }
+            },
+            {
+              "add_firewall_rule":
+              {
+                "group_name": "Call of Duty",
+                "name": "Call of Duty Bootstrapper Crash Handler",
+                "org_name": "Activision Publishing Inc",
+                "path": "%game%/bootstrapperCrashHandler.exe"
+              }
+            },
+            {
+              "add_firewall_rule":
+              {
+                "group_name": "Call of Duty",
+                "name": "Call of Duty Crash Handler",
+                "org_name": "Activision Publishing Inc",
+                "path": "%game%/codCrashHandler.exe"
+              }
+            },
+            {
+              "add_firewall_rule":
+              {
+                "group_name": "Call of Duty",
+                "name": "Call of Duty Crash Log Generator",
+                "org_name": "Activision Publishing Inc",
+                "path": "%game%/crashLogGenerator.exe"
+              }
+            },
+            {
+              "add_firewall_rule":
+              {
+                "group_name": "Call of Duty",
+                "name": "Call of Duty",
+                "org_name": "Activision Publishing Inc",
+                "path": "%game%/cod.exe"
               }
             }
           ],
@@ -408,6 +514,7 @@
                   "cod23",
                   "cod24",
                   "cod25",
+                  "ImmerseData",
                   "lpc",
                   "main",
                   "mp23",
@@ -441,6 +548,11 @@
               {
                 "relative_paths":
                 [
+                  "*.dll",
+                  "*.xpak",
+                  "*.xsub",
+                  "*.ff",
+                  "*.sodb",
                   "amd_ags_x64.dll",
                   "api-ms-win-core-file-l1-2-0.dll",
                   "API-MS-Win-core-file-l2-1-0.dll",
@@ -463,6 +575,7 @@
                   "api-ms-win-crt-time-l1-1-0.dll",
                   "api-ms-win-crt-utility-l1-1-0.dll",
                   "bink2w64.dll",
+                  "ccs_history.json",
                   "bootstrap.data.bin",
                   "bootstrapper.exe",
                   "bootstrapper.log",
@@ -472,12 +585,15 @@
                   "CgSDK.x64_2019.dll",
                   "cod.exe",
                   "cod23.txt",
+                  "cod24.txt",
                   "codCrashHandler.exe",
                   "cod_bnet.exe",
                   "concrt140.dll",
+                  "crashlogsgenerator.exe",
                   "D3D12/D3D12Core.dll",
                   "dbghelp.dll",
                   "discord_game_sdk.dll",
+                  "dlc_manifests.csv",
                   "dxcompiler.dll",
                   "dxil.dll",
                   "enrollaik.exe",
@@ -486,6 +602,7 @@
                   "GFSDK_Aftermath_Lib.x64.dll",
                   "IEShims.dll",
                   "igxess.dll",
+                  "imgui.ini",
                   "launcher.exe",
                   "libxess.dll",
                   "msvcp140.dll",
@@ -501,6 +618,7 @@
                   "sl.nrd.dll",
                   "sl.reflex.dll",
                   "tbb.dll",
+                  "techsets_manifest.csv",
                   "telescope.dll",
                   "telescope23.dll",
                   "telescope23.dll",
@@ -514,6 +632,48 @@
                   "XeFX_Loader.dll"
                 ],
                 "root": "%game%"
+              }
+            },
+            {
+              "remove_firewall_rule":
+              {
+                "name": "Call of Duty: Black Ops 6 Campaign"
+              }
+            },
+            {
+              "remove_firewall_rule":
+              {
+                "name": "Call of Duty: Black Ops 6 Campaign Crash Handler"
+              }
+            },
+            {
+              "remove_firewall_rule":
+              {
+                "name": "Call of Duty Bootstrapper"
+              }
+            },
+            {
+              "remove_firewall_rule":
+              {
+                "name": "Call of Duty Bootstrapper Crash Handler"
+              }
+            },
+            {
+              "remove_firewall_rule":
+              {
+                "name": "Call of Duty Crash Handler"
+              }
+            },
+            {
+              "remove_firewall_rule":
+              {
+                "name": "Call of Duty Crash Log Generator"
+              }
+            },
+            {
+              "remove_firewall_rule":
+              {
+                "name": "Call of Duty"
               }
             }
           ]
@@ -530,11 +690,12 @@
         "casc_supports_1023_archives": true,
         "component_dependencies":
         [
-          "randgridaukscdlv"
+          "randgridauksv"
         ],
         "data_dir": "Data/",
         "decryption_key_name": "auksvendor",
         "enable_block_copy_patch": true,
+        "force_dedupe": 1,
         "form":
         {
           "game_dir":
@@ -582,14 +743,68 @@
                     "default_checked": "licensed",
                     "licenses":
                     [
-                      880549
+                      881555
                     ],
+                    "package_id": "auks-mw4-campaign",
+                    "tags":
+                    [
+                      "dlc05_01"
+                    ],
+                    "title_string": "COD_CAMPAIGN"
+                  },
+                  {
+                    "default_checked": "licensed",
+                    "licenses":
+                    [
+                      881555
+                    ],
+                    "package_id": "auks-mw4-multiplayer",
+                    "tags":
+                    [
+                      "dlc05_02"
+                    ],
+                    "title_string": "COD_MULTIPLAYER"
+                  },
+                  {
+                    "default_checked": "licensed",
+                    "licenses":
+                    [
+                      881555
+                    ],
+                    "package_id": "auks-mw4-dmz",
+                    "tags":
+                    [
+                      "dlc05_03"
+                    ],
+                    "title_string": "COD_MW4_DMZ"
+                  },
+                  {
+                    "default_checked": true,
+                    "package_id": "auks-mw4-free-trial",
+                    "tags":
+                    [
+                      "dlc05_05"
+                    ],
+                    "title_string": "COD_FREE_TRIAL"
+                  }
+                ],
+                "package_id": "auks-mw4",
+                "title_string":
+                {
+                  "default": "Modern Warfare 4"
+                }
+              },
+              {
+                "install_packages":
+                [
+                  {
+                    "default_checked": false,
                     "package_id": "auks-bo7-coop-campaign",
                     "tags":
                     [
                       "dlc04_03"
                     ],
-                    "title_string": "COD_COOP_CAMPAIGN"
+                    "title_string": "DLC_04_03_TITLE"
                   },
                   {
                     "default_checked": "licensed",
@@ -628,45 +843,6 @@
                 }
               },
               {
-                "install_packages":
-                [
-                  {
-                    "default_checked": "licensed",
-                    "licenses":
-                    [
-                      274545
-                    ],
-                    "package_id": "auks-bo6-campaign",
-                    "tags":
-                    [
-                      "dlc03_01"
-                    ],
-                    "title_string": "COD_CAMPAIGN"
-                  },
-                  {
-                    "default_checked": "licensed",
-                    "licenses":
-                    [
-                      274545
-                    ],
-                    "package_id": "auks-bo6-multiplayer",
-                    "tags":
-                    [
-                      "dlc03_02"
-                    ],
-                    "title_string": "COD_MULTIPLAYER"
-                  }
-                ],
-                "package_id": "auks-bo6",
-                "title_string":
-                {
-                  "default": "Black Ops 6",
-                  "koKR": "블랙 옵스 6",
-                  "zhCN": "黑色行动 6",
-                  "zhTW": "《黑色行動 6》"
-                }
-              },
-              {
                 "default_checked": true,
                 "package_id": "auks-mwiii-warzone",
                 "tags":
@@ -699,24 +875,26 @@
                 "ptBR": "Campanha",
                 "ruRU": "Кампания",
                 "thTH": "แคมเปญ",
+                "zhCN": "剧情战役",
                 "zhTW": "劇情戰役"
               },
-              "COD_COOP_CAMPAIGN":
+              "COD_FREE_TRIAL":
               {
-                "arSa": " طور القصة التعاوني",
-                "deDE": "Koop-Kampagne",
-                "default": "Co-Op Campaign",
-                "esES": "Campaña cooperativa",
-                "esMX": "Campaña cooperativa",
-                "frFR": "Campagne en coop",
-                "itIT": "Campagna in co-op",
-                "jaJP": "CO-OPキャンペーン",
-                "koKR": "코옵 캠페인",
-                "plPL": "Kampania kooperacyjna",
-                "ptBR": "Campanha Co-Op",
-                "ruRU": "Совместная кампания",
-                "zhCN": "合作战役",
-                "zhTW": "合作劇情戰役"
+                "arSA": "التجربة المجانية",
+                "deDE": "Testversion ",
+                "default": "Free Trial",
+                "esES": "Prueba gratuita",
+                "esMX": "Prueba gratuita",
+                "frFR": "Essai gratuit ",
+                "itIT": "Prova gratuita",
+                "jaJP": "無料トライアル",
+                "koKR": "무료 트라이얼",
+                "plPL": "Darmowa wersja próbna",
+                "ptBR": "Teste Grátis",
+                "ruRU": "Бесплатная версия",
+                "thTH": "ทดลองเล่นฟรี",
+                "zhCN": "免費試玩",
+                "zhTW": "免费试玩"
               },
               "COD_MULTIPLAYER":
               {
@@ -733,7 +911,12 @@
                 "ptBR": "Multijogador",
                 "ruRU": "Сетевая игра",
                 "thTH": "ผู้เล่นหลายคน",
+                "zhCN": "多人游戏",
                 "zhTW": "多人對戰"
+              },
+              "COD_MW4_DMZ":
+              {
+                "default": "DMZ"
               },
               "COD_ZOMBIES":
               {
@@ -746,6 +929,23 @@
                 "plPL": "Zombie",
                 "ruRU": "Бои с зомби",
                 "zhTW": "殭屍"
+              },
+              "DLC_04_03_TITLE":
+              {
+                "arSA": "المواجهة الحاسمة",
+                "deDE": "Endspiel",
+                "default": "Endgame",
+                "esES": "Objetivo final",
+                "esMX": "Endgame",
+                "frFR": "Phase finale",
+                "itIT": "Endgame",
+                "jaJP": "エンドゲーム",
+                "koKR": "종반전",
+                "plPL": "Etap końcowy",
+                "ptBR": "Fim da Jornada",
+                "ruRU": "Финал",
+                "zhCN": "最终任务",
+                "zhTW": "終極之戰"
               }
             }
           }
@@ -849,16 +1049,82 @@
           "install":
           [
             {
-              "move_paths":
+              "run_tool":
               {
-                "command_id": "cod22_move_shaders",
-                "optional": true,
-                "relative_paths":
+                "commandline_args":
                 [
-                  "shadercache"
+                  "cod.exe",
+                  "+ogu_mode",
+                  "--nofork"
                 ],
-                "root_dest_path": "%game%/cod22",
-                "root_src_path": "%game%"
+                "display_text": "%feature_setting:work_type_display_strings:preloading_shaders_%locale%%",
+                "executable_path": "%game%/bootstrapper.exe",
+                "order": 100,
+                "run_when": "install_or_update",
+                "signing_entity": "Activision Publishing Inc"
+              }
+            },
+            {
+              "add_firewall_rule":
+              {
+                "group_name": "Call of Duty",
+                "name": "Call of Duty: Black Ops 6 Campaign",
+                "org_name": "Activision Publishing Inc",
+                "path": "%game%/sp24/sp24-cod.exe"
+              }
+            },
+            {
+              "add_firewall_rule":
+              {
+                "group_name": "Call of Duty",
+                "name": "Call of Duty: Black Ops 6 Campaign Crash Handler",
+                "org_name": "Activision Publishing Inc",
+                "path": "%game%/sp24/codCrashHandler.exe"
+              }
+            },
+            {
+              "add_firewall_rule":
+              {
+                "group_name": "Call of Duty",
+                "name": "Call of Duty Bootstrapper",
+                "org_name": "Activision Publishing Inc",
+                "path": "%game%/bootstrapper.exe"
+              }
+            },
+            {
+              "add_firewall_rule":
+              {
+                "group_name": "Call of Duty",
+                "name": "Call of Duty Bootstrapper Crash Handler",
+                "org_name": "Activision Publishing Inc",
+                "path": "%game%/bootstrapperCrashHandler.exe"
+              }
+            },
+            {
+              "add_firewall_rule":
+              {
+                "group_name": "Call of Duty",
+                "name": "Call of Duty Crash Handler",
+                "org_name": "Activision Publishing Inc",
+                "path": "%game%/codCrashHandler.exe"
+              }
+            },
+            {
+              "add_firewall_rule":
+              {
+                "group_name": "Call of Duty",
+                "name": "Call of Duty Crash Log Generator",
+                "org_name": "Activision Publishing Inc",
+                "path": "%game%/crashLogGenerator.exe"
+              }
+            },
+            {
+              "add_firewall_rule":
+              {
+                "group_name": "Call of Duty",
+                "name": "Call of Duty",
+                "org_name": "Activision Publishing Inc",
+                "path": "%game%/cod.exe"
               }
             }
           ],
@@ -930,6 +1196,7 @@
                   "cod23",
                   "cod24",
                   "cod25",
+                  "ImmerseData",
                   "lpc",
                   "main",
                   "mp23",
@@ -963,6 +1230,11 @@
               {
                 "relative_paths":
                 [
+                  "*.dll",
+                  "*.xpak",
+                  "*.xsub",
+                  "*.ff",
+                  "*.sodb",
                   "amd_ags_x64.dll",
                   "api-ms-win-core-file-l1-2-0.dll",
                   "API-MS-Win-core-file-l2-1-0.dll",
@@ -985,6 +1257,7 @@
                   "api-ms-win-crt-time-l1-1-0.dll",
                   "api-ms-win-crt-utility-l1-1-0.dll",
                   "bink2w64.dll",
+                  "ccs_history.json",
                   "bootstrap.data.bin",
                   "bootstrapper.exe",
                   "bootstrapper.log",
@@ -994,12 +1267,15 @@
                   "CgSDK.x64_2019.dll",
                   "cod.exe",
                   "cod23.txt",
+                  "cod24.txt",
                   "codCrashHandler.exe",
                   "cod_bnet.exe",
                   "concrt140.dll",
+                  "crashlogsgenerator.exe",
                   "D3D12/D3D12Core.dll",
                   "dbghelp.dll",
                   "discord_game_sdk.dll",
+                  "dlc_manifests.csv",
                   "dxcompiler.dll",
                   "dxil.dll",
                   "enrollaik.exe",
@@ -1008,6 +1284,7 @@
                   "GFSDK_Aftermath_Lib.x64.dll",
                   "IEShims.dll",
                   "igxess.dll",
+                  "imgui.ini",
                   "launcher.exe",
                   "libxess.dll",
                   "msvcp140.dll",
@@ -1023,6 +1300,7 @@
                   "sl.nrd.dll",
                   "sl.reflex.dll",
                   "tbb.dll",
+                  "techsets_manifest.csv",
                   "telescope.dll",
                   "telescope23.dll",
                   "telescope23.dll",
@@ -1036,6 +1314,48 @@
                   "XeFX_Loader.dll"
                 ],
                 "root": "%game%"
+              }
+            },
+            {
+              "remove_firewall_rule":
+              {
+                "name": "Call of Duty: Black Ops 6 Campaign"
+              }
+            },
+            {
+              "remove_firewall_rule":
+              {
+                "name": "Call of Duty: Black Ops 6 Campaign Crash Handler"
+              }
+            },
+            {
+              "remove_firewall_rule":
+              {
+                "name": "Call of Duty Bootstrapper"
+              }
+            },
+            {
+              "remove_firewall_rule":
+              {
+                "name": "Call of Duty Bootstrapper Crash Handler"
+              }
+            },
+            {
+              "remove_firewall_rule":
+              {
+                "name": "Call of Duty Crash Handler"
+              }
+            },
+            {
+              "remove_firewall_rule":
+              {
+                "name": "Call of Duty Crash Log Generator"
+              }
+            },
+            {
+              "remove_firewall_rule":
+              {
+                "name": "Call of Duty"
               }
             }
           ]
@@ -1052,11 +1372,12 @@
         "casc_supports_1023_archives": true,
         "component_dependencies":
         [
-          "randgridauksqa"
+          "randgridauksv"
         ],
         "data_dir": "Data/",
         "decryption_key_name": "auksvendor",
         "enable_block_copy_patch": true,
+        "force_dedupe": 1,
         "form":
         {
           "game_dir":
@@ -1104,12 +1425,12 @@
                     "default_checked": "licensed",
                     "licenses":
                     [
-                      823086
+                      881555
                     ],
-                    "package_id": "auks-mwiii-campaign",
+                    "package_id": "auks-mw4-campaign",
                     "tags":
                     [
-                      "dlc02_01"
+                      "dlc05_01"
                     ],
                     "title_string": "COD_CAMPAIGN"
                   },
@@ -1117,97 +1438,105 @@
                     "default_checked": "licensed",
                     "licenses":
                     [
-                      823086
+                      881555
                     ],
-                    "package_id": "auks-mwiii-multiplayer",
+                    "package_id": "auks-mw4-multiplayer",
                     "tags":
                     [
-                      "dlc02_02"
+                      "dlc05_02"
                     ],
                     "title_string": "COD_MULTIPLAYER"
+                  },
+                  {
+                    "default_checked": "licensed",
+                    "licenses":
+                    [
+                      881555
+                    ],
+                    "package_id": "auks-mw4-dmz",
+                    "tags":
+                    [
+                      "dlc05_03"
+                    ],
+                    "title_string": "COD_MW4_DMZ"
+                  },
+                  {
+                    "default_checked": true,
+                    "package_id": "auks-mw4-free-trial",
+                    "tags":
+                    [
+                      "dlc05_05"
+                    ],
+                    "title_string": "COD_FREE_TRIAL"
                   }
                 ],
-                "package_id": "auks-mwiii",
+                "package_id": "auks-mw4",
                 "title_string":
                 {
-                  "default": "Modern Warfare III",
-                  "koKR": "모던 워페어 III",
-                  "zhTW": "《現代戰爭 III》"
+                  "default": "Modern Warfare 4"
                 }
               },
               {
                 "install_packages":
                 [
                   {
-                    "default_checked": true,
-                    "licenses":
-                    [
-                      92204
-                    ],
-                    "package_id": "auks-campaign",
+                    "default_checked": false,
+                    "package_id": "auks-bo7-coop-campaign",
                     "tags":
                     [
-                      "dlc01_01"
+                      "dlc04_03"
                     ],
-                    "title_string": "COD_CAMPAIGN"
+                    "title_string": "DLC_04_03_TITLE"
                   },
                   {
-                    "default_checked": true,
+                    "default_checked": "licensed",
                     "licenses":
                     [
-                      92204
+                      880549
                     ],
-                    "package_id": "auks-multiplayer",
+                    "package_id": "auks-bo7-multiplayer",
                     "tags":
                     [
-                      "dlc01_02"
+                      "dlc04_02"
                     ],
                     "title_string": "COD_MULTIPLAYER"
                   },
                   {
-                    "default_checked": true,
+                    "default_checked": "licensed",
                     "licenses":
                     [
-                      92204
+                      880549
                     ],
-                    "package_id": "auks-cooperative",
+                    "package_id": "auks-bo7-zombies",
                     "tags":
                     [
-                      "dlc01_03"
+                      "dlc04_04"
                     ],
-                    "title_string": "COD_COOP"
-                  },
-                  {
-                    "default_checked": true,
-                    "package_id": "auks-warzone",
-                    "tags":
-                    [
-                      "dlc01_04"
-                    ],
-                    "title_string":
-                    {
-                      "default": "Warzone 2022"
-                    }
+                    "title_string": "COD_ZOMBIES"
                   }
                 ],
-                "package_id": "auks-mwii",
+                "package_id": "auks-bo7",
                 "title_string":
                 {
-                  "default": "Modern Warfare II",
-                  "koKR": "모던 워페어 II",
-                  "zhTW": "《現代戰爭 II》"
+                  "default": "Black Ops 7",
+                  "koKR": "블랙 옵스 7",
+                  "zhCN": "《黑色行动7》",
+                  "zhTW": "《黑色行動 7》"
                 }
               },
               {
                 "default_checked": true,
-                "package_id": "auks-warzone-mwiii",
+                "package_id": "auks-mwiii-warzone",
                 "tags":
                 [
                   "dlc02_03"
                 ],
                 "title_string":
                 {
-                  "default": "Warzone"
+                  "default": "Warzone",
+                  "koKR": "워존",
+                  "zhCN": "战争地带",
+                  "zhTW": "《現代戰域》"
                 }
               }
             ],
@@ -1228,24 +1557,26 @@
                 "ptBR": "Campanha",
                 "ruRU": "Кампания",
                 "thTH": "แคมเปญ",
+                "zhCN": "剧情战役",
                 "zhTW": "劇情戰役"
               },
-              "COD_COOP":
+              "COD_FREE_TRIAL":
               {
-                "arSA": "الطور التعاوني",
-                "deDE": "Koop",
-                "default": "Co-Op",
-                "esES": "Cooperativo",
-                "esMX": "Cooperativo",
-                "frFR": "Coop",
-                "itIT": "Coop",
-                "jaJP": "Co-opモード",
-                "koKR": "협동전",
-                "plPL": "Tryb kooperacji",
-                "ptBR": "Cooperativo",
-                "ruRU": "Cовместная игра",
-                "thTH": "เล่นร่วมกัน",
-                "zhTW": "合作模式"
+                "arSA": "التجربة المجانية",
+                "deDE": "Testversion ",
+                "default": "Free Trial",
+                "esES": "Prueba gratuita",
+                "esMX": "Prueba gratuita",
+                "frFR": "Essai gratuit ",
+                "itIT": "Prova gratuita",
+                "jaJP": "無料トライアル",
+                "koKR": "무료 트라이얼",
+                "plPL": "Darmowa wersja próbna",
+                "ptBR": "Teste Grátis",
+                "ruRU": "Бесплатная версия",
+                "thTH": "ทดลองเล่นฟรี",
+                "zhCN": "免費試玩",
+                "zhTW": "免费试玩"
               },
               "COD_MULTIPLAYER":
               {
@@ -1262,7 +1593,41 @@
                 "ptBR": "Multijogador",
                 "ruRU": "Сетевая игра",
                 "thTH": "ผู้เล่นหลายคน",
+                "zhCN": "多人游戏",
                 "zhTW": "多人對戰"
+              },
+              "COD_MW4_DMZ":
+              {
+                "default": "DMZ"
+              },
+              "COD_ZOMBIES":
+              {
+                "default": "Zombies",
+                "esES": "Zombis",
+                "esMX": "Zombis",
+                "itIT": "Zombi",
+                "jaJP": "ゾンビ",
+                "koKR": "좀비",
+                "plPL": "Zombie",
+                "ruRU": "Бои с зомби",
+                "zhTW": "殭屍"
+              },
+              "DLC_04_03_TITLE":
+              {
+                "arSA": "المواجهة الحاسمة",
+                "deDE": "Endspiel",
+                "default": "Endgame",
+                "esES": "Objetivo final",
+                "esMX": "Endgame",
+                "frFR": "Phase finale",
+                "itIT": "Endgame",
+                "jaJP": "エンドゲーム",
+                "koKR": "종반전",
+                "plPL": "Etap końcowy",
+                "ptBR": "Fim da Jornada",
+                "ruRU": "Финал",
+                "zhCN": "最终任务",
+                "zhTW": "終極之戰"
               }
             }
           }
@@ -1366,16 +1731,82 @@
           "install":
           [
             {
-              "move_paths":
+              "run_tool":
               {
-                "command_id": "cod22_move_shaders",
-                "optional": true,
-                "relative_paths":
+                "commandline_args":
                 [
-                  "shadercache"
+                  "cod.exe",
+                  "+ogu_mode",
+                  "--nofork"
                 ],
-                "root_dest_path": "%game%/cod22",
-                "root_src_path": "%game%"
+                "display_text": "%feature_setting:work_type_display_strings:preloading_shaders_%locale%%",
+                "executable_path": "%game%/bootstrapper.exe",
+                "order": 100,
+                "run_when": "install_or_update",
+                "signing_entity": "Activision Publishing Inc"
+              }
+            },
+            {
+              "add_firewall_rule":
+              {
+                "group_name": "Call of Duty",
+                "name": "Call of Duty: Black Ops 6 Campaign",
+                "org_name": "Activision Publishing Inc",
+                "path": "%game%/sp24/sp24-cod.exe"
+              }
+            },
+            {
+              "add_firewall_rule":
+              {
+                "group_name": "Call of Duty",
+                "name": "Call of Duty: Black Ops 6 Campaign Crash Handler",
+                "org_name": "Activision Publishing Inc",
+                "path": "%game%/sp24/codCrashHandler.exe"
+              }
+            },
+            {
+              "add_firewall_rule":
+              {
+                "group_name": "Call of Duty",
+                "name": "Call of Duty Bootstrapper",
+                "org_name": "Activision Publishing Inc",
+                "path": "%game%/bootstrapper.exe"
+              }
+            },
+            {
+              "add_firewall_rule":
+              {
+                "group_name": "Call of Duty",
+                "name": "Call of Duty Bootstrapper Crash Handler",
+                "org_name": "Activision Publishing Inc",
+                "path": "%game%/bootstrapperCrashHandler.exe"
+              }
+            },
+            {
+              "add_firewall_rule":
+              {
+                "group_name": "Call of Duty",
+                "name": "Call of Duty Crash Handler",
+                "org_name": "Activision Publishing Inc",
+                "path": "%game%/codCrashHandler.exe"
+              }
+            },
+            {
+              "add_firewall_rule":
+              {
+                "group_name": "Call of Duty",
+                "name": "Call of Duty Crash Log Generator",
+                "org_name": "Activision Publishing Inc",
+                "path": "%game%/crashLogGenerator.exe"
+              }
+            },
+            {
+              "add_firewall_rule":
+              {
+                "group_name": "Call of Duty",
+                "name": "Call of Duty",
+                "org_name": "Activision Publishing Inc",
+                "path": "%game%/cod.exe"
               }
             }
           ],
@@ -1438,20 +1869,29 @@
               {
                 "relative_paths":
                 [
+                  "ABRT",
                   "BlizzardBrowser",
                   "D3D12",
                   "DevLauncher_Data",
                   "GPUCache",
                   "cod22",
                   "cod23",
+                  "cod24",
+                  "cod25",
+                  "ImmerseData",
+                  "lpc",
                   "main",
                   "mp23",
+                  "mp24",
                   "mp",
+                  "pclauncher_data",
                   "shadercache",
                   "sp22",
                   "sp23",
+                  "sp24",
                   "telescopeCache",
                   "telescopeStorage",
+                  "telescopeVideoCache",
                   "xpak_cache"
                 ],
                 "root": "%game%"
@@ -1472,6 +1912,11 @@
               {
                 "relative_paths":
                 [
+                  "*.dll",
+                  "*.xpak",
+                  "*.xsub",
+                  "*.ff",
+                  "*.sodb",
                   "amd_ags_x64.dll",
                   "api-ms-win-core-file-l1-2-0.dll",
                   "API-MS-Win-core-file-l2-1-0.dll",
@@ -1494,6 +1939,7 @@
                   "api-ms-win-crt-time-l1-1-0.dll",
                   "api-ms-win-crt-utility-l1-1-0.dll",
                   "bink2w64.dll",
+                  "ccs_history.json",
                   "bootstrap.data.bin",
                   "bootstrapper.exe",
                   "bootstrapper.log",
@@ -1503,19 +1949,24 @@
                   "CgSDK.x64_2019.dll",
                   "cod.exe",
                   "cod23.txt",
+                  "cod24.txt",
                   "codCrashHandler.exe",
                   "cod_bnet.exe",
                   "concrt140.dll",
+                  "crashlogsgenerator.exe",
                   "D3D12/D3D12Core.dll",
                   "dbghelp.dll",
                   "discord_game_sdk.dll",
+                  "dlc_manifests.csv",
                   "dxcompiler.dll",
                   "dxil.dll",
+                  "enrollaik.exe",
                   "game.icn",
                   "GfeSDK.dll",
                   "GFSDK_Aftermath_Lib.x64.dll",
                   "IEShims.dll",
                   "igxess.dll",
+                  "imgui.ini",
                   "launcher.exe",
                   "libxess.dll",
                   "msvcp140.dll",
@@ -1531,6 +1982,7 @@
                   "sl.nrd.dll",
                   "sl.reflex.dll",
                   "tbb.dll",
+                  "techsets_manifest.csv",
                   "telescope.dll",
                   "telescope23.dll",
                   "telescope23.dll",
@@ -1544,6 +1996,48 @@
                   "XeFX_Loader.dll"
                 ],
                 "root": "%game%"
+              }
+            },
+            {
+              "remove_firewall_rule":
+              {
+                "name": "Call of Duty: Black Ops 6 Campaign"
+              }
+            },
+            {
+              "remove_firewall_rule":
+              {
+                "name": "Call of Duty: Black Ops 6 Campaign Crash Handler"
+              }
+            },
+            {
+              "remove_firewall_rule":
+              {
+                "name": "Call of Duty Bootstrapper"
+              }
+            },
+            {
+              "remove_firewall_rule":
+              {
+                "name": "Call of Duty Bootstrapper Crash Handler"
+              }
+            },
+            {
+              "remove_firewall_rule":
+              {
+                "name": "Call of Duty Crash Handler"
+              }
+            },
+            {
+              "remove_firewall_rule":
+              {
+                "name": "Call of Duty Crash Log Generator"
+              }
+            },
+            {
+              "remove_firewall_rule":
+              {
+                "name": "Call of Duty"
               }
             }
           ]
