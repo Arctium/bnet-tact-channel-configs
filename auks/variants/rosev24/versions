@@ -25,21 +25,21 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "release_28852002_cod26_tu0_bnet_v24_dev",
-      "token": "94e8769c-f613-4d40-9110-66e00cca1426"
+      "name": "trunk_29186036_rex_autobuild_mp_bnet_v24_dev",
+      "token": "b9b5862e-e015-4531-9bd1-4494808c2f21"
     },
-    "buildKey": "6dd7b2cdf5bc90750a34a9cc70b53a97",
-    "cdnKey": "c1bcfef6ed7cbfa6ce55c98ccf1a857b",
+    "buildKey": "f1f49a40be41592b478ceaf8941fb0d0",
+    "cdnKey": "7a64486e12b295df0486a91b74831d1d",
     "keyRing": "",
     "path": "tpr/rosevb",
     "pipelineId": 356,
     "productConfig":
     {
       "cdnPath": "",
-      "hash": "623340fdfb3c86b066eb3442adc13ed4"
+      "hash": "6ae831a4498558b167453cb3e44b2939"
     },
-    "versionNumber": 28852002,
-    "versionString": "0.0.0.28852002d"
+    "versionNumber": 29186036,
+    "versionString": "0.0.0.29186036d"
   },
   "us":
   {
