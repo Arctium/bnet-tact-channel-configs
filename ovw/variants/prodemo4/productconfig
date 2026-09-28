@@ -1,12 +1,12 @@
 {
-  "eu+tw+us":
+  "cn+eu+kr+us":
   {
     "all":
     {
       "config":
       {
         "data_dir": "data/casc/",
-        "decryption_key_name": "prometheus_event_2",
+        "decryption_key_name": "prometheus_event_3",
         "form":
         {
           "eula":
