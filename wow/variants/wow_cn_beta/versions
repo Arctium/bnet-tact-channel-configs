@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "dummy_build_wow_cn_beta",
-      "token": "fbda75d3-b80a-452b-b6c0-d020ef05219b"
+      "name": "WOW-70009patch1.60.1_CNBETA",
+      "token": "92731360-bc8e-4b25-a621-032a65d9cbe8"
     },
-    "buildKey": "306c11e4247a49c053a0ce34438b6a72",
-    "cdnKey": "4405f6449dbce4cb4ae2a5b94809d12a",
+    "buildKey": "095af0bc437dbbee5b9db4092ee3e08a",
+    "cdnKey": "d2692387b8aea7cfb23cbc7888ba6d5a",
     "keyRing": "",
     "path": "tpr/wow",
     "pipelineId": 19,
@@ -17,7 +17,7 @@
       "cdnPath": "",
       "hash": "4bdb1680cbf62bae0aecfee6db9d1859"
     },
-    "versionNumber": 1,
-    "versionString": "1"
+    "versionNumber": 70009,
+    "versionString": "1.60.1.70009"
   }
 }
