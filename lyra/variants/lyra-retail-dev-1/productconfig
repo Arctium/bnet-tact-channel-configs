@@ -91,13 +91,13 @@
             "game":
             {
               "launch_arguments": [],
-              "regex": "(bin/x64(_dx12)?/)?[Ww]itcher3\\.exe|game_start\\.exe",
-              "relative_path": "game_start.exe",
+              "regex": "(bin/x64(_dx12)?/)?[Ww]itcher3\\.exe|REDprelauncher\\.exe",
+              "relative_path": "REDprelauncher.exe",
               "switcher": true
             }
           },
-          "binary_launch_path": "game_start.exe",
-          "binary_version_path": "game_start.exe",
+          "binary_launch_path": "REDprelauncher.exe",
+          "binary_version_path": "REDprelauncher.exe",
           "form":
           {
             "game_dir":
@@ -187,7 +187,7 @@
                   "libcrypto-1_1-x64.dll",
                   "libssl-1_1-x64.dll",
                   "*.msi",
-                  "game_start.exe",
+                  "REDprelauncher.exe",
                   "launcher-configuration.json",
                   "pcre2-8.dll",
                   "pcre2-16.dll",
