@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "WOW-70047patch12.1.5_Vendor2",
-      "token": "d9b6118b-6b42-47f4-b4ea-c0cceb513b8c"
+      "name": "WOW-70077patch12.1.5_Vendor2",
+      "token": "57be0e44-b1c8-4cd1-af57-4b12be600fed"
     },
-    "buildKey": "e785fd9aed1d3ff0486c4a9423a5d8e4",
-    "cdnKey": "fdf1974dd1f475baf0cb5195b4d89acd",
+    "buildKey": "98e9279a771624c3f482a0710c5e0a21",
+    "cdnKey": "a236a94df42c3549a7586bba9d9fd347",
     "keyRing": "",
     "path": "tpr/wowv",
     "pipelineId": 163,
