@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "WOW-69934patch5.5.4_ClassicRetail",
-      "token": "5a2b6a0c-289b-4590-8a26-f4d827de37b3"
+      "name": "WOW-70032patch5.5.4_ClassicRetail",
+      "token": "3049c3bd-976e-413d-aa44-721435c76f03"
     },
-    "buildKey": "ad6184fe0582294d2e5faaf3598a3688",
-    "cdnKey": "a9035bfebbe53afc0f656dd89f22df69",
+    "buildKey": "7dba9c25479632aebc53be9d187818e3",
+    "cdnKey": "5b98dd1083c7786da6078bcb57299852",
     "keyRing": "",
     "path": "tpr/wow",
     "pipelineId": 19,
@@ -17,7 +17,7 @@
       "cdnPath": "",
       "hash": "f337a1b6ece3dacf3ec807287f3c2aa6"
     },
-    "versionNumber": 69934,
-    "versionString": "5.5.4.69934"
+    "versionNumber": 70032,
+    "versionString": "5.5.4.70032"
   }
 }
