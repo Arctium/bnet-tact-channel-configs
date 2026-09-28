@@ -20,7 +20,7 @@
     "versionNumber": 89566,
     "versionString": "2.55.3.89566"
   },
-  "eu":
+  "eu+sg+us":
   {
     "armadilloKey": "",
     "build":
@@ -41,7 +41,7 @@
     "versionNumber": 98285,
     "versionString": "2.57.0.98285"
   },
-  "kr+sg+tw+us":
+  "kr+tw":
   {
     "armadilloKey": "",
     "build":
