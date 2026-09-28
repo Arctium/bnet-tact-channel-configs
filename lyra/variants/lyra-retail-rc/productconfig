@@ -5,7 +5,6 @@
     {
       "config":
       {
-        "casc_language_agnostic": true,
         "containerless_checksizeonly": false,
         "data_dir": "Data/",
         "decryption_key_name": "lyra_live_rc_2",
@@ -13,11 +12,24 @@
         {
           "game_dir":
           {
-            "dirname": "Lyra"
+            "dirname": "TheWitcher3Remastered"
           }
         },
         "product": "lyra-retail-rc",
-        "supported_locales":
+        "shared_container_default_subfolder": "_TW3R_RC_",
+        "supported_speech_locales":
+        [
+          "enUS",
+          "frFR",
+          "deDE",
+          "koKR",
+          "plPL",
+          "ruRU",
+          "jaJP",
+          "ptBR",
+          "zhCN"
+        ],
+        "supported_text_locales":
         [
           "enUS",
           "frFR",
@@ -79,13 +91,13 @@
             "game":
             {
               "launch_arguments": [],
-              "regex": "Witcher3.exe|game_start.exe",
-              "relative_path": "game_start.exe",
+              "regex": "(bin/x64(_dx12)?/)?[Ww]itcher3\\.exe|REDprelauncher\\.exe",
+              "relative_path": "REDprelauncher.exe",
               "switcher": true
             }
           },
-          "binary_launch_path": "game_start.exe",
-          "binary_version_path": "game_start.exe",
+          "binary_launch_path": "REDprelauncher.exe",
+          "binary_version_path": "REDprelauncher.exe",
           "form":
           {
             "game_dir":
@@ -125,6 +137,8 @@
               }
             }
           },
+          "shared_container_delete_list": [],
+          "shared_container_move_list": [],
           "tags": [],
           "uninstall":
           [
@@ -173,7 +187,7 @@
                   "libcrypto-1_1-x64.dll",
                   "libssl-1_1-x64.dll",
                   "*.msi",
-                  "game_start.exe",
+                  "REDprelauncher.exe",
                   "launcher-configuration.json",
                   "pcre2-8.dll",
                   "pcre2-16.dll",
