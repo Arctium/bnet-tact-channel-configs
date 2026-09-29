@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "WOW-70077patch12.1.5_PTR",
-      "token": "cdb092b2-92f4-45e0-9f82-ed6e9a45b5b5"
+      "name": "WOW-70117patch12.1.5_Dark",
+      "token": "40b2f829-497d-4ad9-bbc8-e3b9d111a674"
     },
-    "buildKey": "6e3c0fba50944ba09abcef0d72fff180",
-    "cdnKey": "9c21df5e4db107d2ad198c2013d6b77d",
+    "buildKey": "df1ef929d4ead61216d1e94251c8e75b",
+    "cdnKey": "6c33386e2f5c0c48eec0ffea41a13d0a",
     "keyRing": "3ca57fe7319a297346440e4d2a03a0cd",
     "path": "tpr/wowdev/1",
     "pipelineId": 56,
@@ -17,7 +17,7 @@
       "cdnPath": "",
       "hash": "f3c18628729844d56c27fdfcb6582d8d"
     },
-    "versionNumber": 70077,
-    "versionString": "12.1.5.70077"
+    "versionNumber": 70117,
+    "versionString": "12.1.5.70117"
   }
 }
