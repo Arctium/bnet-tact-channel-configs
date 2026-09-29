@@ -49,7 +49,7 @@
           "trTR",
           "esMX"
         ],
-        "supports_multibox": true,
+        "supports_multibox": false,
         "supports_offline": true,
         "switcher": false,
         "title_info":
@@ -91,7 +91,7 @@
             "game":
             {
               "launch_arguments": [],
-              "regex": "(bin/x64(_dx12)?/)?[Ww]itcher3\\.exe|REDprelauncher\\.exe",
+              "regex": "(bin/x64(_dx12)?/)?[Ww]itcher3\\.exe",
               "relative_path": "REDprelauncher.exe",
               "switcher": true
             }
