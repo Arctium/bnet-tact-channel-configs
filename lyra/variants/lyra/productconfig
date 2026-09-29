@@ -48,7 +48,7 @@
           "trTR",
           "esMX"
         ],
-        "supports_multibox": true,
+        "supports_multibox": false,
         "supports_offline": true,
         "switcher": false,
         "title_info":
