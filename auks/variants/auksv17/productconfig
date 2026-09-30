@@ -349,7 +349,7 @@
               [
                 "cod.exe"
               ],
-              "regex": "cod.exe|bootstrapper.exe",
+              "regex": "bootstrapper.exe",
               "relative_path": "bootstrapper.exe",
               "switcher": false
             }
@@ -373,7 +373,7 @@
                 [
                   "cod.exe",
                   "+ogu_mode",
-                  "--nofork"
+                  "--fork-and-wait"
                 ],
                 "display_text": "%feature_setting:work_type_display_strings:preloading_shaders_%locale%%",
                 "executable_path": "%game%/bootstrapper.exe",
@@ -1031,7 +1031,7 @@
               [
                 "cod.exe"
               ],
-              "regex": "cod.exe|bootstrapper.exe",
+              "regex": "bootstrapper.exe",
               "relative_path": "bootstrapper.exe",
               "switcher": false
             }
@@ -1055,7 +1055,7 @@
                 [
                   "cod.exe",
                   "+ogu_mode",
-                  "--nofork"
+                  "--fork-and-wait"
                 ],
                 "display_text": "%feature_setting:work_type_display_strings:preloading_shaders_%locale%%",
                 "executable_path": "%game%/bootstrapper.exe",
@@ -1713,7 +1713,7 @@
               [
                 "cod.exe"
               ],
-              "regex": "cod.exe|bootstrapper.exe",
+              "regex": "bootstrapper.exe",
               "relative_path": "bootstrapper.exe",
               "switcher": false
             }
@@ -1737,7 +1737,7 @@
                 [
                   "cod.exe",
                   "+ogu_mode",
-                  "--nofork"
+                  "--fork-and-wait"
                 ],
                 "display_text": "%feature_setting:work_type_display_strings:preloading_shaders_%locale%%",
                 "executable_path": "%game%/bootstrapper.exe",
