@@ -84,6 +84,7 @@
         ]
       }
     },
+    "force_dedupe": 1,
     "platform":
     {
       "mac":
@@ -213,7 +214,7 @@
             "game":
             {
               "launch_arguments": [],
-              "relative_path": "WoWGMChina.exe",
+              "relative_path": "WowGM-China.exe",
               "switcher": false
             }
           },
@@ -246,7 +247,7 @@
             "Logs",
             "Utils",
             "WoW.mfil",
-            "WoWGMChina.exe",
+            "WowGM-China.exe",
             "World of Warcraft Launcher.exe"
           ],
           "shared_container_move_list":
@@ -338,7 +339,7 @@
                   "GFSDK_Aftermath_Lib.x64.dll",
                   "Launcher.db",
                   "World of Warcraft Launcher.exe",
-                  "WoWGMChina.exe"
+                  "WowGM-China.exe"
                 ],
                 "root": "%game%"
               }
