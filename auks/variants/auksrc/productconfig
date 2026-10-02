@@ -57,6 +57,64 @@
                 "install_packages":
                 [
                   {
+                    "default_checked": true,
+                    "package_id": "auks-mw4-campaign",
+                    "tags":
+                    [
+                      "dlc05_01"
+                    ],
+                    "title_string":
+                    {
+                      "default": "Campaign"
+                    }
+                  },
+                  {
+                    "default_checked": true,
+                    "package_id": "auks-mw4-multiplayer",
+                    "tags":
+                    [
+                      "dlc05_02"
+                    ],
+                    "title_string":
+                    {
+                      "default": "Multiplayer"
+                    }
+                  },
+                  {
+                    "default_checked": true,
+                    "package_id": "auks-mw4-dmz",
+                    "tags":
+                    [
+                      "dlc05_03"
+                    ],
+                    "title_string":
+                    {
+                      "default": "DMZ"
+                    }
+                  },
+                  {
+                    "default_checked": true,
+                    "package_id": "auks-mw4-free-trial",
+                    "tags":
+                    [
+                      "dlc05_05"
+                    ],
+                    "title_string":
+                    {
+                      "default": "Free Trial"
+                    }
+                  }
+                ],
+                "package_id": "auks-mw4",
+                "title_string":
+                {
+                  "default": "Modern Warfare 4"
+                }
+              },
+              {
+                "install_packages":
+                [
+                  {
                     "default_checked": "licensed",
                     "licenses":
                     [
@@ -103,45 +161,6 @@
                   "koKR": "블랙 옵스 7",
                   "zhCN": "《黑色行动7》",
                   "zhTW": "《黑色行動 7》"
-                }
-              },
-              {
-                "install_packages":
-                [
-                  {
-                    "default_checked": "licensed",
-                    "licenses":
-                    [
-                      274545
-                    ],
-                    "package_id": "auks-bo6-campaign",
-                    "tags":
-                    [
-                      "dlc03_01"
-                    ],
-                    "title_string": "COD_CAMPAIGN"
-                  },
-                  {
-                    "default_checked": "licensed",
-                    "licenses":
-                    [
-                      274545
-                    ],
-                    "package_id": "auks-bo6-multiplayer",
-                    "tags":
-                    [
-                      "dlc03_02"
-                    ],
-                    "title_string": "COD_MULTIPLAYER"
-                  }
-                ],
-                "package_id": "auks-bo6",
-                "title_string":
-                {
-                  "default": "Black Ops 6",
-                  "koKR": "블랙 옵스 6",
-                  "zhCN": "黑色行动 6",
-                  "zhTW": "《黑色行動 6》"
                 }
               },
               {
@@ -607,7 +626,7 @@
               [
                 "cod.exe"
               ],
-              "regex": "cod.exe|bootstrapper.exe",
+              "regex": "bootstrapper.exe",
               "relative_path": "bootstrapper.exe",
               "switcher": false
             }
@@ -624,6 +643,22 @@
           },
           "install":
           [
+            {
+              "run_tool":
+              {
+                "commandline_args":
+                [
+                  "cod.exe",
+                  "+ogu_mode",
+                  "--fork-and-wait"
+                ],
+                "display_text": "%feature_setting:work_type_display_strings:preloading_shaders_%locale%%",
+                "executable_path": "%game%/bootstrapper.exe",
+                "order": 100,
+                "run_when": "install_or_update",
+                "signing_entity": "Activision Publishing Inc"
+              }
+            },
             {
               "add_firewall_rule":
               {
