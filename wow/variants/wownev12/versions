@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "WOW-70058patch1.60.1_NEVendor12",
-      "token": "191f955b-58d0-4310-afb3-682898790906"
+      "name": "WOW-70178patch1.60.1_NEVendor12",
+      "token": "1053b09a-ab5e-444a-9851-896f38a206e9"
     },
-    "buildKey": "cb0891d0645055b7dfa35c6485ce3c30",
-    "cdnKey": "b28e675c98ba4d91f23f09c659243260",
+    "buildKey": "48320c181f4871c152853f51902cc1ee",
+    "cdnKey": "9101300d00561d3fb82c61f19d276dea",
     "keyRing": "",
     "path": "tpr/wowvcn",
     "pipelineId": 403,
@@ -17,7 +17,7 @@
       "cdnPath": "",
       "hash": "8ff7db6c15d7d15af073847fa5ea495a"
     },
-    "versionNumber": 70058,
-    "versionString": "1.60.1.70058"
+    "versionNumber": 70178,
+    "versionString": "1.60.1.70178"
   }
 }
