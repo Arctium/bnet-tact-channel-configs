@@ -59,7 +59,7 @@
             "game":
             {
               "launch_arguments": [],
-              "relative_path": "World of Warcraft Test China.app",
+              "relative_path": "World of Warcraft Test.app",
               "switcher": false
             }
           },
@@ -153,7 +153,8 @@
                   "Blizzard Error.app",
                   "SetupOSX.mpq",
                   "WoW.mfil",
-                  "World of Warcraft Test China.app"
+                  "World of Warcraft Test China.app",
+                  "World of Warcraft Test.app"
                 ],
                 "root": "%game%"
               }
@@ -170,7 +171,7 @@
             "game":
             {
               "launch_arguments": [],
-              "relative_path": "WowT-China.exe",
+              "relative_path": "WowT.exe",
               "switcher": false
             }
           },
@@ -317,6 +318,7 @@
                   "WowError.exe",
                   "WowError-64.exe",
                   "WowT-China.exe",
+                  "WowT.exe",
                   "BlizzardError.txt",
                   "icudt78l.dat",
                   "libxell.dll"
