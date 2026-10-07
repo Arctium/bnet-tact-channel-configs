@@ -17,6 +17,30 @@
       "cdnPath": "",
       "hash": "9752ba0887cf1805be62043863e3f5e6"
     },
+    "regions":
+    [
+      {
+        "branches":
+        [
+          "eu"
+        ],
+        "cdns": "287b8918c145665428c6f714cdc6e3bd"
+      },
+      {
+        "branches":
+        [
+          "us"
+        ],
+        "cdns": "919646d723f2fff72418101b1223ddb0"
+      },
+      {
+        "branches":
+        [
+          "cn"
+        ],
+        "cdns": "a8c298f28e96d5d12cc94fb166476e70"
+      }
+    ],
     "versionNumber": 73552,
     "versionString": "73552"
   }

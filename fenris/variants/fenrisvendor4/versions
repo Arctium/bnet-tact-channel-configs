@@ -17,6 +17,16 @@
       "cdnPath": "",
       "hash": "c9104615596e57c338ff17540dc2be96"
     },
+    "regions":
+    [
+      {
+        "branches":
+        [
+          "us"
+        ],
+        "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
+      }
+    ],
     "versionNumber": 73782,
     "versionString": "3.2.X.73782"
   }

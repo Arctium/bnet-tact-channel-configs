@@ -17,6 +17,23 @@
       "cdnPath": "",
       "hash": "449dbd201c27bf635b261f0cb4d84521"
     },
+    "regions":
+    [
+      {
+        "branches":
+        [
+          "us"
+        ],
+        "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+      },
+      {
+        "branches":
+        [
+          "eu"
+        ],
+        "cdns": "084aea14e8342085ace15de6e8a53b72"
+      }
+    ],
     "versionNumber": 28355901,
     "versionString": "0.0.1.28355901d"
   },
@@ -38,6 +55,23 @@
       "cdnPath": "",
       "hash": "36bc78cc09412b299a0c481890e7d658"
     },
+    "regions":
+    [
+      {
+        "branches":
+        [
+          "us"
+        ],
+        "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+      },
+      {
+        "branches":
+        [
+          "eu"
+        ],
+        "cdns": "084aea14e8342085ace15de6e8a53b72"
+      }
+    ],
     "versionNumber": 25512275,
     "versionString": "0.0.0.25512275d"
   },
@@ -59,6 +93,23 @@
       "cdnPath": "",
       "hash": "449dbd201c27bf635b261f0cb4d84521"
     },
+    "regions":
+    [
+      {
+        "branches":
+        [
+          "us"
+        ],
+        "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+      },
+      {
+        "branches":
+        [
+          "eu"
+        ],
+        "cdns": "084aea14e8342085ace15de6e8a53b72"
+      }
+    ],
     "versionNumber": 28442661,
     "versionString": "0.0.1.28442661d"
   }

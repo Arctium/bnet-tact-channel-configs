@@ -17,6 +17,30 @@
       "cdnPath": "",
       "hash": "ab8574ae444e658705fd180dfa18ef6c"
     },
+    "regions":
+    [
+      {
+        "branches":
+        [
+          "eu"
+        ],
+        "cdns": "287b8918c145665428c6f714cdc6e3bd"
+      },
+      {
+        "branches":
+        [
+          "us"
+        ],
+        "cdns": "919646d723f2fff72418101b1223ddb0"
+      },
+      {
+        "branches":
+        [
+          "cn"
+        ],
+        "cdns": "a8c298f28e96d5d12cc94fb166476e70"
+      }
+    ],
     "versionNumber": 69713,
     "versionString": "Vendor8.69713"
   }

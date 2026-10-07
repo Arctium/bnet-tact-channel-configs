@@ -17,6 +17,31 @@
       "cdnPath": "",
       "hash": "37df2e65c717849b65b05705cde8b68b"
     },
+    "regions":
+    [
+      {
+        "branches":
+        [
+          "kr"
+        ],
+        "cdns": "e3e189f887f0d9913e39df671295e08f"
+      },
+      {
+        "branches":
+        [
+          "tw",
+          "us"
+        ],
+        "cdns": "919646d723f2fff72418101b1223ddb0"
+      },
+      {
+        "branches":
+        [
+          "eu"
+        ],
+        "cdns": "287b8918c145665428c6f714cdc6e3bd"
+      }
+    ],
     "versionNumber": 153939,
     "versionString": "2.25.0.0.153939"
   }

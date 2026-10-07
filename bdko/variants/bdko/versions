@@ -17,6 +17,37 @@
       "cdnPath": "",
       "hash": "9f18c6773ac515e9daa8ef3518506317"
     },
+    "regions":
+    [
+      {
+        "branches":
+        [
+          "cn"
+        ],
+        "cdns": "bed07fc70258d67071c2ca1148e4b8c6"
+      },
+      {
+        "branches":
+        [
+          "us"
+        ],
+        "cdns": "919646d723f2fff72418101b1223ddb0"
+      },
+      {
+        "branches":
+        [
+          "eu"
+        ],
+        "cdns": "287b8918c145665428c6f714cdc6e3bd"
+      },
+      {
+        "branches":
+        [
+          "kr"
+        ],
+        "cdns": "0e52e616adbad7a6a5fa0a41741bb101"
+      }
+    ],
     "versionNumber": 126479,
     "versionString": "Battle.net Development Kit 1.4.1"
   }

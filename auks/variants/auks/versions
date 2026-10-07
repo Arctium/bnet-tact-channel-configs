@@ -17,6 +17,30 @@
       "cdnPath": "",
       "hash": "2416bdddc602c9c236dfba27137f6a68"
     },
+    "regions":
+    [
+      {
+        "branches":
+        [
+          "eu"
+        ],
+        "cdns": "287b8918c145665428c6f714cdc6e3bd"
+      },
+      {
+        "branches":
+        [
+          "us"
+        ],
+        "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
+      },
+      {
+        "branches":
+        [
+          "kr"
+        ],
+        "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
+      }
+    ],
     "versionNumber": 28787708,
     "versionString": "3.14.2.28787707"
   }

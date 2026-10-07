@@ -17,6 +17,23 @@
       "cdnPath": "",
       "hash": "608709ff6f6c0f1acd919a5a983d1853"
     },
+    "regions":
+    [
+      {
+        "branches":
+        [
+          "us"
+        ],
+        "cdns": "919646d723f2fff72418101b1223ddb0"
+      },
+      {
+        "branches":
+        [
+          "eu"
+        ],
+        "cdns": "287b8918c145665428c6f714cdc6e3bd"
+      }
+    ],
     "versionNumber": 692025,
     "versionString": "Chicago Demo 1.0.692025"
   }

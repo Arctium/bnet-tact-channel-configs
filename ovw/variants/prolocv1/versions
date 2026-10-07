@@ -17,6 +17,23 @@
       "cdnPath": "",
       "hash": "81c0f111deaf3b20341a7b449958a11c"
     },
+    "regions":
+    [
+      {
+        "branches":
+        [
+          "us"
+        ],
+        "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
+      },
+      {
+        "branches":
+        [
+          "eu"
+        ],
+        "cdns": "287b8918c145665428c6f714cdc6e3bd"
+      }
+    ],
     "versionNumber": 144630,
     "versionString": "2.20.0.0.144630"
   },
@@ -38,6 +55,23 @@
       "cdnPath": "",
       "hash": "81c0f111deaf3b20341a7b449958a11c"
     },
+    "regions":
+    [
+      {
+        "branches":
+        [
+          "us"
+        ],
+        "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
+      },
+      {
+        "branches":
+        [
+          "eu"
+        ],
+        "cdns": "287b8918c145665428c6f714cdc6e3bd"
+      }
+    ],
     "versionNumber": 153992,
     "versionString": "2.25.0.0.153992"
   }

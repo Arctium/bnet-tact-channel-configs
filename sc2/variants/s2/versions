@@ -17,6 +17,38 @@
       "cdnPath": "",
       "hash": "0c241b7c4662aa04df68134b5ecdd181"
     },
+    "regions":
+    [
+      {
+        "branches":
+        [
+          "cn"
+        ],
+        "cdns": "3598b2604a265c20226f1e451053089d"
+      },
+      {
+        "branches":
+        [
+          "tw",
+          "us"
+        ],
+        "cdns": "919646d723f2fff72418101b1223ddb0"
+      },
+      {
+        "branches":
+        [
+          "eu"
+        ],
+        "cdns": "287b8918c145665428c6f714cdc6e3bd"
+      },
+      {
+        "branches":
+        [
+          "kr"
+        ],
+        "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
+      }
+    ],
     "versionNumber": 93333,
     "versionString": "5.0.14.93333"
   },
@@ -38,6 +70,38 @@
       "cdnPath": "",
       "hash": "0c241b7c4662aa04df68134b5ecdd181"
     },
+    "regions":
+    [
+      {
+        "branches":
+        [
+          "cn"
+        ],
+        "cdns": "3598b2604a265c20226f1e451053089d"
+      },
+      {
+        "branches":
+        [
+          "tw",
+          "us"
+        ],
+        "cdns": "919646d723f2fff72418101b1223ddb0"
+      },
+      {
+        "branches":
+        [
+          "eu"
+        ],
+        "cdns": "287b8918c145665428c6f714cdc6e3bd"
+      },
+      {
+        "branches":
+        [
+          "kr"
+        ],
+        "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
+      }
+    ],
     "versionNumber": 97563,
     "versionString": "5.0.16.97563"
   },
@@ -59,6 +123,38 @@
       "cdnPath": "",
       "hash": "0c241b7c4662aa04df68134b5ecdd181"
     },
+    "regions":
+    [
+      {
+        "branches":
+        [
+          "cn"
+        ],
+        "cdns": "3598b2604a265c20226f1e451053089d"
+      },
+      {
+        "branches":
+        [
+          "tw",
+          "us"
+        ],
+        "cdns": "919646d723f2fff72418101b1223ddb0"
+      },
+      {
+        "branches":
+        [
+          "eu"
+        ],
+        "cdns": "287b8918c145665428c6f714cdc6e3bd"
+      },
+      {
+        "branches":
+        [
+          "kr"
+        ],
+        "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
+      }
+    ],
     "versionNumber": 98310,
     "versionString": "5.0.17.98310"
   }

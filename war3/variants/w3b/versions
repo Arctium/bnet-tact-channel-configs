@@ -17,6 +17,31 @@
       "cdnPath": "",
       "hash": "8997a22ea816af520e5cfb0732dd523a"
     },
+    "regions":
+    [
+      {
+        "branches":
+        [
+          "eu"
+        ],
+        "cdns": "287b8918c145665428c6f714cdc6e3bd"
+      },
+      {
+        "branches":
+        [
+          "kr"
+        ],
+        "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
+      },
+      {
+        "branches":
+        [
+          "tw",
+          "us"
+        ],
+        "cdns": "919646d723f2fff72418101b1223ddb0"
+      }
+    ],
     "versionNumber": 14411,
     "versionString": "1.32.0.14411"
   }

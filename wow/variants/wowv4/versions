@@ -17,6 +17,30 @@
       "cdnPath": "",
       "hash": "4bd0ebf4c79b3d3ee3838c4b3e6178fd"
     },
+    "regions":
+    [
+      {
+        "branches":
+        [
+          "kr"
+        ],
+        "cdns": "0e52e616adbad7a6a5fa0a41741bb101"
+      },
+      {
+        "branches":
+        [
+          "eu"
+        ],
+        "cdns": "287b8918c145665428c6f714cdc6e3bd"
+      },
+      {
+        "branches":
+        [
+          "us"
+        ],
+        "cdns": "919646d723f2fff72418101b1223ddb0"
+      }
+    ],
     "versionNumber": 68185,
     "versionString": "1.15.9.68185"
   }

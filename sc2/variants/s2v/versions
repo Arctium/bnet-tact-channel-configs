@@ -17,6 +17,30 @@
       "cdnPath": "",
       "hash": "eac788180f4db0832614505be3f0bff6"
     },
+    "regions":
+    [
+      {
+        "branches":
+        [
+          "cn"
+        ],
+        "cdns": "3598b2604a265c20226f1e451053089d"
+      },
+      {
+        "branches":
+        [
+          "us"
+        ],
+        "cdns": "919646d723f2fff72418101b1223ddb0"
+      },
+      {
+        "branches":
+        [
+          "eu"
+        ],
+        "cdns": "287b8918c145665428c6f714cdc6e3bd"
+      }
+    ],
     "versionNumber": 96999,
     "versionString": "SC2.5.0.15.96999"
   }

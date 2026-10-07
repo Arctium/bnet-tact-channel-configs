@@ -17,6 +17,23 @@
       "cdnPath": "",
       "hash": "d99e9b1e8afd797206399845ac859c82"
     },
+    "regions":
+    [
+      {
+        "branches":
+        [
+          "us"
+        ],
+        "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
+      },
+      {
+        "branches":
+        [
+          "eu"
+        ],
+        "cdns": "87a06f78212104fe1a98f84f0157ff50"
+      }
+    ],
     "versionNumber": 4062021,
     "versionString": "1.1.04062021"
   }

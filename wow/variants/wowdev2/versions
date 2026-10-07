@@ -17,6 +17,30 @@
       "cdnPath": "",
       "hash": "ec1375ca995db8bcbcf4e857964db527"
     },
+    "regions":
+    [
+      {
+        "branches":
+        [
+          "us"
+        ],
+        "cdns": "919646d723f2fff72418101b1223ddb0"
+      },
+      {
+        "branches":
+        [
+          "eu"
+        ],
+        "cdns": "287b8918c145665428c6f714cdc6e3bd"
+      },
+      {
+        "branches":
+        [
+          "kr"
+        ],
+        "cdns": "0e52e616adbad7a6a5fa0a41741bb101"
+      }
+    ],
     "versionNumber": 70249,
     "versionString": "1.60.1.70249"
   }

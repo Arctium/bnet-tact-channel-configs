@@ -17,6 +17,23 @@
       "cdnPath": "",
       "hash": "24739b4edc11d7b04ac82ada30c1454a"
     },
+    "regions":
+    [
+      {
+        "branches":
+        [
+          "eu"
+        ],
+        "cdns": "ce4cd0979b60dbb14bb99658c66f4828"
+      },
+      {
+        "branches":
+        [
+          "us"
+        ],
+        "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
+      }
+    ],
     "versionNumber": 1279292,
     "versionString": "CRC_1279292A_V2_signed_ship"
   }

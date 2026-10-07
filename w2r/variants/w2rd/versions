@@ -17,6 +17,30 @@
       "cdnPath": "",
       "hash": "25a63b003070197f83bf54d2c82a9429"
     },
+    "regions":
+    [
+      {
+        "branches":
+        [
+          "us"
+        ],
+        "cdns": "935e71ab8ad5742d217fa6bad6525e4f"
+      },
+      {
+        "branches":
+        [
+          "eu"
+        ],
+        "cdns": "5df668e69943abffe1cb7348d03856a4"
+      },
+      {
+        "branches":
+        [
+          "kr"
+        ],
+        "cdns": "7d2738eb21c4f9988e16484abd3f6ea2"
+      }
+    ],
     "versionNumber": 2343,
     "versionString": "1.0.1.2343"
   }

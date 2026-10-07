@@ -17,6 +17,23 @@
       "cdnPath": "",
       "hash": "628465d6ac54530bbc376cb5f833cf77"
     },
+    "regions":
+    [
+      {
+        "branches":
+        [
+          "us"
+        ],
+        "cdns": "919646d723f2fff72418101b1223ddb0"
+      },
+      {
+        "branches":
+        [
+          "eu"
+        ],
+        "cdns": "287b8918c145665428c6f714cdc6e3bd"
+      }
+    ],
     "versionNumber": 67856,
     "versionString": "Chicago 1.0.67856"
   }

@@ -17,6 +17,31 @@
       "cdnPath": "",
       "hash": "0882c25f72d45642811e7e49ee59b71e"
     },
+    "regions":
+    [
+      {
+        "branches":
+        [
+          "kr"
+        ],
+        "cdns": "e3e189f887f0d9913e39df671295e08f"
+      },
+      {
+        "branches":
+        [
+          "tw",
+          "us"
+        ],
+        "cdns": "919646d723f2fff72418101b1223ddb0"
+      },
+      {
+        "branches":
+        [
+          "eu"
+        ],
+        "cdns": "287b8918c145665428c6f714cdc6e3bd"
+      }
+    ],
     "versionNumber": 154445,
     "versionString": "2.26.0.0.154445"
   }

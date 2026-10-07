@@ -17,6 +17,30 @@
       "cdnPath": "",
       "hash": "a8f75eda0a5dfedba87d8a4fafadaff1"
     },
+    "regions":
+    [
+      {
+        "branches":
+        [
+          "eu"
+        ],
+        "cdns": "0cc361e1da6f2a076547361ead9c4837"
+      },
+      {
+        "branches":
+        [
+          "us"
+        ],
+        "cdns": "919646d723f2fff72418101b1223ddb0"
+      },
+      {
+        "branches":
+        [
+          "kr"
+        ],
+        "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
+      }
+    ],
     "versionNumber": 27953690,
     "versionString": "3.0.1.27953690"
   }
