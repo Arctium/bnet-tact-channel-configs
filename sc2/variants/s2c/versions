@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "B98370-WIN",
-      "token": "21a920fc-199d-4c1c-9eeb-5925d658920b"
+      "name": "B97579-WIN",
+      "token": "846e2d20-0b37-4d9b-8e90-a933c4ed536b"
     },
-    "buildKey": "bb10ee62e9cf3678dfa74233d5657757",
-    "cdnKey": "e4f2e2da310c08495f2701d401d14659",
+    "buildKey": "0601979c3d36b9ea4d66a250191d8df5",
+    "cdnKey": "ce63dfedeb97d5057f0cc58665e7dc8e",
     "keyRing": "",
     "path": "tpr/sc2",
     "pipelineId": 52,
@@ -49,7 +49,7 @@
         "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
       }
     ],
-    "versionNumber": 98370,
-    "versionString": "5.0.17.98370"
+    "versionNumber": 97579,
+    "versionString": "5.0.16.97579"
   }
 }
