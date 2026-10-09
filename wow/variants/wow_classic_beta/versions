@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "WOW-70291patch1.60.1_ForeverBeta",
-      "token": "b3cfaf35-0dd1-44a6-a483-e0da6bb1aa02"
+      "name": "WOW-70334patch1.60.1_ForeverBeta",
+      "token": "d77ddc7f-e403-42ec-a99a-a11a4510293e"
     },
-    "buildKey": "e8dd824cf6c3d96cd01f804ca2ea5a63",
-    "cdnKey": "cf4a7485939d39c37c6da503dd600569",
+    "buildKey": "029dc2e024aadc9e0d9073ac37126868",
+    "cdnKey": "d141608fb47c5614473796cb68dbda2d",
     "keyRing": "",
     "path": "tpr/wow",
     "pipelineId": 19,
@@ -49,7 +49,7 @@
         "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"
       }
     ],
-    "versionNumber": 70291,
-    "versionString": "1.60.1.70291"
+    "versionNumber": 70334,
+    "versionString": "1.60.1.70334"
   }
 }
