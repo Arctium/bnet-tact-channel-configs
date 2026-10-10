@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "WOW-70334patch1.60.1_CNBETA",
-      "token": "d6662c16-4411-4f9f-969e-c5b3a797ad02"
+      "name": "WOW-70338patch1.60.1_CNBETA",
+      "token": "b124728f-8fc0-412b-9593-0be046bbd95a"
     },
-    "buildKey": "096ca1f0650869488163218116a04c76",
-    "cdnKey": "325b51d23a807488f61d87741fcfff65",
+    "buildKey": "53cd6d7e54e80a8c38d3eab6e7a6cfbe",
+    "cdnKey": "4a60f75e0c0031c86177f62feeaface0",
     "keyRing": "",
     "path": "tpr/wow",
     "pipelineId": 19,
@@ -49,7 +49,7 @@
         "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"
       }
     ],
-    "versionNumber": 70334,
-    "versionString": "1.60.1.70334"
+    "versionNumber": 70338,
+    "versionString": "1.60.1.70338"
   }
 }
