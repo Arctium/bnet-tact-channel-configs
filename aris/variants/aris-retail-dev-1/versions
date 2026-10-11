@@ -4,12 +4,12 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "20261010-000026-brave-rabbit",
-      "token": "b9c87585-a1a9-4c1a-8cc3-6175e163b384"
+      "name": "20261011-000014-puny-finch",
+      "token": "73714284-cbeb-4a2c-8016-11900cf7abd4"
     },
-    "buildKey": "dd6f8a763ced81eefc6fe99873027da7",
-    "cdnKey": "0e674d80722369d7a7018e10a9e94065",
-    "keyRing": "babbaa3db43106a409af970a53d9483a",
+    "buildKey": "7d22fb1baa04669382d1cff711ded926",
+    "cdnKey": "ce7bdafe7c9778809d34c6fe6f702564",
+    "keyRing": "14995548060a2327ddca41bdad382cc2",
     "path": "tpr/arisdev",
     "pipelineId": 350,
     "productConfig":
@@ -34,7 +34,7 @@
         "cdns": "287b8918c145665428c6f714cdc6e3bd"
       }
     ],
-    "versionNumber": 505,
-    "versionString": "142D77FC951C6F003902D0DCD2CADD3B"
+    "versionNumber": 506,
+    "versionString": "EA410D04E1C6125C734D7835140AFF8C"
   }
 }
