@@ -37,54 +37,16 @@
     "versionNumber": 25614714,
     "versionString": "0.0.0.25614714d"
   },
-  "kr":
+  "kr+us":
   {
     "armadilloKey": "",
     "build":
     {
-      "name": "main_29414048_cod25_sep_ejected_bnet_v10_dev",
-      "token": "1eb7362d-7e87-4f2f-8819-df6824d90416"
+      "name": "main_29431823_cod25_sep_ejected_bnet_v10_dev",
+      "token": "d41cdef9-8486-476f-a6ff-7d99cd835d1a"
     },
-    "buildKey": "cb90070364ccaf404bcf7542c2515a0a",
-    "cdnKey": "b3aadc104ba1189b39129deeb7dc66e4",
-    "keyRing": "",
-    "path": "tpr/sagev",
-    "pipelineId": 304,
-    "productConfig":
-    {
-      "cdnPath": "",
-      "hash": "0332ababe46cc080de45a72d043e3bbb"
-    },
-    "regions":
-    [
-      {
-        "branches":
-        [
-          "eu"
-        ],
-        "cdns": "084aea14e8342085ace15de6e8a53b72"
-      },
-      {
-        "branches":
-        [
-          "us"
-        ],
-        "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
-      }
-    ],
-    "versionNumber": 29414048,
-    "versionString": "0.0.0.29414048d"
-  },
-  "us":
-  {
-    "armadilloKey": "",
-    "build":
-    {
-      "name": "main_29414048_cod25_sep_ejected_bnet_v10_dev",
-      "token": "1eb7362d-7e87-4f2f-8819-df6824d90416"
-    },
-    "buildKey": "cb90070364ccaf404bcf7542c2515a0a",
-    "cdnKey": "b3aadc104ba1189b39129deeb7dc66e4",
+    "buildKey": "b9148be6e07b6f8ea602489c856d6f98",
+    "cdnKey": "d4ca19eb8a47dbcfd7d97645a8c8fa31",
     "keyRing": "",
     "path": "tpr/sagev",
     "pipelineId": 304,
@@ -110,7 +72,7 @@
         "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
       }
     ],
-    "versionNumber": 29414048,
-    "versionString": "0.0.0.29414048d"
+    "versionNumber": 29431823,
+    "versionString": "0.0.0.29431823d"
   }
 }
