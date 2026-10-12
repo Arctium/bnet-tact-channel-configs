@@ -42,11 +42,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "prometheus-2_25_0_1-154504-KR-Dev-prodev14",
-      "token": "c23afd59-f1a9-430a-9d39-f23350bc95b1"
+      "name": "prometheus-2_25_1_0-154635-KR-Dev-prodev14",
+      "token": "06c9fbe8-3348-4a8a-840d-407e8c35866f"
     },
-    "buildKey": "13f7ccf59caf7114d5df7501b847e1db",
-    "cdnKey": "9d3c3944274337ddd917b6084efeaa0f",
+    "buildKey": "8767c5adaf35dc41700b9652aead7fcb",
+    "cdnKey": "95761fb5aa7768cf43733b39cb2c7a7a",
     "keyRing": "",
     "path": "tpr/proa2",
     "pipelineId": 266,
@@ -72,7 +72,7 @@
         "cdns": "13df1783652f5002b492505e39cf190c"
       }
     ],
-    "versionNumber": 154504,
-    "versionString": "2.25.0.1.154504"
+    "versionNumber": 154635,
+    "versionString": "2.25.1.0.154635"
   }
 }
