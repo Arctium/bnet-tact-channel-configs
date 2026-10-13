@@ -57,11 +57,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "WOW-70340patch12.1.5_Retail",
-      "token": "f18f50c5-72eb-4fa0-9c1a-946c3e8a61e2"
+      "name": "WOW-70391patch12.1.5_Retail",
+      "token": "aaa505ea-54f1-4eaf-b95a-399c6f8313b0"
     },
-    "buildKey": "eba6b26286c312f520205084f491166b",
-    "cdnKey": "fe2585c10caf7eea23b21821fa10c67f",
+    "buildKey": "334a36cf5f3c32a5f7a167405487fa14",
+    "cdnKey": "087ddb1b942b63542c3ec30eb001681d",
     "keyRing": "3ca57fe7319a297346440e4d2a03a0cd",
     "path": "tpr/wow",
     "pipelineId": 19,
@@ -102,7 +102,7 @@
         "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"
       }
     ],
-    "versionNumber": 70340,
-    "versionString": "12.1.5.70340"
+    "versionNumber": 70391,
+    "versionString": "12.1.5.70391"
   }
 }
