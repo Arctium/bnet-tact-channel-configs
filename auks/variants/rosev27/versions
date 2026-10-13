@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "release_29444703A_cod26_tu2_signed_bnet_v27_ship_esports",
-      "token": "1b38ef60-236b-4364-a84e-c28904601d07"
+      "name": "release_29444703A_cod26_tu2_signed_bnet_v27_ship",
+      "token": "ac4f14da-8953-4f8e-9f0a-f8bf513ee6d5"
     },
-    "buildKey": "79d61a810b13bb36f2d8dd2f53015695",
-    "cdnKey": "f433aec96d3fd86a2f96d7c936e214ad",
+    "buildKey": "28708995a16ad7aa11f48252867ca646",
+    "cdnKey": "031f8ebfa10e7fae5f1e642d5fb369cc",
     "keyRing": "",
     "path": "tpr/rosevb",
     "pipelineId": 356,
@@ -35,6 +35,6 @@
       }
     ],
     "versionNumber": 29444703,
-    "versionString": "0.0.2.29444703Aes"
+    "versionString": "0.0.3.29444703Aes"
   }
 }
