@@ -59,6 +59,58 @@
                     "default_checked": "licensed",
                     "licenses":
                     [
+                      881555
+                    ],
+                    "package_id": "auks-mw4-campaign",
+                    "tags":
+                    [
+                      "dlc05_01"
+                    ],
+                    "title_string": "COD_CAMPAIGN"
+                  },
+                  {
+                    "default_checked": "licensed",
+                    "licenses":
+                    [
+                      881555
+                    ],
+                    "package_id": "auks-mw4-multiplayer",
+                    "tags":
+                    [
+                      "dlc05_02"
+                    ],
+                    "title_string": "COD_MULTIPLAYER"
+                  },
+                  {
+                    "default_checked": "licensed",
+                    "licenses":
+                    [
+                      881555
+                    ],
+                    "package_id": "auks-mw4-dmz",
+                    "tags":
+                    [
+                      "dlc05_03"
+                    ],
+                    "title_string": "COD_MW4_DMZ"
+                  }
+                ],
+                "package_id": "auks-mw4",
+                "title_string":
+                {
+                  "default": "Modern Warfare 4",
+                  "koKR": "모던 워페어 4",
+                  "zhCN": "《现代战争4》",
+                  "zhTW": "《現代戰爭4》"
+                }
+              },
+              {
+                "install_packages":
+                [
+                  {
+                    "default_checked": "licensed",
+                    "licenses":
+                    [
                       880549
                     ],
                     "package_id": "auks-bo7-coop-campaign",
@@ -105,7 +157,7 @@
                 }
               },
               {
-                "default_checked": true,
+                "default_checked": false,
                 "package_id": "auks-mwiii-warzone",
                 "tags":
                 [
@@ -175,6 +227,10 @@
                 "thTH": "ผู้เล่นหลายคน",
                 "zhCN": "多人游戏",
                 "zhTW": "多人對戰"
+              },
+              "COD_MW4_DMZ":
+              {
+                "default": "DMZ"
               },
               "COD_ZOMBIES":
               {
@@ -603,7 +659,7 @@
               [
                 "cod.exe"
               ],
-              "regex": "cod.exe|bootstrapper.exe",
+              "regex": "bootstrapper.exe",
               "relative_path": "bootstrapper.exe",
               "switcher": false
             }
@@ -763,10 +819,15 @@
                   "sp22",
                   "sp23",
                   "sp24",
+                  "GPUCache",
+                  "cod25",
+                  "cod26",
+                  "sp26",
                   "telescopeCache",
                   "telescopeStorage",
                   "telescopeVideoCache",
-                  "xpak_cache"
+                  "xpak_cache",
+                  "legalStorage"
                 ],
                 "root": "%game%"
               }
@@ -789,6 +850,8 @@
                   "*.dll",
                   "*.xpak",
                   "*.xsub",
+                  "*.ff",
+                  "*.sodb",
                   "amd_ags_x64.dll",
                   "api-ms-win-core-file-l1-2-0.dll",
                   "API-MS-Win-core-file-l2-1-0.dll",
@@ -811,6 +874,8 @@
                   "api-ms-win-crt-time-l1-1-0.dll",
                   "api-ms-win-crt-utility-l1-1-0.dll",
                   "bink2w64.dll",
+                  "ccs_history.json",
+                  "__cod",
                   "bootstrap.data.bin",
                   "bootstrapper.exe",
                   "bootstrapper.log",
@@ -821,14 +886,20 @@
                   "cod.exe",
                   "cod23.txt",
                   "cod24.txt",
+                  "cod25.txt",
+                  "cod26.txt",
                   "codCrashHandler.exe",
                   "cod_bnet.exe",
+                  "CODBrokerInstaller.exe",
+                  "CODBrokerService.exe",
+                  "CODSecureAttestationWizard.exe",
                   "concrt140.dll",
                   "crashlogsgenerator.exe",
                   "D3D12/D3D12Core.dll",
                   "dbghelp.dll",
                   "discord_game_sdk.dll",
                   "dlc_manifests.csv",
+                  "dlc_manifest.csv",
                   "dxcompiler.dll",
                   "dxil.dll",
                   "enrollaik.exe",
@@ -846,6 +917,7 @@
                   "oo2core_8_win64.dll",
                   "ortp_x64.dll",
                   "ReportCodBug.exe",
+                  "SecureAttestationWizard.exe",
                   "sl.common.dll",
                   "sl.dlss.dll",
                   "sl.interposer.dll",
