@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "254477_37.0.0",
-      "token": "e46a482c-d608-95b0-9829-68dc7088a677"
+      "name": "255026_37.0.0",
+      "token": "773327ea-d535-50b3-067e-27e0fd77caec"
     },
-    "buildKey": "58d0dca4d0a68f26f0d651bac5fe39e9",
-    "cdnKey": "e802f396c6a230b39c7a7d575069cd11",
+    "buildKey": "33a9c52005a0a84fb00d4cf121b9f566",
+    "cdnKey": "c7c0de0d4fe6a028669579a39d5bb5ba",
     "keyRing": "",
     "path": "tpr/hs",
     "pipelineId": 67,
@@ -49,19 +49,19 @@
         "cdns": "3b1ed235e69dc0bab6b9d3a760e77297"
       }
     ],
-    "versionNumber": 254477,
-    "versionString": "37.0.0.254477"
+    "versionNumber": 255026,
+    "versionString": "37.0.0.255026.254477"
   },
   "android_cn+android_cn_dashen+android_cn_huawei+cn+ios_cn":
   {
     "armadilloKey": "",
     "build":
     {
-      "name": "254477_37.0.0",
-      "token": "e46a482c-d608-95b0-9829-68dc7088a677"
+      "name": "255026_37.0.0",
+      "token": "773327ea-d535-50b3-067e-27e0fd77caec"
     },
-    "buildKey": "58d0dca4d0a68f26f0d651bac5fe39e9",
-    "cdnKey": "e802f396c6a230b39c7a7d575069cd11",
+    "buildKey": "33a9c52005a0a84fb00d4cf121b9f566",
+    "cdnKey": "c7c0de0d4fe6a028669579a39d5bb5ba",
     "keyRing": "",
     "path": "tpr/hs",
     "pipelineId": 67,
@@ -102,7 +102,7 @@
         "cdns": "3b1ed235e69dc0bab6b9d3a760e77297"
       }
     ],
-    "versionNumber": 254477,
-    "versionString": "37.0.0.254477"
+    "versionNumber": 255026,
+    "versionString": "37.0.0.255026.254477"
   }
 }
