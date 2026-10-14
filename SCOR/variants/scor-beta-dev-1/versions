@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "SeaOfThievesInsider_1.152.8163.0",
-      "token": "f62a13e3-9a2a-44cf-8e3c-8dc5cd2f4a80"
+      "name": "SeaOfThievesInsider_1.152.8487.0",
+      "token": "50dfb342-572b-4cf7-95f7-e6677985621f"
     },
-    "buildKey": "326966cb1cea37898772499f71cc528f",
-    "cdnKey": "cd00263a6de8cc0b3e9e2e10fe70579c",
+    "buildKey": "b4a81f38c8169aea51d6907cf6321dc0",
+    "cdnKey": "26f2a58cefe936c7f6587e075f34cf21",
     "keyRing": "",
     "path": "tpr/scordev",
     "pipelineId": 334,
@@ -41,7 +41,7 @@
         "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
       }
     ],
-    "versionNumber": 1528163,
-    "versionString": "1.152.8163.0"
+    "versionNumber": 1528487,
+    "versionString": "1.152.8487.0"
   }
 }
