@@ -9,6 +9,10 @@
     },
     "buildKey": "38b07f50c92d35565e23831efdd58130",
     "cdnKey": "4cd8bd03f7e9e9469f31bb2c63616edc",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/b9b1673ccf816e302b02f3c0e58c9a0d"
+    },
     "keyRing": "402187f6f69a0bb940516b110137adf0",
     "path": "tpr/ark",
     "pipelineId": 385,

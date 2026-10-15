@@ -9,6 +9,10 @@
     },
     "buildKey": "1cfd68d31613793f7ebe33942e4bfa7c",
     "cdnKey": "3b004d7e33b53ea52a485c64cf169314",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/56e08686c32f0507766f5999ac9e63ef"
+    },
     "keyRing": "",
     "path": "tpr/bnt001",
     "pipelineId": 63,

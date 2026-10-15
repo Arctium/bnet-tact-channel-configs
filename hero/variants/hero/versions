@@ -9,6 +9,10 @@
     },
     "buildKey": "a1eb46877f0c27e66f1dcd169866b34b",
     "cdnKey": "dd34a66867f0b57459176999fbc848a6",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/f196ebea255905e22f5fd1c19b6a0888"
+    },
     "keyRing": "",
     "path": "tpr/Hero-Live-a",
     "pipelineId": 10,
@@ -55,6 +59,10 @@
     },
     "buildKey": "a64c9b7ebf1c6a811ffefad97865ed80",
     "cdnKey": "9575c98a819e557a3e6ec7b003428124",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/f196ebea255905e22f5fd1c19b6a0888"
+    },
     "keyRing": "",
     "path": "tpr/Hero-Live-a",
     "pipelineId": 10,

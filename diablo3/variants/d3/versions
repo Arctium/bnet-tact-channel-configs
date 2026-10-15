@@ -9,6 +9,10 @@
     },
     "buildKey": "e34fc3fb7831a77e0ad7def0bb399ac7",
     "cdnKey": "6e7da029be22189538fe7076bddbdf6d",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/ff356c12a12b8119393983c61c80eaa4"
+    },
     "keyRing": "",
     "path": "tpr/diablo3",
     "pipelineId": 45,

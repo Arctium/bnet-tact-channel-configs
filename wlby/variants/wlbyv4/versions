@@ -9,6 +9,10 @@
     },
     "buildKey": "781a6e726e4f3913ed0ebf8407195c94",
     "cdnKey": "3aa0d9a556122fa9639aba1c730f325e",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/12167883acb058785dcde31f093c412f"
+    },
     "keyRing": "",
     "path": "tpr/wallabyv",
     "pipelineId": 248,

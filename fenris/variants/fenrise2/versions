@@ -9,6 +9,10 @@
     },
     "buildKey": "f2c1804ba75e0f1ba6321c70a8ef7765",
     "cdnKey": "a389ff1cf2ac0a4a4b7bb0a40c22f027",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/513cb77d952bb402f1f3ccd0b28f6eeb"
+    },
     "keyRing": "",
     "path": "tpr/fenrisevent2/4",
     "pipelineId": 393,

@@ -9,6 +9,10 @@
     },
     "buildKey": "552e83cd6a9777fffcfdbc207ace6e7f",
     "cdnKey": "f5cdf209e95f05c93bb0262d94e2e9c3",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/4b5246b72e68bdb3b8079114b187d5e6"
+    },
     "keyRing": "",
     "path": "tpr/fenrisvc",
     "pipelineId": 318,

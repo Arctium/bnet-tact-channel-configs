@@ -9,6 +9,10 @@
     },
     "buildKey": "457e003ff1a891059d6a5115a4ae934a",
     "cdnKey": "bdfaeab646449eff637f7c6e66755a30",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/06f3da80391e8321235a2a5198e5c40c"
+    },
     "keyRing": "",
     "path": "tpr/sc1live",
     "pipelineId": 110,

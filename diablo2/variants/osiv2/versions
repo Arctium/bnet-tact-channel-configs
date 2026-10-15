@@ -9,6 +9,10 @@
     },
     "buildKey": "ffd5cc932970465eb249dae76606ae33",
     "cdnKey": "31062a9d0de2404bdd884f9c4711e365",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/0f426332b9fcf589183cc2b19a4e5425"
+    },
     "keyRing": "",
     "path": "tpr/osiv",
     "pipelineId": 250,

@@ -9,6 +9,10 @@
     },
     "buildKey": "a48f75056c8ab6d9fcdefddb7494ec42",
     "cdnKey": "8340dbd278d105fb19d7e8214a0692e8",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/d5138b85330776505ed20e76e5f698d4"
+    },
     "keyRing": "",
     "path": "tpr/rtrodev",
     "pipelineId": 229,

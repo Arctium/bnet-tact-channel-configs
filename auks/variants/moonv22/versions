@@ -9,6 +9,10 @@
     },
     "buildKey": "d4c6d6287851d27f94a7b03c4a60e858",
     "cdnKey": "e6a33cf2c5d116b08707cd459ced378c",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/269ebe4bf9c971db84f68cab709a3629"
+    },
     "keyRing": "",
     "path": "moon/moonvb",
     "pipelineId": 290,
@@ -47,6 +51,10 @@
     },
     "buildKey": "adc419e6441301fa936310f9468c969d",
     "cdnKey": "2ad44ce33310671413a79fb015cbeaea",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/269ebe4bf9c971db84f68cab709a3629"
+    },
     "keyRing": "",
     "path": "moon/moonvb",
     "pipelineId": 290,

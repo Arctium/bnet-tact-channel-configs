@@ -9,6 +9,10 @@
     },
     "buildKey": "8693995bb68e8cf6251a65e066b61d0f",
     "cdnKey": "ab57855b46e6e228e4e80f93d8b129f6",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/50e427f5d563b6c0aff1d9cc9055dcdf"
+    },
     "keyRing": "",
     "path": "tpr/anbsdevbm",
     "pipelineId": 373,

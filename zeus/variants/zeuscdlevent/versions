@@ -9,6 +9,10 @@
     },
     "buildKey": "0a14a10d4100d1cb3fd459d43750e023",
     "cdnKey": "2dda49d769e6bb5c10aad21b8f4b511d",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/84b9fdb373ad5672e969c4d470d170bc"
+    },
     "keyRing": "",
     "path": "tpr/zeuse",
     "pipelineId": 223,

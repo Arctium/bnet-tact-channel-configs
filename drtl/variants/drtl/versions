@@ -9,6 +9,10 @@
     },
     "buildKey": "395b1c18e360ca905388a9e71cb6eb36",
     "cdnKey": "96bba410323d7a55b7760a0dfb894e5f",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/c5263ff2334dede612636f194e496079"
+    },
     "keyRing": "",
     "path": "tpr/drtl",
     "pipelineId": 314,

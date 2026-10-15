@@ -9,6 +9,10 @@
     },
     "buildKey": "d313dba3d987cf52228db4579afee782",
     "cdnKey": "3dc91f84e5d75a893cf0c659b142e4e7",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/b83ff6bdf7cc98c442edfb8ed08a6eeb"
+    },
     "keyRing": "",
     "path": "tpr/osidev",
     "pipelineId": 243,

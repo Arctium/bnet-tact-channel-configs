@@ -9,6 +9,10 @@
     },
     "buildKey": "df57443a44ed5a6beaa53044a8f332f1",
     "cdnKey": "401c3af7b30b8d7baaf4654e0786b976",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/411155f47ac43b390d229448f2341f30"
+    },
     "keyRing": "",
     "path": "tpr/aqua",
     "pipelineId": 341,

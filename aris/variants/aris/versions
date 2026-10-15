@@ -9,6 +9,10 @@
     },
     "buildKey": "c5da34492d5d8ab8211fa445f7d08a4d",
     "cdnKey": "6ee88b1603c39967bab1c30f2f092b7c",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/6bc06cfd1cc8a2e7d74c09999a4d230b"
+    },
     "keyRing": "b0d13432c6ad015c46a14dee90ab8b70",
     "path": "tpr/aris",
     "pipelineId": 352,

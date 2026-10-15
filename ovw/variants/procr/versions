@@ -9,6 +9,10 @@
     },
     "buildKey": "8d1ce08714b11c97199b0363766624d0",
     "cdnKey": "ac988e3fb179f2d5a7f5ed3579a89a36",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/d7168da5c1fef1c0406738e3beb1f71b"
+    },
     "keyRing": "3dabb1bf65a3a797ccc6eff63c51b509",
     "path": "tpr/ovw",
     "pipelineId": 43,

@@ -9,6 +9,10 @@
     },
     "buildKey": "99172ae8807ad936bfb440f7c96b30c1",
     "cdnKey": "1834c94297f9ab34296297ce35134810",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/4e3e1db2f8aaa17474d828afce30b27f"
+    },
     "keyRing": "",
     "path": "tpr/lazrv",
     "pipelineId": 209,

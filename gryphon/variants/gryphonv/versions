@@ -9,6 +9,10 @@
     },
     "buildKey": "d82db154ec55317bc85679953ceb5a84",
     "cdnKey": "9d9650e0841c5294ebb80f883d1df260",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/3c36c57958a12c9fee9aab27ca7d4199"
+    },
     "keyRing": "",
     "path": "tpr/gryphonv",
     "pipelineId": 337,

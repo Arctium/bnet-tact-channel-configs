@@ -9,6 +9,10 @@
     },
     "buildKey": "3e3df49091f48e7b29f0f8d50c6666fe",
     "cdnKey": "f9447fe80d849db0194c51f84721615c",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/f2e334d0211d4ca192186b864bb9fd73"
+    },
     "keyRing": "eb374b4df1100d96d628b365bafc39d3",
     "path": "tpr/lyradev/1",
     "pipelineId": 410,

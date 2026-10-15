@@ -9,6 +9,10 @@
     },
     "buildKey": "0793142150d97cc7f3855993f9c99c99",
     "cdnKey": "04fc8baab0b97a83ccd9087d34b22715",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/2aac171ef985e2b46976d518766e397d"
+    },
     "keyRing": "8cdb018d4fc957abaa88a110409afaca",
     "path": "tpr/bdkodev/1",
     "pipelineId": 394,

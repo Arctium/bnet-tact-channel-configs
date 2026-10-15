@@ -9,6 +9,10 @@
     },
     "buildKey": "e6d85a0d5c5d4b2294a675de78ddc4f1",
     "cdnKey": "0d6f48afb5f40a90ea832e63d7e45b00",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/1af7b2226adfce00580871f14f7429b7"
+    },
     "keyRing": "bd6fa54788b54feb46ab667586bc1a27",
     "path": "tpr/gdt",
     "pipelineId": 361,

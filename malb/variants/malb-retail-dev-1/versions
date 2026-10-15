@@ -9,6 +9,10 @@
     },
     "buildKey": "05d157e1eab2e70ef9cc28dae7eea801",
     "cdnKey": "05f0bde79a693421bde629837c0e5fb8",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/fe3115b42dd3e2fa1098b34443822405"
+    },
     "keyRing": "af3232f34cccd04c774f1e16bf522817",
     "path": "tpr/malbdev",
     "pipelineId": 406,

@@ -9,6 +9,10 @@
     },
     "buildKey": "6cac0ebb9e3b9d3175f03a09433d4372",
     "cdnKey": "f46a59ced21875d46ef267d8ff146698",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/221f1738e56f3e57b928f2dd7388f254"
+    },
     "keyRing": "",
     "path": "tpr/wowvcn",
     "pipelineId": 403,

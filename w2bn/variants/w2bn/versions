@@ -9,6 +9,10 @@
     },
     "buildKey": "b47ee2e0a4aff2efd242c2d695b025b6",
     "cdnKey": "dbb736b497407e98519a375f8e896aee",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/c472cee8ecf99b9e4eaac09e5e615a09"
+    },
     "keyRing": "",
     "path": "tpr/w2bn",
     "pipelineId": 313,

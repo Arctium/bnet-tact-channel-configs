@@ -9,6 +9,10 @@
     },
     "buildKey": "334a36cf5f3c32a5f7a167405487fa14",
     "cdnKey": "087ddb1b942b63542c3ec30eb001681d",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/c68bdf75d29c5ad45468c2dbf80aa089"
+    },
     "keyRing": "3ca57fe7319a297346440e4d2a03a0cd",
     "path": "tpr/wow",
     "pipelineId": 19,

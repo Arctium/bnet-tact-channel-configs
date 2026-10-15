@@ -9,6 +9,10 @@
     },
     "buildKey": "2a7a1a4a27ce4d95f9d429d9e71b7495",
     "cdnKey": "745af699cf44284bf64fdefc3b5223c3",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/5d83311a188bd25d5698bde52fbf0923"
+    },
     "keyRing": "",
     "path": "tpr/ninav",
     "pipelineId": 372,

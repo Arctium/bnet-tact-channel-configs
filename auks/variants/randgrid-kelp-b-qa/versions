@@ -9,6 +9,10 @@
     },
     "buildKey": "ee77330336b2a889b124daa8abcc771c",
     "cdnKey": "9942ef85c2e53734a2d2225dd60abc55",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/9bfd4bbf15cc0fa8a248abc348eea61c"
+    },
     "keyRing": "",
     "path": "tpr/kelpvb",
     "pipelineId": 417,

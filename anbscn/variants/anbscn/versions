@@ -9,6 +9,10 @@
     },
     "buildKey": "4f714c471d7c6c3087bca1310cc22b77",
     "cdnKey": "07ad12c0e4ec0b3dcdaed4622c894473",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/61427c5c5d0b3e5826161cead4244a46"
+    },
     "keyRing": "",
     "path": "tpr/anbscn",
     "pipelineId": 349,

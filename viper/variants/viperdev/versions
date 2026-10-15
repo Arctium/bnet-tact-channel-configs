@@ -9,6 +9,10 @@
     },
     "buildKey": "2afae92477c357e5ee41b15d3e081ad0",
     "cdnKey": "bcdccc14722a381d414ccd9993f36a18",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/d2a918546d448ea3b5ade7769bd19ef9"
+    },
     "keyRing": "",
     "path": "tpr/viperd",
     "pipelineId": 185,

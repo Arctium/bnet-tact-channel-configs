@@ -9,6 +9,10 @@
     },
     "buildKey": "38627bf5b6de999aabd83063a8b9c2e8",
     "cdnKey": "b8ab572bd5e635d7b1081b534df5fc0f",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/c8a0cda4a95a6c63e4c6462eb9d33585"
+    },
     "keyRing": "",
     "path": "tpr/aquad",
     "pipelineId": 342,

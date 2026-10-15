@@ -9,6 +9,10 @@
     },
     "buildKey": "c38ac99c8219060412965029b9ef514e",
     "cdnKey": "e69606f51f0c251d5bee06d520f0738c",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/67a117172abb0e84ea8a39cba723d742"
+    },
     "keyRing": "",
     "path": "tpr/auksv",
     "pipelineId": 236,
@@ -47,6 +51,10 @@
     },
     "buildKey": "43842db39c4b2eaf9749bfc572921355",
     "cdnKey": "14a9d214e569fd868a447977cffe5540",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/67a117172abb0e84ea8a39cba723d742"
+    },
     "keyRing": "",
     "path": "tpr/auksv",
     "pipelineId": 236,

@@ -9,6 +9,10 @@
     },
     "buildKey": "a3821180eceeda683cf6c7794172f390",
     "cdnKey": "65ee867827d1e0830485b68f0fe8bb2c",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/8f64c9713f612232f8ff74efdef6c1d1"
+    },
     "keyRing": "",
     "path": "tpr/wallaby",
     "pipelineId": 246,

@@ -9,6 +9,10 @@
     },
     "buildKey": "037768d25173d3d9eaa192bd878cb280",
     "cdnKey": "64915117351ad8d47f60e39e55cb5253",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/5d83311a188bd25d5698bde52fbf0923"
+    },
     "keyRing": "",
     "path": "tpr/ninav",
     "pipelineId": 372,
@@ -47,6 +51,10 @@
     },
     "buildKey": "aef25d43d8e358f3023ab529a94337a2",
     "cdnKey": "a986e46ded6807942b73eaf7777e641c",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/5d83311a188bd25d5698bde52fbf0923"
+    },
     "keyRing": "",
     "path": "tpr/ninav",
     "pipelineId": 372,
@@ -85,6 +93,10 @@
     },
     "buildKey": "b6391c495652b58ce9a0045ba0835a78",
     "cdnKey": "f79ddffeb972814966c9c7f8b8b01552",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/5d83311a188bd25d5698bde52fbf0923"
+    },
     "keyRing": "",
     "path": "tpr/ninav",
     "pipelineId": 372,

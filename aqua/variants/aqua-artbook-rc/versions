@@ -9,6 +9,10 @@
     },
     "buildKey": "09778c8ea67dbf75feb7354c96cf121a",
     "cdnKey": "13c5c9ea6b49f78e57c48ee8f4633842",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/1964ef0aba53af53b137522c52261688"
+    },
     "keyRing": "",
     "path": "tpr/aquarc",
     "pipelineId": 343,

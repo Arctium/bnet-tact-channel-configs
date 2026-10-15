@@ -9,6 +9,10 @@
     },
     "buildKey": "04fdd9d34157b1bf0f7d983f0e2ef0a3",
     "cdnKey": "c9099d86ffeb3fe3fa0a085e2c503d10",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/07320845f63cbb925dc19803e017a42e"
+    },
     "keyRing": "",
     "path": "tpr/zeusv",
     "pipelineId": 208,

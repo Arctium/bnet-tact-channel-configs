@@ -9,6 +9,10 @@
     },
     "buildKey": "91e4ace9282344d61013955ec882cca5",
     "cdnKey": "37153a58e9928be1d3049e5fac7f6557",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/20c6abdcb1fb5088927a384aa1b65e38"
+    },
     "keyRing": "",
     "path": "tpr/fenris",
     "pipelineId": 291,
@@ -61,6 +65,10 @@
     },
     "buildKey": "91e4ace9282344d61013955ec882cca5",
     "cdnKey": "37153a58e9928be1d3049e5fac7f6557",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/20c6abdcb1fb5088927a384aa1b65e38"
+    },
     "keyRing": "",
     "path": "tpr/fenris",
     "pipelineId": 291,

@@ -9,6 +9,10 @@
     },
     "buildKey": "fd17a514ea3c599ebe3ea009173a3123",
     "cdnKey": "d0ba9b1e5813babc32a84274766b5bc9",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/d5139b19fabda51dd760979e4691e099"
+    },
     "keyRing": "",
     "path": "tpr/odine",
     "pipelineId": 194,

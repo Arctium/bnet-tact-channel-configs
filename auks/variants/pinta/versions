@@ -9,6 +9,10 @@
     },
     "buildKey": "01c3ff5bc41e26a14f3935fe2be5b057",
     "cdnKey": "5462fb80d4e0ebc86598c90db1791e1e",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/caed769874e8182960df08d5bad72407"
+    },
     "keyRing": "",
     "path": "tpr/pinta",
     "pipelineId": 388,

@@ -9,6 +9,10 @@
     },
     "buildKey": "a74a70fa8a1c4fbf5ac9f9ece2082a84",
     "cdnKey": "6dce41b1119a0d7bfdbec13b9fdd24af",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/07320845f63cbb925dc19803e017a42e"
+    },
     "keyRing": "",
     "path": "tpr/zeusv",
     "pipelineId": 208,
@@ -47,6 +51,10 @@
     },
     "buildKey": "503e313966c901d783ea9b149099c3a1",
     "cdnKey": "6dce41b1119a0d7bfdbec13b9fdd24af",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/07320845f63cbb925dc19803e017a42e"
+    },
     "keyRing": "",
     "path": "tpr/zeusv",
     "pipelineId": 208,
@@ -85,6 +93,10 @@
     },
     "buildKey": "433d66d05e3f5f17a968b86c950ab34b",
     "cdnKey": "09dc550cfd231cf66210fdf286e3e894",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/07320845f63cbb925dc19803e017a42e"
+    },
     "keyRing": "",
     "path": "tpr/zeusv",
     "pipelineId": 208,

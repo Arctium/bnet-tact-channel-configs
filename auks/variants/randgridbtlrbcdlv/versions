@@ -9,6 +9,10 @@
     },
     "buildKey": "97868bcdff110fe9717c8db48b67a53b",
     "cdnKey": "eb469eea571c88fbece3b0a1452cbb30",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/37a1bcdcaff1417d41ab5dfdf7e797d7"
+    },
     "keyRing": "",
     "path": "tpr/btlrvb",
     "pipelineId": 293,

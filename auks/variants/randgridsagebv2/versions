@@ -9,6 +9,10 @@
     },
     "buildKey": "27c3d7c7d95c937a32d109c042e6aaa1",
     "cdnKey": "c454095d38423cf4dfd72806abe8e912",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/e85463dbfbb95b9e94fd17e4ecbe0340"
+    },
     "keyRing": "",
     "path": "tpr/sagevb",
     "pipelineId": 357,

@@ -9,6 +9,10 @@
     },
     "buildKey": "f18bd3ebcf85bd4e22586c60d8bf6820",
     "cdnKey": "d203056c408e768a7dc4f5a9b18b63fc",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/a7a4ac09b078b2d0a9dec49b48a2c12c"
+    },
     "keyRing": "",
     "path": "tpr/cornv",
     "pipelineId": 376,
@@ -47,6 +51,10 @@
     },
     "buildKey": "283e1866703ee01ec1dc93f39a9a4b90",
     "cdnKey": "920745807a293e0e09f69e52307b4d68",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/a7a4ac09b078b2d0a9dec49b48a2c12c"
+    },
     "keyRing": "",
     "path": "tpr/cornv",
     "pipelineId": 376,
@@ -85,6 +93,10 @@
     },
     "buildKey": "35c0ba6bcc684bcc318faa81e132a5cf",
     "cdnKey": "d332419db18968453dc1be7630aaf798",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/a7a4ac09b078b2d0a9dec49b48a2c12c"
+    },
     "keyRing": "",
     "path": "tpr/cornv",
     "pipelineId": 376,

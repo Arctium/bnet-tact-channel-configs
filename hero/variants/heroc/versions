@@ -9,6 +9,10 @@
     },
     "buildKey": "b33cb4136ebce115c652c7cc138ccb9c",
     "cdnKey": "f7ab3b2748830ce790e69b16633b168a",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/f196ebea255905e22f5fd1c19b6a0888"
+    },
     "keyRing": "",
     "path": "tpr/Hero-Live-a",
     "pipelineId": 10,

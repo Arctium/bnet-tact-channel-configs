@@ -9,6 +9,10 @@
     },
     "buildKey": "3f5933e463196178ba86fb7394ed88fa",
     "cdnKey": "1a99cb7f66c65eb77a6d69a87591f2fe",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/a0027e4c586e7881bf942e979537a958"
+    },
     "keyRing": "",
     "path": "tpr/rosevb",
     "pipelineId": 356,

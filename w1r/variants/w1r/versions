@@ -9,6 +9,10 @@
     },
     "buildKey": "31a3f666d19c9bcfecb16e353c3aa9ec",
     "cdnKey": "2615dd6d742014a24ec31ba8835bddd8",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/db7751db660f1f0f816968984548d194"
+    },
     "keyRing": "",
     "path": "tpr/w1r-live",
     "pipelineId": 327,

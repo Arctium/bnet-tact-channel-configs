@@ -9,6 +9,10 @@
     },
     "buildKey": "cba689d591244c2c68583871c4402f5f",
     "cdnKey": "6e77848356818145894360c09319315f",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/e95357924e535b1e3451a0e987351dbe"
+    },
     "keyRing": "",
     "path": "tpr/odind",
     "pipelineId": 190,

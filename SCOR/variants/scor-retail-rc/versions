@@ -9,6 +9,10 @@
     },
     "buildKey": "25fe8b9c2d28bb40da0648818ad206e4",
     "cdnKey": "b5b0ea837a2751db197d734334de9ffa",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/45fc7eb0b014441dd730a47c074791c1"
+    },
     "keyRing": "",
     "path": "tpr/scorrc",
     "pipelineId": 335,

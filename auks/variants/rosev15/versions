@@ -9,6 +9,10 @@
     },
     "buildKey": "679e32cb14697465d3d63b4173e492ec",
     "cdnKey": "3c964ac79e5a9ec8e2acba3cf4d8a3b0",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/0d5209acf3b3c982afd3548827a56d03"
+    },
     "keyRing": "",
     "path": "tpr/rosev",
     "pipelineId": 302,
@@ -47,6 +51,10 @@
     },
     "buildKey": "ccfdc7aca085a9410b3e03be0a8bb9bd",
     "cdnKey": "a80bec3c76d3f29d63fef01252397f1b",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/0d5209acf3b3c982afd3548827a56d03"
+    },
     "keyRing": "",
     "path": "tpr/rosev",
     "pipelineId": 302,
@@ -85,6 +93,10 @@
     },
     "buildKey": "ebde4945fdfa28880ff5fd0dd404c3f8",
     "cdnKey": "2e6ddb54ff966b3fd02a99a11038d00f",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/0d5209acf3b3c982afd3548827a56d03"
+    },
     "keyRing": "",
     "path": "tpr/rosev",
     "pipelineId": 302,

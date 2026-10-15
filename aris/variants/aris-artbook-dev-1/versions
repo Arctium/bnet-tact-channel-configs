@@ -9,6 +9,10 @@
     },
     "buildKey": "876f1c37d43dca52d5d0d9b50d802556",
     "cdnKey": "9b6c4ac363064fa55cd79e47a8c1bb00",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/47736919b5dc55b5078f31b825255307"
+    },
     "keyRing": "41ba576c076f47f24525715fbb125346",
     "path": "tpr/arisdev",
     "pipelineId": 350,

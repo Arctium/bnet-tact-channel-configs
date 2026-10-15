@@ -9,6 +9,10 @@
     },
     "buildKey": "25fe8b9c2d28bb40da0648818ad206e4",
     "cdnKey": "d4e08530f9c6b9f871199596112fcc49",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/560946ce72b15755fee8ed3f280eb2c8"
+    },
     "keyRing": "",
     "path": "tpr/scor",
     "pipelineId": 336,

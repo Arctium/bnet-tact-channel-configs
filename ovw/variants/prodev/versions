@@ -9,6 +9,10 @@
     },
     "buildKey": "539a74d159d67ce95217f75ace8f9409",
     "cdnKey": "8ff732926eef4a528ae51d3ff5f96b2a",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/f22d00f30a238e36f37422c811dd66f0"
+    },
     "keyRing": "",
     "path": "tpr/proa",
     "pipelineId": 54,

@@ -9,6 +9,10 @@
     },
     "buildKey": "312535c4a36c4d17c42164f316a777f8",
     "cdnKey": "f5d3336ff56a9ac65e6f50a84b0d0867",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/269ebe4bf9c971db84f68cab709a3629"
+    },
     "keyRing": "",
     "path": "moon/moonvb",
     "pipelineId": 290,

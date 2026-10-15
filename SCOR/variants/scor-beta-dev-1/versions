@@ -9,6 +9,10 @@
     },
     "buildKey": "21947ceef7709aa287e425d03e46b286",
     "cdnKey": "6a5f4ebc256acbcb2847e7ef85eee4d3",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/93b2ca72194f6025eafcef43cc54c6b9"
+    },
     "keyRing": "",
     "path": "tpr/scordev",
     "pipelineId": 334,

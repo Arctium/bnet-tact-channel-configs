@@ -9,6 +9,10 @@
     },
     "buildKey": "6d67714aa13e9a345501a9edb00ac37f",
     "cdnKey": "5843a81739d474de881f3fb8c1d7baa4",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/a7a4ac09b078b2d0a9dec49b48a2c12c"
+    },
     "keyRing": "",
     "path": "tpr/cornv",
     "pipelineId": 376,

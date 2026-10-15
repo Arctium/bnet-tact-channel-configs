@@ -9,6 +9,10 @@
     },
     "buildKey": "bbfcd100472c116c112c16a3fede0d46",
     "cdnKey": "2cb8cf91e37f8e8ffaa4af3f26d175eb",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/35837a102aad3970bbacd038f88248da"
+    },
     "keyRing": "",
     "path": "tpr/auks",
     "pipelineId": 234,

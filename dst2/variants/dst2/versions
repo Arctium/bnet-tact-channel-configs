@@ -9,6 +9,10 @@
     },
     "buildKey": "d394431b607b2d18d8da44159de947ff",
     "cdnKey": "4e41b672588a7d37dd0727d891bd2745",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/4682b1b8613668ebeb1bd58917922e62"
+    },
     "keyRing": "",
     "path": "tpr/dst2",
     "pipelineId": 129,

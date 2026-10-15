@@ -9,6 +9,10 @@
     },
     "buildKey": "c999aefac72c79c2e37217b98b8f0a62",
     "cdnKey": "e7764fb97b174377f82e61954ca9b318",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/161c3a5e37bfd693035127cbba84280c"
+    },
     "keyRing": "",
     "path": "tpr/prov3/2",
     "pipelineId": 299,

@@ -9,6 +9,10 @@
     },
     "buildKey": "4a8440befdad1fcc4f7d4ce7d2e51e2b",
     "cdnKey": "a7b9c44d2b956569747d6d0a7666e56e",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/4748076d9649b05ee1e4862e0ea82258"
+    },
     "keyRing": "",
     "path": "tpr/foree",
     "pipelineId": 264,

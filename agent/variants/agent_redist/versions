@@ -9,6 +9,10 @@
     },
     "buildKey": "a4aabdba13b722ffdb76ead788c5203e",
     "cdnKey": "d13f73333f891b85db8a0d90dd2500d3",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/4f12bb52a862785f0258e12c980cd841"
+    },
     "keyRing": "",
     "path": "agent/Agent-Redists-Live",
     "pipelineId": 346,

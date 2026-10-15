@@ -9,6 +9,10 @@
     },
     "buildKey": "13db3566eee08a280b75613cd1b5abc9",
     "cdnKey": "96823cca01c039a514e4764a822bb7c0",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/1e859aa47b9ad346fda62e3b89c28266"
+    },
     "keyRing": "552fbc6925947ddefc2ccd02fccfd0d2",
     "path": "tpr/spotdev",
     "pipelineId": 257,

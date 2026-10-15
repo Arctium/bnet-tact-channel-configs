@@ -9,6 +9,10 @@
     },
     "buildKey": "792c6862a2570fdc024af502119e235e",
     "cdnKey": "e0f55130df205a03c8e69b1cf7aa8586",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/24fbbfe0fd12da937cd6c2e4ce3ad144"
+    },
     "keyRing": "",
     "path": "tpr/fore",
     "pipelineId": 217,

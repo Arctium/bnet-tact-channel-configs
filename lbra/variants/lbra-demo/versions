@@ -9,6 +9,10 @@
     },
     "buildKey": "b19e3da2e1bbc0d7288831bb7ea5cc0a",
     "cdnKey": "2c817928b663eadb28ff0f82fb13e0b6",
+    "cdnKeyFile":
+    {
+      "name": "blue/cdnkeys/d8452145cd7b12aadb65c87c236406a8"
+    },
     "keyRing": "",
     "path": "tpr/lbra",
     "pipelineId": 368,
