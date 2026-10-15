@@ -11,7 +11,7 @@
     "cdnKey": "f56845b389a380f021f72e087633b691",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/0d5209acf3b3c982afd3548827a56d03"
+      "name": "green/cdnkeys/dcc39a1c1f3b20aca86b588266c57a89"
     },
     "keyRing": "",
     "path": "tpr/rosev",
@@ -53,7 +53,7 @@
     "cdnKey": "f56845b389a380f021f72e087633b691",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/0d5209acf3b3c982afd3548827a56d03"
+      "name": "green/cdnkeys/dcc39a1c1f3b20aca86b588266c57a89"
     },
     "keyRing": "",
     "path": "tpr/rosev",
@@ -95,7 +95,7 @@
     "cdnKey": "f56845b389a380f021f72e087633b691",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/0d5209acf3b3c982afd3548827a56d03"
+      "name": "green/cdnkeys/dcc39a1c1f3b20aca86b588266c57a89"
     },
     "keyRing": "",
     "path": "tpr/rosev",

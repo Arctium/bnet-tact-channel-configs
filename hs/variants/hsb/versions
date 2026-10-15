@@ -11,7 +11,7 @@
     "cdnKey": "ff9025d0103bd77a12912ccb15b40178",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/4d212a15a1d23cad705d63f11babf68d"
+      "name": "green/cdnkeys/724ae97eb40db38a33fda7791a18ab0c"
     },
     "keyRing": "",
     "path": "tpr/hs",
@@ -68,7 +68,7 @@
     "cdnKey": "ff9025d0103bd77a12912ccb15b40178",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/4d212a15a1d23cad705d63f11babf68d"
+      "name": "green/cdnkeys/724ae97eb40db38a33fda7791a18ab0c"
     },
     "keyRing": "",
     "path": "tpr/hs",

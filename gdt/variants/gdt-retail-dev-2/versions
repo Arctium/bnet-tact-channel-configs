@@ -11,7 +11,7 @@
     "cdnKey": "b588b78246bf53136e0b984cdcf08879",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/24b4fa84c6828b0a9ac98e6f5cf7d30f"
+      "name": "green/cdnkeys/cca2e90c462ebd29a35245578e77bc85"
     },
     "keyRing": "",
     "path": "tpr/gdtdev",
@@ -53,7 +53,7 @@
     "cdnKey": "b588b78246bf53136e0b984cdcf08879",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/24b4fa84c6828b0a9ac98e6f5cf7d30f"
+      "name": "green/cdnkeys/cca2e90c462ebd29a35245578e77bc85"
     },
     "keyRing": "3361e83c08d51dc27eda65d61a4600f1",
     "path": "tpr/gdtdev",
