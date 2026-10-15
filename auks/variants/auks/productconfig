@@ -677,6 +677,22 @@
           "install":
           [
             {
+              "run_tool":
+              {
+                "commandline_args":
+                [
+                  "cod.exe",
+                  "+ogu_mode",
+                  "--fork-and-wait"
+                ],
+                "display_text": "%feature_setting:work_type_display_strings:preloading_shaders_%locale%%",
+                "executable_path": "%game%/bootstrapper.exe",
+                "order": 100,
+                "run_when": "install_or_update",
+                "signing_entity": "Activision Publishing Inc"
+              }
+            },
+            {
               "add_firewall_rule":
               {
                 "group_name": "Call of Duty",
