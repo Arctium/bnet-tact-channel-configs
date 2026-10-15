@@ -4,6 +4,44 @@
     "armadilloKey": "",
     "build":
     {
+      "name": "trunk_29493546_rex_autobuild_mp_bnet_v1_dev",
+      "token": "a77336bc-f384-4a21-9db7-3141a73de5b5"
+    },
+    "buildKey": "7d9e62e205ac87cb59f23998f2ce3c7d",
+    "cdnKey": "62e22d25e052f90875e6090f1222df85",
+    "keyRing": "",
+    "path": "tpr/rosev",
+    "pipelineId": 302,
+    "productConfig":
+    {
+      "cdnPath": "",
+      "hash": "b95748a7bfebc705424b660d3ba96900"
+    },
+    "regions":
+    [
+      {
+        "branches":
+        [
+          "us"
+        ],
+        "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+      },
+      {
+        "branches":
+        [
+          "eu"
+        ],
+        "cdns": "084aea14e8342085ace15de6e8a53b72"
+      }
+    ],
+    "versionNumber": 29493546,
+    "versionString": "0.0.0.29493546d"
+  },
+  "kr":
+  {
+    "armadilloKey": "",
+    "build":
+    {
       "name": "trunk_29465513_rex_autobuild_mp_bnet_v1_dev",
       "token": "ecb6f78a-2844-42de-a4f0-35ea254a28a1"
     },
@@ -37,54 +75,16 @@
     "versionNumber": 29465513,
     "versionString": "0.0.0.29465513d"
   },
-  "kr":
-  {
-    "armadilloKey": "",
-    "build":
-    {
-      "name": "trunk_29448890_rex_autobuild_mp_bnet_v1_dev",
-      "token": "a75a2be4-bf44-42f4-82eb-f1c1858b5591"
-    },
-    "buildKey": "9ef5aac9d7575d899e8b722777b8f4e1",
-    "cdnKey": "c23627dbea9da9153549c1ff19255e25",
-    "keyRing": "",
-    "path": "tpr/rosev",
-    "pipelineId": 302,
-    "productConfig":
-    {
-      "cdnPath": "",
-      "hash": "b95748a7bfebc705424b660d3ba96900"
-    },
-    "regions":
-    [
-      {
-        "branches":
-        [
-          "us"
-        ],
-        "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
-      },
-      {
-        "branches":
-        [
-          "eu"
-        ],
-        "cdns": "084aea14e8342085ace15de6e8a53b72"
-      }
-    ],
-    "versionNumber": 29448890,
-    "versionString": "0.0.0.29448890d"
-  },
   "us":
   {
     "armadilloKey": "",
     "build":
     {
-      "name": "trunk_29493546_rex_autobuild_mp_bnet_v1_dev",
-      "token": "a77336bc-f384-4a21-9db7-3141a73de5b5"
+      "name": "trunk_29510881_rex_autobuild_mp_bnet_v1_dev",
+      "token": "91f96bb3-62b0-44b0-b149-a8ac7098a15f"
     },
-    "buildKey": "7d9e62e205ac87cb59f23998f2ce3c7d",
-    "cdnKey": "62e22d25e052f90875e6090f1222df85",
+    "buildKey": "41f571a600711e68877174487390a97d",
+    "cdnKey": "912651e0e9e90eacd87b77ba7de235db",
     "keyRing": "",
     "path": "tpr/rosev",
     "pipelineId": 302,
@@ -110,7 +110,7 @@
         "cdns": "084aea14e8342085ace15de6e8a53b72"
       }
     ],
-    "versionNumber": 29493546,
-    "versionString": "0.0.0.29493546d"
+    "versionNumber": 29510881,
+    "versionString": "0.0.0.29510881d"
   }
 }
