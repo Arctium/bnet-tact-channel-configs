@@ -147,12 +147,12 @@
             {
               "launch_arguments": [],
               "regex": "(bin/x64(_dx12)?/)?[Cc]yberpunk2077\\.exe",
-              "relative_path": "REDprelauncher.exe",
+              "relative_path": "game_start.exe",
               "switcher": true
             }
           },
-          "binary_launch_path": "REDprelauncher.exe",
-          "binary_version_path": "REDprelauncher.exe",
+          "binary_launch_path": "game_start.exe",
+          "binary_version_path": "game_start.exe",
           "component_dependencies":
           [
             "bdko"
@@ -227,10 +227,13 @@
               {
                 "relative_paths":
                 [
+                  "archive",
                   "bin",
                   "content",
                   "Data",
-                  "dlc"
+                  "dlc",
+                  "engine",
+                  "r6"
                 ],
                 "root": "%game%"
               }
@@ -243,7 +246,6 @@
                   "libcrypto-1_1-x64.dll",
                   "libssl-1_1-x64.dll",
                   "*.msi",
-                  "REDprelauncher.exe",
                   "launcher-configuration.json",
                   "pcre2-8.dll",
                   "pcre2-16.dll",
@@ -254,6 +256,16 @@
                   "Qt5Core.dll",
                   "Qt5Network.dll",
                   "zlib1.dll"
+                ],
+                "root": "%game%"
+              }
+            },
+            {
+              "delete_file":
+              {
+                "relative_paths":
+                [
+                  "game_start.exe"
                 ],
                 "root": "%game%"
               }
