@@ -214,10 +214,14 @@
             "game":
             {
               "launch_arguments": [],
-              "relative_path": "WowGM-China.exe",
+              "relative_path": "WoWGMChina.exe",
               "switcher": false
             }
           },
+          "component_dependencies":
+          [
+            "bdko"
+          ],
           "form":
           {
             "game_dir":
@@ -247,7 +251,7 @@
             "Logs",
             "Utils",
             "WoW.mfil",
-            "WowGM-China.exe",
+            "WoWGMChina.exe",
             "World of Warcraft Launcher.exe"
           ],
           "shared_container_move_list":
@@ -339,7 +343,7 @@
                   "GFSDK_Aftermath_Lib.x64.dll",
                   "Launcher.db",
                   "World of Warcraft Launcher.exe",
-                  "WowGM-China.exe"
+                  "WoWGMChina.exe"
                 ],
                 "root": "%game%"
               }
