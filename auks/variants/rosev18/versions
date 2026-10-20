@@ -8,7 +8,7 @@
       "token": "459fde31-8553-41d6-8317-542209c583dd"
     },
     "buildKey": "a5ad0bfe12712f1c90984ac6ddb64adb",
-    "cdnKey": "32c1b5b5497a4ff1e3c219d68ca5bd86",
+    "cdnKey": "03b4836ec30b91ce9a1c7323ed2d51ab",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/7dd9f1c5aeb14ef0b172ddbfceaae847"
@@ -50,7 +50,7 @@
       "token": "79556e75-299f-4325-8def-e93327e0f6eb"
     },
     "buildKey": "a7fb1a8e504d7bdf1e05173defc01453",
-    "cdnKey": "32c1b5b5497a4ff1e3c219d68ca5bd86",
+    "cdnKey": "03b4836ec30b91ce9a1c7323ed2d51ab",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/7dd9f1c5aeb14ef0b172ddbfceaae847"
@@ -88,11 +88,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "release_29444703A_cod26_tu2_nosrv_signed_bnet_v18_ship",
-      "token": "e6b48964-7ad7-4790-9eb3-f3837316e260"
+      "name": "release_29444703B_cod26_tu2_signed_bnet_v18_ship",
+      "token": "94bcf758-a8af-4caf-ad94-979fce3a9259"
     },
-    "buildKey": "c4741ad7702b5569777392a3eb6de526",
-    "cdnKey": "32c1b5b5497a4ff1e3c219d68ca5bd86",
+    "buildKey": "27942cd6cc55c7672b5cc908f4b4b989",
+    "cdnKey": "03b4836ec30b91ce9a1c7323ed2d51ab",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/7dd9f1c5aeb14ef0b172ddbfceaae847"
@@ -123,6 +123,6 @@
       }
     ],
     "versionNumber": 29444703,
-    "versionString": "0.0.1.29444703As"
+    "versionString": "0.0.2.29444703Bs"
   }
 }
