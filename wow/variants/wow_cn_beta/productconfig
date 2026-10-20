@@ -5,10 +5,6 @@
     {
       "config":
       {
-        "component_dependencies":
-        [
-          "bdko"
-        ],
         "data_dir": "Data/",
         "display_locales":
         [
@@ -179,6 +175,10 @@
               "switcher": false
             }
           },
+          "component_dependencies":
+          [
+            "bdko"
+          ],
           "form":
           {
             "game_dir":
