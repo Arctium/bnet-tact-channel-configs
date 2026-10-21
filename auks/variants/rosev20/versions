@@ -4,53 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "release_29563434_cod26_season1_bnet_v20_dev",
-      "token": "ed66d254-f99d-4d15-943c-4492adc79ffc"
-    },
-    "buildKey": "a4f0e18ecb0e181ce0e540ee04ed43a6",
-    "cdnKey": "0b7ef924a49bea2f2d802482a39760e9",
-    "cdnKeyFile":
-    {
-      "name": "green/cdnkeys/10ca03d680e43fe6513297eec93aa72c"
-    },
-    "keyRing": "",
-    "path": "tpr/rosev",
-    "pipelineId": 302,
-    "productConfig":
-    {
-      "cdnPath": "",
-      "hash": "d9f61927ba3505f917e4a53aaf5b4115"
-    },
-    "regions":
-    [
-      {
-        "branches":
-        [
-          "us"
-        ],
-        "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
-      },
-      {
-        "branches":
-        [
-          "eu"
-        ],
-        "cdns": "084aea14e8342085ace15de6e8a53b72"
-      }
-    ],
-    "versionNumber": 29563434,
-    "versionString": "0.0.0.29563434d"
-  },
-  "us":
-  {
-    "armadilloKey": "",
-    "build":
-    {
       "name": "release_29582401_cod26_season1_bnet_v20_dev",
       "token": "de488f3c-0ec6-477a-a578-69cc7481e934"
     },
     "buildKey": "4fb24d00b4e2d3250401468ff81465f3",
-    "cdnKey": "0b7ef924a49bea2f2d802482a39760e9",
+    "cdnKey": "d77fd3cc8ebbe1ff88357c65196a062a",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/10ca03d680e43fe6513297eec93aa72c"
@@ -61,7 +19,7 @@
     "productConfig":
     {
       "cdnPath": "",
-      "hash": "f308bc3b810f64964b94f6099c968f6f"
+      "hash": "70baf70f15ea806d6812d41e9855d006"
     },
     "regions":
     [
@@ -82,5 +40,47 @@
     ],
     "versionNumber": 29582401,
     "versionString": "0.0.0.29582401d"
+  },
+  "us":
+  {
+    "armadilloKey": "",
+    "build":
+    {
+      "name": "release_29605618_cod26_season1_bnet_v20_dev",
+      "token": "043c01f9-f89d-467e-ba9f-8b4e710d49de"
+    },
+    "buildKey": "fd469896871ccb6084dadd852a2092cc",
+    "cdnKey": "d77fd3cc8ebbe1ff88357c65196a062a",
+    "cdnKeyFile":
+    {
+      "name": "green/cdnkeys/10ca03d680e43fe6513297eec93aa72c"
+    },
+    "keyRing": "",
+    "path": "tpr/rosev",
+    "pipelineId": 302,
+    "productConfig":
+    {
+      "cdnPath": "",
+      "hash": "70baf70f15ea806d6812d41e9855d006"
+    },
+    "regions":
+    [
+      {
+        "branches":
+        [
+          "us"
+        ],
+        "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+      },
+      {
+        "branches":
+        [
+          "eu"
+        ],
+        "cdns": "084aea14e8342085ace15de6e8a53b72"
+      }
+    ],
+    "versionNumber": 29605618,
+    "versionString": "0.0.0.29605618d"
   }
 }
