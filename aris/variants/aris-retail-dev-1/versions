@@ -4,16 +4,16 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "20261021-000017-upset-hyena",
-      "token": "3563a04d-6df9-492b-b74f-f80f74b1cc0c"
+      "name": "20261021-072031-zany-lobster",
+      "token": "4351ee9d-2df6-4e41-b81e-cc4fd7347cc6"
     },
-    "buildKey": "af1f43740d8758ba1d45d49378cde205",
-    "cdnKey": "0e53743fa63ed3fde8f91b7005240ad5",
+    "buildKey": "718b9c33286e8695611b4da5873e7856",
+    "cdnKey": "fd143733e3d7b26b9bdb35940d2d16da",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/4adf6e4e2fce0f7bc205acd77117c97d"
     },
-    "keyRing": "398ef7aa7226cdf9468b3caf9a2605ef",
+    "keyRing": "e063285129ce145fcee0f16f8d4aae4c",
     "path": "tpr/arisdev",
     "pipelineId": 350,
     "productConfig":
@@ -38,7 +38,7 @@
         "cdns": "287b8918c145665428c6f714cdc6e3bd"
       }
     ],
-    "versionNumber": 519,
-    "versionString": "7CF41C206A80B8751FBCBF96D8D6269E"
+    "versionNumber": 520,
+    "versionString": "BC63566603730F178148E53B6FC7A1FC"
   }
 }
