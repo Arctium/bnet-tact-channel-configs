@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "WOW-70372patch3.80.2_ClassicTitan",
-      "token": "9efa467d-ed0c-4437-aac3-30dfa181a2e9"
+      "name": "WOW-70522patch3.80.2_ClassicTitan",
+      "token": "eb2b8fa5-3e63-419f-84de-ca85f3db4c42"
     },
-    "buildKey": "c76b04ff458fe949ea294c525cf79fe7",
-    "cdnKey": "86e142712006071d5eb4b60e825c1f6e",
+    "buildKey": "eed3978f9e962450c5a358ef0dcbcf64",
+    "cdnKey": "0be643b8138ab938c75533cdc11302c4",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/aa540d6d77fa9bc61f07a62f5911e245"
@@ -53,7 +53,7 @@
         "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"
       }
     ],
-    "versionNumber": 70372,
-    "versionString": "3.80.2.70372"
+    "versionNumber": 70522,
+    "versionString": "3.80.2.70522"
   }
 }
