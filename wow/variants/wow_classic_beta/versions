@@ -4,10 +4,10 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "WOW-70450patch1.60.1_ForeverBeta",
-      "token": "da30df91-ab07-41a8-a549-65865f36b9d1"
+      "name": "WOW-70532patch1.60.1_Beta",
+      "token": "2a326a9d-c6ed-4af7-9e1e-ff483bfb71aa"
     },
-    "buildKey": "84bea4233331e390fda8724c6f91ffa5",
+    "buildKey": "ad1802f4455e427ed8b7769aab25b0c0",
     "cdnKey": "ccc89ec4bcc03f6cc1cc1c7861d9ed0f",
     "cdnKeyFile":
     {
@@ -53,7 +53,7 @@
         "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"
       }
     ],
-    "versionNumber": 70450,
-    "versionString": "1.60.1.70450"
+    "versionNumber": 70532,
+    "versionString": "1.60.1.70532"
   }
 }
