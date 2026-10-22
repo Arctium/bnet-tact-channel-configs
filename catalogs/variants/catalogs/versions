@@ -8,7 +8,7 @@
       "token": ""
     },
     "buildKey": "53a25687708311696b95eeb711be65c0",
-    "cdnKey": "b255b1fd43da9f7cc184ceaad3fa0766",
+    "cdnKey": "e1df2aa7aab0388a9bfd72724734e1c8",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/654c41d9311e342acbd1395b83ce34b0"
@@ -64,7 +64,7 @@
       "token": ""
     },
     "buildKey": "674418eb84cb30db6b9c6ecd0e69032b",
-    "cdnKey": "b255b1fd43da9f7cc184ceaad3fa0766",
+    "cdnKey": "e1df2aa7aab0388a9bfd72724734e1c8",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/654c41d9311e342acbd1395b83ce34b0"
@@ -120,7 +120,7 @@
       "token": ""
     },
     "buildKey": "2ac5c0b01a7b7b04e627c54ad1352dbd",
-    "cdnKey": "b255b1fd43da9f7cc184ceaad3fa0766",
+    "cdnKey": "e1df2aa7aab0388a9bfd72724734e1c8",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/654c41d9311e342acbd1395b83ce34b0"
@@ -176,7 +176,7 @@
       "token": ""
     },
     "buildKey": "9d3a05e0dfb3e452a10e7447d652584e",
-    "cdnKey": "b255b1fd43da9f7cc184ceaad3fa0766",
+    "cdnKey": "e1df2aa7aab0388a9bfd72724734e1c8",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/654c41d9311e342acbd1395b83ce34b0"
@@ -232,7 +232,7 @@
       "token": ""
     },
     "buildKey": "8d19cbf0b6b714c841dcb197870d1de1",
-    "cdnKey": "b255b1fd43da9f7cc184ceaad3fa0766",
+    "cdnKey": "e1df2aa7aab0388a9bfd72724734e1c8",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/654c41d9311e342acbd1395b83ce34b0"
@@ -288,7 +288,7 @@
       "token": "11e726e1-89dc-4011-97bf-2677cfd66fb7"
     },
     "buildKey": "b50d624f7242246794edf7140d803836",
-    "cdnKey": "b255b1fd43da9f7cc184ceaad3fa0766",
+    "cdnKey": "e1df2aa7aab0388a9bfd72724734e1c8",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/654c41d9311e342acbd1395b83ce34b0"
@@ -344,7 +344,7 @@
       "token": "ae46a533-d73b-4061-b127-16009ed9a95e"
     },
     "buildKey": "b630881f588acd6cc3d0782634f9399f",
-    "cdnKey": "b255b1fd43da9f7cc184ceaad3fa0766",
+    "cdnKey": "e1df2aa7aab0388a9bfd72724734e1c8",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/654c41d9311e342acbd1395b83ce34b0"
@@ -396,11 +396,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "aa054a7aed45f5e6b147c5c5abf3b798-5189",
-      "token": "5dbc8887-2bf7-403c-9856-8051f36cd650"
+      "name": "aa17ff23c1774df8a0d1998c18ab0647-5192",
+      "token": "04428cf7-bcc5-4b67-82e0-ebb8c0d4ff99"
     },
-    "buildKey": "82d6de75d4bb98518aa9a86ee84cb7ee",
-    "cdnKey": "b255b1fd43da9f7cc184ceaad3fa0766",
+    "buildKey": "ff5424f09812251489bfcd0ab297f9eb",
+    "cdnKey": "e1df2aa7aab0388a9bfd72724734e1c8",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/654c41d9311e342acbd1395b83ce34b0"
@@ -444,7 +444,7 @@
         "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
       }
     ],
-    "versionNumber": 395,
-    "versionString": "5189"
+    "versionNumber": 396,
+    "versionString": "5192"
   }
 }
