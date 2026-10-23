@@ -61,7 +61,7 @@
     "productConfig":
     {
       "cdnPath": "",
-      "hash": "6c1e4871387a31941414d3d2bb3cb1fd"
+      "hash": "afdfd4c3eb0f264aa4e4c62129962d1c"
     },
     "regions":
     [
@@ -81,7 +81,7 @@
       }
     ],
     "versionNumber": 29626163,
-    "versionString": "0.0.0.29626163d"
+    "versionString": "0.0.1.29626163d"
   },
   "us":
   {
