@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "WOW-70531patch5.5.4_NEVendor5",
-      "token": "7d3bd92c-01fa-4264-9415-8b0acde5ab8f"
+      "name": "WOW-70579patch5.5.4_NEVendor5",
+      "token": "e44bb54a-706a-4f6f-9976-ba96fbf1a9d6"
     },
-    "buildKey": "3d07d47675204e2f8f6298bccb858c56",
-    "cdnKey": "47fb8092429f6eb580f633aef74ba886",
+    "buildKey": "a01d8ac1d38f9a8713ed95829cb625e2",
+    "cdnKey": "3a30e81d18df41b47ff1a84d4b9d751a",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/09e8d142cf46ef1934876052bb27837f"
@@ -52,7 +52,7 @@
         "cdns": "3cc07b8abb8ad2f7349e2613d7fdad94"
       }
     ],
-    "versionNumber": 70531,
-    "versionString": "5.5.4.70531"
+    "versionNumber": 70579,
+    "versionString": "5.5.4.70579"
   }
 }
