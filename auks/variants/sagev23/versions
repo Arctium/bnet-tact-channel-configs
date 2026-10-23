@@ -8,7 +8,7 @@
       "token": "ac380d86-ab4f-4767-afb2-dbd072de2272"
     },
     "buildKey": "65f1923c661ee096d2a640829d965cdf",
-    "cdnKey": "cdfb3b5712ea3b8ef7fc3d433fdd11ae",
+    "cdnKey": "b5d57b6de2820c5908e6eab590812239",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/bd9cf5d5691a7a8f514e37df2623f43b"
@@ -50,7 +50,7 @@
       "token": "531d2842-17c9-46d7-92bb-aaee2d84f392"
     },
     "buildKey": "82078d58649414ff0047914ccedf6e99",
-    "cdnKey": "cdfb3b5712ea3b8ef7fc3d433fdd11ae",
+    "cdnKey": "b5d57b6de2820c5908e6eab590812239",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/bd9cf5d5691a7a8f514e37df2623f43b"
@@ -88,11 +88,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "release_28656362_cod25_season6_bnet_v23_dev",
-      "token": "b83e562b-9342-4928-9436-42052e379fc8"
+      "name": "trunk_29562306_sat_wz_season0_bnet_v23_dev",
+      "token": "960a69e2-e15b-4744-a948-1f476fee813d"
     },
-    "buildKey": "802a3909e877b55ba001d141402f3249",
-    "cdnKey": "cdfb3b5712ea3b8ef7fc3d433fdd11ae",
+    "buildKey": "4c7b8cd98c9d1a2828ceed0ae7736e31",
+    "cdnKey": "b5d57b6de2820c5908e6eab590812239",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/bd9cf5d5691a7a8f514e37df2623f43b"
@@ -122,7 +122,7 @@
         "cdns": "084aea14e8342085ace15de6e8a53b72"
       }
     ],
-    "versionNumber": 28656362,
-    "versionString": "0.0.0.28656362d"
+    "versionNumber": 29562306,
+    "versionString": "0.0.0.29562306d"
   }
 }
