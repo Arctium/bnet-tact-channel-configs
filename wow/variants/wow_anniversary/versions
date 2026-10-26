@@ -4,10 +4,10 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "WOW-70006patch2.5.6_Anniversary",
-      "token": "f10d6ab6-6a91-4943-90fc-adfa037f3aab"
+      "name": "WOW-70577patch2.5.6_Anniversary",
+      "token": "2bfd2d4a-7997-4a66-85ce-84ec2c38a437"
     },
-    "buildKey": "b3f09c9e3d47cbb9606fd0ccc0d831df",
+    "buildKey": "68581f70e323e88b2c44c928ffce7cd8",
     "cdnKey": "f58e6c66e61b069eb61d8bd41c57cb98",
     "cdnKeyFile":
     {
@@ -53,7 +53,7 @@
         "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"
       }
     ],
-    "versionNumber": 70006,
-    "versionString": "2.5.6.70006"
+    "versionNumber": 70577,
+    "versionString": "2.5.6.70577"
   }
 }
