@@ -4,16 +4,16 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "Build_5810693Change_13491245_bis",
-      "token": "7a28b831-9746-452c-8785-8ec3bb48da69"
+      "name": "Build_5816246Change_13642822",
+      "token": "ce95ade6-83b9-427f-8bf9-e8c975fe948f"
     },
-    "buildKey": "05d157e1eab2e70ef9cc28dae7eea801",
-    "cdnKey": "05f0bde79a693421bde629837c0e5fb8",
+    "buildKey": "0d5932958a212d88bf7d5bcc4cc45f15",
+    "cdnKey": "9b675ffd080f2e20b07452b1413a4040",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/0bb31ba269202fe40b7adf1889b669b7"
     },
-    "keyRing": "af3232f34cccd04c774f1e16bf522817",
+    "keyRing": "ba22aa2e769a8e60fb75017e2447b697",
     "path": "tpr/malbdev",
     "pipelineId": 406,
     "productConfig":
@@ -38,7 +38,7 @@
         "cdns": "919646d723f2fff72418101b1223ddb0"
       }
     ],
-    "versionNumber": 5810693,
+    "versionNumber": 5816246,
     "versionString": "2.5"
   }
 }
