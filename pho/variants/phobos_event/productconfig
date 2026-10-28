@@ -71,12 +71,12 @@
             "game":
             {
               "launch_arguments": [],
-              "regex": "phobos.exe",
-              "relative_path": "phobos.exe",
+              "regex": "PhobosApp.exe",
+              "relative_path": "PhobosApp.exe",
               "switcher": false
             }
           },
-          "binary_version_path": "phobos.exe",
+          "binary_version_path": "PhobosApp.exe",
           "form":
           {
             "game_dir":
