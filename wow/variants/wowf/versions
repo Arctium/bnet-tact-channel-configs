@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "WOW-70658patch1.60.1_Retail",
-      "token": "712405a2-cd43-4d49-98f9-17371ed51b99"
+      "name": "WOW-70685patch1.60.1_Retail",
+      "token": "ca499ff9-1175-4638-86a8-829fe67f17f9"
     },
-    "buildKey": "165410aca770316ea0f88100bb4830c2",
-    "cdnKey": "f0fcf03baf658e38f2f6c96a77798a2c",
+    "buildKey": "002a8047a7c3a53de5e981936db76cce",
+    "cdnKey": "9529b048134c5f9375bbe754b8edc5ef",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/47a40ae43f96f21392005d0f6a3e0bc4"
@@ -53,7 +53,7 @@
         "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"
       }
     ],
-    "versionNumber": 70658,
-    "versionString": "1.60.1.70658"
+    "versionNumber": 70685,
+    "versionString": "1.60.1.70685"
   }
 }
