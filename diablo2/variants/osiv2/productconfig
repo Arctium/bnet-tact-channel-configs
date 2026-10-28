@@ -1,12 +1,12 @@
 {
-  "eu+us":
+  "us":
   {
     "all":
     {
       "config":
       {
         "data_dir": "Data/",
-        "decryption_key_name": "osivendor1",
+        "decryption_key_name": "fenway_live_vendor_1",
         "form":
         {
           "game_dir":
