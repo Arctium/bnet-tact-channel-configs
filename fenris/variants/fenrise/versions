@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "fenrisliveevent-6",
-      "token": "4f739357-4f1b-46c2-9dac-fb687e576557"
+      "name": "74210_Win64Client_4_0_0mango_event",
+      "token": "88fc29b4-b400-4caf-9096-de58762922d7"
     },
-    "buildKey": "838058f27b045fd4d73d419387328672",
-    "cdnKey": "cb51e2d3cda42beb4f15940efb38dde1",
+    "buildKey": "8182489905496146ccecdd3d8b5a720f",
+    "cdnKey": "88e58c7c080b0e76ba71849a09699d11",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/b4733745782443fe75ccb4ef05823aa3"
@@ -19,7 +19,7 @@
     "productConfig":
     {
       "cdnPath": "",
-      "hash": ""
+      "hash": "b1c68b39466a3370f29f6c3c6b380cb3"
     },
     "regions":
     [
@@ -45,7 +45,7 @@
         "cdns": "bc1754f11f573e568506faa05cbe52e3"
       }
     ],
-    "versionNumber": 1,
-    "versionString": "1"
+    "versionNumber": 74210,
+    "versionString": "74210"
   }
 }
