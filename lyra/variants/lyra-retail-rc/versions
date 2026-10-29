@@ -4,16 +4,16 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "Build_1048522Change_13413172Upload_1048947",
-      "token": "ae361134-1389-42f3-ab60-03231407a96e"
+      "name": "Build_1090142Change_13662125Upload_1095180",
+      "token": "8fbd2c27-599e-4f76-9caf-5bb1c87c05f5"
     },
-    "buildKey": "539107277edad4a35c928ba8d765bd5b",
-    "cdnKey": "08d59a3be34515e3a1ef7d7989e843dd",
+    "buildKey": "278e7ec00bde1291605c75f7949d9f35",
+    "cdnKey": "43a2fdbca85c3e1fb564caca4bfc2add",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/7893f81873076c29ad4c6381624969cd"
     },
-    "keyRing": "fb5e18df4ee01c9ff3e6b1414a6038f5",
+    "keyRing": "3fbc586f3d9a49c9adadfbe481ea8bb5",
     "path": "tpr/lyrarc/1",
     "pipelineId": 411,
     "productConfig":
@@ -38,7 +38,7 @@
         "cdns": "287b8918c145665428c6f714cdc6e3bd"
       }
     ],
-    "versionNumber": 1048522,
+    "versionNumber": 1090142,
     "versionString": "5.00"
   }
 }
