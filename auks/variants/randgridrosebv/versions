@@ -4,10 +4,10 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "trunk_driver_19_08_2026_28546760_valkyrie_valkyrie_ship_ship",
-      "token": "ec6b59da-3720-4e6f-aee6-86c71e7ae63f"
+      "name": "trunk_cod26_season1_driver_27_10_2026_29708533_valkyrie_ship",
+      "token": "d8620da3-55ff-4d2b-8703-ee476a166ca2"
     },
-    "buildKey": "34aeb2b5e05aeb7f192a2bdd3821c2d2",
+    "buildKey": "db8caee802fadbcec5c8c3e95a41b9ae",
     "cdnKey": "035da3990ff600a0d2caca03501872b9",
     "cdnKeyFile":
     {
@@ -38,7 +38,7 @@
         "cdns": "084aea14e8342085ace15de6e8a53b72"
       }
     ],
-    "versionNumber": 28546760,
-    "versionString": "0.0.1.28546760s"
+    "versionNumber": 29708533,
+    "versionString": "0.0.1.29708533s"
   }
 }
