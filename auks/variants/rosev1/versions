@@ -4,6 +4,48 @@
     "armadilloKey": "",
     "build":
     {
+      "name": "trunk_29716179_rex_autobuild_mp_bnet_v1_dev",
+      "token": "fce6c2bb-07e1-4e63-8cf4-c765ea7aef59"
+    },
+    "buildKey": "5126e169f8eb954575260667b5b2262f",
+    "cdnKey": "75b9b881346cefbaf428f6ce457fd77e",
+    "cdnKeyFile":
+    {
+      "name": "green/cdnkeys/761feba9dacad85f7fc590804354ed84"
+    },
+    "keyRing": "",
+    "path": "tpr/rosev",
+    "pipelineId": 302,
+    "productConfig":
+    {
+      "cdnPath": "",
+      "hash": "b95748a7bfebc705424b660d3ba96900"
+    },
+    "regions":
+    [
+      {
+        "branches":
+        [
+          "us"
+        ],
+        "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+      },
+      {
+        "branches":
+        [
+          "eu"
+        ],
+        "cdns": "084aea14e8342085ace15de6e8a53b72"
+      }
+    ],
+    "versionNumber": 29716179,
+    "versionString": "0.0.0.29716179d"
+  },
+  "kr":
+  {
+    "armadilloKey": "",
+    "build":
+    {
       "name": "trunk_29675869_rex_autobuild_mp_bnet_v1_dev",
       "token": "55129d2d-4cf6-45dd-89cf-09b588fe5d84"
     },
@@ -41,57 +83,15 @@
     "versionNumber": 29675869,
     "versionString": "0.0.0.29675869d"
   },
-  "kr":
-  {
-    "armadilloKey": "",
-    "build":
-    {
-      "name": "trunk_29582574_rex_autobuild_mp_bnet_v1_dev",
-      "token": "c9cc3d5a-a403-41d3-8fae-faa0110ecb1c"
-    },
-    "buildKey": "1ceed820c2c83d94b5f1b7c131b4840b",
-    "cdnKey": "75b9b881346cefbaf428f6ce457fd77e",
-    "cdnKeyFile":
-    {
-      "name": "green/cdnkeys/761feba9dacad85f7fc590804354ed84"
-    },
-    "keyRing": "",
-    "path": "tpr/rosev",
-    "pipelineId": 302,
-    "productConfig":
-    {
-      "cdnPath": "",
-      "hash": "b95748a7bfebc705424b660d3ba96900"
-    },
-    "regions":
-    [
-      {
-        "branches":
-        [
-          "us"
-        ],
-        "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
-      },
-      {
-        "branches":
-        [
-          "eu"
-        ],
-        "cdns": "084aea14e8342085ace15de6e8a53b72"
-      }
-    ],
-    "versionNumber": 29582574,
-    "versionString": "0.0.0.29582574d"
-  },
   "us":
   {
     "armadilloKey": "",
     "build":
     {
-      "name": "trunk_29716179_rex_autobuild_mp_bnet_v1_dev",
-      "token": "fce6c2bb-07e1-4e63-8cf4-c765ea7aef59"
+      "name": "trunk_29737620_rex_autobuild_mp_bnet_v1_dev",
+      "token": "325ea6a8-403b-4394-9f13-acf4aed64355"
     },
-    "buildKey": "5126e169f8eb954575260667b5b2262f",
+    "buildKey": "e9aaee4d67490555c980dacc70d29df4",
     "cdnKey": "75b9b881346cefbaf428f6ce457fd77e",
     "cdnKeyFile":
     {
@@ -122,7 +122,7 @@
         "cdns": "084aea14e8342085ace15de6e8a53b72"
       }
     ],
-    "versionNumber": 29716179,
-    "versionString": "0.0.0.29716179d"
+    "versionNumber": 29737620,
+    "versionString": "0.0.0.29737620d"
   }
 }
