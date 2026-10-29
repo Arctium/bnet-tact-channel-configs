@@ -8,7 +8,7 @@
       "token": "f10dbfac-275a-4672-a483-c8aa1c65083b"
     },
     "buildKey": "ade6d9e2562cb2000d793907797792ea",
-    "cdnKey": "103889176228b9361a76a5067d50a955",
+    "cdnKey": "8e10835b65262712f32e5d134ab0188c",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/2e205874ea6fb0f0bbe5f8f62a00b57c"
@@ -53,11 +53,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "prometheus-2_27_0_0-154864-GM-prodev9",
-      "token": "30cfd4b6-8137-4077-9fc0-f126a9392407"
+      "name": "prometheus-2_27_0_0-155075-GM-prodev9",
+      "token": "c3178d72-8118-4420-b292-f73204d7e6dc"
     },
-    "buildKey": "9781062ea07deab3a9d58c60d41ec674",
-    "cdnKey": "103889176228b9361a76a5067d50a955",
+    "buildKey": "e6ffd0b6b2bd5d847646cd07a3b3fdf4",
+    "cdnKey": "8e10835b65262712f32e5d134ab0188c",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/2e205874ea6fb0f0bbe5f8f62a00b57c"
@@ -94,7 +94,7 @@
         "cdns": "ac3285f7bed04bf859b9072a2c68b69b"
       }
     ],
-    "versionNumber": 154864,
-    "versionString": "2.27.0.0.154864"
+    "versionNumber": 155075,
+    "versionString": "2.27.0.0.155075"
   }
 }
