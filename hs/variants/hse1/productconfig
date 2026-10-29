@@ -7,7 +7,7 @@
       {
         "containerless_do_clean_up": true,
         "data_dir": "Data/",
-        "decryption_key_name": "hs_live_event_1",
+        "decryption_key_name": "hs_live_event_2",
         "display_locales":
         [
           "deDE",
