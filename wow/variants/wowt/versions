@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "WOW-70493patch12.1.7_PTR",
-      "token": "d64621a4-75bd-4e0f-bf5c-cbd8e7032d54"
+      "name": "WOW-70668patch12.1.7_PTR",
+      "token": "54f7d72b-7d7b-4ab3-85cb-56cdf3c3443a"
     },
-    "buildKey": "fc3eaa61ff0ade6bf35dbab9727bc161",
-    "cdnKey": "9529b048134c5f9375bbe754b8edc5ef",
+    "buildKey": "ed9be0ac5b2c5884acb6ccbf1998a65c",
+    "cdnKey": "6935286646b20faee1b624251201d62a",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/e172cc2c85b22220ee27d32f0cc26ca5"
@@ -53,7 +53,7 @@
         "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"
       }
     ],
-    "versionNumber": 70493,
-    "versionString": "12.1.7.70493"
+    "versionNumber": 70668,
+    "versionString": "12.1.7.70668"
   }
 }
