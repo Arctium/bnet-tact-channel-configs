@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "bdk_1.6.0",
-      "token": "5e1395d8-8305-440c-ac4d-b56782d465a1"
+      "name": "bdk_1.6.1",
+      "token": "f0ba50f2-f805-4c63-b3f9-f6bd964f02fa"
     },
-    "buildKey": "0dce167cc8885b8efe32d009043e15f1",
-    "cdnKey": "c09bbec03b974c9769614f9f0c3f5b9f",
+    "buildKey": "18d5ff3947b7d2a361cbf0d5257e7de6",
+    "cdnKey": "dabae539c09837f68126d27ae8ce5424",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/f39d824eeda8bb4dd4b728170484bc4b"
@@ -52,7 +52,7 @@
         "cdns": "0e52e616adbad7a6a5fa0a41741bb101"
       }
     ],
-    "versionNumber": 129622,
-    "versionString": "Battle.net Development Kit 1.6.0"
+    "versionNumber": 130735,
+    "versionString": "Battle.net Development Kit 1.6.1"
   }
 }
