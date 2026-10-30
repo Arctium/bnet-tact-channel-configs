@@ -190,7 +190,7 @@
             "default_requires_64_bit": true,
             "required_osspecs":
             {
-              "10.0.0.22000":
+              "10.0":
               {
                 "required_subversion": 0
               }
