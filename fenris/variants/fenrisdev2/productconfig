@@ -6,7 +6,7 @@
       "config":
       {
         "data_dir": "Data/",
-        "decryption_key_name": "fenrisdev2",
+        "decryption_key_name": "fenrisdev2_01",
         "form":
         {
           "game_dir":
@@ -191,6 +191,7 @@
                 [
                   "BlizzardBrowser",
                   "BlizzardError",
+                  "D3D12",
                   "Data",
                   "LocalData"
                 ],
@@ -205,15 +206,29 @@
                   "bink2w64.dll",
                   "BuildRevision.txt",
                   "CUESDK.x64_2015.dll",
+                  "curl-ca-bundle.crt",
+                  "d3d12on7.dll",
+                  "DiabloIV.exe",
+                  "dstorage.dll",
+                  "dstoragecore.dll",
+                  "dxilconv7.dll",
                   "game.exe",
                   "icudt49.dll",
+                  "icudt67l.dat",
                   "icuin49.dll",
                   "icuuc49.dll",
                   "msvcp100.dll",
                   "msvcp140.dll",
+                  "msvcp140_1.dll",
+                  "msvcp140_2.dll",
+                  "msvcp140_codecvt_ids.dll",
                   "msvcr100.dll",
+                  "nvngx_dlss.dll",
                   "ortp_x64.dll",
+                  "Tolk.dll",
                   "vcruntime140.dll",
+                  "vcruntime140_1.dll",
+                  "vivoxsdk.dll",
                   "vivoxsdk_x64.dll"
                 ],
                 "root": "%game%"

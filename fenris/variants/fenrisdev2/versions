@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "Fenris-Live-Dev-Alt-dummy",
-      "token": "a0b4542d-f7e5-4f05-9b61-d895777746cb"
+      "name": "74211_Win64Client_3_3_0",
+      "token": "28788eae-d043-4b52-91d4-c10866831ab7"
     },
-    "buildKey": "aee66caddc8f4b8cc96a9ad18c58cb4a",
-    "cdnKey": "0e62043c2cc3f645ec15b4b50d453988",
+    "buildKey": "bc8079015fc5a1d2b99c8df0dbbead34",
+    "cdnKey": "8c7aa2b7447b4705e0583d13fcdd9379",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/57d42ee9bd1ef616581bb59475f04cf1"
@@ -19,7 +19,7 @@
     "productConfig":
     {
       "cdnPath": "",
-      "hash": ""
+      "hash": "195e1afaaaed9e322a50d9f439a38883"
     },
     "regions":
     [
@@ -38,7 +38,7 @@
         "cdns": "a744a1699a13347916dd9d7aa0ea70ed"
       }
     ],
-    "versionNumber": 1,
-    "versionString": "1"
+    "versionNumber": 74211,
+    "versionString": "3.3.0.74211"
   }
 }
