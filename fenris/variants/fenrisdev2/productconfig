@@ -132,12 +132,12 @@
                 "-sso",
                 "-launch"
               ],
-              "regex": "game.exe",
-              "relative_path": "game.exe",
+              "regex": "Diablo IV.exe",
+              "relative_path": "Diablo IV.exe",
               "switcher": false
             }
           },
-          "binary_version_path": "game.exe",
+          "binary_version_path": "Diablo IV.exe",
           "form":
           {
             "game_dir":
@@ -157,7 +157,10 @@
               }
             }
           },
-          "tags": [],
+          "tags":
+          [
+            "Windows"
+          ],
           "uninstall":
           [
             {
