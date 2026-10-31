@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "74210_Win64Client_4_0_0mango_event",
-      "token": "88fc29b4-b400-4caf-9096-de58762922d7"
+      "name": "74234_Win64Client_4_0_0mango_event",
+      "token": "2d70b4b9-e450-4985-b9e9-b7459d2d0528"
     },
-    "buildKey": "8182489905496146ccecdd3d8b5a720f",
-    "cdnKey": "88e58c7c080b0e76ba71849a09699d11",
+    "buildKey": "57d34afe2cce93b335f3c7d60451d4ff",
+    "cdnKey": "1ef40ccf80f9219bc3ea0546ac10bcad",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/b4733745782443fe75ccb4ef05823aa3"
@@ -45,7 +45,7 @@
         "cdns": "bc1754f11f573e568506faa05cbe52e3"
       }
     ],
-    "versionNumber": 74210,
-    "versionString": "74210"
+    "versionNumber": 74234,
+    "versionString": "74234"
   }
 }
