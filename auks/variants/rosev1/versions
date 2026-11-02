@@ -8,7 +8,7 @@
       "token": "ff92e388-f884-4d26-8716-0e6d9045d047"
     },
     "buildKey": "c5f258fa12af5c9f595f163eb57913ff",
-    "cdnKey": "c02634810d2ce898617046ab26593ef4",
+    "cdnKey": "d995bd82f33a64e262f63e3d34dd82a0",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/761feba9dacad85f7fc590804354ed84"
@@ -50,7 +50,7 @@
       "token": "325ea6a8-403b-4394-9f13-acf4aed64355"
     },
     "buildKey": "e9aaee4d67490555c980dacc70d29df4",
-    "cdnKey": "c02634810d2ce898617046ab26593ef4",
+    "cdnKey": "d995bd82f33a64e262f63e3d34dd82a0",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/761feba9dacad85f7fc590804354ed84"
@@ -92,7 +92,7 @@
       "token": "b38a0adc-e9ce-4f34-8d88-4cd0a1fee902"
     },
     "buildKey": "8f10184c8fb6dd8eaefd6856ea429e10",
-    "cdnKey": "c02634810d2ce898617046ab26593ef4",
+    "cdnKey": "d995bd82f33a64e262f63e3d34dd82a0",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/761feba9dacad85f7fc590804354ed84"
