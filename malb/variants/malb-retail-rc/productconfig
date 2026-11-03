@@ -119,6 +119,10 @@
             }
           },
           "shortcut_target_path": "Cyberpunk2077.app",
+          "tags":
+          [
+            "OSX"
+          ],
           "uninstall":
           [
             {
@@ -196,6 +200,10 @@
               }
             }
           },
+          "tags":
+          [
+            "Windows"
+          ],
           "uninstall":
           [
             {

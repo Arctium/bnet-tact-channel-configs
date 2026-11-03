@@ -8,7 +8,7 @@
       "token": "8bbe7db2-03ed-4ad8-85a4-ed324ca4e6ac"
     },
     "buildKey": "d0769c7ef1fea9bd332dfd9acbc9f687",
-    "cdnKey": "a7d4d019276e525f52a9618f9acdb9b0",
+    "cdnKey": "cebfd7618137d14e55ecdf6a519b1572",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/0bb31ba269202fe40b7adf1889b669b7"
@@ -19,7 +19,7 @@
     "productConfig":
     {
       "cdnPath": "",
-      "hash": "06b2679daa4b299a5e536d46de1ff844"
+      "hash": "618c0510356b4e289d7dc7ec5a69f0eb"
     },
     "regions":
     [
