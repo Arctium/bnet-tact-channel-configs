@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "prometheus-2_25_0_1-154504-CN-NEAC",
-      "token": "9c9f012f-8119-4d27-b935-05eada9d50d1"
+      "name": "prometheus-2_25_1_0-154905-CN-NEAC",
+      "token": "64b74a22-8621-4f0b-888a-6cc464f9c4f1"
     },
-    "buildKey": "3716e268876655a6983dbb28cf88e049",
-    "cdnKey": "cbb8f67bb1289e2bc1fc731ec6e2ecd2",
+    "buildKey": "7819c7263bfcc0f9fa43385247586e03",
+    "cdnKey": "2ba172384936d069bc6fa28777b142c2",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/b0b8abcddba4308a8cd47fcc40db3487"
@@ -53,19 +53,19 @@
         "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
       }
     ],
-    "versionNumber": 154504,
-    "versionString": "2.25.0.1.154504N"
+    "versionNumber": 154905,
+    "versionString": "2.25.1.0.154905N"
   },
   "eu+kr+us":
   {
     "armadilloKey": "",
     "build":
     {
-      "name": "prometheus-2_25_0_1-154504",
-      "token": "9eb4e3fc-729c-46f1-a895-435cf2866187"
+      "name": "prometheus-2_25_1_0-154905",
+      "token": "833ca24c-4a24-424a-9545-9dd20c49da64"
     },
-    "buildKey": "8a45b1bf46ec30890a691969298b6c38",
-    "cdnKey": "cbb8f67bb1289e2bc1fc731ec6e2ecd2",
+    "buildKey": "6d23696cea8157b8bce8d53f9c07662d",
+    "cdnKey": "2ba172384936d069bc6fa28777b142c2",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/b0b8abcddba4308a8cd47fcc40db3487"
@@ -110,19 +110,19 @@
         "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
       }
     ],
-    "versionNumber": 154504,
-    "versionString": "2.25.0.1.154504"
+    "versionNumber": 154905,
+    "versionString": "2.25.1.0.154905"
   },
   "nexon":
   {
     "armadilloKey": "",
     "build":
     {
-      "name": "prometheus-2_25_0_1-154504-KR-NGSX-BNET",
-      "token": "5594cd7f-0434-4f9b-aaea-c2b3c96f6cec"
+      "name": "prometheus-2_25_1_0-154905-KR-NGSX-BNET",
+      "token": "db06f885-4938-4ec4-bde8-1e7c0186c371"
     },
-    "buildKey": "4660bfc9acf1a2e7f88add4ada132970",
-    "cdnKey": "cbb8f67bb1289e2bc1fc731ec6e2ecd2",
+    "buildKey": "eb8a41a650af49691ab8678ea5bf128d",
+    "cdnKey": "2ba172384936d069bc6fa28777b142c2",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/b0b8abcddba4308a8cd47fcc40db3487"
@@ -167,7 +167,7 @@
         "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
       }
     ],
-    "versionNumber": 154504,
-    "versionString": "2.25.0.1.154504KB"
+    "versionNumber": 154905,
+    "versionString": "2.25.1.0.154905KB"
   }
 }
