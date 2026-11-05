@@ -22,6 +22,8 @@
           "enUS",
           "frFR",
           "deDE",
+          "itIT",
+          "esES",
           "koKR",
           "plPL",
           "ruRU",
@@ -47,7 +49,9 @@
           "huHU",
           "zhTW",
           "trTR",
-          "esMX"
+          "esMX",
+          "ukUA",
+          "thTH"
         ],
         "supports_multibox": false,
         "supports_offline": true,
@@ -106,15 +110,14 @@
           },
           "min_spec":
           {
-            "default_required_cpu_cores": 4,
-            "default_required_cpu_speed": 3000,
+            "default_required_cpu_cores": 8,
             "default_required_ram": 16384,
             "default_requires_64_bit": true,
             "required_osspecs":
             {
-              "15.0":
+              "15.5":
               {
-                "required_subversion": 5
+                "required_subversion": 0
               }
             }
           },
@@ -151,12 +154,12 @@
             {
               "launch_arguments": [],
               "regex": "(bin/x64(_dx12)?/)?[Cc]yberpunk2077\\.exe",
-              "relative_path": "game_start.exe",
+              "relative_path": "REDprelauncher.exe",
               "switcher": true
             }
           },
-          "binary_launch_path": "game_start.exe",
-          "binary_version_path": "game_start.exe",
+          "binary_launch_path": "REDprelauncher.exe",
+          "binary_version_path": "REDprelauncher.exe",
           "component_dependencies":
           [
             "bdko"
@@ -178,18 +181,12 @@
                 "installer_details": "%feature_setting:installers_win:c++_x64%",
                 "minimum_version": "14.40.0.0"
               }
-            },
-            {
-              "directx_installer":
-              {
-                "installer_details": "%feature_setting:installers_win:directx_Jun2010%"
-              }
             }
           ],
           "min_spec":
           {
             "default_required_cpu_cores": 4,
-            "default_required_cpu_speed": 3000,
+            "default_required_cpu_speed": 3200,
             "default_required_ram": 12288,
             "default_requires_64_bit": true,
             "required_osspecs":
@@ -273,7 +270,7 @@
               {
                 "relative_paths":
                 [
-                  "game_start.exe"
+                  "REDprelauncher.exe"
                 ],
                 "root": "%game%"
               }
