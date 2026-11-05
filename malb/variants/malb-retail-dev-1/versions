@@ -4,16 +4,16 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "Build_5820352Change_13731624_BattleNet_Lib",
-      "token": "f2a8bb81-59b1-48fd-b585-523420aefe3b"
+      "name": "Build_5820352Change_13731624_Web_Token",
+      "token": "13225e1e-92f4-48a0-a908-8a2eb1d357d8"
     },
-    "buildKey": "dc739a8e9beb91a5afd83825b215e691",
-    "cdnKey": "a006ca762f7a29bf603bcbd667169e93",
+    "buildKey": "fe5de18d5b89cd3e90db87858e339426",
+    "cdnKey": "edce344b51bc92857866a6c188596fab",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/0bb31ba269202fe40b7adf1889b669b7"
     },
-    "keyRing": "a9fa1bea2e9ced0ccc46f32454e3567e",
+    "keyRing": "bf0cde14d5eafc8fcb3cd160128a4846",
     "path": "tpr/malbdev",
     "pipelineId": 406,
     "productConfig":
