@@ -23,7 +23,6 @@
         },
         "opaque_complex_data": {},
         "product": "phobos_event",
-        "shared_container_default_subfolder": "_phobos_event_",
         "supported_locales":
         [
           "enUS"
