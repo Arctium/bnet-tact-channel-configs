@@ -82,11 +82,7 @@
                     "title_string": "COD_MULTIPLAYER"
                   },
                   {
-                    "default_checked": "licensed",
-                    "licenses":
-                    [
-                      881555
-                    ],
+                    "default_checked": true,
                     "package_id": "auks-mw4-dmz",
                     "tags":
                     [
