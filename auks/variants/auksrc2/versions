@@ -8,7 +8,7 @@
       "token": "de73590b-f219-4469-8975-4a1aa84a173b"
     },
     "buildKey": "8d594a120f677afb8055201a5efda78e",
-    "cdnKey": "731985ef6544cc604328032459e119c7",
+    "cdnKey": "0e23d3df18a985fd96fc67dd12546953",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/7be16bca9753af13341388817639c416"
@@ -38,7 +38,7 @@
         "cdns": "287b8918c145665428c6f714cdc6e3bd"
       }
     ],
-    "versionNumber": 29668454,
-    "versionString": "1.0.0.29668454s"
+    "versionNumber": 29668455,
+    "versionString": "1.0.1.29668454s"
   }
 }
