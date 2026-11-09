@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "trunk_29875486_cod26_daily_cod26_daily_bnet_v3_ship",
-      "token": "829356b3-4cb4-48ec-b11d-e3eb1c75096f"
+      "name": "trunk_29894391_cod26_daily_cod26_daily_bnet_v3_ship",
+      "token": "7e241480-af25-4aef-b99a-a0ea90317fc6"
     },
-    "buildKey": "260e164e9d5a724aa8a1bd1c6f6017fd",
-    "cdnKey": "6b6d721a804544a1f1e52c73bde10446",
+    "buildKey": "50877daab88afbca313b95aab557c652",
+    "cdnKey": "ca6f3a70bb10a1a489fa649ab43024e5",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/cb602f27b4951a9f7472002eccf9ae46"
@@ -38,8 +38,8 @@
         "cdns": "084aea14e8342085ace15de6e8a53b72"
       }
     ],
-    "versionNumber": 29875486,
-    "versionString": "0.0.0.29875486d"
+    "versionNumber": 29894391,
+    "versionString": "0.0.0.29894391d"
   },
   "kr":
   {
@@ -50,7 +50,7 @@
       "token": "b70531e8-b479-4aac-b9f1-9d80fda25efc"
     },
     "buildKey": "ca10f3062d3552b157e0721c7a6ac206",
-    "cdnKey": "6b6d721a804544a1f1e52c73bde10446",
+    "cdnKey": "ca6f3a70bb10a1a489fa649ab43024e5",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/cb602f27b4951a9f7472002eccf9ae46"
@@ -88,11 +88,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "trunk_29894391_cod26_daily_cod26_daily_bnet_v3_dev",
-      "token": "c0409373-27f0-4236-a654-2a24c4aa2039"
+      "name": "trunk_29910625_cod26_daily_cod26_daily_bnet_v3_ship",
+      "token": "6b5c827d-0900-4f13-9dd0-0d39f7621f28"
     },
-    "buildKey": "32cb89696c9990a47ab3864271fad008",
-    "cdnKey": "6b6d721a804544a1f1e52c73bde10446",
+    "buildKey": "23a66ea0acada4a08a440ea8753c7fed",
+    "cdnKey": "ca6f3a70bb10a1a489fa649ab43024e5",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/cb602f27b4951a9f7472002eccf9ae46"
@@ -122,7 +122,7 @@
         "cdns": "084aea14e8342085ace15de6e8a53b72"
       }
     ],
-    "versionNumber": 29894391,
-    "versionString": "0.0.0.29894391d"
+    "versionNumber": 29910625,
+    "versionString": "0.0.0.29910625d"
   }
 }
