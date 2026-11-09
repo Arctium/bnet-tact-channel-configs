@@ -4,16 +4,16 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "20261108-000013-cruel-llama",
-      "token": "de1c5567-67d3-4f7b-bf5d-429ab4930b12"
+      "name": "20261109-000015-raspy-ape",
+      "token": "8d6e9687-99ec-4a6c-a938-230887d7a951"
     },
-    "buildKey": "9b5fe6d17f57e32ed860017c788c51e3",
-    "cdnKey": "843e3bce750974501d9363a71cfd7fa9",
+    "buildKey": "fa2bb7a08b33349023592adab333172d",
+    "cdnKey": "7c736ff3c0cfe99d31c0ad1a13117001",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/4adf6e4e2fce0f7bc205acd77117c97d"
     },
-    "keyRing": "fb7e27ed3e1fe9ea6a21553c4389c0bc",
+    "keyRing": "4750ca22e1c3e1c408f8b517a52e31d5",
     "path": "tpr/arisdev",
     "pipelineId": 350,
     "productConfig":
@@ -38,7 +38,7 @@
         "cdns": "287b8918c145665428c6f714cdc6e3bd"
       }
     ],
-    "versionNumber": 541,
-    "versionString": "8BA13B98B561C3607B6681A3E0AF3E50"
+    "versionNumber": 542,
+    "versionString": "2A6F9E032EA77969CA76914707BF6B9C"
   }
 }
