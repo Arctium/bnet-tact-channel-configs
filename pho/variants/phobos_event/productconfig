@@ -69,7 +69,10 @@
           {
             "game":
             {
-              "launch_arguments": [],
+              "launch_arguments":
+              [
+                "-launch"
+              ],
               "regex": "PhobosApp.exe",
               "relative_path": "PhobosApp.exe",
               "switcher": false
@@ -118,15 +121,7 @@
             {
               "delete_folder":
               {
-                "relative_paths": [],
-                "root": "%game%"
-              }
-            },
-            {
-              "delete_file":
-              {
-                "relative_paths": [],
-                "root": "%game%"
+                "folder_path": "%game%"
               }
             }
           ]
