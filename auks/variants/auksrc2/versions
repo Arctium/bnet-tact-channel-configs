@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "release_29668454_cod26_season1_signed_bnet_rc2_ship",
-      "token": "de73590b-f219-4469-8975-4a1aa84a173b"
+      "name": "etu_29836004_cod26_season1_0_1_signed_bnet_RC2_ship",
+      "token": "57554b2b-a5e3-4b20-8c31-68cec66cc0bc"
     },
-    "buildKey": "8d594a120f677afb8055201a5efda78e",
-    "cdnKey": "0e23d3df18a985fd96fc67dd12546953",
+    "buildKey": "4e723f2c0fae7dc014b51c11e25ca53a",
+    "cdnKey": "9143b02e484785f39ec4d0799789b2ed",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/7be16bca9753af13341388817639c416"
@@ -38,7 +38,7 @@
         "cdns": "287b8918c145665428c6f714cdc6e3bd"
       }
     ],
-    "versionNumber": 29668455,
-    "versionString": "1.0.1.29668454s"
+    "versionNumber": 29836004,
+    "versionString": "1.0.1.29836004s"
   }
 }
