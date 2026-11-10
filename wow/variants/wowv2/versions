@@ -4,11 +4,11 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "WOW-70842patch12.1.7_Vendor2",
-      "token": "4a28d407-ef4a-4441-8985-7c9a9fab86ff"
+      "name": "WOW-70892patch12.1.7_Vendor2",
+      "token": "e75a3a49-ab87-4d82-ab44-806cad3d7d49"
     },
-    "buildKey": "91100a06efd3252740c6b0a6ef550ba7",
-    "cdnKey": "e2c0dd46eff3c9362dcd9f55f3e4a171",
+    "buildKey": "bc58c7391b970de279275007cd0bfd49",
+    "cdnKey": "e74c2d15f812c64e4cd1da37a560f6ec",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/99e1b8c5c0949f6b4f7f17f9481deed5"
@@ -45,7 +45,7 @@
         "cdns": "919646d723f2fff72418101b1223ddb0"
       }
     ],
-    "versionNumber": 70842,
-    "versionString": "12.1.7.70842"
+    "versionNumber": 70892,
+    "versionString": "12.1.7.70892"
   }
 }
