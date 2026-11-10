@@ -28,21 +28,21 @@
         [
           "eu"
         ],
-        "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        "cdns": "ef36466b135e3931ea85bdcfaa44f3b5"
       },
       {
         "branches":
         [
           "kr"
         ],
-        "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
+        "cdns": "1dfc84d84fa8e98c51ec0aa27af99d3c"
       },
       {
         "branches":
         [
           "us"
         ],
-        "cdns": "919646d723f2fff72418101b1223ddb0"
+        "cdns": "5262b99fc7196b32fadac2b99a0825f2"
       }
     ],
     "versionNumber": 5820352,
