@@ -4,16 +4,16 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "MainBuildForTest",
-      "token": "b166c0e2-1e46-4dda-b8b2-15660de768b8"
+      "name": "Build_5820352Change_13731624_MacFix",
+      "token": "96080102-6294-4b94-b88f-4d3f9fc9df70"
     },
-    "buildKey": "cc31106fd89e51c8de473f5b82390b76",
-    "cdnKey": "b9ee71029077b94abb6cfaed8d1d27c0",
+    "buildKey": "f7e7965f2b4274cbe3c2bcc6f052a13c",
+    "cdnKey": "df5afd98891a0908da86c6061d50ae37",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/0bb31ba269202fe40b7adf1889b669b7"
     },
-    "keyRing": "aec0555972336855d883c6ed0f4a7412",
+    "keyRing": "3071b77f44588da7cd4132425de63e78",
     "path": "tpr/malbdev",
     "pipelineId": 406,
     "productConfig":
@@ -38,7 +38,7 @@
         "cdns": "5262b99fc7196b32fadac2b99a0825f2"
       }
     ],
-    "versionNumber": 5824200,
+    "versionNumber": 5820352,
     "versionString": "2.5"
   }
 }
