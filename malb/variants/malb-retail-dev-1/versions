@@ -4,16 +4,16 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "Build_5820352Change_13731624_Override5824396",
-      "token": "1da82779-f678-4499-80fb-82442ff86acf"
+      "name": "PC-5820352-13731624_Mac-5824431",
+      "token": "d4bf6073-7740-4d7e-9418-54089e1f367e"
     },
-    "buildKey": "76cf3d26171005afb03a83492ceaa0cc",
-    "cdnKey": "c65d4b07f4228a77dac11f0e7bf3a391",
+    "buildKey": "733c7df57c67cd8768ecbd39a594a209",
+    "cdnKey": "03fd378fdde3bf4eac5a63adc794117f",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/0bb31ba269202fe40b7adf1889b669b7"
     },
-    "keyRing": "7a44b9e9ceb2c6fddbfb17bac2e82249",
+    "keyRing": "e3516054e5b05497456fece930fd83d6",
     "path": "tpr/malbdev",
     "pipelineId": 406,
     "productConfig":
