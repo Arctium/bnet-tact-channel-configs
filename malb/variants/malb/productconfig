@@ -21,6 +21,27 @@
             "install_packages":
             [
               {
+                "package_id": "malb-base",
+                "required": true,
+                "title_string":
+                {
+                  "arSA": "اللعبة الأساسية",
+                  "deDE": "Grundspiel (erforderlich)",
+                  "default": "Base Game (required)",
+                  "esES": "Juego básico (necesario)",
+                  "esMX": "Juego básico (necesario)",
+                  "frFR": "Jeu de base (requis)",
+                  "itIT": "Gioco base (necessario)",
+                  "jaJP": "ゲーム本編（必須）",
+                  "koKR": "기본 게임(필수)",
+                  "plPL": "Podstawowa wersja gry (wymagana)",
+                  "ptBR": "Jogo Base (necessário)",
+                  "ruRU": "Базовая версия игры (требуется)",
+                  "thTH": "ตัวเกมหลัก (จำเป็น)",
+                  "zhTW": "遊戲主體（必須）"
+                }
+              },
+              {
                 "default_checked": "licensed",
                 "licenses":
                 [
@@ -101,9 +122,105 @@
         "install":
         [
           {
+            "start_menu_shortcut":
+            {
+              "icon_path": "%game%/bin/x64/Cyberpunk2077.exe",
+              "link": "%commonstartmenu%Cyberpunk 2077/Cyberpunk 2077.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "icon_path": "%game%/bin/x64/Cyberpunk2077.exe",
+              "link": "%desktoppreference%Cyberpunk 2077.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
             "add_remove_programs_key":
             {
-              "display_name": "Malbork",
+              "display_name": "Cyberpunk 2077",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Malbork",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "jajp":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "icon_path": "%game%/bin/x64/Cyberpunk2077.exe",
+              "link": "%commonstartmenu%サイバーパンク2077/サイバーパンク2077.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "icon_path": "%game%/bin/x64/Cyberpunk2077.exe",
+              "link": "%desktoppreference%サイバーパンク2077.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "サイバーパンク2077",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Malbork",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "kokr":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "icon_path": "%game%/bin/x64/Cyberpunk2077.exe",
+              "link": "%commonstartmenu%사이버펑크 2077/사이버펑크 2077.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "icon_path": "%game%/bin/x64/Cyberpunk2077.exe",
+              "link": "%desktoppreference%사이버펑크 2077.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "사이버펑크 2077",
               "icon_path": "%binarypath%",
               "install_path": "%installpath%",
               "locale": "%locale%",
@@ -517,6 +634,84 @@
             }
           ]
         }
+      }
+    },
+    "zhcn":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "icon_path": "%game%/bin/x64/Cyberpunk2077.exe",
+              "link": "%commonstartmenu%赛博朋克 2077/赛博朋克 2077.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "icon_path": "%game%/bin/x64/Cyberpunk2077.exe",
+              "link": "%desktoppreference%赛博朋克 2077.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "赛博朋克 2077",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Malbork",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
+      }
+    },
+    "zhtw":
+    {
+      "config":
+      {
+        "install":
+        [
+          {
+            "start_menu_shortcut":
+            {
+              "icon_path": "%game%/bin/x64/Cyberpunk2077.exe",
+              "link": "%commonstartmenu%《電馭叛客 2077》/《電馭叛客 2077》.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "desktop_shortcut":
+            {
+              "icon_path": "%game%/bin/x64/Cyberpunk2077.exe",
+              "link": "%desktoppreference%《電馭叛客 2077》.lnk",
+              "target": "battlenet://game/%product%",
+              "working_dir": "%installpath%"
+            }
+          },
+          {
+            "add_remove_programs_key":
+            {
+              "display_name": "《電馭叛客 2077》",
+              "icon_path": "%binarypath%",
+              "install_path": "%installpath%",
+              "locale": "%locale%",
+              "root": "Malbork",
+              "uid": "%uid%",
+              "uninstall_path": "%uninstallpath%"
+            }
+          }
+        ]
       }
     }
   }
