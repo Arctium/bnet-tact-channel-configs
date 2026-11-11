@@ -4,10 +4,10 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "243003_35.6.0-hsdev",
-      "token": "092aa64e-8dce-caef-c9cf-d66c3bfa29a7"
+      "name": "257809_37.2.0-hsdev",
+      "token": "17be0db1-f52c-871f-3e6c-19f71fcbd1a2"
     },
-    "buildKey": "24c8474abdd08a003629d4b8a221a43b",
+    "buildKey": "340bb0ea7fc30afb54326c7e1b822401",
     "cdnKey": "231db51bc521aeb6c333369c151e53e7",
     "cdnKeyFile":
     {
@@ -19,7 +19,7 @@
     "productConfig":
     {
       "cdnPath": "",
-      "hash": "0f83c2138f544c30a559b97270dc0921"
+      "hash": "dce23ef2257893baefc306e5083806fa"
     },
     "regions":
     [
@@ -45,7 +45,7 @@
         "cdns": "87a06f78212104fe1a98f84f0157ff50"
       }
     ],
-    "versionNumber": 243003,
-    "versionString": "35.6.0.243003"
+    "versionNumber": 257809,
+    "versionString": "37.2.0.257809"
   }
 }

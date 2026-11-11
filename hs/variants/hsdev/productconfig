@@ -45,7 +45,8 @@
         "migration_required_version": "3.1.0.0",
         "opaque_product_specific":
         {
-          "min_spec": "{\"android\":{\"required_ram\":{\"22.4\":1536,\"29.4\":2536},\"cpu_freq\":{\"22.4\":1200},\"required_osspecs\":{\"22.4\":24,\"27.4\":28},\"required_opengl\":{\"23.4\":3.0}},\"ios\":{\"required_ram\":{\"22.4\":1500,\"29.4\":2500},\"required_osspecs\":{\"26.2\":12.0,\"32.2\":14.0}}}",
+          "maxage_inactive_locale": "20",
+          "min_spec": "{\"android\":{\"required_ram\":{\"29.4\":2536,\"36.2\":3536},\"cpu_freq\":{\"22.4\":1200},\"required_osspecs\":{\"22.4\":24,\"27.4\":28},\"required_opengl\":{\"23.4\":3.0}},\"ios\":{\"required_ram\":{\"29.4\":2500,\"36.2\":3500},\"required_osspecs\":{\"32.2\":14.0,\"36.2\":15.0}}}",
           "uses_web_credentials": "true"
         },
         "product": "hsdev",
@@ -616,18 +617,18 @@
             "game_dir":
             {
               "default": "Applications",
-              "required_space": 3000000000.0,
+              "required_space": 12000000000.0,
               "space_per_extra_language": 180000000.0
             }
           },
           "min_spec":
           {
             "default_required_cpu_cores": 2,
-            "default_required_cpu_speed": 2200,
-            "default_required_ram": 2048,
+            "default_required_cpu_speed": 2000,
+            "default_required_ram": 8192,
             "required_osspecs":
             {
-              "10.12":
+              "12.0":
               {
                 "required_subversion": 0
               }
@@ -754,18 +755,18 @@
             "game_dir":
             {
               "default": "Program Files",
-              "required_space": 3000000000.0,
+              "required_space": 12000000000.0,
               "space_per_extra_language": 170000000.0
             }
           },
           "min_spec":
           {
-            "default_required_cpu_cores": 1,
-            "default_required_cpu_speed": 2600,
-            "default_required_ram": 2048,
+            "default_required_cpu_cores": 2,
+            "default_required_cpu_speed": 3700,
+            "default_required_ram": 8192,
             "required_osspecs":
             {
-              "6.1":
+              "10.0.0.19043":
               {
                 "required_subversion": 0
               }
