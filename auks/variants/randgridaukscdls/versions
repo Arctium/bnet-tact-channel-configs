@@ -4,10 +4,10 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "release_driver_17_06_2026_27589122_valkyrie_valkyrie_ship_ship_cdls",
-      "token": "8b5bb1c3-2e19-41b4-8b4e-fd0f6d79c166"
+      "name": "trunk_cod26_season1_driver_27_10_2026_29708533_valkyrie_ship_cdls",
+      "token": "1f538f56-186d-41ec-844c-11eddfbf4a80"
     },
-    "buildKey": "646455a0e02677ba5fd7d1002788f108",
+    "buildKey": "6e8dcfe3da5ac8bc784f7dea27ff717a",
     "cdnKey": "e486c715b58b5f504b19a34034f6ecc0",
     "cdnKeyFile":
     {
@@ -31,7 +31,7 @@
         "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
       }
     ],
-    "versionNumber": 27589123,
-    "versionString": "3.8.0.27589123"
+    "versionNumber": 29708533,
+    "versionString": "3.11.0.29708533"
   }
 }
