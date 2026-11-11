@@ -1063,11 +1063,12 @@
         "casc_supports_1023_archives": true,
         "component_dependencies":
         [
-          "randgridauksqa2"
+          "randgridauksqa"
         ],
         "data_dir": "Data/",
         "decryption_key_name": "auksvendor",
         "enable_block_copy_patch": true,
+        "force_dedupe": 2,
         "form":
         {
           "game_dir":
@@ -1106,6 +1107,64 @@
                   "ruRU": "Базовая версия игры (требуется)",
                   "thTH": "ตัวเกมหลัก (จำเป็น)",
                   "zhTW": "遊戲主體（必須）"
+                }
+              },
+              {
+                "install_packages":
+                [
+                  {
+                    "default_checked": "licensed",
+                    "licenses":
+                    [
+                      881555
+                    ],
+                    "package_id": "auks-mw4-campaign",
+                    "tags":
+                    [
+                      "dlc05_01"
+                    ],
+                    "title_string": "COD_CAMPAIGN"
+                  },
+                  {
+                    "default_checked": "licensed",
+                    "licenses":
+                    [
+                      881555
+                    ],
+                    "package_id": "auks-mw4-multiplayer",
+                    "tags":
+                    [
+                      "dlc05_02"
+                    ],
+                    "title_string": "COD_MULTIPLAYER"
+                  },
+                  {
+                    "default_checked": "licensed",
+                    "licenses":
+                    [
+                      881555
+                    ],
+                    "package_id": "auks-mw4-dmz",
+                    "tags":
+                    [
+                      "dlc05_03"
+                    ],
+                    "title_string": "COD_MW4_DMZ"
+                  },
+                  {
+                    "default_checked": true,
+                    "package_id": "auks-mw4-free-trial",
+                    "tags":
+                    [
+                      "dlc05_05"
+                    ],
+                    "title_string": "COD_FREE_TRIAL"
+                  }
+                ],
+                "package_id": "auks-mw4",
+                "title_string":
+                {
+                  "default": "Modern Warfare 4"
                 }
               },
               {
@@ -1154,45 +1213,6 @@
                   "koKR": "블랙 옵스 7",
                   "zhCN": "《黑色行动7》",
                   "zhTW": "《黑色行動 7》"
-                }
-              },
-              {
-                "install_packages":
-                [
-                  {
-                    "default_checked": "licensed",
-                    "licenses":
-                    [
-                      274545
-                    ],
-                    "package_id": "auks-bo6-campaign",
-                    "tags":
-                    [
-                      "dlc03_01"
-                    ],
-                    "title_string": "COD_CAMPAIGN"
-                  },
-                  {
-                    "default_checked": "licensed",
-                    "licenses":
-                    [
-                      274545
-                    ],
-                    "package_id": "auks-bo6-multiplayer",
-                    "tags":
-                    [
-                      "dlc03_02"
-                    ],
-                    "title_string": "COD_MULTIPLAYER"
-                  }
-                ],
-                "package_id": "auks-bo6",
-                "title_string":
-                {
-                  "default": "Black Ops 6",
-                  "koKR": "블랙 옵스 6",
-                  "zhCN": "黑色行动 6",
-                  "zhTW": "《黑色行動 6》"
                 }
               },
               {
@@ -1266,6 +1286,10 @@
                 "thTH": "ผู้เล่นหลายคน",
                 "zhCN": "多人游戏",
                 "zhTW": "多人對戰"
+              },
+              "COD_MW4_DMZ":
+              {
+                "default": "DMZ"
               },
               "COD_ZOMBIES":
               {
@@ -1380,13 +1404,14 @@
               [
                 "cod.exe"
               ],
-              "regex": "cod.exe|bootstrapper.exe",
+              "regex": "bootstrapper.exe",
               "relative_path": "bootstrapper.exe",
               "switcher": false
             }
           },
           "binary_launch_path": "bootstrapper.exe",
           "binary_version_path": "cod.exe",
+          "delete_orphaned_files": true,
           "form":
           {
             "game_dir":
@@ -1397,6 +1422,22 @@
           },
           "install":
           [
+            {
+              "run_tool":
+              {
+                "commandline_args":
+                [
+                  "cod.exe",
+                  "+ogu_mode",
+                  "--fork-and-wait"
+                ],
+                "display_text": "%feature_setting:work_type_display_strings:preloading_shaders_%locale%%",
+                "executable_path": "%game%/bootstrapper.exe",
+                "order": 100,
+                "run_when": "install_or_update",
+                "signing_entity": "Activision Publishing Inc"
+              }
+            },
             {
               "add_firewall_rule":
               {
@@ -1566,6 +1607,8 @@
                   "*.dll",
                   "*.xpak",
                   "*.xsub",
+                  "*.ff",
+                  "*.sodb",
                   "amd_ags_x64.dll",
                   "api-ms-win-core-file-l1-2-0.dll",
                   "API-MS-Win-core-file-l2-1-0.dll",
@@ -1588,6 +1631,7 @@
                   "api-ms-win-crt-time-l1-1-0.dll",
                   "api-ms-win-crt-utility-l1-1-0.dll",
                   "bink2w64.dll",
+                  "ccs_history.json",
                   "bootstrap.data.bin",
                   "bootstrapper.exe",
                   "bootstrapper.log",
