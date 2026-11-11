@@ -12,6 +12,7 @@
         ],
         "data_dir": "Data/",
         "enable_block_copy_patch": true,
+        "force_dedupe": 2,
         "form":
         {
           "game_dir":
@@ -82,7 +83,11 @@
                     "title_string": "COD_MULTIPLAYER"
                   },
                   {
-                    "default_checked": true,
+                    "default_checked": "licensed",
+                    "licenses":
+                    [
+                      881555
+                    ],
                     "package_id": "auks-mw4-dmz",
                     "tags":
                     [
