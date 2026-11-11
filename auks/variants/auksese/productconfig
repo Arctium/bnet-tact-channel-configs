@@ -60,6 +60,58 @@
                     "default_checked": "licensed",
                     "licenses":
                     [
+                      881555
+                    ],
+                    "package_id": "auks-mw4-campaign",
+                    "tags":
+                    [
+                      "dlc05_01"
+                    ],
+                    "title_string": "COD_CAMPAIGN"
+                  },
+                  {
+                    "default_checked": "licensed",
+                    "licenses":
+                    [
+                      881555
+                    ],
+                    "package_id": "auks-mw4-multiplayer",
+                    "tags":
+                    [
+                      "dlc05_02"
+                    ],
+                    "title_string": "COD_MULTIPLAYER"
+                  },
+                  {
+                    "default_checked": "licensed",
+                    "licenses":
+                    [
+                      881555
+                    ],
+                    "package_id": "auks-mw4-dmz",
+                    "tags":
+                    [
+                      "dlc05_03"
+                    ],
+                    "title_string": "COD_MW4_DMZ"
+                  }
+                ],
+                "package_id": "auks-mw4",
+                "title_string":
+                {
+                  "default": "Modern Warfare 4",
+                  "koKR": "모던 워페어 4",
+                  "zhCN": "《现代战争4》",
+                  "zhTW": "《現代戰爭4》"
+                }
+              },
+              {
+                "install_packages":
+                [
+                  {
+                    "default_checked": "licensed",
+                    "licenses":
+                    [
                       880549
                     ],
                     "package_id": "auks-bo7-coop-campaign",
@@ -67,7 +119,7 @@
                     [
                       "dlc04_03"
                     ],
-                    "title_string": "COD_COOP_CAMPAIGN"
+                    "title_string": "DLC_04_03_TITLE"
                   },
                   {
                     "default_checked": "licensed",
@@ -106,46 +158,7 @@
                 }
               },
               {
-                "install_packages":
-                [
-                  {
-                    "default_checked": "licensed",
-                    "licenses":
-                    [
-                      274545
-                    ],
-                    "package_id": "auks-bo6-campaign",
-                    "tags":
-                    [
-                      "dlc03_01"
-                    ],
-                    "title_string": "COD_CAMPAIGN"
-                  },
-                  {
-                    "default_checked": "licensed",
-                    "licenses":
-                    [
-                      274545
-                    ],
-                    "package_id": "auks-bo6-multiplayer",
-                    "tags":
-                    [
-                      "dlc03_02"
-                    ],
-                    "title_string": "COD_MULTIPLAYER"
-                  }
-                ],
-                "package_id": "auks-bo6",
-                "title_string":
-                {
-                  "default": "Black Ops 6",
-                  "koKR": "블랙 옵스 6",
-                  "zhCN": "黑色行动 6",
-                  "zhTW": "《黑色行動 6》"
-                }
-              },
-              {
-                "default_checked": true,
+                "default_checked": false,
                 "package_id": "auks-mwiii-warzone",
                 "tags":
                 [
@@ -180,23 +193,6 @@
                 "zhCN": "剧情战役",
                 "zhTW": "劇情戰役"
               },
-              "COD_COOP_CAMPAIGN":
-              {
-                "arSa": "طور القصة التعاوني",
-                "deDE": "Koop-Kampagne",
-                "default": "Co-Op Campaign",
-                "esES": "Campaña cooperativa",
-                "esMX": "Campaña cooperativa",
-                "frFR": "Campagne en coop",
-                "itIT": "Campagna in co-op",
-                "jaJP": "CO-OPキャンペーン",
-                "koKR": "코옵 캠페인",
-                "plPL": "Kampania kooperacyjna",
-                "ptBR": "Campanha Co-Op",
-                "ruRU": "Совместная кампания",
-                "zhCN": "合作战役",
-                "zhTW": "合作劇情戰役"
-              },
               "COD_MULTIPLAYER":
               {
                 "arSA": "طور اللعب الجماعي",
@@ -215,6 +211,10 @@
                 "zhCN": "多人游戏",
                 "zhTW": "多人對戰"
               },
+              "COD_MW4_DMZ":
+              {
+                "default": "DMZ"
+              },
               "COD_ZOMBIES":
               {
                 "default": "Zombies",
@@ -226,6 +226,23 @@
                 "plPL": "Zombie",
                 "ruRU": "Бои с зомби",
                 "zhTW": "殭屍"
+              },
+              "DLC_04_03_TITLE":
+              {
+                "arSA": "المواجهة الحاسمة",
+                "deDE": "Endspiel",
+                "default": "Endgame",
+                "esES": "Objetivo final",
+                "esMX": "Endgame",
+                "frFR": "Phase finale",
+                "itIT": "Endgame",
+                "jaJP": "エンドゲーム",
+                "koKR": "종반전",
+                "plPL": "Etap końcowy",
+                "ptBR": "Fim da Jornada",
+                "ruRU": "Финал",
+                "zhCN": "最终任务",
+                "zhTW": "終極之戰"
               }
             }
           }
@@ -463,7 +480,7 @@
               [
                 "cod.exe"
               ],
-              "regex": "cod.exe|bootstrapper.exe",
+              "regex": "bootstrapper.exe",
               "relative_path": "bootstrapper.exe",
               "switcher": false
             }
@@ -491,6 +508,22 @@
                 ],
                 "root_dest_path": "%game%/cod22",
                 "root_src_path": "%game%"
+              }
+            },
+            {
+              "run_tool":
+              {
+                "commandline_args":
+                [
+                  "cod.exe",
+                  "+ogu_mode",
+                  "--fork-and-wait"
+                ],
+                "display_text": "%feature_setting:work_type_display_strings:preloading_shaders_%locale%%",
+                "executable_path": "%game%/bootstrapper.exe",
+                "order": 100,
+                "run_when": "install_or_update",
+                "signing_entity": "Activision Publishing Inc"
               }
             }
           ],
@@ -566,6 +599,7 @@
                   "cod23",
                   "cod24",
                   "cod25",
+                  "ImmerseData",
                   "lpc",
                   "main",
                   "mp23",
@@ -576,10 +610,15 @@
                   "sp22",
                   "sp23",
                   "sp24",
+                  "GPUCache",
+                  "cod25",
+                  "cod26",
+                  "sp26",
                   "telescopeCache",
                   "telescopeStorage",
                   "telescopeVideoCache",
-                  "xpak_cache"
+                  "xpak_cache",
+                  "legalStorage"
                 ],
                 "root": "%game%"
               }
@@ -599,6 +638,11 @@
               {
                 "relative_paths":
                 [
+                  "*.dll",
+                  "*.xpak",
+                  "*.xsub",
+                  "*.ff",
+                  "*.sodb",
                   "amd_ags_x64.dll",
                   "api-ms-win-core-file-l1-2-0.dll",
                   "API-MS-Win-core-file-l2-1-0.dll",
@@ -621,6 +665,8 @@
                   "api-ms-win-crt-time-l1-1-0.dll",
                   "api-ms-win-crt-utility-l1-1-0.dll",
                   "bink2w64.dll",
+                  "ccs_history.json",
+                  "__cod",
                   "bootstrap.data.bin",
                   "bootstrapper.exe",
                   "bootstrapper.log",
@@ -630,12 +676,21 @@
                   "CgSDK.x64_2019.dll",
                   "cod.exe",
                   "cod23.txt",
+                  "cod24.txt",
+                  "cod25.txt",
+                  "cod26.txt",
                   "codCrashHandler.exe",
                   "cod_bnet.exe",
+                  "CODBrokerInstaller.exe",
+                  "CODBrokerService.exe",
+                  "CODSecureAttestationWizard.exe",
                   "concrt140.dll",
+                  "crashlogsgenerator.exe",
                   "D3D12/D3D12Core.dll",
                   "dbghelp.dll",
                   "discord_game_sdk.dll",
+                  "dlc_manifests.csv",
+                  "dlc_manifest.csv",
                   "dxcompiler.dll",
                   "dxil.dll",
                   "enrollaik.exe",
@@ -644,6 +699,7 @@
                   "GFSDK_Aftermath_Lib.x64.dll",
                   "IEShims.dll",
                   "igxess.dll",
+                  "imgui.ini",
                   "launcher.exe",
                   "libxess.dll",
                   "msvcp140.dll",
@@ -652,6 +708,7 @@
                   "oo2core_8_win64.dll",
                   "ortp_x64.dll",
                   "ReportCodBug.exe",
+                  "SecureAttestationWizard.exe",
                   "sl.common.dll",
                   "sl.dlss.dll",
                   "sl.interposer.dll",
@@ -659,6 +716,7 @@
                   "sl.nrd.dll",
                   "sl.reflex.dll",
                   "tbb.dll",
+                  "techsets_manifest.csv",
                   "telescope.dll",
                   "telescope23.dll",
                   "telescope23.dll",
