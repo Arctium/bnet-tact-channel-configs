@@ -4,16 +4,16 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "20260908-145230-vast-seal",
-      "token": "f20c43b1-6464-4cc4-a0e6-ce5a13c1dc43"
+      "name": "20261109-160602-vivacious-emu",
+      "token": "09e312bc-0fc3-4853-8c0c-a62b73aaf105"
     },
-    "buildKey": "d04eea388785500d32220b3afe798e1b",
-    "cdnKey": "c82a78c01390284c7d046a7ed12dd772",
+    "buildKey": "28d68981043d22150df5f64f4bd25b35",
+    "cdnKey": "8ead73903a8033e11ab5588e81962444",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/89f85ad2c74e2324557d509e526146c2"
     },
-    "keyRing": "3fb82a246751cc1154cde4816a129972",
+    "keyRing": "91faa21372e91296470e1218e272d679",
     "path": "tpr/arisrc",
     "pipelineId": 351,
     "productConfig":
@@ -38,7 +38,7 @@
         "cdns": "287b8918c145665428c6f714cdc6e3bd"
       }
     ],
-    "versionNumber": 501,
-    "versionString": "DE084A207D9FB990839AFBE67B5F30D9"
+    "versionNumber": 543,
+    "versionString": "D4700A64A7E5FB16651C9BF6914CF621"
   }
 }
