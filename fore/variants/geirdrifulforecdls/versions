@@ -8,14 +8,12 @@
       "token": "10220b79-8be6-453b-8f51-64290a36410c"
     },
     "buildKey": "b753da7400133f15bf3277b1a770947e",
-    "cdnKey": "a7b9c44d2b956569747d6d0a7666e56e",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/fab1b0aa2bd75a7414eb429505975fb2"
+      "name": "blue/cdnkeys/fab1b0aa2bd75a7414eb429505975fb2"
     },
     "keyRing": "",
     "path": "tpr/foree",
-    "pipelineId": 264,
     "productConfig":
     {
       "cdnPath": "",

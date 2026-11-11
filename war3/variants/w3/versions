@@ -8,14 +8,12 @@
       "token": "898cc8c1-5ee8-4787-ac29-d7cc859d4892"
     },
     "buildKey": "dd5e630e7a6ad6466075eb1c50e283af",
-    "cdnKey": "989ada303d8ecd52bb65716c5dd97453",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/a39f58d0274fbfafd9963c945fc686fb"
+      "name": "blue/cdnkeys/a39f58d0274fbfafd9963c945fc686fb"
     },
     "keyRing": "",
     "path": "tpr/war3",
-    "pipelineId": 100,
     "productConfig":
     {
       "cdnPath": "",

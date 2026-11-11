@@ -8,14 +8,12 @@
       "token": "e82a2af8-77f7-421c-8e11-8db1c1181673"
     },
     "buildKey": "b11ea6719926a3bb49701f49e1cb1fa9",
-    "cdnKey": "8852d914da433133f2be6ab4e10309a6",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/2e36790cee025d2553a2f611e280c31e"
+      "name": "blue/cdnkeys/2e36790cee025d2553a2f611e280c31e"
     },
     "keyRing": "",
     "path": "tpr/btlrv",
-    "pipelineId": 292,
     "productConfig":
     {
       "cdnPath": "",
@@ -50,14 +48,12 @@
       "token": "218f200d-c3a6-468e-a9bc-6eb50684a0a2"
     },
     "buildKey": "b034cd074ee28016d7b6fc67513e087e",
-    "cdnKey": "8852d914da433133f2be6ab4e10309a6",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/2e36790cee025d2553a2f611e280c31e"
+      "name": "blue/cdnkeys/2e36790cee025d2553a2f611e280c31e"
     },
     "keyRing": "",
     "path": "tpr/btlrv",
-    "pipelineId": 292,
     "productConfig":
     {
       "cdnPath": "",
@@ -92,14 +88,12 @@
       "token": "c728d9f2-3130-4e4a-938f-c9736aabb006"
     },
     "buildKey": "1a064badfff2d7b9171dd9afd2275eb6",
-    "cdnKey": "8852d914da433133f2be6ab4e10309a6",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/2e36790cee025d2553a2f611e280c31e"
+      "name": "blue/cdnkeys/2e36790cee025d2553a2f611e280c31e"
     },
     "keyRing": "",
     "path": "tpr/btlrv",
-    "pipelineId": 292,
     "productConfig":
     {
       "cdnPath": "",

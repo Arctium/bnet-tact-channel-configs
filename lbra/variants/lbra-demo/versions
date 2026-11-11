@@ -8,14 +8,12 @@
       "token": "e7cea06f-7446-4bba-9f19-05a02cda37c9"
     },
     "buildKey": "b19e3da2e1bbc0d7288831bb7ea5cc0a",
-    "cdnKey": "9475509a53228cbe90c0fc8dc9e2d30d",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/50e415f5784f459caf0469c6eade5870"
+      "name": "blue/cdnkeys/50e415f5784f459caf0469c6eade5870"
     },
     "keyRing": "",
     "path": "tpr/lbra",
-    "pipelineId": 368,
     "productConfig":
     {
       "cdnPath": "",

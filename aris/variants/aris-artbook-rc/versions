@@ -8,14 +8,12 @@
       "token": "a763f072-7e98-4329-a245-2c0e03d1d3f0"
     },
     "buildKey": "ea7e08059b48bf11ca76a927643fa553",
-    "cdnKey": "8ead73903a8033e11ab5588e81962444",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/c0d897709f3c6547aae6d27a0586e3f1"
+      "name": "blue/cdnkeys/c0d897709f3c6547aae6d27a0586e3f1"
     },
     "keyRing": "32145a4791a49be3d1fe5403e785c7db",
     "path": "tpr/arisrc",
-    "pipelineId": 351,
     "productConfig":
     {
       "cdnPath": "",

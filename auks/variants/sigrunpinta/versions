@@ -8,14 +8,12 @@
       "token": "27c12882-0585-46a8-84cf-0ba1cedafc80"
     },
     "buildKey": "19416159b36e553e05f43272ad2b0d40",
-    "cdnKey": "5462fb80d4e0ebc86598c90db1791e1e",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/331a886d9a74edfa9af36a25fafcec90"
+      "name": "blue/cdnkeys/331a886d9a74edfa9af36a25fafcec90"
     },
     "keyRing": "",
     "path": "tpr/pinta",
-    "pipelineId": 388,
     "productConfig":
     {
       "cdnPath": "",

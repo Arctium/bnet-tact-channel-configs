@@ -8,14 +8,12 @@
       "token": "09e312bc-0fc3-4853-8c0c-a62b73aaf105"
     },
     "buildKey": "248a204904d3e4445170a5342e396896",
-    "cdnKey": "1179c94225db0b339c2702b3ecf4b114",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/4adf6e4e2fce0f7bc205acd77117c97d"
+      "name": "blue/cdnkeys/4adf6e4e2fce0f7bc205acd77117c97d"
     },
     "keyRing": "0dd55f1558fd6a044990d8c8a1eb9d1a",
     "path": "tpr/arisdev",
-    "pipelineId": 350,
     "productConfig":
     {
       "cdnPath": "",

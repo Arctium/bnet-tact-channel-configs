@@ -8,14 +8,12 @@
       "token": "e380cc6a-f12d-488e-8507-ec16dd221075"
     },
     "buildKey": "ed3ab872575c029d3a20e7e990cb6132",
-    "cdnKey": "b9341847d07be6c8aab9ddd5fe29c86c",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/4f0d3583f0fbba7930e54115c11eb976"
+      "name": "blue/cdnkeys/4f0d3583f0fbba7930e54115c11eb976"
     },
     "keyRing": "",
     "path": "tpr/scor",
-    "pipelineId": 336,
     "productConfig":
     {
       "cdnPath": "",

@@ -8,14 +8,12 @@
       "token": "6f4778e8-f3b9-40b5-a050-324796b835c8"
     },
     "buildKey": "5977bb548e8bdfe05caee89101f857b5",
-    "cdnKey": "50a715ddda8f77af09cb43c2f645888d",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/6e8e1f49d2fbe1e92819c00c0d63e6af"
+      "name": "blue/cdnkeys/6e8e1f49d2fbe1e92819c00c0d63e6af"
     },
     "keyRing": "",
     "path": "tpr/lbradev",
-    "pipelineId": 366,
     "productConfig":
     {
       "cdnPath": "",

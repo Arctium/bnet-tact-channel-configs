@@ -8,14 +8,12 @@
       "token": "d8e1d64f-86d2-43fd-b50a-03c5d9729864"
     },
     "buildKey": "8a952dad88314be4336eec901d079cd6",
-    "cdnKey": "d26657360687e984d01d3aea4a53e122",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/4138230565d17de0a257ceb410487c9d"
+      "name": "blue/cdnkeys/4138230565d17de0a257ceb410487c9d"
     },
     "keyRing": "",
     "path": "tpr/fenrisv",
-    "pipelineId": 206,
     "productConfig":
     {
       "cdnPath": "",

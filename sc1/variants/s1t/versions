@@ -8,14 +8,12 @@
       "token": "b0a4793c-b9ab-4cd6-8cf8-eb7ac27408db"
     },
     "buildKey": "457e003ff1a891059d6a5115a4ae934a",
-    "cdnKey": "bd4a0f876fdbf39666f0fae661e54974",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/907907f26c4941ded4825cc30a1315be"
+      "name": "blue/cdnkeys/907907f26c4941ded4825cc30a1315be"
     },
     "keyRing": "",
     "path": "tpr/sc1live",
-    "pipelineId": 110,
     "productConfig":
     {
       "cdnPath": "",

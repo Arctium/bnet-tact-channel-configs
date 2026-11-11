@@ -8,14 +8,12 @@
       "token": "3f49e2fa-0a42-4553-b514-b3314463249d"
     },
     "buildKey": "9cdb406b137e275213bc3038ac10d7bc",
-    "cdnKey": "b5d57b6de2820c5908e6eab590812239",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/4a25dbd61b20eb5b7c558388aedbff17"
+      "name": "blue/cdnkeys/4a25dbd61b20eb5b7c558388aedbff17"
     },
     "keyRing": "",
     "path": "tpr/sagevb",
-    "pipelineId": 357,
     "productConfig":
     {
       "cdnPath": "",

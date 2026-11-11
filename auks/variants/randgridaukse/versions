@@ -8,14 +8,12 @@
       "token": "48b0c482-7fba-4c64-bab8-34bdaa11f367"
     },
     "buildKey": "01653c2c78bf6a820750312be9c42715",
-    "cdnKey": "e486c715b58b5f504b19a34034f6ecc0",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/6e0b30b58c544b20537546017399c709"
+      "name": "blue/cdnkeys/6e0b30b58c544b20537546017399c709"
     },
     "keyRing": "",
     "path": "tpr/aukse",
-    "pipelineId": 273,
     "productConfig":
     {
       "cdnPath": "",

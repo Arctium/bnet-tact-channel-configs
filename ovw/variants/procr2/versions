@@ -8,14 +8,12 @@
       "token": "520e98be-c253-46d6-b50d-41504f4a0002"
     },
     "buildKey": "1689b138f0c5acde6c0aabeb178835e2",
-    "cdnKey": "128e63b70cdae5e2018a26ba40edb772",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/888fe9f75247f85d122c0bbcfeae2e2f"
+      "name": "blue/cdnkeys/888fe9f75247f85d122c0bbcfeae2e2f"
     },
     "keyRing": "3dabb1bf65a3a797ccc6eff63c51b509",
     "path": "tpr/ovw",
-    "pipelineId": 43,
     "productConfig":
     {
       "cdnPath": "",

@@ -8,14 +8,12 @@
       "token": "7fd0a2db-1d85-4c83-bc9a-6a25dcd1a205"
     },
     "buildKey": "fa650d59d7141cbf77f977302c784779",
-    "cdnKey": "f79ddffeb972814966c9c7f8b8b01552",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/8c8d68dde20b146e62216fbfff0c66d1"
+      "name": "blue/cdnkeys/8c8d68dde20b146e62216fbfff0c66d1"
     },
     "keyRing": "",
     "path": "tpr/ninav",
-    "pipelineId": 372,
     "productConfig":
     {
       "cdnPath": "",

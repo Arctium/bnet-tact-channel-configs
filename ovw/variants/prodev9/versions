@@ -8,14 +8,12 @@
       "token": "f10dbfac-275a-4672-a483-c8aa1c65083b"
     },
     "buildKey": "ade6d9e2562cb2000d793907797792ea",
-    "cdnKey": "751d549eb9e29a6ea50739be5796a827",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/2e205874ea6fb0f0bbe5f8f62a00b57c"
+      "name": "blue/cdnkeys/2e205874ea6fb0f0bbe5f8f62a00b57c"
     },
     "keyRing": "",
     "path": "tpr/proc3",
-    "pipelineId": 165,
     "productConfig":
     {
       "cdnPath": "",
@@ -53,18 +51,16 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "prometheus-2_99_0_0-155291-GM-prodev9",
-      "token": "0decaf73-6df4-42b6-b0a3-0f0053f7e271"
+      "name": "prometheus-2_27_0_0-155458-GM-prodev9",
+      "token": "3d92e6d8-bbb7-4ad5-8dd8-add0a9fb08a3"
     },
-    "buildKey": "1f9a423386ca87641c2797aa0dbc2658",
-    "cdnKey": "751d549eb9e29a6ea50739be5796a827",
+    "buildKey": "de7fe14f2f07bd625376f17c4340b53a",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/2e205874ea6fb0f0bbe5f8f62a00b57c"
+      "name": "blue/cdnkeys/2e205874ea6fb0f0bbe5f8f62a00b57c"
     },
     "keyRing": "",
     "path": "tpr/proc3",
-    "pipelineId": 165,
     "productConfig":
     {
       "cdnPath": "",
@@ -94,7 +90,7 @@
         "cdns": "ac3285f7bed04bf859b9072a2c68b69b"
       }
     ],
-    "versionNumber": 155291,
-    "versionString": "2.99.0.0.155291"
+    "versionNumber": 155458,
+    "versionString": "2.27.0.0.155458"
   }
 }

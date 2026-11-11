@@ -8,14 +8,12 @@
       "token": "bdb8d1c8-def6-4797-b002-40bc38c290c3"
     },
     "buildKey": "058bf8bf3541b9e37772c62e7d264aaa",
-    "cdnKey": "aed0ac0f117f89d8a6fafef6c9176327",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/019ea259322fc925fc123cf93c83c2dd"
+      "name": "blue/cdnkeys/019ea259322fc925fc123cf93c83c2dd"
     },
     "keyRing": "",
     "path": "tpr/zeusdev",
-    "pipelineId": 201,
     "productConfig":
     {
       "cdnPath": "",

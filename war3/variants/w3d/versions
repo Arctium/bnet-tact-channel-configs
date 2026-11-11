@@ -8,14 +8,12 @@
       "token": "2d9ffd89-2315-44e3-9325-0aea1e08ff64"
     },
     "buildKey": "f444273a5c2ec6f298b49272f4343229",
-    "cdnKey": "0fe570ed0f14e2732df871d90642f281",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/c3bdf2cfe733b9d488daefb7030ad935"
+      "name": "blue/cdnkeys/c3bdf2cfe733b9d488daefb7030ad935"
     },
     "keyRing": "",
     "path": "tpr/war3-live-dev/",
-    "pipelineId": 284,
     "productConfig":
     {
       "cdnPath": "",

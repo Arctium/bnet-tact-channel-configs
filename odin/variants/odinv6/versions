@@ -8,14 +8,12 @@
       "token": "4132ade5-57ec-42cd-ac45-100e30fd8bb3"
     },
     "buildKey": "f9943eeda5bb7984dd2fa5aa4b35ddea",
-    "cdnKey": "174cc63b44b8e3d07257a10720bbb24f",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/85f738173ccddaae496ddd8d278da870"
+      "name": "blue/cdnkeys/85f738173ccddaae496ddd8d278da870"
     },
     "keyRing": "",
     "path": "tpr/odinv",
-    "pipelineId": 192,
     "productConfig":
     {
       "cdnPath": "",
@@ -50,14 +48,12 @@
       "token": "d73613ae-07ab-4884-a673-531037f58aad"
     },
     "buildKey": "eb6e6afa6bc8122a7a2d508b353eb341",
-    "cdnKey": "174cc63b44b8e3d07257a10720bbb24f",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/85f738173ccddaae496ddd8d278da870"
+      "name": "blue/cdnkeys/85f738173ccddaae496ddd8d278da870"
     },
     "keyRing": "",
     "path": "tpr/odinv",
-    "pipelineId": 192,
     "productConfig":
     {
       "cdnPath": "",

@@ -8,14 +8,12 @@
       "token": "6357349b-2d45-44a0-9011-7cedf8f89286"
     },
     "buildKey": "8ee66453e30d2b3f762c87ae7e9fb2cd",
-    "cdnKey": "d6ad511dcb688bc8a5d0a40d6b573f89",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/07b274f3cdd887752c5f4ffc4f9e97d8"
+      "name": "blue/cdnkeys/07b274f3cdd887752c5f4ffc4f9e97d8"
     },
     "keyRing": "d742d0c12282c626c958c0f83675f769",
     "path": "tpr/ark",
-    "pipelineId": 385,
     "productConfig":
     {
       "cdnPath": "",

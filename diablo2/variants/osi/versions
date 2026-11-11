@@ -8,14 +8,12 @@
       "token": "02f9796c-3334-4db8-a032-1094611b89e6"
     },
     "buildKey": "c8f3ac29c1df18abe4af832b77c8d3c1",
-    "cdnKey": "28c321cdc0d1c92cb5188645470f4c31",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/34a15565a48bff5e5cd5066d07281941"
+      "name": "blue/cdnkeys/34a15565a48bff5e5cd5066d07281941"
     },
     "keyRing": "",
     "path": "tpr/osi",
-    "pipelineId": 99,
     "productConfig":
     {
       "cdnPath": "",

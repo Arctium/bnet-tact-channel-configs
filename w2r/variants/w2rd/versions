@@ -8,14 +8,12 @@
       "token": "521c8149-da68-40f4-97b3-2eaddffe1f31"
     },
     "buildKey": "5125497df859e45eb0125f5544854898",
-    "cdnKey": "85d334a4133da0b0684992d9a5a06888",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/693b2050ad9e379445120f35faf5f288"
+      "name": "blue/cdnkeys/693b2050ad9e379445120f35faf5f288"
     },
     "keyRing": "",
     "path": "tpr/w2r-live-dev",
-    "pipelineId": 323,
     "productConfig":
     {
       "cdnPath": "",

@@ -8,14 +8,12 @@
       "token": "40082708-0d6d-4f9b-a68f-7011be5eb385"
     },
     "buildKey": "2e88d7558e219f0e447706b7d6680434",
-    "cdnKey": "e4f2e2da310c08495f2701d401d14659",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/2f77149066a0e847e641a33117633363"
+      "name": "blue/cdnkeys/2f77149066a0e847e641a33117633363"
     },
     "keyRing": "",
     "path": "tpr/sc2",
-    "pipelineId": 52,
     "productConfig":
     {
       "cdnPath": "",

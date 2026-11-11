@@ -8,14 +8,12 @@
       "token": "1e74021f-a20c-42f8-bcc2-390229e07260"
     },
     "buildKey": "b98931320efe5909d64667f7a8dee621",
-    "cdnKey": "97d947c1adb205fb97ea38eb1fd3486e",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/acb8ff625181c7d4ce577791a04dda4b"
+      "name": "blue/cdnkeys/acb8ff625181c7d4ce577791a04dda4b"
     },
     "keyRing": "",
     "path": "tpr/forev",
-    "pipelineId": 219,
     "productConfig":
     {
       "cdnPath": "",

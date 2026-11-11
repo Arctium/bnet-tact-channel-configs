@@ -8,14 +8,12 @@
       "token": "3ce4e35e-d871-483d-bc7e-a81e77be253b"
     },
     "buildKey": "fa52ec6c553ad8c53801dc85a728e0b7",
-    "cdnKey": "e080bd5b32353f3c101cf3fe9c1216bc",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/b4733745782443fe75ccb4ef05823aa3"
+      "name": "blue/cdnkeys/b4733745782443fe75ccb4ef05823aa3"
     },
     "keyRing": "",
     "path": "tpr/fenrisevent/6",
-    "pipelineId": 289,
     "productConfig":
     {
       "cdnPath": "",

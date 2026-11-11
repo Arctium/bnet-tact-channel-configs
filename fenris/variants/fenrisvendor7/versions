@@ -8,14 +8,12 @@
       "token": "dc5cb931-4cce-4227-8e51-59c151372655"
     },
     "buildKey": "3e7e0d9663db32ec37a7f933db1254c2",
-    "cdnKey": "16cab33ceddb5a004afc4636a630436f",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/649cf69b5869ce23f4689ae79ca913f2"
+      "name": "blue/cdnkeys/649cf69b5869ce23f4689ae79ca913f2"
     },
     "keyRing": "",
     "path": "tpr/fenrisvc",
-    "pipelineId": 318,
     "productConfig":
     {
       "cdnPath": "",

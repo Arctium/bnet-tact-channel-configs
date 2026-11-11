@@ -8,14 +8,12 @@
       "token": "91049e66-2574-4656-ba57-898e73806be2"
     },
     "buildKey": "40acea584066efcea4d4230607bccbce",
-    "cdnKey": "eb1e17974de12f50b247968e870ad301",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/ebe0b852cab13a44feb1a24fb775cad6"
+      "name": "blue/cdnkeys/ebe0b852cab13a44feb1a24fb775cad6"
     },
     "keyRing": "",
     "path": "tpr/zeuse",
-    "pipelineId": 223,
     "productConfig":
     {
       "cdnPath": "",

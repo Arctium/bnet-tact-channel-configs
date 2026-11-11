@@ -8,14 +8,12 @@
       "token": "8fbd2c27-599e-4f76-9caf-5bb1c87c05f5"
     },
     "buildKey": "397484be2452867f0f6d663053325a66",
-    "cdnKey": "a70dc56944fdf0496ef0443510860f72",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/441d4f0588e8e592c245806ae99d5c58"
+      "name": "blue/cdnkeys/441d4f0588e8e592c245806ae99d5c58"
     },
     "keyRing": "b427d230e8a72dfc019ff7964a7b0968",
     "path": "tpr/lyradev/1",
-    "pipelineId": 410,
     "productConfig":
     {
       "cdnPath": "",

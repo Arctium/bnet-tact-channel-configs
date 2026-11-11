@@ -8,14 +8,12 @@
       "token": "45d9128f-8211-4dcc-825f-3c37db6019e8"
     },
     "buildKey": "5e7650fa1223e94743e2be67c5ca79ce",
-    "cdnKey": "c084a0f87eb84b24907219a28f37bfe3",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/9c527f2f1bdf8ca6d87fde7f52b63658"
+      "name": "blue/cdnkeys/9c527f2f1bdf8ca6d87fde7f52b63658"
     },
     "keyRing": "",
     "path": "tpr/auksv",
-    "pipelineId": 236,
     "productConfig":
     {
       "cdnPath": "",

@@ -8,14 +8,12 @@
       "token": "1a59d8c1-8e64-437f-afc5-01900d2a84cc"
     },
     "buildKey": "19109e4d4ab7895439562a8a12cafd55",
-    "cdnKey": "39b177f23bdcbcfc24b1dc217dc9bdb2",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/a73d0c658f951b7f9b23b5174e0c7492"
+      "name": "blue/cdnkeys/a73d0c658f951b7f9b23b5174e0c7492"
     },
     "keyRing": "",
     "path": "tpr/anbs",
-    "pipelineId": 261,
     "productConfig":
     {
       "cdnPath": "",

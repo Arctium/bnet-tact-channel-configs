@@ -8,14 +8,12 @@
       "token": "6b620bf6-e4fe-45b2-bf84-2746bc282efc"
     },
     "buildKey": "f967ae58657d614c91b9c6c653875a6d",
-    "cdnKey": "a84cc21caa5a18446393aa18fc78df1c",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/b2a146beec0c7474b6fa481fe9eb5d1e"
+      "name": "blue/cdnkeys/b2a146beec0c7474b6fa481fe9eb5d1e"
     },
     "keyRing": "",
     "path": "tpr/foredev",
-    "pipelineId": 218,
     "productConfig":
     {
       "cdnPath": "",

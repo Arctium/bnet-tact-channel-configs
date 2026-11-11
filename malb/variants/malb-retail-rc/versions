@@ -8,14 +8,12 @@
       "token": "34d6513d-1985-43b5-be22-14cc50660fea"
     },
     "buildKey": "5f0a8227bcd2cbdad7c8eb0c028e51e6",
-    "cdnKey": "ac740e8165c69e94f360caa1b3f1be8a",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/912b7eaae003ce12a0bdf9a60409cee8"
+      "name": "blue/cdnkeys/912b7eaae003ce12a0bdf9a60409cee8"
     },
     "keyRing": "ce278a43386d43b2d016e57392a05324",
     "path": "tpr/malbrc",
-    "pipelineId": 407,
     "productConfig":
     {
       "cdnPath": "",
@@ -26,16 +24,16 @@
       {
         "branches":
         [
-          "eu"
+          "us"
         ],
-        "cdns": "ef36466b135e3931ea85bdcfaa44f3b5"
+        "cdns": "5262b99fc7196b32fadac2b99a0825f2"
       },
       {
         "branches":
         [
-          "us"
+          "eu"
         ],
-        "cdns": "5262b99fc7196b32fadac2b99a0825f2"
+        "cdns": "ef36466b135e3931ea85bdcfaa44f3b5"
       }
     ],
     "versionNumber": 5820352,

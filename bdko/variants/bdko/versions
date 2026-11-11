@@ -8,14 +8,12 @@
       "token": "f0ba50f2-f805-4c63-b3f9-f6bd964f02fa"
     },
     "buildKey": "18d5ff3947b7d2a361cbf0d5257e7de6",
-    "cdnKey": "dabae539c09837f68126d27ae8ce5424",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/f39d824eeda8bb4dd4b728170484bc4b"
+      "name": "blue/cdnkeys/f39d824eeda8bb4dd4b728170484bc4b"
     },
     "keyRing": "5207a6f67faccd149307da5381c76335",
     "path": "tpr/bdko",
-    "pipelineId": 396,
     "productConfig":
     {
       "cdnPath": "",

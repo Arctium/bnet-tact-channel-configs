@@ -8,14 +8,12 @@
       "token": "a40ef67a-78e2-41f8-a6e5-30591771a89d"
     },
     "buildKey": "a48f75056c8ab6d9fcdefddb7494ec42",
-    "cdnKey": "8340dbd278d105fb19d7e8214a0692e8",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/6cb679c7f5b23f342245638c852f50db"
+      "name": "blue/cdnkeys/6cb679c7f5b23f342245638c852f50db"
     },
     "keyRing": "",
     "path": "tpr/rtrodev",
-    "pipelineId": 229,
     "productConfig":
     {
       "cdnPath": "",

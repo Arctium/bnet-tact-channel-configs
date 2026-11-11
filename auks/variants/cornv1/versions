@@ -8,14 +8,12 @@
       "token": "b75b50a5-246b-4597-a63c-0d20c0e8b109"
     },
     "buildKey": "854b85dc3f42ea82d2eb592ae0557b52",
-    "cdnKey": "e8efe33b5a68d8d2214d8735efe6ebf5",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/dbf5c356386b366be5692b9d5407c400"
+      "name": "blue/cdnkeys/dbf5c356386b366be5692b9d5407c400"
     },
     "keyRing": "",
     "path": "tpr/cornv",
-    "pipelineId": 376,
     "productConfig":
     {
       "cdnPath": "",

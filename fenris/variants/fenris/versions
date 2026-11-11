@@ -8,14 +8,12 @@
       "token": "aee00b2f-e48a-49ec-87c2-892225d1feb2"
     },
     "buildKey": "9d970599d36ce8b76a6875702073b642",
-    "cdnKey": "7b0286f8449d6862d6a5dc2fc3d3594c",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/3f99d14dc207c44852ca2ebd594dc77a"
+      "name": "blue/cdnkeys/3f99d14dc207c44852ca2ebd594dc77a"
     },
     "keyRing": "",
     "path": "tpr/fenris",
-    "pipelineId": 291,
     "productConfig":
     {
       "cdnPath": "",
@@ -64,14 +62,12 @@
       "token": "aee00b2f-e48a-49ec-87c2-892225d1feb2"
     },
     "buildKey": "9d970599d36ce8b76a6875702073b642",
-    "cdnKey": "7b0286f8449d6862d6a5dc2fc3d3594c",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/3f99d14dc207c44852ca2ebd594dc77a"
+      "name": "blue/cdnkeys/3f99d14dc207c44852ca2ebd594dc77a"
     },
     "keyRing": "",
     "path": "tpr/fenris",
-    "pipelineId": 291,
     "productConfig":
     {
       "cdnPath": "",

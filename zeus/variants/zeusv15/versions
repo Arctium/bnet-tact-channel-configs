@@ -8,14 +8,12 @@
       "token": "0eec491d-a58d-45a7-9ca7-bb727b3764fa"
     },
     "buildKey": "1554434fddb632d60d720dd8bc2f73cf",
-    "cdnKey": "fd725f5ecaac6028654fd0c725ca1964",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/409ef3a0597bb5670763a17a275bbff5"
+      "name": "blue/cdnkeys/409ef3a0597bb5670763a17a275bbff5"
     },
     "keyRing": "",
     "path": "tpr/zeusv",
-    "pipelineId": 208,
     "productConfig":
     {
       "cdnPath": "",

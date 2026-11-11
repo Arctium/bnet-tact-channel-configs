@@ -8,14 +8,12 @@
       "token": "4c4eb3c1-e379-453e-a146-87155becfc1f"
     },
     "buildKey": "131bb7a9edd28ced8f0000ac5af52fcd",
-    "cdnKey": "ea48df40f26b5df3cce8b8bfc204e7b7",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/3a32e4af69c70d00fbd4f602640a782d"
+      "name": "blue/cdnkeys/3a32e4af69c70d00fbd4f602640a782d"
     },
     "keyRing": "",
     "path": "moon/moonvb",
-    "pipelineId": 290,
     "productConfig":
     {
       "cdnPath": "",

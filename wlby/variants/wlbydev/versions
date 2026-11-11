@@ -8,14 +8,12 @@
       "token": "9cd56300-d98f-4434-b63d-0f88c5167dd4"
     },
     "buildKey": "333fe88629f6cbe67674ebffcfd09cb1",
-    "cdnKey": "3ce9a72e70ee0b8fddec1d92ebbd4240",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/215c3e3ccfe329ac8f8f6d5539f51de5"
+      "name": "blue/cdnkeys/215c3e3ccfe329ac8f8f6d5539f51de5"
     },
     "keyRing": "",
     "path": "tpr/wallabydev",
-    "pipelineId": 247,
     "productConfig":
     {
       "cdnPath": "",

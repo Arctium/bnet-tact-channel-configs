@@ -8,14 +8,12 @@
       "token": ""
     },
     "buildKey": "b33cb4136ebce115c652c7cc138ccb9c",
-    "cdnKey": "64de8e61f0e0e52312727510f317bbd8",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/6edcec3e0c3b456b0c468470b027f76d"
+      "name": "blue/cdnkeys/6edcec3e0c3b456b0c468470b027f76d"
     },
     "keyRing": "",
     "path": "tpr/Hero-Live-a",
-    "pipelineId": 10,
     "productConfig":
     {
       "cdnPath": "",

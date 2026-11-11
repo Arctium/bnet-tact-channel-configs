@@ -8,14 +8,12 @@
       "token": "723f9d7c-4d7d-403c-9101-6c1aa7153503"
     },
     "buildKey": "1835d02f70516eaf78e9f663b9572bee",
-    "cdnKey": "e74c2d15f812c64e4cd1da37a560f6ec",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/6ed4582349aa7cce539343ec6872d923"
+      "name": "blue/cdnkeys/6ed4582349aa7cce539343ec6872d923"
     },
     "keyRing": "",
     "path": "tpr/wowv",
-    "pipelineId": 163,
     "productConfig":
     {
       "cdnPath": "",

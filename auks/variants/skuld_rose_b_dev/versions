@@ -8,14 +8,12 @@
       "token": "9f5849c3-b24e-41a4-b466-97f95c5fb99d"
     },
     "buildKey": "4453406ea379b8045b0b198b5f99c9f3",
-    "cdnKey": "9196eae40825d356b023dcd242db5246",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/b191999e9fa09aa92b0de00cfe016030"
+      "name": "blue/cdnkeys/b191999e9fa09aa92b0de00cfe016030"
     },
     "keyRing": "",
     "path": "tpr/rosevb",
-    "pipelineId": 356,
     "productConfig":
     {
       "cdnPath": "",

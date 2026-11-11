@@ -8,14 +8,12 @@
       "token": "89a245f1-5b70-4fb8-bd6b-deb85ece292b"
     },
     "buildKey": "326f41f452c28d59cbb719fe201df52a",
-    "cdnKey": "b8ab572bd5e635d7b1081b534df5fc0f",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/e6a81cf8d99c584622909a75f407c47e"
+      "name": "blue/cdnkeys/e6a81cf8d99c584622909a75f407c47e"
     },
     "keyRing": "",
     "path": "tpr/aquad",
-    "pipelineId": 342,
     "productConfig":
     {
       "cdnPath": "",

@@ -8,14 +8,12 @@
       "token": "bb8fdc1f-f72f-40bc-824a-87fe925de2cf"
     },
     "buildKey": "3f88de0e116fe585db2747650dd51827",
-    "cdnKey": "b0e380ff3688ea341172e55d51effdb3",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/952ee79caebb7a877df88d22f6ee5415"
+      "name": "blue/cdnkeys/952ee79caebb7a877df88d22f6ee5415"
     },
     "keyRing": "",
     "path": "tpr/proa",
-    "pipelineId": 54,
     "productConfig":
     {
       "cdnPath": "",

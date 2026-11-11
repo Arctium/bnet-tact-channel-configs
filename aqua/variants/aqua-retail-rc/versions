@@ -8,14 +8,12 @@
       "token": "b8616ea4-f5d3-4461-8141-aef98e27776e"
     },
     "buildKey": "8aba68431dbfc5c0243eda9b1d4bcb43",
-    "cdnKey": "b087e667b41d634cda109e9b57b99690",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/b0a3fa93fc872ecd4a1fe730ee97c1c7"
+      "name": "blue/cdnkeys/b0a3fa93fc872ecd4a1fe730ee97c1c7"
     },
     "keyRing": "",
     "path": "tpr/aquarc",
-    "pipelineId": 343,
     "productConfig":
     {
       "cdnPath": "",

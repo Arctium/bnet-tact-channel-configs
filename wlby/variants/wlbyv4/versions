@@ -8,14 +8,12 @@
       "token": "c61d1d42-23a1-4f5e-b49b-a875cc64aada"
     },
     "buildKey": "781a6e726e4f3913ed0ebf8407195c94",
-    "cdnKey": "9cd399c5a611488f16c80ade750efafa",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/8b698c44ae7a19533b0f1ec44b3b6e9f"
+      "name": "blue/cdnkeys/8b698c44ae7a19533b0f1ec44b3b6e9f"
     },
     "keyRing": "",
     "path": "tpr/wallabyv",
-    "pipelineId": 248,
     "productConfig":
     {
       "cdnPath": "",

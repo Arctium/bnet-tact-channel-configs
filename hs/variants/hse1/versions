@@ -8,14 +8,12 @@
       "token": "e46a482c-d608-95b0-9829-68dc7088a677"
     },
     "buildKey": "d6d3502baa813f0effc1f507a51d5c8f",
-    "cdnKey": "efe378490da96e64a082d7972c4319f2",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/506a4bf6ba24e1e821e6bbfa32e022ad"
+      "name": "blue/cdnkeys/506a4bf6ba24e1e821e6bbfa32e022ad"
     },
     "keyRing": "",
     "path": "tpr/hse/2",
-    "pipelineId": 265,
     "productConfig":
     {
       "cdnPath": "",

@@ -8,14 +8,12 @@
       "token": "3b1c2521-a9ae-49a6-9924-dda7d5d9c4b3"
     },
     "buildKey": "394ba998386ea5d206eb224735eb2b59",
-    "cdnKey": "50db9407cfa5c0fb8b01d195c85927ba",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/d0041d3eb8e4f71d29e73bbe99435cf8"
+      "name": "blue/cdnkeys/d0041d3eb8e4f71d29e73bbe99435cf8"
     },
     "keyRing": "",
     "path": "tpr/odind",
-    "pipelineId": 190,
     "productConfig":
     {
       "cdnPath": "",

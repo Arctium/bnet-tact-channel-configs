@@ -8,14 +8,12 @@
       "token": "96080102-6294-4b94-b88f-4d3f9fc9df70"
     },
     "buildKey": "f7e7965f2b4274cbe3c2bcc6f052a13c",
-    "cdnKey": "df5afd98891a0908da86c6061d50ae37",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/0bb31ba269202fe40b7adf1889b669b7"
+      "name": "blue/cdnkeys/0bb31ba269202fe40b7adf1889b669b7"
     },
     "keyRing": "3071b77f44588da7cd4132425de63e78",
     "path": "tpr/malbdev",
-    "pipelineId": 406,
     "productConfig":
     {
       "cdnPath": "",

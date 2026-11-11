@@ -8,14 +8,12 @@
       "token": "91908b9a-9f32-43cc-8f4b-f080e3f2e56d"
     },
     "buildKey": "99172ae8807ad936bfb440f7c96b30c1",
-    "cdnKey": "9edf3235684da5275986525a5c5cd48f",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/159a1f241c3a4c4b8891935bcc70c4c2"
+      "name": "blue/cdnkeys/159a1f241c3a4c4b8891935bcc70c4c2"
     },
     "keyRing": "",
     "path": "tpr/lazrv",
-    "pipelineId": 209,
     "productConfig":
     {
       "cdnPath": "",

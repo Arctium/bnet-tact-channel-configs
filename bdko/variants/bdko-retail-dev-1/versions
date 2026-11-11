@@ -8,14 +8,12 @@
       "token": "9c8a842f-8143-4b76-987c-ea7c3f7c6cab"
     },
     "buildKey": "f45160ae75cbafad68a0f6b3300a5cb6",
-    "cdnKey": "707418bedf86ade3194612e1b1b2ce3c",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/3e9ff43c9e0c55c651340490d172fef1"
+      "name": "blue/cdnkeys/3e9ff43c9e0c55c651340490d172fef1"
     },
     "keyRing": "8cdb018d4fc957abaa88a110409afaca",
     "path": "tpr/bdkodev/1",
-    "pipelineId": 394,
     "productConfig":
     {
       "cdnPath": "",

@@ -8,14 +8,12 @@
       "token": "d6ece545-193d-4826-a9b1-564469bb1faa"
     },
     "buildKey": "fd17a514ea3c599ebe3ea009173a3123",
-    "cdnKey": "d0ba9b1e5813babc32a84274766b5bc9",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/8d856244eaa52a3d224b59ea5a7fba98"
+      "name": "blue/cdnkeys/8d856244eaa52a3d224b59ea5a7fba98"
     },
     "keyRing": "",
     "path": "tpr/odine",
-    "pipelineId": 194,
     "productConfig":
     {
       "cdnPath": "",

@@ -8,14 +8,12 @@
       "token": "d13a9ce1-3d96-482e-a8ba-8c0e1cd51383"
     },
     "buildKey": "a4aabdba13b722ffdb76ead788c5203e",
-    "cdnKey": "d13f73333f891b85db8a0d90dd2500d3",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/0f432cb2079ecb3510ec49decce4ceb0"
+      "name": "blue/cdnkeys/0f432cb2079ecb3510ec49decce4ceb0"
     },
     "keyRing": "",
     "path": "agent/Agent-Redists-Live",
-    "pipelineId": 346,
     "productConfig":
     {
       "cdnPath": "",

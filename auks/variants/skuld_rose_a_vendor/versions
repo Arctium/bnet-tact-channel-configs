@@ -8,14 +8,12 @@
       "token": "8bb6d5e2-bcce-446a-aafd-922584b916ac"
     },
     "buildKey": "fd2a053b74a2610f46f83ec632bed217",
-    "cdnKey": "37538beb7d31f48782a2e85a9c8de2dd",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/5e42c122fc6a12a2eda7c81ea1660762"
+      "name": "blue/cdnkeys/5e42c122fc6a12a2eda7c81ea1660762"
     },
     "keyRing": "",
     "path": "tpr/rosev",
-    "pipelineId": 302,
     "productConfig":
     {
       "cdnPath": "",

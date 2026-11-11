@@ -8,14 +8,12 @@
       "token": "0c539b98-6cd8-48a4-bfc9-2236c4002833"
     },
     "buildKey": "f37376709f33c97c809ef574b8f9deb8",
-    "cdnKey": "e28cb13a2d157ebbd1bda9021b66ce12",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/6954f20ddeaafe83c8f6356fa04d0e6f"
+      "name": "blue/cdnkeys/6954f20ddeaafe83c8f6356fa04d0e6f"
     },
     "keyRing": "",
     "path": "tpr/btlrvb",
-    "pipelineId": 293,
     "productConfig":
     {
       "cdnPath": "",

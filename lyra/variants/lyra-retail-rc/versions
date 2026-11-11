@@ -8,14 +8,12 @@
       "token": "8fbd2c27-599e-4f76-9caf-5bb1c87c05f5"
     },
     "buildKey": "278e7ec00bde1291605c75f7949d9f35",
-    "cdnKey": "43a2fdbca85c3e1fb564caca4bfc2add",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/7893f81873076c29ad4c6381624969cd"
+      "name": "blue/cdnkeys/7893f81873076c29ad4c6381624969cd"
     },
     "keyRing": "3fbc586f3d9a49c9adadfbe481ea8bb5",
     "path": "tpr/lyrarc/1",
-    "pipelineId": 411,
     "productConfig":
     {
       "cdnPath": "",

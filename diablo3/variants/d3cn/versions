@@ -8,14 +8,12 @@
       "token": "be6bc601-302c-4d74-959d-b6830ba3e09b"
     },
     "buildKey": "b53562469a66cdf8f840a564996785fc",
-    "cdnKey": "6547fc64ca796c7c1b25864145814ace",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/71cb0914026d6ccdd860858a65ffd6a9"
+      "name": "blue/cdnkeys/71cb0914026d6ccdd860858a65ffd6a9"
     },
     "keyRing": "",
     "path": "tpr/diablo3",
-    "pipelineId": 45,
     "productConfig":
     {
       "cdnPath": "",

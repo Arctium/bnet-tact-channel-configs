@@ -8,14 +8,12 @@
       "token": "afedc337-ebf1-38b9-8f4d-dfcc34d52157"
     },
     "buildKey": "79f879a6851d35625162758afa8b836e",
-    "cdnKey": "46eccfc0dfc86732f56b41c23b63aca7",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/034d918b1ad26ffc27848829103ed97b"
+      "name": "blue/cdnkeys/034d918b1ad26ffc27848829103ed97b"
     },
     "keyRing": "",
     "path": "tpr/gryphon",
-    "pipelineId": 298,
     "productConfig":
     {
       "cdnPath": "",

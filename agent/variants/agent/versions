@@ -8,14 +8,12 @@
       "token": "47a3860c-ac94-4692-bfe2-4beb0ffe2be0"
     },
     "buildKey": "26000534d51b737e111bd408814c836d",
-    "cdnKey": "c4638fcc6561eeedafcd32f3abcdb0f3",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/52bcd37c380b87f058b8bec3667c3b46"
+      "name": "blue/cdnkeys/52bcd37c380b87f058b8bec3667c3b46"
     },
     "keyRing": "",
     "path": "tpr/bnt001",
-    "pipelineId": 63,
     "productConfig":
     {
       "cdnPath": "",

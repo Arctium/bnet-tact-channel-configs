@@ -8,14 +8,12 @@
       "token": "8c91538f-24d7-4e84-b2b3-8402d2252c11"
     },
     "buildKey": "8729a2405956edc2ad31ecb26f365fc0",
-    "cdnKey": "4bf86b9d18ee90be101c8fedb3d5e7cd",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/7b1061225c63ded14ef98b4a9bd127a9"
+      "name": "blue/cdnkeys/7b1061225c63ded14ef98b4a9bd127a9"
     },
     "keyRing": "",
     "path": "tpr/prov",
-    "pipelineId": 162,
     "productConfig":
     {
       "cdnPath": "",

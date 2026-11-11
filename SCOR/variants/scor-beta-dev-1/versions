@@ -8,14 +8,12 @@
       "token": "cf356572-9487-4da9-a5f5-3b8e86b4541d"
     },
     "buildKey": "44b5eb056859245a91b81dcdda71d6e8",
-    "cdnKey": "a07ad90c1179a47d4cbb653e4471f152",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/c1b27d9ce4034343ad30cd7b7652fc95"
+      "name": "blue/cdnkeys/c1b27d9ce4034343ad30cd7b7652fc95"
     },
     "keyRing": "",
     "path": "tpr/scordev",
-    "pipelineId": 334,
     "productConfig":
     {
       "cdnPath": "",

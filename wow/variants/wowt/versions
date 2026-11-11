@@ -8,14 +8,12 @@
       "token": "b8fd7b1c-7984-4219-8f8a-57e80e545d0f"
     },
     "buildKey": "b0debd7d08177a2aaf40cff5d6aba81d",
-    "cdnKey": "8ecf609471cb2ea16667be9cc2b7a555",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/e172cc2c85b22220ee27d32f0cc26ca5"
+      "name": "blue/cdnkeys/e172cc2c85b22220ee27d32f0cc26ca5"
     },
     "keyRing": "",
     "path": "tpr/wow",
-    "pipelineId": 19,
     "productConfig":
     {
       "cdnPath": "",

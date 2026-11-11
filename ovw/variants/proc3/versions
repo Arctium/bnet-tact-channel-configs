@@ -8,14 +8,12 @@
       "token": "46ddc696-08df-43d7-8f97-ea65a06279b1"
     },
     "buildKey": "39cbb5a3e74226ea309d2edd9331397d",
-    "cdnKey": "751d549eb9e29a6ea50739be5796a827",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/f17866b6d7de27f08143df3f7ff03de2"
+      "name": "blue/cdnkeys/f17866b6d7de27f08143df3f7ff03de2"
     },
     "keyRing": "",
     "path": "tpr/proc3",
-    "pipelineId": 165,
     "productConfig":
     {
       "cdnPath": "",

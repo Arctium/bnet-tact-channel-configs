@@ -8,14 +8,12 @@
       "token": "677a3127-9837-4512-9327-38d4ace68d53"
     },
     "buildKey": "5f5934bb462406304106a6f36a3f9210",
-    "cdnKey": "0a260092bf75a75b26a3bfb1e71437cd",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/69bdcf1465b44cbd3651d8e765ad2c32"
+      "name": "blue/cdnkeys/69bdcf1465b44cbd3651d8e765ad2c32"
     },
     "keyRing": "",
     "path": "cortez/Cerberus-B-Live",
-    "pipelineId": 405,
     "productConfig":
     {
       "cdnPath": "",
