@@ -4,10 +4,10 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "SeaOfThievesInsider_1.153.6053.0",
-      "token": "c5368408-8c24-4ea1-a7d2-5abeefb1b75d"
+      "name": "SeaOfThievesInsider_1.153.6709.0",
+      "token": "15e9bee0-b163-4032-9fed-d2ff1c311559"
     },
-    "buildKey": "900d54057b732f83cc15b0e33973b48e",
+    "buildKey": "0b44ac693d1c4ed9b6542d90f84f0d47",
     "cdnKeyFile":
     {
       "name": "blue/cdnkeys/c1b27d9ce4034343ad30cd7b7652fc95"
@@ -43,7 +43,7 @@
         "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
       }
     ],
-    "versionNumber": 1536053,
-    "versionString": "1.153.6053.0"
+    "versionNumber": 1536709,
+    "versionString": "1.153.6709.0"
   }
 }

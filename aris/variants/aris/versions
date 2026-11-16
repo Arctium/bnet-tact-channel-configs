@@ -4,15 +4,15 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "20261005-234627-jittery-ape",
-      "token": "38dff953-6e9b-4b5c-bc16-05ef02febf11"
+      "name": "20261112-191320-clumsy-jellyfish",
+      "token": "75ed7682-8f55-4b77-b193-8bd0f426c8b5"
     },
-    "buildKey": "c5da34492d5d8ab8211fa445f7d08a4d",
+    "buildKey": "531cd8c1990e8512be2b6080f203b6fb",
     "cdnKeyFile":
     {
       "name": "blue/cdnkeys/9a74ed97636c581ee1890a6818b29207"
     },
-    "keyRing": "b0d13432c6ad015c46a14dee90ab8b70",
+    "keyRing": "8bb14df8ec8e901bb2d59e4f007e86ef",
     "path": "tpr/aris",
     "productConfig":
     {
@@ -43,7 +43,7 @@
         "cdns": "287b8918c145665428c6f714cdc6e3bd"
       }
     ],
-    "versionNumber": 502,
-    "versionString": "4CE6F0E95B4AD0FEE49FF3A5A1636CCC"
+    "versionNumber": 544,
+    "versionString": "6DCE27A5B6E5BBDF5709E2B1D660ED47"
   }
 }

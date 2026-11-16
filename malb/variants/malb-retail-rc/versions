@@ -4,20 +4,20 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "Build_5820352Change_13731624_FixTweakDbEP1",
-      "token": "34d6513d-1985-43b5-be22-14cc50660fea"
+      "name": "Build_5820352Change_13731624_MacFix",
+      "token": "96080102-6294-4b94-b88f-4d3f9fc9df70"
     },
-    "buildKey": "5f0a8227bcd2cbdad7c8eb0c028e51e6",
+    "buildKey": "267a657c92c1386e1527cecd8a63efbf",
     "cdnKeyFile":
     {
       "name": "blue/cdnkeys/912b7eaae003ce12a0bdf9a60409cee8"
     },
-    "keyRing": "ce278a43386d43b2d016e57392a05324",
+    "keyRing": "40ccb06c15fbe7515edc43445449f628",
     "path": "tpr/malbrc",
     "productConfig":
     {
       "cdnPath": "",
-      "hash": "276e39e1bf9ca756767a907751760298"
+      "hash": "6779a51e4d692ad0789f4623b734c4c4"
     },
     "regions":
     [
