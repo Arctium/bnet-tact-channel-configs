@@ -4,10 +4,10 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "prometheus-2_26_0_0-155537-providcn1",
-      "token": "c2a77172-5059-46ea-963a-bd9ac544e08e"
+      "name": "prometheus-2_26_0_0-155586-providcn1",
+      "token": "1394d9c9-50ab-40a5-af09-317af4a488ee"
     },
-    "buildKey": "6a00dbd733e4d29697bfca49b01e6d43",
+    "buildKey": "f30ee537afb61f30ab24e4b9c55d030e",
     "cdnKeyFile":
     {
       "name": "blue/cdnkeys/9bf56a3b6cd28fd782935b71ae469b6c"
@@ -44,8 +44,8 @@
         "cdns": "919646d723f2fff72418101b1223ddb0"
       }
     ],
-    "versionNumber": 155537,
-    "versionString": "2.26.0.0.155537"
+    "versionNumber": 155586,
+    "versionString": "2.26.0.0.155586"
   },
   "us":
   {
