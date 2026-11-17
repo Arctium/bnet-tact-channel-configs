@@ -96,15 +96,7 @@
           "ptBR",
           "zhCN",
           "itIT",
-          "esES",
-          "arSA",
-          "csCZ",
-          "huHU",
-          "zhTW",
-          "trTR",
-          "esMX",
-          "ukUA",
-          "thTH"
+          "esES"
         ],
         "supports_multibox": false,
         "supports_offline": true,
