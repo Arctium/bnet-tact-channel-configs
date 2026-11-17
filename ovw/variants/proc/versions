@@ -4,10 +4,10 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "prometheus-2_25_1_0-155200-CN-NEAC-PROC",
-      "token": "bc2348f2-ba37-4ff5-9abc-a2696a928386"
+      "name": "prometheus-2_25_1_0-155493-CN-NEAC-PROC",
+      "token": "f38169c2-c88a-4ae8-bbdb-b847aa76ec67"
     },
-    "buildKey": "aa50cbdc94a3c0bf886e98fbd6b4c4c0",
+    "buildKey": "2a28261d1109d8bfb8a2590314e84cdd",
     "cdnKeyFile":
     {
       "name": "blue/cdnkeys/52743fe9cbb50efaf036ed80e49ae411"
@@ -51,18 +51,18 @@
         "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
       }
     ],
-    "versionNumber": 155200,
-    "versionString": "2.25.1.0.155200N"
+    "versionNumber": 155493,
+    "versionString": "2.25.1.0.155493N"
   },
   "eu+kr+us":
   {
     "armadilloKey": "",
     "build":
     {
-      "name": "prometheus-2_25_1_0-155200-PROC",
-      "token": "c8ce5f9a-8a01-44e2-895e-54d1912c6131"
+      "name": "prometheus-2_25_1_0-155493-PROC",
+      "token": "47d45465-2845-42ac-bf3f-00a3f63521a0"
     },
-    "buildKey": "e0b4b1281c5de9715f89cf58df3e0d1b",
+    "buildKey": "26a2b5e32b114bd081be95cc5d5c69ad",
     "cdnKeyFile":
     {
       "name": "blue/cdnkeys/52743fe9cbb50efaf036ed80e49ae411"
@@ -106,7 +106,7 @@
         "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
       }
     ],
-    "versionNumber": 155200,
-    "versionString": "2.25.1.0.155200"
+    "versionNumber": 155493,
+    "versionString": "2.25.1.0.155493"
   }
 }
