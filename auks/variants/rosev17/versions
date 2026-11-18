@@ -4,10 +4,10 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "trunk_30045590_cod26_daily_cod26_daily_bnet_v17_dev",
-      "token": "38848508-e1cc-42ad-a7dd-89d59377ca94"
+      "name": "trunk_30068410_cod26_daily_cod26_daily_bnet_v17_dev",
+      "token": "fd33e054-4e1d-4b73-a2e2-0fe0d4ef22f9"
     },
-    "buildKey": "f00649c76a2810a2893ae8baefc26f9b",
+    "buildKey": "1b4194c2b346855dc0227d50cff40aa3",
     "cdnKeyFile":
     {
       "name": "green/cdnkeys/c5744249472229918c91dd9f4a291dc0"
@@ -36,8 +36,8 @@
         "cdns": "084aea14e8342085ace15de6e8a53b72"
       }
     ],
-    "versionNumber": 30045590,
-    "versionString": "0.0.0.30045590d"
+    "versionNumber": 30068410,
+    "versionString": "0.0.0.30068410d"
   },
   "kr":
   {
