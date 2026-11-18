@@ -10,9 +10,14 @@
     "buildKey": "f7e7965f2b4274cbe3c2bcc6f052a13c",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/0bb31ba269202fe40b7adf1889b669b7"
+      "name": "green/cdnkeys/0bb31ba269202fe40b7adf1889b669b7"
     },
     "keyRing": "3071b77f44588da7cd4132425de63e78",
+    "keyRingFile":
+    {
+      "algorithm": "Armadillo",
+      "name": "green/keyrings/3071b77f44588da7cd4132425de63e78"
+    },
     "path": "tpr/malbdev",
     "productConfig":
     {

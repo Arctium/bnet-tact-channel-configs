@@ -10,7 +10,7 @@
     "buildKey": "ca98f43bfe39ed2a999125ef80ab4557",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/dfef2edb57962334d0966af23dbdef3a"
+      "name": "green/cdnkeys/dfef2edb57962334d0966af23dbdef3a"
     },
     "keyRing": "",
     "path": "moon/moonvb",
@@ -50,7 +50,7 @@
     "buildKey": "2294067e6957d6c7ead50067aa26d87c",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/dfef2edb57962334d0966af23dbdef3a"
+      "name": "green/cdnkeys/dfef2edb57962334d0966af23dbdef3a"
     },
     "keyRing": "",
     "path": "moon/moonvb",
@@ -90,7 +90,7 @@
     "buildKey": "a9b23e0dbeb30ca23671e6212e638e2e",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/dfef2edb57962334d0966af23dbdef3a"
+      "name": "green/cdnkeys/dfef2edb57962334d0966af23dbdef3a"
     },
     "keyRing": "",
     "path": "moon/moonvb",

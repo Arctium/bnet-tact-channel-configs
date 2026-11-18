@@ -10,9 +10,14 @@
     "buildKey": "9a613ef3296bdf719918a5c874797312",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/18670b46ca294ba189e0c63180dea491"
+      "name": "green/cdnkeys/18670b46ca294ba189e0c63180dea491"
     },
     "keyRing": "fec7a2b71b69b3524a140479435d1642",
+    "keyRingFile":
+    {
+      "algorithm": "Armadillo",
+      "name": "green/keyrings/fec7a2b71b69b3524a140479435d1642"
+    },
     "path": "tpr/lbrarc",
     "productConfig":
     {

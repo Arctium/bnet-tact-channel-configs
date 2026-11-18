@@ -10,7 +10,7 @@
     "buildKey": "fb3b6c65770b76f1e3da5525dea3d1e7",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/e2ca5b1765b009531bce06d4699dad97"
+      "name": "green/cdnkeys/e2ca5b1765b009531bce06d4699dad97"
     },
     "keyRing": "",
     "path": "moon/moonvb",
@@ -50,7 +50,7 @@
     "buildKey": "c0541d5504d31cedca875be1e8660105",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/e2ca5b1765b009531bce06d4699dad97"
+      "name": "green/cdnkeys/e2ca5b1765b009531bce06d4699dad97"
     },
     "keyRing": "",
     "path": "moon/moonvb",

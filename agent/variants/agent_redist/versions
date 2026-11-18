@@ -10,7 +10,7 @@
     "buildKey": "a4aabdba13b722ffdb76ead788c5203e",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/0f432cb2079ecb3510ec49decce4ceb0"
+      "name": "green/cdnkeys/0f432cb2079ecb3510ec49decce4ceb0"
     },
     "keyRing": "",
     "path": "agent/Agent-Redists-Live",

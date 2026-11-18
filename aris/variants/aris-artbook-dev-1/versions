@@ -10,9 +10,14 @@
     "buildKey": "876f1c37d43dca52d5d0d9b50d802556",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/f21a73a7bcc0ee9397880a24206727ad"
+      "name": "green/cdnkeys/f21a73a7bcc0ee9397880a24206727ad"
     },
     "keyRing": "41ba576c076f47f24525715fbb125346",
+    "keyRingFile":
+    {
+      "algorithm": "Armadillo",
+      "name": "green/keyrings/41ba576c076f47f24525715fbb125346"
+    },
     "path": "tpr/arisdev",
     "productConfig":
     {

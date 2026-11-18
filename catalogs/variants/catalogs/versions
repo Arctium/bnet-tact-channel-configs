@@ -10,7 +10,7 @@
     "buildKey": "53a25687708311696b95eeb711be65c0",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/654c41d9311e342acbd1395b83ce34b0"
+      "name": "green/cdnkeys/654c41d9311e342acbd1395b83ce34b0"
     },
     "keyRing": "",
     "path": "tpr/catalogs",
@@ -64,7 +64,7 @@
     "buildKey": "674418eb84cb30db6b9c6ecd0e69032b",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/654c41d9311e342acbd1395b83ce34b0"
+      "name": "green/cdnkeys/654c41d9311e342acbd1395b83ce34b0"
     },
     "keyRing": "",
     "path": "tpr/catalogs",
@@ -118,7 +118,7 @@
     "buildKey": "2ac5c0b01a7b7b04e627c54ad1352dbd",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/654c41d9311e342acbd1395b83ce34b0"
+      "name": "green/cdnkeys/654c41d9311e342acbd1395b83ce34b0"
     },
     "keyRing": "",
     "path": "tpr/catalogs",
@@ -172,7 +172,7 @@
     "buildKey": "9d3a05e0dfb3e452a10e7447d652584e",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/654c41d9311e342acbd1395b83ce34b0"
+      "name": "green/cdnkeys/654c41d9311e342acbd1395b83ce34b0"
     },
     "keyRing": "",
     "path": "tpr/catalogs",
@@ -226,7 +226,7 @@
     "buildKey": "8d19cbf0b6b714c841dcb197870d1de1",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/654c41d9311e342acbd1395b83ce34b0"
+      "name": "green/cdnkeys/654c41d9311e342acbd1395b83ce34b0"
     },
     "keyRing": "",
     "path": "tpr/catalogs",
@@ -280,7 +280,7 @@
     "buildKey": "b50d624f7242246794edf7140d803836",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/654c41d9311e342acbd1395b83ce34b0"
+      "name": "green/cdnkeys/654c41d9311e342acbd1395b83ce34b0"
     },
     "keyRing": "",
     "path": "tpr/catalogs",
@@ -334,7 +334,7 @@
     "buildKey": "b630881f588acd6cc3d0782634f9399f",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/654c41d9311e342acbd1395b83ce34b0"
+      "name": "green/cdnkeys/654c41d9311e342acbd1395b83ce34b0"
     },
     "keyRing": "",
     "path": "tpr/catalogs",
@@ -388,7 +388,7 @@
     "buildKey": "0f32a6368bcfa57ff00b8c3be0940994",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/654c41d9311e342acbd1395b83ce34b0"
+      "name": "green/cdnkeys/654c41d9311e342acbd1395b83ce34b0"
     },
     "keyRing": "",
     "path": "tpr/catalogs",

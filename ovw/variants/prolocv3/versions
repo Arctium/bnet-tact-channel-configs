@@ -10,7 +10,7 @@
     "buildKey": "ecc1a5f88fdbaf84f59289d9f91f75a6",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/f69dd4df25c3f9b92287fe6d4ec4af30"
+      "name": "green/cdnkeys/f69dd4df25c3f9b92287fe6d4ec4af30"
     },
     "keyRing": "",
     "path": "tpr/prov2/2",
@@ -50,7 +50,7 @@
     "buildKey": "d4695e150b68f0a8b1994c59abf2f68b",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/f69dd4df25c3f9b92287fe6d4ec4af30"
+      "name": "green/cdnkeys/f69dd4df25c3f9b92287fe6d4ec4af30"
     },
     "keyRing": "",
     "path": "tpr/prov2/2",

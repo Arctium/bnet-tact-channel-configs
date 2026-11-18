@@ -10,7 +10,7 @@
     "buildKey": "28e897d3715f88c024332ae9aaaf044f",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/cca2e90c462ebd29a35245578e77bc85"
+      "name": "green/cdnkeys/cca2e90c462ebd29a35245578e77bc85"
     },
     "keyRing": "",
     "path": "tpr/gdtdev",
@@ -50,9 +50,14 @@
     "buildKey": "a7722183f307bcabace806db47241826",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/cca2e90c462ebd29a35245578e77bc85"
+      "name": "green/cdnkeys/cca2e90c462ebd29a35245578e77bc85"
     },
     "keyRing": "3361e83c08d51dc27eda65d61a4600f1",
+    "keyRingFile":
+    {
+      "algorithm": "Armadillo",
+      "name": "green/keyrings/3361e83c08d51dc27eda65d61a4600f1"
+    },
     "path": "tpr/gdtdev",
     "productConfig":
     {

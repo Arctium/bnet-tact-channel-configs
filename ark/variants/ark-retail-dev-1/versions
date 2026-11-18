@@ -10,9 +10,14 @@
     "buildKey": "42b3f7fb38fd5fa14c81cef9c58fe1c3",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/f9627303170d438e883a34690f7fd4a1"
+      "name": "green/cdnkeys/f9627303170d438e883a34690f7fd4a1"
     },
     "keyRing": "7a4e9e2cca465c8dd03607bc45f611ca",
+    "keyRingFile":
+    {
+      "algorithm": "Armadillo",
+      "name": "green/keyrings/7a4e9e2cca465c8dd03607bc45f611ca"
+    },
     "path": "tpr/arkdev",
     "productConfig":
     {

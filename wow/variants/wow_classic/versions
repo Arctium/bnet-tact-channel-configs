@@ -10,7 +10,7 @@
     "buildKey": "91b4109f7697d6c0e7e41d14bc10f907",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/9a62c5efbaf5da27f5df7410b154e8c6"
+      "name": "green/cdnkeys/9a62c5efbaf5da27f5df7410b154e8c6"
     },
     "keyRing": "",
     "path": "tpr/wow",
@@ -65,7 +65,7 @@
     "buildKey": "842ac1506d73d75b9a016b70a7d1b3a9",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/9a62c5efbaf5da27f5df7410b154e8c6"
+      "name": "green/cdnkeys/9a62c5efbaf5da27f5df7410b154e8c6"
     },
     "keyRing": "",
     "path": "tpr/wow",

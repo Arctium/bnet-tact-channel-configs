@@ -10,9 +10,14 @@
     "buildKey": "3f5ab57f00ebc397a82d1473a6d77eaf",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/441d4f0588e8e592c245806ae99d5c58"
+      "name": "green/cdnkeys/441d4f0588e8e592c245806ae99d5c58"
     },
     "keyRing": "fdbadbc710c42312f2c72f85fcee6109",
+    "keyRingFile":
+    {
+      "algorithm": "Armadillo",
+      "name": "green/keyrings/fdbadbc710c42312f2c72f85fcee6109"
+    },
     "path": "tpr/lyradev/1",
     "productConfig":
     {

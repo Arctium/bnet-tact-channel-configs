@@ -10,9 +10,14 @@
     "buildKey": "c31960d8fc64495a4d41a4f1dfd79be4",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/103a2a22568242209cb98aec39b20e50"
+      "name": "green/cdnkeys/103a2a22568242209cb98aec39b20e50"
     },
     "keyRing": "2992e5497146612b4099dc40509aeb7a",
+    "keyRingFile":
+    {
+      "algorithm": "Armadillo",
+      "name": "green/keyrings/2992e5497146612b4099dc40509aeb7a"
+    },
     "path": "tpr/lbradev",
     "productConfig":
     {

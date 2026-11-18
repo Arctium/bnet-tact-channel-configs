@@ -10,9 +10,14 @@
     "buildKey": "ea7e08059b48bf11ca76a927643fa553",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/c0d897709f3c6547aae6d27a0586e3f1"
+      "name": "green/cdnkeys/c0d897709f3c6547aae6d27a0586e3f1"
     },
     "keyRing": "32145a4791a49be3d1fe5403e785c7db",
+    "keyRingFile":
+    {
+      "algorithm": "Armadillo",
+      "name": "green/keyrings/32145a4791a49be3d1fe5403e785c7db"
+    },
     "path": "tpr/arisrc",
     "productConfig":
     {

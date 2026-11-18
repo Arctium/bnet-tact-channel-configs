@@ -10,9 +10,13 @@
     "buildKey": "8ee66453e30d2b3f762c87ae7e9fb2cd",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/07b274f3cdd887752c5f4ffc4f9e97d8"
+      "name": "green/cdnkeys/07b274f3cdd887752c5f4ffc4f9e97d8"
     },
     "keyRing": "d742d0c12282c626c958c0f83675f769",
+    "keyRingFile":
+    {
+      "name": "green/keyrings/d742d0c12282c626c958c0f83675f769"
+    },
     "path": "tpr/ark",
     "productConfig":
     {

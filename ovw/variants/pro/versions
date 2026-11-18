@@ -10,9 +10,13 @@
     "buildKey": "2c64dbf9aed2868d19e4da21f2f9cc55",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/b0b8abcddba4308a8cd47fcc40db3487"
+      "name": "green/cdnkeys/b0b8abcddba4308a8cd47fcc40db3487"
     },
     "keyRing": "3dabb1bf65a3a797ccc6eff63c51b509",
+    "keyRingFile":
+    {
+      "name": "green/keyrings/3dabb1bf65a3a797ccc6eff63c51b509"
+    },
     "path": "tpr/ovw",
     "productConfig":
     {
@@ -65,9 +69,13 @@
     "buildKey": "0fd69b11c55b79823602db55da997a04",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/b0b8abcddba4308a8cd47fcc40db3487"
+      "name": "green/cdnkeys/b0b8abcddba4308a8cd47fcc40db3487"
     },
     "keyRing": "3dabb1bf65a3a797ccc6eff63c51b509",
+    "keyRingFile":
+    {
+      "name": "green/keyrings/3dabb1bf65a3a797ccc6eff63c51b509"
+    },
     "path": "tpr/ovw",
     "productConfig":
     {
@@ -120,9 +128,13 @@
     "buildKey": "416320088ec3f8a92a940ea10849f2be",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/b0b8abcddba4308a8cd47fcc40db3487"
+      "name": "green/cdnkeys/b0b8abcddba4308a8cd47fcc40db3487"
     },
     "keyRing": "3dabb1bf65a3a797ccc6eff63c51b509",
+    "keyRingFile":
+    {
+      "name": "green/keyrings/3dabb1bf65a3a797ccc6eff63c51b509"
+    },
     "path": "tpr/ovw",
     "productConfig":
     {

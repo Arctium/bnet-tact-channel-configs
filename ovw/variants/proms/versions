@@ -10,9 +10,13 @@
     "buildKey": "6b357f84f1b0d5e0cb664041cb8b0133",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/8d14c963279350f57780764b9f1252ed"
+      "name": "green/cdnkeys/8d14c963279350f57780764b9f1252ed"
     },
     "keyRing": "3dabb1bf65a3a797ccc6eff63c51b509",
+    "keyRingFile":
+    {
+      "name": "green/keyrings/3dabb1bf65a3a797ccc6eff63c51b509"
+    },
     "path": "tpr/ovw",
     "productConfig":
     {

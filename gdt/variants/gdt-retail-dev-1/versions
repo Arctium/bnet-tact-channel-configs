@@ -10,9 +10,14 @@
     "buildKey": "0f2c28eecd555079012b202ddfee0471",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/26267ae01ec6d63aedc77f54af26d8d2"
+      "name": "green/cdnkeys/26267ae01ec6d63aedc77f54af26d8d2"
     },
     "keyRing": "e4ea25d0a7a5e9d50b42058439158bac",
+    "keyRingFile":
+    {
+      "algorithm": "Armadillo",
+      "name": "green/keyrings/e4ea25d0a7a5e9d50b42058439158bac"
+    },
     "path": "tpr/gdtdev",
     "productConfig":
     {

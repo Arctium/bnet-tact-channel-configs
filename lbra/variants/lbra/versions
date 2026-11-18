@@ -10,9 +10,13 @@
     "buildKey": "9a613ef3296bdf719918a5c874797312",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/1534f06683ac5b46eee5f3cdeb50d1ad"
+      "name": "green/cdnkeys/1534f06683ac5b46eee5f3cdeb50d1ad"
     },
     "keyRing": "fec7a2b71b69b3524a140479435d1642",
+    "keyRingFile":
+    {
+      "name": "green/keyrings/fec7a2b71b69b3524a140479435d1642"
+    },
     "path": "tpr/lbra",
     "productConfig":
     {

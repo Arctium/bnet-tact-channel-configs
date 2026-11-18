@@ -10,9 +10,14 @@
     "buildKey": "d34d647e1f32f4a1dce7cb3afe1dd166",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/23d9f6e956d9332eed078591767003e6"
+      "name": "green/cdnkeys/23d9f6e956d9332eed078591767003e6"
     },
     "keyRing": "f5a5ee3970473c4b1511c9b35e9c5674",
+    "keyRingFile":
+    {
+      "algorithm": "Armadillo",
+      "name": "green/keyrings/f5a5ee3970473c4b1511c9b35e9c5674"
+    },
     "path": "tpr/anbsrcbm",
     "productConfig":
     {

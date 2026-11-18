@@ -10,9 +10,13 @@
     "buildKey": "505802ef9c3ac9cfbaea9006ce9e464c",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/b5aec93c89cb329ef45c9b6953637103"
+      "name": "green/cdnkeys/b5aec93c89cb329ef45c9b6953637103"
     },
     "keyRing": "3ca57fe7319a297346440e4d2a03a0cd",
+    "keyRingFile":
+    {
+      "name": "green/keyrings/3ca57fe7319a297346440e4d2a03a0cd"
+    },
     "path": "tpr/wow",
     "productConfig":
     {

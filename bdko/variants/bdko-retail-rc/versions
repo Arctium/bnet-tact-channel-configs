@@ -10,9 +10,14 @@
     "buildKey": "6c91881c1075050c57ab42289541a8d8",
     "cdnKeyFile":
     {
-      "name": "blue/cdnkeys/7a657e42f292ec9c1127f4feaa203497"
+      "name": "green/cdnkeys/7a657e42f292ec9c1127f4feaa203497"
     },
     "keyRing": "5207a6f67faccd149307da5381c76335",
+    "keyRingFile":
+    {
+      "algorithm": "Armadillo",
+      "name": "green/keyrings/5207a6f67faccd149307da5381c76335"
+    },
     "path": "tpr/bdkorc",
     "productConfig":
     {
