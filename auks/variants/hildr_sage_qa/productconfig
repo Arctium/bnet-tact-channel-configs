@@ -6,6 +6,7 @@
       "config":
       {
         "data_dir": "data",
+        "decryption_key_name": "sagevendor",
         "product": "hildr_sage_qa",
         "update_method": "ngdp",
         "use_service_permissions": true,
