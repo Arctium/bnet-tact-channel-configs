@@ -8,7 +8,7 @@
         "casc_supports_1023_archives": true,
         "component_dependencies":
         [
-          "randgridsageaqa"
+          "hildr_sage_qa"
         ],
         "data_dir": "Data/",
         "decryption_key_name": "sagevendor",
@@ -49,99 +49,12 @@
               },
               {
                 "default_checked": true,
-                "package_id": "sage_02_03",
-                "tags":
-                [
-                  "dlc02_03"
-                ],
-                "title_string":
-                {
-                  "default": "dlc02_03"
-                }
-              },
-              {
-                "default_checked": true,
-                "package_id": "sage_03_01",
-                "tags":
-                [
-                  "dlc03_01"
-                ],
-                "title_string":
-                {
-                  "default": "dlc03_01"
-                }
-              },
-              {
-                "default_checked": true,
-                "package_id": "sage_03_02",
-                "tags":
-                [
-                  "dlc03_02"
-                ],
-                "title_string":
-                {
-                  "default": "dlc03_02"
-                }
-              },
-              {
-                "default_checked": true,
-                "package_id": "sage_03_03",
-                "tags":
-                [
-                  "dlc03_03"
-                ],
-                "title_string":
-                {
-                  "default": "dlc03_03"
-                }
-              },
-              {
-                "default_checked": true,
-                "package_id": "sage_03_04",
-                "tags":
-                [
-                  "dlc03_04"
-                ],
-                "title_string":
-                {
-                  "default": "dlc03_04"
-                }
-              },
-              {
-                "default_checked": true,
-                "package_id": "sage_03_05",
-                "tags":
-                [
-                  "dlc03_05"
-                ],
-                "title_string":
-                {
-                  "default": "dlc03_05"
-                }
-              },
-              {
-                "default_checked": true,
-                "package_id": "sage_04_01",
-                "tags":
-                [
-                  "dlc04_01"
-                ],
-                "title_string":
-                {
-                  "default": "dlc04_01"
-                }
-              },
-              {
-                "default_checked": true,
                 "package_id": "sage_04_02",
                 "tags":
                 [
                   "dlc04_02"
                 ],
-                "title_string":
-                {
-                  "default": "dlc04_02"
-                }
+                "title_string": "COD_MULTIPLAYER"
               },
               {
                 "default_checked": true,
@@ -150,10 +63,7 @@
                 [
                   "dlc04_03"
                 ],
-                "title_string":
-                {
-                  "default": "dlc04_03"
-                }
+                "title_string": "DLC_04_03_TITLE"
               },
               {
                 "default_checked": true,
@@ -162,24 +72,59 @@
                 [
                   "dlc04_04"
                 ],
-                "title_string":
-                {
-                  "default": "dlc04_04"
-                }
-              },
-              {
-                "default_checked": true,
-                "package_id": "sage_04_05",
-                "tags":
-                [
-                  "dlc04_05"
-                ],
-                "title_string":
-                {
-                  "default": "dlc04_05"
-                }
+                "title_string": "COD_ZOMBIES"
               }
-            ]
+            ],
+            "string_table":
+            {
+              "COD_MULTIPLAYER":
+              {
+                "arSA": "طور اللعب الجماعي",
+                "deDE": "Mehrspieler",
+                "default": "Multiplayer",
+                "esES": "Multijugador",
+                "esMX": "Multijugador",
+                "frFR": "Multijoueur",
+                "itIT": "Multigiocatore",
+                "jaJP": "マルチプレイヤー",
+                "koKR": "멀티플레이",
+                "plPL": "Tryb wieloosobowy",
+                "ptBR": "Multijogador",
+                "ruRU": "Сетевая игра",
+                "thTH": "ผู้เล่นหลายคน",
+                "zhCN": "多人游戏",
+                "zhTW": "多人對戰"
+              },
+              "COD_ZOMBIES":
+              {
+                "default": "Zombies",
+                "esES": "Zombis",
+                "esMX": "Zombis",
+                "itIT": "Zombi",
+                "jaJP": "ゾンビ",
+                "koKR": "좀비",
+                "plPL": "Zombie",
+                "ruRU": "Бои с зомби",
+                "zhTW": "殭屍"
+              },
+              "DLC_04_03_TITLE":
+              {
+                "arSA": "المواجهة الحاسمة",
+                "deDE": "Endspiel",
+                "default": "Endgame",
+                "esES": "Objetivo final",
+                "esMX": "Endgame",
+                "frFR": "Phase finale",
+                "itIT": "Endgame",
+                "jaJP": "エンドゲーム",
+                "koKR": "종반전",
+                "plPL": "Etap końcowy",
+                "ptBR": "Fim da Jornada",
+                "ruRU": "Финал",
+                "zhCN": "最终任务",
+                "zhTW": "終極之戰"
+              }
+            }
           }
         },
         "product": "sagev18",
@@ -246,15 +191,15 @@
             {
               "launch_arguments":
               [
-                "cod.exe"
+                "cod25-cod.exe"
               ],
-              "regex": "cod.exe|bootstrapper.exe",
+              "regex": "bootstrapper.exe",
               "relative_path": "bootstrapper.exe",
               "switcher": false
             }
           },
           "binary_launch_path": "bootstrapper.exe",
-          "binary_version_path": "cod.exe",
+          "binary_version_path": "cod25-cod.exe",
           "form":
           {
             "game_dir":
@@ -319,7 +264,9 @@
               {
                 "relative_paths":
                 [
+                  "ABRT",
                   "BlizzardBrowser",
+                  "cod24",
                   "cod25",
                   "D3D12",
                   "DevLauncher_Data",
@@ -328,6 +275,7 @@
                   "mp",
                   "shadercache",
                   "sp22",
+                  "sp24",
                   "telescopeCache",
                   "telescopeStorage",
                   "xpak_cache"
@@ -343,6 +291,11 @@
                   "*.dll",
                   "*.xpak",
                   "*.xsub",
+                  "1-game_replay_test.exe",
+                  "1-game_test.exe",
+                  "3-game_demo.exe",
+                  "3-game_replay_demo.exe",
+                  "4-game_profile.exe",
                   "amd_ags_x64.dll",
                   "api-ms-win-core-file-l1-2-0.dll",
                   "API-MS-Win-core-file-l2-1-0.dll",
@@ -366,26 +319,30 @@
                   "api-ms-win-crt-utility-l1-1-0.dll",
                   "bink2w64.dll",
                   "bootstrap.data.bin",
+                  "bootstrap_profile_secured.data.bin",
                   "bootstrapper.exe",
                   "bootstrapper.log",
+                  "bootstrapper_original.exe",
                   "bootstrapperCrashHandler.exe",
                   "Browser-20*.log",
                   "CEF-20*.log",
                   "CgSDK.x64_2019.dll",
                   "cod.exe",
+                  "cod25-cod.exe",
                   "cod25.txt",
-                  "codCrashHandler.exe",
                   "cod_bnet.exe",
+                  "codCrashHandler.exe",
                   "concrt140.dll",
                   "CrashLogsGenerator.exe",
                   "D3D12/D3D12Core.dll",
                   "dbghelp.dll",
-                  "dlc_manifest.csv",
                   "discord_game_sdk.dll",
+                  "dlc_manifest.csv",
                   "dxcompiler.dll",
                   "dxil.dll",
                   "enrollaik.exe",
                   "game.icn",
+                  "game_ship_unsecured.exe",
                   "GfeSDK.dll",
                   "GFSDK_Aftermath_Lib.x64.dll",
                   "IEShims.dll",
@@ -397,9 +354,11 @@
                   "oo2core_7_win64.dll",
                   "oo2core_8_win64.dll",
                   "ortp_x64.dll",
+                  "pc_generate_dump_at_runtime.bat",
                   "ReportCodBug.exe",
                   "tbb.dll",
                   "techsets_manifest.cs",
+                  "techsets_manifest.csv",
                   "telescope.dll",
                   "ucrtbase.dll",
                   "usd_ms.dll",
