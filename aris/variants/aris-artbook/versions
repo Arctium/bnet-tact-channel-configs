@@ -10,12 +10,12 @@
     "buildKey": "ea7e08059b48bf11ca76a927643fa553",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/a1b1b2687d75852473f1e5d3a00bbb3d"
+      "name": "blue/cdnkeys/a1b1b2687d75852473f1e5d3a00bbb3d"
     },
     "keyRing": "32145a4791a49be3d1fe5403e785c7db",
     "keyRingFile":
     {
-      "name": "green/keyrings/32145a4791a49be3d1fe5403e785c7db"
+      "name": "blue/keyrings/32145a4791a49be3d1fe5403e785c7db"
     },
     "path": "tpr/aris",
     "productConfig":

@@ -10,13 +10,13 @@
     "buildKey": "d34d647e1f32f4a1dce7cb3afe1dd166",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/f5760ae72a0007494313eee91df95559"
+      "name": "blue/cdnkeys/f5760ae72a0007494313eee91df95559"
     },
     "keyRing": "f5a5ee3970473c4b1511c9b35e9c5674",
     "keyRingFile":
     {
       "algorithm": "Armadillo",
-      "name": "green/keyrings/f5a5ee3970473c4b1511c9b35e9c5674"
+      "name": "blue/keyrings/f5a5ee3970473c4b1511c9b35e9c5674"
     },
     "path": "anbs/Immortal-External-Event",
     "productConfig":

@@ -4,13 +4,13 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "WOW-70959patch1.60.1_Retail",
-      "token": "ad4be00e-570c-466c-95cc-d92ef5332ce1"
+      "name": "WOW-71037patch1.60.1_Retail",
+      "token": "4ba6ed40-c771-45d8-8327-344dd27009a3"
     },
-    "buildKey": "ad887adcf63b8746155dd40e1930b80f",
+    "buildKey": "0acab1e6aa41b46165d2ca66853b417b",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/47a40ae43f96f21392005d0f6a3e0bc4"
+      "name": "blue/cdnkeys/47a40ae43f96f21392005d0f6a3e0bc4"
     },
     "keyRing": "",
     "path": "tpr/wow",
@@ -51,7 +51,7 @@
         "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"
       }
     ],
-    "versionNumber": 70959,
-    "versionString": "1.60.1.70959"
+    "versionNumber": 71037,
+    "versionString": "1.60.1.71037"
   }
 }

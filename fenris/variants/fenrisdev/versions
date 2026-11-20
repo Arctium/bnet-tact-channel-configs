@@ -10,13 +10,13 @@
     "buildKey": "233406ac0d36473d39a75adf641db196",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/1b50de0806d8823f724f59d49544f922"
+      "name": "blue/cdnkeys/1b50de0806d8823f724f59d49544f922"
     },
     "keyRing": "481c5e39ea78388e1278762da53cc4f0",
     "keyRingFile":
     {
       "algorithm": "Armadillo",
-      "name": "green/keyrings/481c5e39ea78388e1278762da53cc4f0"
+      "name": "blue/keyrings/481c5e39ea78388e1278762da53cc4f0"
     },
     "path": "tpr/fenrisdev/1",
     "productConfig":

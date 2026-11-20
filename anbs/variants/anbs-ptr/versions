@@ -10,12 +10,12 @@
     "buildKey": "98482c18166e36311ce502e3ef491869",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/0af8c11cdb2a06fa7819898b09561117"
+      "name": "blue/cdnkeys/0af8c11cdb2a06fa7819898b09561117"
     },
     "keyRing": "0c5fe6db364bb93d9b03a22a3cad8b48",
     "keyRingFile":
     {
-      "name": "green/keyrings/0c5fe6db364bb93d9b03a22a3cad8b48"
+      "name": "blue/keyrings/0c5fe6db364bb93d9b03a22a3cad8b48"
     },
     "path": "tpr/anbsptr",
     "productConfig":

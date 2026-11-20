@@ -10,7 +10,7 @@
     "buildKey": "4c155b12268a284dc4b049d6364a543e",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/b09e2068d727695871f6749a1704d3d3"
+      "name": "blue/cdnkeys/b09e2068d727695871f6749a1704d3d3"
     },
     "keyRing": "",
     "path": "tpr/sagev",
@@ -50,7 +50,7 @@
     "buildKey": "ec664b58929d66d0e02bb486e0d2178c",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/b09e2068d727695871f6749a1704d3d3"
+      "name": "blue/cdnkeys/b09e2068d727695871f6749a1704d3d3"
     },
     "keyRing": "",
     "path": "tpr/sagev",

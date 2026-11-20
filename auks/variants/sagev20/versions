@@ -10,7 +10,7 @@
     "buildKey": "9ec24db735f57f0395712de8ea4fe239",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/ddbaca0c8c439c2906aa99e427b4227f"
+      "name": "blue/cdnkeys/ddbaca0c8c439c2906aa99e427b4227f"
     },
     "keyRing": "",
     "path": "tpr/sagev",
@@ -50,7 +50,7 @@
     "buildKey": "3127297b7e2852f88a48ab5bed36529b",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/ddbaca0c8c439c2906aa99e427b4227f"
+      "name": "blue/cdnkeys/ddbaca0c8c439c2906aa99e427b4227f"
     },
     "keyRing": "",
     "path": "tpr/sagev",
@@ -90,7 +90,7 @@
     "buildKey": "e71fb7fae5ad7ef2d55c294d0c51a227",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/ddbaca0c8c439c2906aa99e427b4227f"
+      "name": "blue/cdnkeys/ddbaca0c8c439c2906aa99e427b4227f"
     },
     "keyRing": "",
     "path": "tpr/sagev",

@@ -10,13 +10,13 @@
     "buildKey": "da61819ff4955fca1a43e04445b3cd93",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/08d362992ed25cc4150693436e7382ed"
+      "name": "blue/cdnkeys/08d362992ed25cc4150693436e7382ed"
     },
     "keyRing": "67ffc390d913218481a2a97bcaaea12a",
     "keyRingFile":
     {
       "algorithm": "Armadillo",
-      "name": "green/keyrings/67ffc390d913218481a2a97bcaaea12a"
+      "name": "blue/keyrings/67ffc390d913218481a2a97bcaaea12a"
     },
     "path": "tpr/anbsdevbm",
     "productConfig":

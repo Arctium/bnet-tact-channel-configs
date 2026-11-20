@@ -10,7 +10,7 @@
     "buildKey": "33245158e0463fb21aa9c3b8e3a429cd",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/cda8cce0302edf43d8e8e60cf67986a9"
+      "name": "blue/cdnkeys/cda8cce0302edf43d8e8e60cf67986a9"
     },
     "keyRing": "",
     "path": "tpr/kelpv",
@@ -50,7 +50,7 @@
     "buildKey": "e301bf42b0df095e3eac5d36da1263df",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/cda8cce0302edf43d8e8e60cf67986a9"
+      "name": "blue/cdnkeys/cda8cce0302edf43d8e8e60cf67986a9"
     },
     "keyRing": "",
     "path": "tpr/kelpv",

@@ -10,7 +10,7 @@
     "buildKey": "61a85ac5c17eaf0b653757b45fc67ba2",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/8ec738b1e711984abeb3a43896c707bc"
+      "name": "blue/cdnkeys/8ec738b1e711984abeb3a43896c707bc"
     },
     "keyRing": "",
     "path": "tpr/ninav",
@@ -50,7 +50,7 @@
     "buildKey": "b0a5dab2fce21aa6678c04d859498821",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/8ec738b1e711984abeb3a43896c707bc"
+      "name": "blue/cdnkeys/8ec738b1e711984abeb3a43896c707bc"
     },
     "keyRing": "",
     "path": "tpr/ninav",

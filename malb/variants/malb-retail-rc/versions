@@ -10,13 +10,13 @@
     "buildKey": "267a657c92c1386e1527cecd8a63efbf",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/912b7eaae003ce12a0bdf9a60409cee8"
+      "name": "blue/cdnkeys/912b7eaae003ce12a0bdf9a60409cee8"
     },
     "keyRing": "40ccb06c15fbe7515edc43445449f628",
     "keyRingFile":
     {
       "algorithm": "Armadillo",
-      "name": "green/keyrings/40ccb06c15fbe7515edc43445449f628"
+      "name": "blue/keyrings/40ccb06c15fbe7515edc43445449f628"
     },
     "path": "tpr/malbrc",
     "productConfig":

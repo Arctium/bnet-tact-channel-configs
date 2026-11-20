@@ -10,13 +10,13 @@
     "buildKey": "3a64c2196f8ca470ed198b3ba9b76dbb",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/73df9f4c8a0a2c059419d03d5d098b58"
+      "name": "blue/cdnkeys/73df9f4c8a0a2c059419d03d5d098b58"
     },
     "keyRing": "4ed811de51a4cd6d48178e8f42f20cfb",
     "keyRingFile":
     {
       "algorithm": "Armadillo",
-      "name": "green/keyrings/4ed811de51a4cd6d48178e8f42f20cfb"
+      "name": "blue/keyrings/4ed811de51a4cd6d48178e8f42f20cfb"
     },
     "path": "tpr/arkrc",
     "productConfig":

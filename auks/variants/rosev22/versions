@@ -10,7 +10,7 @@
     "buildKey": "bfce336f2a1415f53485d619f46cbb9e",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/06fa6ee31e129ce72b48fbcdc11558d7"
+      "name": "blue/cdnkeys/06fa6ee31e129ce72b48fbcdc11558d7"
     },
     "keyRing": "",
     "path": "tpr/rosevb",
@@ -50,7 +50,7 @@
     "buildKey": "691b1d8fb98dfc69ba83dc8b98bfaac2",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/06fa6ee31e129ce72b48fbcdc11558d7"
+      "name": "blue/cdnkeys/06fa6ee31e129ce72b48fbcdc11558d7"
     },
     "keyRing": "",
     "path": "tpr/rosevb",
@@ -90,7 +90,7 @@
     "buildKey": "2c753a199fe9e07298bc1fc3da38a502",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/06fa6ee31e129ce72b48fbcdc11558d7"
+      "name": "blue/cdnkeys/06fa6ee31e129ce72b48fbcdc11558d7"
     },
     "keyRing": "",
     "path": "tpr/rosevb",

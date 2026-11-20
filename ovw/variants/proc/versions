@@ -10,12 +10,12 @@
     "buildKey": "2a28261d1109d8bfb8a2590314e84cdd",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/52743fe9cbb50efaf036ed80e49ae411"
+      "name": "blue/cdnkeys/52743fe9cbb50efaf036ed80e49ae411"
     },
     "keyRing": "3dabb1bf65a3a797ccc6eff63c51b509",
     "keyRingFile":
     {
-      "name": "green/keyrings/3dabb1bf65a3a797ccc6eff63c51b509"
+      "name": "blue/keyrings/3dabb1bf65a3a797ccc6eff63c51b509"
     },
     "path": "tpr/ovw",
     "productConfig":
@@ -69,12 +69,12 @@
     "buildKey": "26a2b5e32b114bd081be95cc5d5c69ad",
     "cdnKeyFile":
     {
-      "name": "green/cdnkeys/52743fe9cbb50efaf036ed80e49ae411"
+      "name": "blue/cdnkeys/52743fe9cbb50efaf036ed80e49ae411"
     },
     "keyRing": "3dabb1bf65a3a797ccc6eff63c51b509",
     "keyRingFile":
     {
-      "name": "green/keyrings/3dabb1bf65a3a797ccc6eff63c51b509"
+      "name": "blue/keyrings/3dabb1bf65a3a797ccc6eff63c51b509"
     },
     "path": "tpr/ovw",
     "productConfig":
