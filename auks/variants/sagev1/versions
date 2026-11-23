@@ -84,10 +84,10 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "release_29969151_cod25_sep_tu18_bnet_v1_dev",
-      "token": "484a454e-948c-4745-bf2e-4a6a19d33d2e"
+      "name": "release_30129832_cod25_sep_tu18_bnet_v1_dev",
+      "token": "8a0ce949-d9a9-45ba-a2bb-2a920ed291bb"
     },
-    "buildKey": "3ae274ec86da72552f588faae6b60d67",
+    "buildKey": "59e80839d66e6f758388e599e27a29bc",
     "cdnKeyFile":
     {
       "name": "blue/cdnkeys/a900e87b573ec805814195fe918300e9"
@@ -116,7 +116,7 @@
         "cdns": "d8a796bebbc426f10aebec716253825a"
       }
     ],
-    "versionNumber": 29969151,
-    "versionString": "0.0.0.29969151d"
+    "versionNumber": 30129832,
+    "versionString": "0.0.0.30129832d"
   }
 }
