@@ -4,19 +4,19 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "Build_1132522Change_13916541Upload_1138813",
-      "token": "120261cf-9820-4084-81b3-5f85db32f9a7"
+      "name": "Build_1142267Change_13979268Upload_1143401",
+      "token": "0f1e2624-5129-42c7-a82a-5a5ce94d2629"
     },
-    "buildKey": "4be313308b4821be7dac4b30b953f8ff",
+    "buildKey": "0bfc61ba5ef3681fb8eea758b36abc42",
     "cdnKeyFile":
     {
       "name": "blue/cdnkeys/441d4f0588e8e592c245806ae99d5c58"
     },
-    "keyRing": "1c891ac6b90c00ff1771c9e6335ae695",
+    "keyRing": "c4893211d42dc1da74b8034875085503",
     "keyRingFile":
     {
       "algorithm": "Armadillo",
-      "name": "blue/keyrings/1c891ac6b90c00ff1771c9e6335ae695"
+      "name": "blue/keyrings/c4893211d42dc1da74b8034875085503"
     },
     "path": "tpr/lyradev/1",
     "productConfig":
@@ -41,7 +41,7 @@
         "cdns": "287b8918c145665428c6f714cdc6e3bd"
       }
     ],
-    "versionNumber": 1132522,
+    "versionNumber": 1142267,
     "versionString": "5.00"
   }
 }
