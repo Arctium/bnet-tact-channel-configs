@@ -59,10 +59,10 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "WOW-71091patch1.60.1_Retail",
-      "token": "cd02536f-e0d8-4d10-bce5-3b7637788c8d"
+      "name": "WOW-71139patch1.60.1_Retail",
+      "token": "cd63d148-4cd5-4d0d-a84d-9e1afe76a0ad"
     },
-    "buildKey": "3cd52a7a64f9bad078020b1e95af8a00",
+    "buildKey": "7a16decda3672d84db0d34d0784fda98",
     "cdnKeyFile":
     {
       "name": "blue/cdnkeys/47a40ae43f96f21392005d0f6a3e0bc4"
@@ -106,7 +106,7 @@
         "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"
       }
     ],
-    "versionNumber": 71091,
-    "versionString": "1.60.1.71091"
+    "versionNumber": 71139,
+    "versionString": "1.60.1.71139"
   }
 }
