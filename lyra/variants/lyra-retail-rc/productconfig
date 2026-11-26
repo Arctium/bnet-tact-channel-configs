@@ -39,15 +39,7 @@
           "ruRU",
           "jaJP",
           "ptBR",
-          "zhCN",
-          "itIT",
-          "esES",
-          "arSA",
-          "csCZ",
-          "huHU",
-          "zhTW",
-          "trTR",
-          "esMX"
+          "zhCN"
         ],
         "supports_multibox": false,
         "supports_offline": true,
