@@ -4,10 +4,10 @@
     "armadilloKey": "",
     "build":
     {
-      "name": "3.0.1.24424-live-dev",
-      "token": "564ce766-0dc8-47e4-a0ce-416fa999eb7d"
+      "name": "3.0.1.24428-live-dev",
+      "token": "2b8e606d-b63c-4638-b8d4-f48f3b20c910"
     },
-    "buildKey": "5a56c8e87a2d7c474b2d52170f20b4de",
+    "buildKey": "3b7b008145b7a2cce4112353a9cca501",
     "cdnKeyFile":
     {
       "name": "blue/cdnkeys/c3bdf2cfe733b9d488daefb7030ad935"
@@ -43,7 +43,7 @@
         "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
       }
     ],
-    "versionNumber": 24424,
-    "versionString": "3.0.1.24424"
+    "versionNumber": 24428,
+    "versionString": "3.0.1.24428"
   }
 }
